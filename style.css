@@ -137,6 +137,11 @@ button:hover { border-color: var(--accent); }
   .selo { white-space: normal; }
 }
 
+/* Paginação da tabela de promessas */
+.paginacao { display: flex; align-items: center; justify-content: center; gap: 12px; flex-wrap: wrap; margin: 12px 0 0; color: var(--muted); font-size: 0.88rem; }
+.paginacao button { font: inherit; color: var(--accent); background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 6px 12px; cursor: pointer; }
+.paginacao button:disabled { color: var(--muted); cursor: default; opacity: 0.6; }
+
 /* Tabelas recolhíveis do consolidado */
 .recolhe { margin: 12px 0 0; }
 .recolhe > summary { cursor: pointer; color: var(--accent); font-weight: 600; font-size: 0.92rem; padding: 6px 0; list-style-position: inside; }

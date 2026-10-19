@@ -97,7 +97,7 @@ function blocoImpacto(lista, m) {
     <div class="impacto-resumo">
       <h4>Impacto no orçamento federal</h4>
       ${acumulado}
-      <div class="kpis">${tiles.join("")}</div>    </div>`;
+      ${recolhivel("impacto-kpis", "Receitas, despesas e promessas sem impacto direto", `<div class="kpis">${tiles.join("")}</div>`)}    </div>`;
 }
 
 function celulaImpacto(p) {
@@ -200,7 +200,7 @@ function barra(r) {
 }
 
 // Proporção que depende do Legislativo e desempenho de cada grupo
-// Tabelas do consolidado que o leitor pode expandir e recolher (fechadas por padrão; a escolha vale ao trocar de aba)
+// Tabelas do consolidado e do cartão de cada mandato que o leitor pode expandir e recolher (fechadas por padrão; a escolha vale ao trocar de aba)
 const aberta = {};
 const recolhivel = (chave, titulo, html) =>
   `<details class="recolhe" data-chave="${chave}"${aberta[chave] ? " open" : ""}><summary>${titulo}</summary>${html}</details>`;
@@ -217,11 +217,10 @@ function blocoLegislativo(lista, cols, leg, chave) {
       <div class="barra fina" role="img" aria-label="Promessas que dependem do ${leg}">
         <span style="width:${pct(dep.length, lista.length)}%;background:var(--congresso)"></span>
       </div>
-      ${(chave ? (h) => recolhivel(chave, `Tabela: dependem do ${leg} × só do Executivo`, h) : (h) => h)(`<div class="tabela-scroll"><table class="resp">
+      ${recolhivel(chave, `Tabela: dependem do ${leg} × só do Executivo`, `<div class="tabela-scroll"><table class="resp">
         <thead><tr><th>Grupo</th><th class="num">Promessas</th>${thTaxas(cols)}</tr></thead>
         <tbody>${linha(`Dependem do ${leg}`, dep)}${linha("Só do Executivo", lista.filter((p) => p.depende_legislativo !== "sim"))}</tbody>
-      </table></div>`)}
-      ${chave ? "" : notaOutroEnte(lista)}
+      </table></div>${chave === "legislativo" ? "" : notaOutroEnte(lista)}`)}
     </div>`;
 }
 
@@ -278,6 +277,8 @@ function renderConsolidado(lista, cargo) {
     <tbody>${linhas.join("")}</tbody>`;
 }
 
+const POR_PAGINA = 10; // linhas por página na tabela de promessas
+
 function linhaPromessa(p, leg, comImpacto) {
   const fonte = p.fonte_url ? `<a href="${esc(p.fonte_url)}" target="_blank" rel="noopener">fonte</a>` : "";
   const impacto = comImpacto ? `<td class="imp">${celulaImpacto(p)}</td>` : "";
@@ -324,7 +325,7 @@ function renderMandato(m) {
       ${m.observacao_mandato ? `<p class="aviso">${esc(m.observacao_mandato)}</p>` : ""}
       <div class="kpis">${kpis(cols, r)}</div>
       ${barra(r)}
-      ${blocoLegislativo(lista, cols, leg)}
+      ${blocoLegislativo(lista, cols, leg, "cartao-legislativo")}
       ${blocoImpacto(lista, m)}
       <p class="meta">Plano: <a href="${esc(m.url_tse)}">${esc(m.arquivo_plano)}</a> (TSE)</p>
       <div class="filtros">
@@ -342,18 +343,33 @@ function renderMandato(m) {
       <div class="tabela-scroll">
         <table class="promessas${comImpacto ? " com-impacto" : ""}"><thead><tr><th>Promessa</th><th>Área</th><th>Status</th><th>Evidência</th>${comImpacto ? "<th>Impacto fiscal</th>" : ""}</tr></thead><tbody></tbody></table>
       </div>
+      <nav class="paginacao" aria-label="Páginas da tabela de promessas"></nav>
     </article>`);
 
   const tbody = card.querySelector("table.promessas tbody");
   const filtros = card.querySelectorAll(".filtros select");
+  const nav = card.querySelector(".paginacao");
+  let pagina = 1;
   const atualizar = () => {
     const f = Object.fromEntries([...filtros].map((s) => [s.dataset.f, s.value]));
-    tbody.innerHTML = lista
-      .filter((x) => Object.entries(f).every(([campo, valor]) => !valor || valorFiltro(x, campo) === valor))
-      .map((x) => linhaPromessa(x, leg, comImpacto))
-      .join("");
+    const vis = lista.filter((x) => Object.entries(f).every(([campo, valor]) => !valor || valorFiltro(x, campo) === valor));
+    const total = Math.max(1, Math.ceil(vis.length / POR_PAGINA));
+    pagina = Math.min(pagina, total);
+    const ini = (pagina - 1) * POR_PAGINA;
+    tbody.innerHTML = vis.slice(ini, ini + POR_PAGINA).map((x) => linhaPromessa(x, leg, comImpacto)).join("");
+    nav.innerHTML = total === 1 ? "" : `
+      <button type="button" data-p="${pagina - 1}"${pagina === 1 ? " disabled" : ""}>‹ Anterior</button>
+      <span>Página ${pagina} de ${total} · ${ini + 1}–${Math.min(ini + POR_PAGINA, vis.length)} de ${vis.length} promessas</span>
+      <button type="button" data-p="${pagina + 1}"${pagina === total ? " disabled" : ""}>Próxima ›</button>`;
   };
-  filtros.forEach((s) => s.addEventListener("change", atualizar));
+  filtros.forEach((s) => s.addEventListener("change", () => { pagina = 1; atualizar(); }));
+  nav.addEventListener("click", (e) => {
+    const b = e.target.closest("button[data-p]");
+    if (!b) return;
+    pagina = +b.dataset.p;
+    atualizar();
+    card.querySelector(".filtros").scrollIntoView({ block: "start" });
+  });
   atualizar();
   return card;
 }
@@ -412,7 +428,7 @@ abas.addEventListener("click", (e) => {
 seletorLugar.addEventListener("change", () => irPara(lerEndereco().cargo, seletorLugar.value));
 seletorMandato.addEventListener("change", () => $("lista-mandatos").replaceChildren(cartoes.get(seletorMandato.value)));
 window.addEventListener("hashchange", render);
-$("consolidado").addEventListener("toggle", (e) => {
+document.addEventListener("toggle", (e) => {
   if (e.target.matches?.("details.recolhe")) aberta[e.target.dataset.chave] = e.target.open;
 }, true);
 render();
