@@ -50,9 +50,9 @@ function blocoImpacto(lista, m) {
   const com = lista.filter((p) => p.impacto);
   if (!com.length) return "";
   const de = (g) => com.filter((p) => grupoImpacto(p) === g);
-  const soma = (ps) => ps.reduce((s, p) => s + num(p.impacto.valor_incremental_rs_bi), 0);
-  const comValor = (ps) => ps.filter((p) => p.impacto.valor_incremental_rs_bi).length;
-  const comp = com.reduce((s, p) => s + num(p.impacto.compensacao_rs_bi), 0);
+  // Valores do mandato: soma, ano a ano, da diferença em relação ao ano anterior ao mandato
+  const somaAc = (ps) => ps.reduce((s, p) => s + num(p.impacto.valor_acumulado_rs_bi), 0);
+  const comValor = (ps) => ps.filter((p) => p.impacto.valor_acumulado_rs_bi).length;
   const tile = (g, valor, det) => `
     <div class="kpi"><div class="rotulo"><i class="ponto" style="background:${IMPACTO[g].cor}"></i>${IMPACTO[g].rot}</div>
       <div class="valor">${valor}</div><div class="det">${det}</div></div>`;
@@ -61,75 +61,43 @@ function blocoImpacto(lista, m) {
     .map((g) => {
       const ps = de(g);
       const n = comValor(ps);
-      const unicas = soma(ps.filter((p) => p.impacto.recorrente === "nao"));
-      const extra = (g === "receita_aumenta" && comp ? ` · parte atrelada a isenção que reduz a receita em ${fmtBi(comp)}` : "") +
-        (unicas ? ` · inclui ${fmtBi(unicas)} de receitas ou gastos únicos, que não se repetem todo ano` : "");
-      return tile(g, n ? `${g.endsWith("reduz") ? "−" : "+"}${fmtBi(soma(ps))}/ano` : "sem valor",
-        `${ps.length} promessa(s), ${n} com valor oficial${extra}`);
+      const unicas = somaAc(ps.filter((p) => p.impacto.recorrente === "nao"));
+      const extra = unicas ? ` · inclui ${fmtBi(unicas)} de receitas ou gastos únicos, contados uma vez` : "";
+      return tile(g, n ? `${g.endsWith("reduz") ? "−" : "+"}${fmtBi(somaAc(ps))}` : "sem valor",
+        `${ps.length} promessa(s), ${n} com valor oficial no mandato${extra}`);
     });
   const sem = com.length - ["despesa_aumenta", "despesa_reduz", "receita_aumenta", "receita_reduz"].reduce((s, g) => s + de(g).length, 0);
   tiles.push(tile("sem_impacto", sem, "promessas regulatórias, regras fiscais, estatais ou efeitos neutros"));
-  // Resultado: receitas a mais (menos as compensações atreladas) menos despesas a mais
   const [recMais, recMenos, despMais, despMenos] =
-    ["receita_aumenta", "receita_reduz", "despesa_aumenta", "despesa_reduz"].map((g) => soma(de(g)));
-  const saldo = recMais - recMenos - comp - despMais + despMenos;
-  // receitas e gastos únicos (privatizações, outorgas, cursos pontuais) não se repetem todo ano
-  const unico = (g) => soma(de(g).filter((p) => p.impacto.recorrente === "nao"));
-  const saldoRecorrente = saldo - unico("receita_aumenta") + unico("receita_reduz") + unico("despesa_aumenta") - unico("despesa_reduz");
-  const conta = [
-    recMais && `Receitas a mais ${fmtBi(recMais)}`,
-    recMenos && `menos receitas a menos ${fmtBi(recMenos)}`,
-    comp && `menos isenção atrelada ${fmtBi(comp)}`,
-    despMais && `menos despesas a mais ${fmtBi(despMais)}`,
-    despMenos && `mais despesas cortadas ${fmtBi(despMenos)}`,
-  ].filter(Boolean).join(", ");
-  const nome = (v) => `${v < 0 ? "déficit" : "superávit"} de ${fmtBi(Math.abs(v))}/ano`;
-  const semUnicos = Math.abs(saldoRecorrente - saldo) > 0.05
-    ? ` Sem as receitas e gastos únicos, que não se repetem todo ano, o resultado seria ${nome(saldoRecorrente)}.` : "";
-  const resultado = `
-    <div class="resultado ${saldo < 0 ? "deficit" : "superavit"}">
-      <div class="rotulo">Resultado das promessas para as contas do governo</div>
-      <div class="valor">${saldo < 0 ? "Déficit" : "Superávit"} de ${fmtBi(Math.abs(saldo))}/ano</div>
-      <div class="det">${conta}. ${saldo < 0
-        ? "As promessas implementadas aumentam mais os gastos do que a arrecadação."
-        : "As promessas implementadas aumentam mais a arrecadação do que os gastos."}${semUnicos} É o efeito dessas promessas, não o déficit ou superávit total do governo.</div>
-    </div>`;
-  // Acumulado no mandato: soma, ano a ano, da diferença em relação ao ano anterior ao mandato
-  const somaAc = (g) => de(g).reduce((s, p) => s + num(p.impacto.valor_acumulado_rs_bi), 0);
-  const saldoAc = somaAc("receita_aumenta") - somaAc("receita_reduz") - somaAc("despesa_aumenta") + somaAc("despesa_reduz");
-  const unicoAc = (g) => de(g).filter((p) => p.impacto.recorrente === "nao").reduce((s, p) => s + num(p.impacto.valor_acumulado_rs_bi), 0);
-  const unicasAc = unicoAc("receita_aumenta") - unicoAc("despesa_aumenta");
+    ["receita_aumenta", "receita_reduz", "despesa_aumenta", "despesa_reduz"].map((g) => somaAc(de(g)));
+  const saldoAc = recMais - recMenos - despMais + despMenos;
   const anosAc = com.filter((p) => p.impacto.valor_acumulado_rs_bi)
     .flatMap((p) => p.impacto.periodo_acumulado.match(/\d{4}/g) || []).sort();
   const periodo = anosAc.length ? (anosAc[0] === anosAc[anosAc.length - 1] ? anosAc[0] : `${anosAc[0]} a ${anosAc[anosAc.length - 1]}`) : "";
   const contaAc = [
-    somaAc("receita_aumenta") && `Receitas a mais ${fmtBi(somaAc("receita_aumenta"))}`,
-    somaAc("receita_reduz") && `menos receitas a menos ${fmtBi(somaAc("receita_reduz"))}`,
-    somaAc("despesa_aumenta") && `menos despesas a mais ${fmtBi(somaAc("despesa_aumenta"))}`,
-    somaAc("despesa_reduz") && `mais despesas cortadas ${fmtBi(somaAc("despesa_reduz"))}`,
+    recMais && `Receitas a mais ${fmtBi(recMais)}`,
+    recMenos && `menos receitas a menos ${fmtBi(recMenos)}`,
+    despMais && `menos despesas a mais ${fmtBi(despMais)}`,
+    despMenos && `mais despesas cortadas ${fmtBi(despMenos)}`,
   ].filter(Boolean).join(", ").replace(/^(menos|mais) (.)/, (_, _1, c) => c.toUpperCase());
   const emCurso = m && m.situacao_mandato === "em_curso";
   const pendentes = com.filter((p) => p.impacto.valor_incremental_rs_bi && !p.impacto.valor_acumulado_rs_bi && p.impacto.periodo_acumulado);
   const acumulado = periodo ? `
     <div class="resultado acumulado ${saldoAc < 0 ? "deficit" : "superavit"}">
-      <div class="rotulo">Acumulado no mandato (${periodo}${emCurso ? ", mandato em curso" : ""})</div>
+      <div class="rotulo">Resultado das promessas para as contas do governo no mandato (${periodo}${emCurso ? ", mandato em curso" : ""})</div>
       <div class="valor">${saldoAc < 0 ? "Déficit" : "Superávit"} de ${fmtBi(Math.abs(saldoAc))}</div>
-      <div class="det">${contaAc}. Soma, ano a ano, de quanto cada promessa custou ou rendeu a mais em relação ao ano anterior ao mandato.${
-        unicasAc ? ` Aqui as receitas únicas (${fmtBi(unicasAc)}) entram uma só vez, como de fato ocorreu.` : ""}${
+      <div class="det">${contaAc}. ${saldoAc < 0
+        ? "As promessas implementadas aumentaram mais os gastos do que a arrecadação."
+        : "As promessas implementadas aumentaram mais a arrecadação do que os gastos."} É o efeito dessas promessas, não o déficit ou superávit total do governo.${
         emCurso ? ` Só anos completos; ${anosAc[anosAc.length - 1] * 1 + 1} ainda está em curso.` : ""}${
         pendentes.length === 1 ? " Não inclui 1 promessa que só começa a valer depois desse período."
           : pendentes.length ? ` Não inclui ${pendentes.length} promessas que só começam a valer depois desse período.` : ""}</div>
     </div>` : "";
-  const anos = com.filter((p) => p.impacto.valor_incremental_rs_bi && p.impacto.ano_ref)
-    .map((p) => p.impacto.ano_ref.slice(0, 4)).sort();
   return `
     <div class="impacto-resumo">
       <h4>Impacto no orçamento federal</h4>
-      <div class="kpis">${tiles.join("")}</div>
-      ${resultado}
       ${acumulado}
-      <p class="meta">Quanto o governo passou a gastar ou arrecadar a mais por ano com o que foi implementado, em relação ao ano anterior ao mandato. Soma do dado oficial mais recente de cada promessa (${anos[0] === anos[anos.length - 1] ? `ano de ${anos[0]}` : `anos de ${anos[0]} a ${anos[anos.length - 1]}`}), sem correção pela inflação; promessas sem valor oficial ficam fora da soma. Em cada promessa também aparece o custo total do programa.</p>
-    </div>`;
+      <div class="kpis">${tiles.join("")}</div>    </div>`;
 }
 
 function celulaImpacto(p) {
@@ -253,7 +221,7 @@ function blocoLegislativo(lista, cols, leg, chave) {
         <thead><tr><th>Grupo</th><th class="num">Promessas</th>${thTaxas(cols)}</tr></thead>
         <tbody>${linha(`Dependem do ${leg}`, dep)}${linha("Só do Executivo", lista.filter((p) => p.depende_legislativo !== "sim"))}</tbody>
       </table></div>`)}
-      ${notaOutroEnte(lista)}
+      ${chave ? "" : notaOutroEnte(lista)}
     </div>`;
 }
 
