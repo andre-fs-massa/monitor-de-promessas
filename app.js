@@ -232,7 +232,12 @@ function barra(r) {
 }
 
 // Proporção que depende do Legislativo e desempenho de cada grupo
-function blocoLegislativo(lista, cols, leg) {
+// Tabelas do consolidado que o leitor pode expandir e recolher (fechadas por padrão; a escolha vale ao trocar de aba)
+const aberta = {};
+const recolhivel = (chave, titulo, html) =>
+  `<details class="recolhe" data-chave="${chave}"${aberta[chave] ? " open" : ""}><summary>${titulo}</summary>${html}</details>`;
+
+function blocoLegislativo(lista, cols, leg, chave) {
   const dep = lista.filter((p) => p.depende_legislativo === "sim");
   const linha = (rot, g) => `<tr><td class="titulo">${rot}</td><td class="num" data-label="Promessas">${g.length}</td>${tdTaxas(cols, resumo(g))}</tr>`;
   return `
@@ -244,10 +249,10 @@ function blocoLegislativo(lista, cols, leg) {
       <div class="barra fina" role="img" aria-label="Promessas que dependem do ${leg}">
         <span style="width:${pct(dep.length, lista.length)}%;background:var(--congresso)"></span>
       </div>
-      <div class="tabela-scroll"><table class="resp">
+      ${(chave ? (h) => recolhivel(chave, `Tabela: dependem do ${leg} × só do Executivo`, h) : (h) => h)(`<div class="tabela-scroll"><table class="resp">
         <thead><tr><th>Grupo</th><th class="num">Promessas</th>${thTaxas(cols)}</tr></thead>
         <tbody>${linha(`Dependem do ${leg}`, dep)}${linha("Só do Executivo", lista.filter((p) => p.depende_legislativo !== "sim"))}</tbody>
-      </table></div>
+      </table></div>`)}
       ${notaOutroEnte(lista)}
     </div>`;
 }
@@ -285,7 +290,7 @@ function renderConsolidado(lista, cargo) {
     (emCurso ? ` ${emCurso} mandato(s) ainda em curso: os números mudam até o fim do mandato.` : "") +
     (interrompidos ? ` ${interrompidos} mandato(s) encerrado(s) antes do prazo, avaliado(s) até a data de saída.` : "");
   $("kpis-consolidado").innerHTML = kpis(cols, r);
-  $("barra-consolidado").innerHTML = barra(r) + blocoLegislativo(daVez, cols, txt.legislativo);
+  $("barra-consolidado").innerHTML = barra(r) + blocoLegislativo(daVez, cols, txt.legislativo, "legislativo");
 
   const linhas = lista.map((m) => {
     const lm = doMandato(m);
@@ -299,6 +304,7 @@ function renderConsolidado(lista, cargo) {
       ${tdTaxas(cols, rm)}
     </tr>`;
   });
+  $("t-comparativo").textContent = `Tabela: comparativo por ${txt.singular}`;
   $("comparativo").innerHTML = `
     <thead><tr><th>${txt.singular[0].toUpperCase() + txt.singular.slice(1)}</th><th>Mandato</th><th class="num">Promessas</th><th class="num">Dependem do ${txt.legislativo}</th>${thTaxas(cols)}</tr></thead>
     <tbody>${linhas.join("")}</tbody>`;
@@ -438,4 +444,7 @@ abas.addEventListener("click", (e) => {
 seletorLugar.addEventListener("change", () => irPara(lerEndereco().cargo, seletorLugar.value));
 seletorMandato.addEventListener("change", () => $("lista-mandatos").replaceChildren(cartoes.get(seletorMandato.value)));
 window.addEventListener("hashchange", render);
+$("consolidado").addEventListener("toggle", (e) => {
+  if (e.target.matches?.("details.recolhe")) aberta[e.target.dataset.chave] = e.target.open;
+}, true);
 render();
