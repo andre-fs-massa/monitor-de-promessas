@@ -10,6 +10,7 @@ mkdir -p "$PUB/dados"
 cp "$RAIZ"/web/index.html "$RAIZ"/web/app.js "$RAIZ"/web/data.js "$RAIZ"/web/style.css "$PUB/"
 # Arquivos para buscadores e domínio próprio (promessas.afsm.me)
 cp "$RAIZ"/web/robots.txt "$RAIZ"/web/sitemap.xml "$RAIZ"/web/compartilhar.png "$RAIZ"/web/CNAME "$PUB/"
+cp "$RAIZ"/web/favicon.ico "$RAIZ"/web/favicon.svg "$RAIZ"/web/apple-touch-icon.png "$PUB/"
 cp "$RAIZ"/data/base_aberta/* "$PUB/dados/"
 touch "$PUB/.nojekyll"
 cd "$RAIZ"
