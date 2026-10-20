@@ -1,0 +1,72 @@
+cimento_social | "Cimento Social" | 138 -> 30
+zona_franca | "Zona Franca Social" | 29 -> 29
+saude_250mi | "reestruturação" | UPA;emergência | <urlopen error [WinError 10060] Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu>
+saude_250mi | "Fundo Municipal de Saúde" | suplementa;crédito | 189 -> 3
+clinicas_especialistas | "Clínica de Especialistas" | 0 -> 0
+clinicas_especialistas | "Clínicas de Especialidades" | 116 -> 30
+clinicas_especialistas | "Policlínica" | inaugura | 1936 -> 2
+cf_ginecologistas | "ginecologista" | Clínica da Família;contrata | 88 -> 0
+cers | "Coordenação de Emergência Regional" | 874 -> 30
+cers | "CER" | Rocha Faria | <urlopen error [WinError 10060] Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu>
+cf_ginecologistas | "pediatra" | Clínica da Família;contrata | 535 -> 0
+cers | "CER" | Salgado Filho | 2200 -> 7
+saude_250mi | "reestruturação" | UPA;emergência | 569 -> 4
+cers | "CER" | Rocha Faria | 2200 -> 9
+cers | "CER" | Albert Schweitzer | 2200 -> 1
+upas_estaduais | "UPA" | municipalização | 2109 -> 0
+mutirao_leitos | "novos leitos" | hospital | 7 -> 6
+upas_estaduais | "Unidades de Pronto Atendimento" | Estado;gestão;transferência | 784 -> 0
+mutirao_leitos | "mutirão" | cirurgias | <urlopen error [WinError 10060] Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu>
+pccs_saude | "plano de cargos" | saúde;meritocracia | 88 -> 0
+pccs_saude | "plano de cargos, carreiras" | Saúde | <urlopen error [WinError 10060] Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu>
+auditoria_oss | "auditoria" | Organizações Sociais;saúde | <urlopen error [WinError 10060] Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu>
+cegonha | "Cegonha Carioca" | 258 -> 20
+auditoria_oss | "Organização Social" | auditoria | 2426 -> 3
+maternidade_ilha | "Nossa Senhora do Loreto" | maternidade | 1342 -> 12
+maternidade_ilha | "maternidade" | Ilha do Governador | 4109 -> 3
+creches_ppp | "PPP" | creche | 496 -> 3
+creches_ppp | "Espaço de Desenvolvimento Infantil" | parceria público-privada | 1979 -> 0
+creches_ppp | "novas vagas" | creche | 124 -> 0
+integral_50 | "turno único" | ampliação | 59 -> 1
+qualif_professores | "formação continuada" | professores;programa | 209 -> 12
+integral_50 | "horário integral" | anos iniciais | 540 -> 3
+qualif_professores | "Escola de Formação do Professor Carioca" | 81 -> 20
+custeio_escolas | "Sistema Descentralizado de Pagamento" | unidades escolares | 5637 -> 3
+custeio_escolas | "SDP" | escolas;custeio | 1217 -> 0
+sem_novas_escolas | "construção da Escola Municipal" | 9 -> 9
+sem_novas_escolas | "construção de escola" | ensino fundamental | 118 -> 0
+agentes_ed_especial | "Agente de Apoio à Educação Especial" | 397 -> 20
+agentes_ed_especial | "Agente de Apoio à Educação Especial" | nomeação;convocação | 397 -> 0
+contraturno | "contraturno" | parceria | 45 -> 11
+contraturno | "atividades complementares" | ensino fundamental;parceria | <urlopen error [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente>
+pais_vale_cultura | "Vale Cultura" | pais | 23 -> 9
+contraturno | "atividades complementares" | ensino fundamental;parceria | <urlopen error [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente>
+contraturno | "contraturno" | parceria | <urlopen error [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente>
+pais_vale_cultura | "responsáveis" | programa;escola;incentivo;participação | 9508 -> 0
+gm_80 | "Guarda Municipal" | efetivo;vigilância ostensiva | 7916 -> 0
+gm_80 | "policiamento comunitário" | Guarda Municipal | 24 -> 23
+uops_recuperar | "Unidade de Ordem Pública" | 47 -> 20
+cameras_20 | "câmeras" | Centro de Operações;videomonitoramento | 391 -> 0
+cameras_20 | "videomonitoramento" | ampliação | 68 -> 14
+incentivo_policias | "Área Integrada de Segurança Pública" | metas;incentivo | 2 -> 0
+incentivo_policias | "PROEIS" | 87 -> 20
+uops_recuperar | "UOP" | Guarda Municipal | <urlopen error [WinError 10060] Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu>
+pracas_poda | "poda" | praças;mutirão | 1169 -> 0
+pracas_poda | "inventário" | poda;praças | 1040 -> 0
+vans_zo | "Serviço de Transporte Público Local" | licitação | 428 -> 11
+comunidades_20 | "Comlurb" | Cedae;comunidades;saneamento | 7977 -> 0
+adensamento_ap4 | "Vargens" | contrapartida;Projeto de Lei Complementar | 311 -> 0
+vans_zo | "STPL" | licitação;vans | <urlopen error [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente>
+adensamento_ap4 | "PEU das Vargens" | 73 -> 20

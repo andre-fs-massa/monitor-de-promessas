@@ -1,0 +1,92 @@
+ideb | "IDEB" | anos iniciais;2015 | 376 -> 3
+alfabetizacao | "alfabetizados" | 7 anos | 36 -> 18
+analf_funcional | "analfabetismo funcional" | 103 -> 10
+tempo_integral | "turno único" | alunos;percentual | 357 -> 0
+segundo_segmento | "16 anos" | segundo segmento | 458 -> 0
+vagas_infantil | "Espaço de Desenvolvimento Infantil" | inauguração | 1526 -> 0
+ingles | "Rio Criança Global" | 9º ano | 206 -> 3
+clinicas_familia | "Clínica da Família" | inaugura | 638 -> 5
+psf_70 | "cobertura" | Saúde da Família;70% | 5057 -> 0
+padi | "PADI" | equipes | 234 -> 5
+medicos_2mil | "médicos" | contratação;2.000 | 12071 -> 0
+consultas_eletivas | "consultas eletivas" | tempo de espera | 16 -> 14
+cer_espera | "CER" | tempo de espera | 1136 -> 0
+leitos_cnes | "leitos" | CNES;cadastrados | 864 -> 0
+mortalidade_infantil | "mortalidade infantil" | 1.000 nascidos | 145 -> 2
+mortalidade_materna | "mortalidade materna" | 167 -> 10
+saude_inteligente | "prontuário eletrônico" | 376 -> 10
+esgoto_ap5 | "AP 5" | esgotamento sanitário;cobertura | 6347 -> 0
+reflorestamento | "reflorestamento" | hectares | 1141 -> 0
+arvores | "mudas" | plantio;árvores | 804 -> 10
+ciclovias | "malha cicloviária" | km | 129 -> 9
+reciclavel | "coleta seletiva" | percentual | 421 -> 0
+gee | "emissões" | inventário;efeito estufa | 347 -> 7
+macrodrenagem | "Cação Vermelho" | 139 -> 10
+macrodrenagem | "macrodrenagem" | Jacarepaguá | 248 -> 6
+plano_clima | "adaptação" | mudanças climáticas;plano | 1630 -> 0
+pracas_15min | "15 Minutos Verdes" | 10 -> 10
+morar_carioca | "Morar Carioca" | domicílios | 640 -> 0
+mcmv_50mil | "Minha Casa Minha Vida" | unidades contratadas | <urlopen error [WinError 10060] Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu>
+risco_zero | "alto risco" | famílias;encostas | 252 -> 0
+favelas_5pct | "áreas ocupadas por favelas" | 11 -> 10
+bairro_maravilha | "Bairro Maravilha" | km | 1435 -> 1
+porto_maravilha | "Porto Maravilha" | conclusão;obras | 750 -> 0
+upp_social | "UPP Social" | 281 -> 10
+parque_olimpico | "Parque Olímpico" | concessão | 676 -> 1
+rio_branco | "Avenida Rio Branco" | fechamento;pedestres | 973 -> 0
+cidade_nova | "Cidade Nova" | Operação Urbana Consorciada | 8847 -> 0
+brt_tempo | "tempo de viagem" | BRT;redução | 112 -> 5
+acidentes | "acidentes" | vítimas;redução | 1585 -> 0
+bilhete_unico | "Bilhete Único Carioca" | barcas;metrô | 183 -> 1
+alta_capacidade | "alta capacidade" | usuários;percentual | 179 -> 0
+brts | "TransOlímpica" | inauguração | 775 -> 0
+brts | "TransBrasil" | obras | 622 -> 12
+frota_onibus | "ar-condicionado" | frota;ônibus | 3841 -> 0
+taxis | "Rio Boa Praça" | táxi | 79 -> 6
+vlt | "VLT" | inauguração;operação | 708 -> 0
+racionalizacao | "racionalização" | linhas de ônibus | 286 -> 4
+plano_mobilidade | "Plano de Mobilidade Urbana Sustentável" | 58 -> 10
+zn_zo | "Zonas Norte e Oeste" | investimentos;recursos | 205 -> 0
+investir_34bi | "investimentos" | bilhões;2013-2016 | 4222 -> 0
+producoes_350 | "fomento" | editais;produções culturais | 1467 -> 0
+frequencia_cultura | "equipamentos culturais" | frequência;público | 425 -> 0
+porto_cultura | "Porto Maravilha" | cultural;Museu | 750 -> 1
+imoveis_tiradentes | "Praça Tiradentes" | imóveis;recuperação | 408 -> 2
+polo_portuario | "José Bonifácio" | Centro Cultural | 431 -> 3
+polo_portuario | "Cidade do Teatro" | 15 -> 10
+polo_portuario | "Cais do Valongo" | 78 -> 10
+escritorio_cultura | "escritório" | projetos culturais | 4045 -> 0
+pobreza_50 | "linha de pobreza" | redução | 27 -> 4
+pobreza_beneficiarios | "Cartão Família Carioca" | pobreza;superação | 198 -> 1
+caps | "CAPS" | inauguração | <urlopen error [WinError 10060] Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu>
+caps | "residências terapêuticas" | 66 -> 10
+cfc_saude | "Cartão Família Carioca" | Saúde da Família | 198 -> 1
+rio_em_forma | "Rio em Forma" | Escolas do Amanhã | 124 -> 0
+uops | "Unidade de Ordem Pública" | inauguração;implantação | 177 -> 0
+recapeamento | "Asfalto Liso" | km | 141 -> 7
+calcadas | "Rio Acessível" | calçadas;rampas | 105 -> 6
+apagamento | "índice de apagamento" | 34 -> 10
+plano_iluminacao | "Plano Diretor de Iluminação" | 4 -> 4
+investimento_15 | "investimentos" | receita corrente;percentual | 4222 -> 0
+central_1746 | "1746" | atendimentos;satisfação | 973 -> 0
+compras_10 | "compras" | economia;redução;preço | 1515 -> 0
+receita_15 | "receita tributária" | crescimento | 390 -> 2
+rede_datacenter | "datacenter" | 216 -> 10
+rede_datacenter | "Datacenter" | 216 -> 10
+regionais_33 | "Regiões Administrativas" | atendimento ao cidadão;presencial | 177 -> 0
+smgpm | "Sistema Municipal de Gerenciamento de Projetos" | 2 -> 2
+nota_carioca | "Nota Carioca" | sorteio;premiados | 701 -> 0
+codigo_tributario | "Consolidação da Legislação Tributária" | 14 -> 10
+codigo_tributario | "consolidação" | legislação tributária | 2600 -> 0
+alvaras | "Alvará Já" | 67 -> 10
+alvaras | "licenciamento" | eletrônico;alvará | 16272 -> 0
+energia_1bi | "Rio Capital da Energia" | investimentos | 83 -> 9
+hotel_7mil | "quartos" | rede hoteleira;novos | 360 -> 0
+economia_criativa | "economia criativa" | empregos | 114 -> 1
+condominio_industrial | "condomínio industrial" | Zona Oeste | 15 -> 11
+centro_convencoes | "centro de convenções" | Zona Portuária | <urlopen error [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente>
+agencia_criativa | "agência" | economia criativa;indústria criativa | 4248 -> 0

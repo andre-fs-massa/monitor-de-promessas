@@ -1,0 +1,177 @@
+:root {
+  color-scheme: light;
+  --bg: #f7f7f5;
+  --surface: #ffffff;
+  --text: #1c1c1a;
+  --muted: #5f5f5a;
+  --border: #e3e2dd;
+  --accent: #2f4f8f;
+  --s-cumprida: #2e7d4f;
+  --s-parcial: #c98a1b;
+  --s-nao: #b4403a;
+  --s-andamento: #3f6fb5;
+  --s-naoavaliada: #a3a29c;
+  --congresso: #6b4fa0;
+  --s-interrompida: #4f8a8b;
+  --aviso-bg: #fbf3e2;
+  --i-despesa: #9a5b2e;
+  --i-receita: #2f7a78;
+  --i-neutro: #a3a29c;
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font: 15px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+.wrap { max-width: 1080px; margin: 0 auto; padding: 0 16px; }
+.topo { background: var(--surface); border-bottom: 1px solid var(--border); padding: 28px 0 20px; }
+h1 { margin: 0 0 6px; font-size: 1.6rem; letter-spacing: -0.01em; }
+h2 { font-size: 1.2rem; margin: 40px 0 8px; }
+h3 { margin: 0; font-size: 1.1rem; }
+.previa { background: var(--aviso-bg); border: 1px solid var(--s-parcial); border-radius: 8px; padding: 8px 12px; margin: 0; font-size: 0.9rem; }
+.sub, .nota { color: var(--muted); margin: 0 0 16px; max-width: 70ch; }
+.topo .sub { max-width: none; }
+a { color: var(--accent); }
+code { font-size: 0.9em; }
+
+.kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; margin: 12px 0 16px; }
+.kpi { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 12px 14px; }
+.kpi .rotulo { color: var(--muted); font-size: 0.82rem; display: flex; align-items: center; gap: 6px; }
+.kpi .valor { font-size: 1.7rem; font-weight: 650; font-variant-numeric: tabular-nums; }
+.kpi .det { color: var(--muted); font-size: 0.82rem; font-variant-numeric: tabular-nums; }
+.ponto { width: 10px; height: 10px; border-radius: 3px; display: inline-block; flex: none; }
+
+.barra { display: flex; height: 22px; border-radius: 6px; overflow: hidden; background: var(--border); }
+.barra span { display: block; height: 100%; }
+.barra span + span { border-left: 2px solid var(--surface); }
+
+.congresso { margin: 18px 0 4px; }
+.congresso-topo { display: flex; align-items: baseline; gap: 8px; color: var(--muted); margin-bottom: 6px; }
+.congresso-valor { font-size: 1.3rem; font-weight: 650; color: var(--text); font-variant-numeric: tabular-nums; }
+.barra.fina { height: 8px; }
+.tag-congresso { display: inline-block; margin-top: 4px; font-size: 0.74rem; color: var(--congresso); border: 1px solid var(--congresso); border-radius: 999px; padding: 1px 8px; white-space: nowrap; }
+.tag-impeachment { font-size: 0.72rem; color: var(--text); background: var(--aviso-bg); border: 1px solid var(--s-parcial); border-radius: 999px; padding: 1px 7px; }
+.selo.interrompido { border-color: var(--s-parcial); color: var(--text); }
+.aviso { background: var(--aviso-bg); border-left: 3px solid var(--s-parcial); padding: 8px 12px; border-radius: 6px; margin: 12px 0 0; font-size: 0.9rem; }
+
+.tabela-scroll { overflow-x: auto; margin-top: 18px; }
+table { width: 100%; border-collapse: collapse; background: var(--surface); border: 1px solid var(--border); border-radius: 10px; overflow: hidden; }
+th, td { text-align: left; padding: 9px 12px; border-bottom: 1px solid var(--border); vertical-align: top; }
+th { font-size: 0.8rem; color: var(--muted); font-weight: 600; text-transform: uppercase; letter-spacing: 0.03em; }
+td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
+tr:last-child td { border-bottom: 0; }
+
+.card { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 18px; margin: 12px 0 20px; }
+.card-topo { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; align-items: baseline; }
+.meta { color: var(--muted); font-size: 0.88rem; }
+.selo { font-size: 0.75rem; border: 1px solid var(--border); border-radius: 999px; padding: 2px 9px; color: var(--muted); white-space: nowrap; }
+
+.filtros { display: flex; gap: 10px; flex-wrap: wrap; margin: 16px 0 10px; }
+select, button { font: inherit; color: var(--text); background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 6px 10px; }
+button { cursor: pointer; }
+button:hover { border-color: var(--accent); }
+
+.chip { display: inline-flex; align-items: center; gap: 6px; font-size: 0.82rem; white-space: nowrap; }
+.trecho { color: var(--muted); font-style: italic; font-size: 0.86rem; margin-top: 4px; }
+.evid { font-size: 0.86rem; }
+.conf { color: var(--muted); font-size: 0.78rem; }
+.promessas td:first-child { width: 42%; }
+/* Status estreito (os selos quebram linha) para sobrar largura para a evidência */
+.promessas td:nth-child(3) { width: 140px; }
+.promessas td:nth-child(3) .tag-congresso, .promessas td:nth-child(3) .tag-ente { border-radius: 8px; }
+.promessas td:nth-child(3) .tag-congresso, .promessas td:nth-child(3) .tag-ente, .promessas td:nth-child(3) .chip { white-space: normal; }
+.promessas td:nth-child(3) .chip { align-items: baseline; }
+
+@media (max-width: 640px) {
+  .promessas thead { display: none; }
+  .promessas tr { display: block; border-bottom: 1px solid var(--border); padding: 8px 0; }
+  .promessas td { display: block; border: 0; padding: 4px 12px; width: auto !important; }
+  /* Rótulo da coluna acima de cada campo, como nas outras tabelas */
+  .promessas td::before { content: attr(data-label); display: block; color: var(--muted); font-size: 0.72rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em; margin-bottom: 2px; }
+  .promessas td + td { padding-top: 8px; }
+  .promessas td:first-child > div:first-of-type { font-weight: 600; }
+}
+
+.secao-topo { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin: 40px 0 8px; }
+.secao-topo h2 { margin: 0; }
+.secao-topo select { min-width: 260px; max-width: 100%; }
+
+.controles { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; margin: 28px 0 0; }
+.abas { display: inline-flex; background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 3px; }
+.abas button { border: 0; background: transparent; padding: 7px 14px; border-radius: 7px; color: var(--muted); }
+.abas button[aria-selected="true"] { background: var(--accent); color: var(--surface); }
+.abas button:hover { border-color: transparent; color: var(--text); }
+.abas button[aria-selected="true"]:hover { color: var(--surface); }
+#seletor-uf { min-width: 200px; }
+
+.tag-ente { display: inline-block; margin-top: 4px; font-size: 0.74rem; color: var(--text); border: 1px dashed var(--muted); border-radius: 999px; padding: 1px 8px; white-space: nowrap; }
+.nota-ente { margin: 10px 0 0; }
+
+/* Filtros do cartão em uma linha; em telas estreitas voltam a quebrar */
+.filtros { flex-wrap: nowrap; }
+.filtros select { flex: 1 1 0; min-width: 0; text-overflow: ellipsis; }
+@media (max-width: 640px) {
+  .filtros { flex-wrap: wrap; }
+  .filtros select { flex: 1 1 100%; }
+}
+
+/* Tabelas de taxas no celular: cada linha vira um cartão com rótulo e valor */
+@media (max-width: 640px) {
+  table.resp, table.resp tbody { display: block; }
+  table.resp thead { display: none; }
+  table.resp tr { display: grid; grid-template-columns: 1fr 1fr; gap: 2px 16px; padding: 12px; border-bottom: 1px solid var(--border); }
+  table.resp tr:last-child { border-bottom: 0; }
+  table.resp td { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; padding: 3px 0; border: 0; }
+  table.resp td::before { content: attr(data-label); color: var(--muted); font-size: 0.78rem; text-align: left; }
+  table.resp td.titulo { grid-column: 1 / -1; display: block; font-weight: 600; padding-bottom: 6px; }
+  table.resp td.titulo::before { content: none; }
+  .tabela-scroll { overflow-x: visible; }
+}
+@media (max-width: 640px) {
+  .kpis { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; }
+  .kpi .valor { font-size: 1.45rem; }
+  .card { padding: 14px; }
+}
+@media (max-width: 640px) {
+  table.resp td[data-label="Mandato"] { grid-column: 1 / -1; }
+  .selo { white-space: normal; }
+}
+
+/* Paginação da tabela de promessas */
+.paginacao { display: flex; align-items: center; justify-content: center; gap: 12px; flex-wrap: wrap; margin: 12px 0 0; color: var(--muted); font-size: 0.88rem; }
+.paginacao button { font: inherit; color: var(--accent); background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 6px 12px; cursor: pointer; }
+.paginacao button:disabled { color: var(--muted); cursor: default; opacity: 0.6; }
+
+/* Tabelas recolhíveis do consolidado */
+.recolhe { margin: 12px 0 0; }
+.recolhe > summary { cursor: pointer; color: var(--accent); font-weight: 600; font-size: 0.92rem; padding: 6px 0; list-style-position: inside; }
+.recolhe > summary:hover { text-decoration: underline; }
+.recolhe[open] > summary { margin-bottom: 6px; }
+
+/* Impacto fiscal (presidentes) */
+.impacto-resumo { margin: 20px 0 4px; }
+.impacto-resumo h4 { margin: 0 0 4px; font-size: 1rem; }
+.impacto-resumo .kpis { margin: 8px 0 8px; }
+.impacto-resumo .kpi .valor { font-size: 1.35rem; }
+.promessas.com-impacto td:first-child { width: 32%; }
+.promessas td.imp { width: 210px; font-size: 0.84rem; }
+.promessas td.imp .chip { white-space: normal; align-items: baseline; }
+.imp-linha { margin-top: 3px; font-variant-numeric: tabular-nums; }
+.compensa { color: var(--i-receita); }
+.imp-det { margin-top: 4px; color: var(--muted); font-size: 0.8rem; }
+.imp-det summary { cursor: pointer; color: var(--accent); }
+.resultado { border: 1px solid var(--border); border-left: 4px solid var(--i-neutro); border-radius: 10px; background: var(--surface); padding: 12px 14px; margin: 0 0 8px; }
+.resultado.deficit { border-left-color: var(--s-nao); }
+.resultado.superavit { border-left-color: var(--s-cumprida); }
+.resultado .rotulo { color: var(--muted); font-size: 0.82rem; }
+.resultado .valor { font-size: 1.45rem; font-weight: 650; font-variant-numeric: tabular-nums; }
+.resultado.deficit .valor { color: var(--s-nao); }
+.resultado.superavit .valor { color: var(--s-cumprida); }
+.resultado .det { color: var(--muted); font-size: 0.85rem; }
+
+/* Rodapé: código aberto e licença */
+.rodape { border-top: 1px solid var(--border); margin-top: 40px; padding: 20px 0 32px; color: var(--muted); font-size: 0.86rem; }
+.rodape p { margin: 0 0 6px; }

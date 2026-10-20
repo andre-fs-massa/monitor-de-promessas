@@ -1,0 +1,12 @@
+# Arquivos brutos do TSE, do Portal da Transparência e do Tesouro (3+ GB): baixados de novo pelos scripts
+data/raw/
+# Agregados do orçamento federal gerados por scripts/orcamento_federal.py (grandes, reproduzíveis)
+data/interim/*.csv
+# Documentos oficiais baixados durante as buscas (PDFs grandes; os links estão nas evidências)
+data/interim/busca_oficial/*_docs/
+# Pasta antiga de publicação (o site agora fica em docs/)
+publicacao/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

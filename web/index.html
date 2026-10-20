@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta name="color-scheme" content="light">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Monitor de Promessas · planos de governo de presidentes, governadores e prefeitos</title>
+  <meta name="description" content="Quantas promessas dos planos de governo foram cumpridas? Cada promessa registrada no TSE por presidentes, governadores e prefeitos, com status, evidência e fonte.">
+  <link rel="canonical" href="https://promessas.afsm.me/">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="pt_BR">
+  <meta property="og:site_name" content="Monitor de Promessas">
+  <meta property="og:title" content="Monitor de Promessas">
+  <meta property="og:description" content="Quantas promessas dos planos de governo foram cumpridas? Presidentes, governadores e prefeitos, promessa por promessa, com evidência e fonte.">
+  <meta property="og:url" content="https://promessas.afsm.me/">
+  <meta property="og:image" content="https://promessas.afsm.me/compartilhar.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "name": "Monitor de Promessas",
+        "url": "https://promessas.afsm.me/",
+        "inLanguage": "pt-BR"
+      },
+      {
+        "@type": "Dataset",
+        "name": "Promessas dos planos de governo registrados no TSE e seu cumprimento",
+        "description": "Promessas testáveis extraídas dos planos de governo de presidentes, governadores e prefeitos registrados no Tribunal Superior Eleitoral (TSE), classificadas pelo método do Comparative Party Pledges Group (cumprida, parcialmente cumprida, não cumprida, em andamento, interrompida), com trecho literal do plano, evidência, fonte e impacto fiscal das promessas presidenciais.",
+        "url": "https://promessas.afsm.me/",
+        "inLanguage": "pt-BR",
+        "isAccessibleForFree": true,
+        "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "creator": {"@type": "Person", "name": "André Massa"},
+        "sameAs": "https://github.com/andre-fs-massa/monitor-de-promessas",
+        "spatialCoverage": "Brasil",
+        "temporalCoverage": "2011/..",
+        "keywords": ["promessas de campanha", "plano de governo", "TSE", "presidente", "governador", "prefeito", "transparência"],
+        "distribution": [
+          {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://promessas.afsm.me/dados/promessas.csv"},
+          {"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://promessas.afsm.me/dados/promessas.json"},
+          {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://promessas.afsm.me/dados/impacto_fiscal.csv"}
+        ]
+      }
+    ]
+  }
+  </script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topo">
+    <div class="wrap">
+      <h1>Monitor de Promessas</h1>
+      <p class="sub">Promessas extraídas dos planos de governo registrados no TSE e classificadas pelo método do Comparative Party Pledges Group (CPPG).</p>
+      <p class="previa"><strong>Versão preliminar:</strong> as classificações e os valores de impacto fiscal ainda estão em revisão e podem mudar.</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <nav class="controles" aria-label="Escolher cargo e local">
+      <div class="abas" id="abas-cargo" role="tablist"></div>
+      <select id="seletor-uf" aria-label="Escolher estado" hidden></select>
+    </nav>
+
+    <section id="consolidado" aria-labelledby="t-consolidado">
+      <h2 id="t-consolidado">Consolidado</h2>
+      <p class="nota" id="nota-consolidado"></p>
+      <div class="kpis" id="kpis-consolidado"></div>
+      <div id="barra-consolidado"></div>
+      <details class="recolhe" data-chave="comparativo">
+        <summary id="t-comparativo">Tabela: comparativo</summary>
+        <div class="tabela-scroll">
+          <table class="comparativo resp" id="comparativo"></table>
+        </div>
+      </details>
+    </section>
+
+    <section id="mandatos" aria-labelledby="t-mandatos">
+      <div class="secao-topo">
+        <h2 id="t-mandatos">Por presidente</h2>
+        <select id="seletor-mandato" aria-label="Escolher mandato"></select>
+      </div>
+      <div id="lista-mandatos"></div>
+    </section>
+
+    <section id="metodo" aria-labelledby="t-metodo">
+      <h2 id="t-metodo">Método</h2>
+      <ul>
+        <li><strong>Fonte das promessas:</strong> só o plano de governo registrado no TSE (portal de dados abertos). Discursos, debates e entrevistas ficam de fora.</li>
+        <li><strong>Elegibilidade (CPPG):</strong> entram todas as frases do plano que comprometem o governo com uma ação ou resultado testável (criar, extinguir, construir, implantar, meta com número), tenham ou não evidência encontrada. Diretrizes genéricas ("valorizar a educação", "fortalecer", "apoiar") e estudos de viabilidade não são codificados.</li>
+        <li><strong>Status:</strong> cumprida, parcialmente cumprida, não cumprida; em andamento enquanto o mandato está em curso; interrompida quando o mandato acabou antes do prazo (impeachment, renúncia) com a promessa já iniciada e prazo posterior à saída (sem nenhum início, ela conta como não cumprida). Quando a busca na imprensa e em fontes oficiais não encontra nenhum registro de execução, a promessa conta como não cumprida, e a busca fica descrita na evidência: confiança baixa se a busca foi só na imprensa e em sites, média se também foi consultado o Diário Oficial ou o Legislativo (Assembleia ou Câmara Municipal).</li>
+        <li><strong>Depende do Legislativo:</strong> a promessa só se cumpre com lei, emenda constitucional ou conversão de medida provisória, aprovadas pelo Congresso (presidentes), pela Assembleia Legislativa (governadores) ou pela Câmara Municipal (prefeitos). O que o Executivo faz sozinho (decreto, portaria, gestão) conta como "só do Executivo".</li>
+        <li><strong>Competência de outro ente:</strong> marcada quando a execução cabe por lei a outro ente federativo (União, estados ou municípios), e quem prometeu só pode financiar, induzir ou cooperar.</li>
+        <li><strong>Impacto fiscal (presidentes):</strong> cada promessa é classificada pelo efeito no orçamento federal: aumenta ou reduz a despesa, aumenta ou reduz a receita, neutra, ou sem impacto direto (medidas regulatórias, regras fiscais, estatais e fundos fora do Orçamento da União). O valor mede só o que foi implementado e vem primeiro de fontes oficiais (execução do Orçamento por ação no Portal da Transparência/CGU, ministérios, Planalto, consultorias de orçamento do Congresso); a imprensa serve só para comparação. Mostramos três medidas: o valor a mais por ano em relação ao ano anterior ao mandato (no último ano completo com dado oficial), o acumulado no mandato (a soma dessas diferenças ano a ano, só com anos completos) e o custo total do programa. Receitas e gastos únicos (privatizações, outorgas de concessão) são marcados e o resultado também é mostrado sem eles. A despesa é a empenhada (para os anos antes de 2014, sem esse dado aberto, usamos o valor pago do Tesouro Transparente); empréstimos reembolsáveis ficam fora. Quando uma receita foi aprovada junto com uma compensação (por exemplo, uma isenção), as duas aparecem. O resumo de cada mandato mostra o acumulado no mandato, e o resultado (déficit ou superávit) é receitas a mais, menos receitas a menos, menos despesas a mais, mais despesas cortadas, somados no mandato: mostra o efeito das promessas nas contas, não o resultado total do governo.</li>
+        <li><strong>Comparação:</strong> presidentes, governadores e prefeitos não são somados no mesmo consolidado, porque têm poderes e orçamentos de escala diferente.</li>
+        <li><strong>Taxas:</strong> calculadas sobre as promessas avaliadas (excluindo as não avaliadas).</li>
+        <li><strong>Evidência:</strong> cada veredito tem link para a fonte e nível de confiança. Base aberta: <a href="dados/promessas.csv">promessas.csv</a>, <a href="dados/promessas.json">promessas.json</a> e <a href="dados/impacto_fiscal.csv">impacto_fiscal.csv</a>.</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer class="rodape">
+    <div class="wrap">
+      <p><strong>Código aberto:</strong> veja como foi feito, aponte erros ou colabore no <a href="https://github.com/andre-fs-massa/monitor-de-promessas">GitHub</a>.</p>
+      <p>Uso livre para fins não comerciais, com crédito: dados e textos sob <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.pt_BR">CC BY-NC 4.0</a>; código sob <a href="https://polyformproject.org/licenses/noncommercial/1.0.0">PolyForm Noncommercial 1.0.0</a>. © 2026 André Massa.</p>
+    </div>
+  </footer>
+
+  <noscript><p class="wrap">O Monitor de Promessas precisa de JavaScript para mostrar os dados. A base completa está em <a href="dados/promessas.csv">promessas.csv</a> e <a href="dados/promessas.json">promessas.json</a>.</p></noscript>
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,42 @@
+name: Correção de classificação
+description: Apontar um erro no status, na evidência, na fonte ou em outro campo de uma promessa
+title: "[Correção] <id da promessa>"
+labels: ["correção"]
+body:
+  - type: input
+    id: promessa
+    attributes:
+      label: Id da promessa
+      description: Aparece na base aberta (coluna id), por exemplo lula_2022-07
+      placeholder: lula_2022-07
+    validations:
+      required: true
+  - type: dropdown
+    id: campo
+    attributes:
+      label: O que está errado?
+      multiple: true
+      options:
+        - Status (cumprida, parcial, não cumprida…)
+        - Evidência ou fonte
+        - Trecho do plano ou texto da promessa
+        - Depende do Legislativo / outro ente
+        - Área
+        - Impacto fiscal
+        - Outro
+    validations:
+      required: true
+  - type: textarea
+    id: correcao
+    attributes:
+      label: O que deveria ser, e por quê
+      description: Explique a correção. Compare com casos parecidos de outros mandatos, se souber de algum.
+    validations:
+      required: true
+  - type: textarea
+    id: fontes
+    attributes:
+      label: Fontes
+      description: Links que comprovam a correção. Fontes oficiais (Diário Oficial, leis, decretos, portais de transparência) pesam mais.
+    validations:
+      required: true

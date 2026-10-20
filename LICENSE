@@ -1,0 +1,29 @@
+Monitor de Promessas
+Copyright (c) 2026 André Massa
+
+Este projeto usa duas licenças, ambas para uso NÃO COMERCIAL:
+
+1. CÓDIGO — PolyForm Noncommercial License 1.0.0
+   Vale para os scripts (scripts/), a interface (web/ e docs/) e qualquer
+   outro arquivo de programa do repositório.
+   Texto completo: LICENSE-CODIGO.md
+   https://polyformproject.org/licenses/noncommercial/1.0.0
+
+2. DADOS E TEXTOS — Creative Commons Atribuição-NãoComercial 4.0 Internacional (CC BY-NC 4.0)
+   Vale para a base de promessas e de impacto fiscal (data/, docs/dados/),
+   o livro de códigos, a documentação e os textos do site.
+   Texto completo: LICENSE-DADOS.txt
+   https://creativecommons.org/licenses/by-nc/4.0/deed.pt_BR
+
+Em resumo: você pode usar, copiar, estudar, adaptar e redistribuir, desde que
+não seja para fins comerciais e que dê crédito ("Monitor de Promessas, André Massa,
+https://promessas.afsm.me"). Pesquisa acadêmica, jornalismo sem fins lucrativos,
+ensino e uso pessoal são exemplos de usos permitidos. Para uso comercial, peça
+autorização ao autor.
+
+Os planos de governo e os textos extraídos deles (data/interim/*.txt) são
+documentos públicos registrados no Tribunal Superior Eleitoral e não são
+cobertos por estas licenças.
+
+Este resumo não substitui os textos das licenças; em caso de dúvida, valem
+LICENSE-CODIGO.md e LICENSE-DADOS.txt.

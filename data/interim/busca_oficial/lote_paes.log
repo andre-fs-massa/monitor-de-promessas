@@ -1,0 +1,81 @@
+conscientizacao | "Educação para Cidadania" | 29 -> 29
+conscientizacao | "Cidadania Carioca" | escola | 7 -> 0
+super_centros | "Super Centro" | Realengo | 113 -> 2
+super_centros | "Super Centro" | Jacarepaguá | 113 -> 2
+super_centros | "Super Centro Carioca de Saúde da Criança" | 1 -> 1
+autismo | "Espectro Autista" | centro;referência | 106 -> 28
+autismo | "Espectro Autista" | programa;famílias | 106 -> 15
+climatizacao | "climatização das escolas" | 2 -> 2
+creches | "vagas em creche" | 0 -> 0
+programacao | "pensamento computacional" | 4 -> 4
+brt_vlt | "Lei Complementar nº 289" | 8 -> 8
+brt_vlt | "VLP" | BRT | 11 -> 2
+jae_tarifa | "integração tarifária" | Jaé | 16 -> 10
+faixa_azul | "motofaixa" | 6 -> 6
+jae_tarifa | "política tarifária" | 11 -> 11
+eletrificacao | "transição energética" | ônibus | 14 -> 4
+eletrificacao | "ônibus elétricos" | 26 -> 26
+qualificacao | "Oportunidades Cariocas" | 22 -> 22
+tempo_integral | "tempo integral" | matrículas;% | 90 -> 15
+fundo_turismo | "Fundo Municipal de Turismo" | 13 -> 13
+fundo_turismo | "Rotas Aéreas Internacionais" | 13 -> 13
+rondas_gm | "Ronda Escolar" | 9 -> 9
+creches | "Espaço de Desenvolvimento Infantil" | inaugura | 776 -> 1
+bolsa_valores | "Bolsa de Valores" | 16 -> 16
+climatizacao | "climatização" | salas de aula | 263 -> 0
+programacao | "programação" | alunos;rede municipal;computa | 1875 -> 0
+educ_especial | "Agente de Apoio à Educação Especial" | contrata | 1834 -> 79
+brt_seguro | "BRT Seguro" | 25 -> 25
+formalizacao | "formalização" | trabalhadores;incentivo | 2839 -> 0
+iluminacao_cameras | "Civitas" | câmeras | 59 -> 18
+formalizacao | "formalização" | programa;auxílio financeiro | 2839 -> 0
+selo_diamante | "Selo Diamante" | 13 -> 13
+whatsapp_wifi | "Wi-Fi" | público | 45 -> 14
+acari | "Rio Acari" | 332 -> 30
+rondas_gm | "Guarda Municipal" | praças;parques;efetivo | 4706 -> 0
+gm_armada | "Força Municipal" | arma de fogo | 743 -> 0
+sirenes | "sirenes" | inunda | 3 -> 1
+ppps | "Parceria Público-Privada" | contrato | 129 -> 53
+sirenes | "sirenes" | enchente | 3 -> 1
+ppps | "leilão" | concessão;B3 | 320 -> 0
+zn_verde | "ZN Verde" | 2 -> 2
+zn_verde | "Planta Mais Rio" | 0 -> 0
+iluminacao_cameras | "iluminação pública" | LED;novos pontos | 726 -> 0
+prato_feito | "Restaurante Popular Carioca" | 0 -> 0
+zn_verde | "Planta+Rio" | 238 -> 30
+prato_feito | "Prato Feito Carioca" | 6 -> 6
+carioquinha | "Cartão Primeira Infância Carioca" | 13 -> 13
+pop_rua | "Seguir em Frente" | acolhid | 4 -> 1
+whatsapp_wifi | "WhatsApp" | 1746 | 138 -> 13
+morar_carioca | "Morar Carioca" | 50 -> 30
+morar_carioca | "Bairro Maravilha" | 448 -> 30
+empreend_feminino | "Rede Empreendedora Carioca" | 5 -> 5
+jardim_maravilha | "Jardim Maravilha" | drenagem | 78 -> 33
+hub_favela | "Favela Empreendedora" | 15 -> 15
+casa_carioca | "Casa Carioca" | 238 -> 30
+reassentamento | "reassentamento" | ribeirinh | 155 -> 0
+empreend_feminino | "empreendedorismo feminino" | capacita | 12 -> 7
+reassentamento | "reassentamento" | inunda | 155 -> 0
+maria_penha | "Ronda Maria da Penha" | 11 -> 11
+cartao_mulheres | "Cartão Família Carioca" | mulheres | 16 -> 2
+carioquinha | "Carioquinha" | renda | 97 -> 3
+espacos_juventude | "Espaço da Juventude" | 12 -> 12
+cartao_mulheres | "Cartão Carioca" | chefes de família | 53 -> 2
+pacto_juventude | "Pacto pela Juventude" | 123 -> 30
+rio_vestibular | "Rio Vestibular" | 0 -> 0
+jae_cultural | "Jaé Cultural" | 2 -> 2
+oficina_cultural | "Oficina Cultural Carioca" | 2 -> 2
+pop_rua | "situação de rua" | acolhimento;meta | 266 -> 14
+espacos_juventude | "Casa da Juventude" | 106 -> 30
+oficina_cultural | "Oficinas Culturais" | Carioca | 19 -> 15
+museu_olimpico | "Parque Imagine" | 5 -> 5
+pcd_transporte | "pessoas com deficiência" | transporte;cirurgias | 1351 -> 0
+pcd_capacitacao | "pessoas com deficiência" | capacitação;familiares | 1351 -> 1
+museu_olimpico | "Museu Olímpico" | 64 -> 30
+museu_olimpico | "Parque do Legado" | 12 -> 12
+pcd_transporte | "pessoa com deficiência" | transporte;consultas;exames | 2074 -> 0
+time_rio | "Time Rio" | 16 -> 16
+pcd_capacitacao | "pessoa com deficiência" | capacitação;15 | 2074 -> 2
+vilas_olimpicas | "Vila Olímpica" | Sepetiba | 175 -> 6
+vilas_olimpicas | "Vila Olímpica" | Cidade de Deus | 175 -> 1
+vilas_olimpicas | "Vila Olímpica" | Rio das Pedras | 175 -> 8

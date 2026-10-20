@@ -171,3 +171,7 @@ button:hover { border-color: var(--accent); }
 .resultado.deficit .valor { color: var(--s-nao); }
 .resultado.superavit .valor { color: var(--s-cumprida); }
 .resultado .det { color: var(--muted); font-size: 0.85rem; }
+
+/* Rodapé: código aberto e licença */
+.rodape { border-top: 1px solid var(--border); margin-top: 40px; padding: 20px 0 32px; color: var(--muted); font-size: 0.86rem; }
+.rodape p { margin: 0 0 6px; }

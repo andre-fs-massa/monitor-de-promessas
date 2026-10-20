@@ -1,0 +1,33 @@
+convenios_etica | "Transparência Internacional" | 0 -> 0
+salarios_em_dia | "calendário de pagamento" | servidores | 26 -> 15
+cartao_familia | "Família Carioca" | benefício;reajuste | <urlopen error [WinError 10060] Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu>
+acordo_resultados | "Acordo de Resultados" | decreto | <urlopen error [WinError 10060] Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu>
+cartao_familia | "Cartão Família Carioca" | valor | <urlopen error [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente>
+salarios_em_dia | "décimo terceiro" | pagamento;servidores | <urlopen error [WinError 10060] Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu>
+avenida_brasil | "Transbrasil" | concluí | 871 -> 8
+convenios_etica | "Tribunal de Contas" | acordo de cooperação;integridade | <urlopen error [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente>
+convenios_etica | "Ministério Público" | convênio;integridade | 1097 -> 1
+restaurantes_populares | "farmácia popular" | <urlopen error [WinError 10060] Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu>
+restaurantes_populares | "Restaurante Popular" | 82 -> 30
+frentes_trabalho | "frente de trabalho" | 112 -> 30
+conscientizacao | "educação para a cidadania" | escolas | 7 -> 3
+avenida_brasil | "Avenida Brasil" | revitaliza;investimento | <urlopen error [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente>
+restaurantes_populares | "restaurante popular" | inaugura | <urlopen error [WinError 10060] Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu>
+plano_100_dias | "cem dias" | plano | 20 -> 6
+conscientizacao | "conscientização" | cidadania;programa | <urlopen error [WinError 10060] Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu>
+conscientizacao | "Cidadania Carioca" | 33 -> 30
+frentes_trabalho | "frentes de trabalho" | 140 -> 30
+plano_100_dias | "100 dias" | plano;BRT | 500 -> 0
+plano_100_dias | "intervenção" | BRT;Mobi | 1542 -> 3

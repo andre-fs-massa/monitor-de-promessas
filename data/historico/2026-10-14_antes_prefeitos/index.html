@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta name="color-scheme" content="light">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Monitor de Promessas</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topo">
+    <div class="wrap">
+      <h1>Monitor de Promessas</h1>
+      <p class="sub">Promessas extraídas dos planos de governo registrados no TSE e classificadas pelo método do Comparative Party Pledges Group (CPPG).</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <nav class="controles" aria-label="Escolher cargo e estado">
+      <div class="abas" id="abas-cargo" role="tablist"></div>
+      <select id="seletor-uf" aria-label="Escolher estado" hidden></select>
+    </nav>
+
+    <section id="consolidado" aria-labelledby="t-consolidado">
+      <h2 id="t-consolidado">Consolidado</h2>
+      <p class="nota" id="nota-consolidado"></p>
+      <div class="kpis" id="kpis-consolidado"></div>
+      <div id="barra-consolidado"></div>
+      <div class="tabela-scroll">
+        <table class="comparativo resp" id="comparativo"></table>
+      </div>
+    </section>
+
+    <section id="mandatos" aria-labelledby="t-mandatos">
+      <div class="secao-topo">
+        <h2 id="t-mandatos">Por presidente</h2>
+        <select id="seletor-mandato" aria-label="Escolher mandato"></select>
+      </div>
+      <div id="lista-mandatos"></div>
+    </section>
+
+    <section id="metodo" aria-labelledby="t-metodo">
+      <h2 id="t-metodo">Método</h2>
+      <ul>
+        <li><strong>Fonte das promessas:</strong> só o plano de governo registrado no TSE (portal de dados abertos). Discursos, debates e entrevistas ficam de fora.</li>
+        <li><strong>Elegibilidade (CPPG):</strong> entram todas as frases do plano que comprometem o governo com uma ação ou resultado testável (criar, extinguir, construir, implantar, meta com número), tenham ou não evidência encontrada. Diretrizes genéricas ("valorizar a educação", "fortalecer", "apoiar") e estudos de viabilidade não são codificados.</li>
+        <li><strong>Status:</strong> cumprida, parcialmente cumprida, não cumprida; em andamento enquanto o mandato está em curso; interrompida quando o mandato acabou antes do prazo (impeachment, renúncia) com a promessa já iniciada e prazo posterior à saída (sem nenhum início, ela conta como não cumprida). Quando a busca na imprensa e em fontes oficiais não encontra nenhum registro de execução, a promessa conta como não cumprida, e a busca fica descrita na evidência: confiança baixa se a busca foi só na imprensa e em sites, média se também foi consultado o Diário Oficial ou a Assembleia Legislativa.</li>
+        <li><strong>Depende do Legislativo:</strong> a promessa só se cumpre com lei, emenda constitucional ou conversão de medida provisória, aprovadas pelo Congresso (presidentes) ou pela Assembleia Legislativa (governadores). O que o Executivo faz sozinho (decreto, portaria, gestão) conta como "só do Executivo".</li>
+        <li><strong>Competência de outro ente:</strong> marcada quando a execução cabe por lei a outro ente federativo (União, estados ou municípios), e quem prometeu só pode financiar, induzir ou cooperar.</li>
+        <li><strong>Comparação:</strong> presidentes e governadores não são somados no mesmo consolidado, porque têm poderes e orçamentos de escala diferente.</li>
+        <li><strong>Taxas:</strong> calculadas sobre as promessas avaliadas (excluindo as não avaliadas).</li>
+        <li><strong>Evidência:</strong> cada veredito tem link para a fonte e nível de confiança. Base aberta em <code>data/base_aberta/</code>.</li>
+      </ul>
+    </section>
+  </main>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

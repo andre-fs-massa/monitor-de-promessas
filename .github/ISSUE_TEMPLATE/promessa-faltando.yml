@@ -1,0 +1,24 @@
+name: Promessa que ficou de fora
+description: Sugerir uma promessa verificável do plano de governo que não está na base
+title: "[Nova promessa] <mandato>"
+labels: ["promessa faltando"]
+body:
+  - type: input
+    id: mandato
+    attributes:
+      label: Mandato
+      description: Id do mandato (data/mandatos.csv), por exemplo bolsonaro_2018
+    validations:
+      required: true
+  - type: textarea
+    id: trecho
+    attributes:
+      label: Trecho literal do plano e página
+      description: Copie o trecho exatamente como está no plano de governo registrado no TSE.
+    validations:
+      required: true
+  - type: textarea
+    id: evidencia
+    attributes:
+      label: Evidência de cumprimento (opcional)
+      description: Se souber, diga se foi cumprida e coloque os links.
