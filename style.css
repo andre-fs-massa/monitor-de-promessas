@@ -31,8 +31,9 @@ body {
 h1 { margin: 0 0 6px; font-size: 1.6rem; letter-spacing: -0.01em; }
 h2 { font-size: 1.2rem; margin: 40px 0 8px; }
 h3 { margin: 0; font-size: 1.1rem; }
-.previa { background: var(--aviso-bg); border: 1px solid var(--s-parcial); border-radius: 8px; padding: 8px 12px; margin: 0; max-width: 70ch; font-size: 0.9rem; }
+.previa { background: var(--aviso-bg); border: 1px solid var(--s-parcial); border-radius: 8px; padding: 8px 12px; margin: 0; font-size: 0.9rem; }
 .sub, .nota { color: var(--muted); margin: 0 0 16px; max-width: 70ch; }
+.topo .sub { max-width: none; }
 a { color: var(--accent); }
 code { font-size: 0.9em; }
 
@@ -46,8 +47,6 @@ code { font-size: 0.9em; }
 .barra { display: flex; height: 22px; border-radius: 6px; overflow: hidden; background: var(--border); }
 .barra span { display: block; height: 100%; }
 .barra span + span { border-left: 2px solid var(--surface); }
-.legenda { display: flex; flex-wrap: wrap; gap: 14px; margin: 8px 0 0; color: var(--muted); font-size: 0.85rem; }
-.legenda span { display: inline-flex; align-items: center; gap: 6px; }
 
 .congresso { margin: 18px 0 4px; }
 .congresso-topo { display: flex; align-items: baseline; gap: 8px; color: var(--muted); margin-bottom: 6px; }

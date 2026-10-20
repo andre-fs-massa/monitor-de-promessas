@@ -81,17 +81,11 @@ function blocoImpacto(lista, m) {
     despMenos && `mais despesas cortadas ${fmtBi(despMenos)}`,
   ].filter(Boolean).join(", ").replace(/^(menos|mais) (.)/, (_, _1, c) => c.toUpperCase());
   const emCurso = m && m.situacao_mandato === "em_curso";
-  const pendentes = com.filter((p) => p.impacto.valor_incremental_rs_bi && !p.impacto.valor_acumulado_rs_bi && p.impacto.periodo_acumulado);
   const acumulado = periodo ? `
     <div class="resultado acumulado ${saldoAc < 0 ? "deficit" : "superavit"}">
       <div class="rotulo">Resultado das promessas para as contas do governo no mandato (${periodo}${emCurso ? ", mandato em curso" : ""})</div>
       <div class="valor">${saldoAc < 0 ? "Déficit" : "Superávit"} de ${fmtBi(Math.abs(saldoAc))}</div>
-      <div class="det">${contaAc}. ${saldoAc < 0
-        ? "As promessas implementadas aumentaram mais os gastos do que a arrecadação."
-        : "As promessas implementadas aumentaram mais a arrecadação do que os gastos."} É o efeito dessas promessas, não o déficit ou superávit total do governo.${
-        emCurso ? ` Só anos completos; ${anosAc[anosAc.length - 1] * 1 + 1} ainda está em curso.` : ""}${
-        pendentes.length === 1 ? " Não inclui 1 promessa que só começa a valer depois desse período."
-          : pendentes.length ? ` Não inclui ${pendentes.length} promessas que só começam a valer depois desse período.` : ""}</div>
+      <div class="det">${contaAc}.</div>
     </div>` : "";
   return `
     <div class="impacto-resumo">
@@ -188,17 +182,6 @@ function kpis(cols, r) {
     .join("");
 }
 
-function barra(r) {
-  const presentes = ORDEM.filter((s) => r.cont[s] > 0);
-  const partes = presentes
-    .map((s) => `<span style="width:${(r.cont[s] / r.total) * 100}%;background:${COR[s]}" title="${ROTULO[s]}: ${r.cont[s]}"></span>`)
-    .join("");
-  const legenda = presentes
-    .map((s) => `<span><i class="ponto" style="background:${COR[s]}"></i>${ROTULO[s]} ${r.cont[s]}</span>`)
-    .join("");
-  return `<div class="barra" role="img" aria-label="Distribuição de status">${partes}</div><div class="legenda">${legenda}</div>`;
-}
-
 // Proporção que depende do Legislativo e desempenho de cada grupo
 // Tabelas do consolidado e do cartão de cada mandato que o leitor pode expandir e recolher (fechadas por padrão; a escolha vale ao trocar de aba)
 const aberta = {};
@@ -247,17 +230,13 @@ function renderConsolidado(lista, cargo) {
   const daVez = promessas.filter((p) => lista.some((m) => m.id === p.mandato_id));
   const cols = colunasDe(daVez);
   const r = resumo(daVez);
-  const emCurso = lista.filter((m) => m.situacao_mandato === "em_curso").length;
-  const interrompidos = lista.filter((m) => m.situacao_mandato === "interrompido").length;
 
   $("t-consolidado").textContent =
     cargo === "presidente" ? "Consolidado dos presidentes" : `Consolidado dos ${txt.plural} · ${nomeLugar(lista[0])}`;
   $("nota-consolidado").textContent =
-    `${lista.length} ${lista.length === 1 ? txt.singular : txt.plural} analisado(s), ${r.total} promessas testáveis no total.` +
-    (emCurso ? ` ${emCurso} mandato(s) ainda em curso: os números mudam até o fim do mandato.` : "") +
-    (interrompidos ? ` ${interrompidos} mandato(s) encerrado(s) antes do prazo, avaliado(s) até a data de saída.` : "");
+    lista.length === 1 ? `1 ${txt.singular} analisado` : `${lista.length} ${txt.plural} analisados`;
   $("kpis-consolidado").innerHTML = kpis(cols, r);
-  $("barra-consolidado").innerHTML = barra(r) + blocoLegislativo(daVez, cols, txt.legislativo, "legislativo");
+  $("barra-consolidado").innerHTML = blocoLegislativo(daVez, cols, txt.legislativo, "legislativo");
 
   const linhas = lista.map((m) => {
     const lm = doMandato(m);
@@ -324,7 +303,6 @@ function renderMandato(m) {
       </div>
       ${m.observacao_mandato ? `<p class="aviso">${esc(m.observacao_mandato)}</p>` : ""}
       <div class="kpis">${kpis(cols, r)}</div>
-      ${barra(r)}
       ${blocoLegislativo(lista, cols, leg, "cartao-legislativo")}
       ${blocoImpacto(lista, m)}
       <p class="meta">Plano: <a href="${esc(m.url_tse)}">${esc(m.arquivo_plano)}</a> (TSE)</p>
