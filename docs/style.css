@@ -33,8 +33,8 @@ h2 { font-size: 1.2rem; margin: 40px 0 8px; }
 h3 { margin: 0; font-size: 1.1rem; }
 .previa { background: var(--aviso-bg); border: 1px solid var(--s-parcial); border-radius: 8px; padding: 8px 12px; margin: 0; font-size: 0.9rem; }
 .sub, .nota { color: var(--muted); margin: 0 0 16px; max-width: 70ch; }
-.topo .sub { max-width: none; }
-.chamada { font-size: 1.15rem; font-weight: 500; color: var(--text); margin: 4px 0 8px; }
+.rodape .sub { max-width: none; margin-bottom: 12px; }
+.chamada { font-size: 1.15rem; font-weight: 500; color: var(--text); margin: 4px 0 0; }
 a { color: var(--accent); }
 code { font-size: 0.9em; }
 
@@ -176,3 +176,4 @@ button:hover { border-color: var(--accent); }
 /* Rodapé: código aberto e licença */
 .rodape { border-top: 1px solid var(--border); margin-top: 40px; padding: 20px 0 32px; color: var(--muted); font-size: 0.86rem; }
 .rodape p { margin: 0 0 6px; }
+.rodape .previa { margin-bottom: 16px; }
