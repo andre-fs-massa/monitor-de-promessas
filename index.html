@@ -4,7 +4,48 @@
   <meta name="color-scheme" content="light">
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Monitor de Promessas</title>
+  <title>Monitor de Promessas · planos de governo de presidentes, governadores e prefeitos</title>
+  <meta name="description" content="Quantas promessas dos planos de governo foram cumpridas? Cada promessa registrada no TSE por presidentes, governadores e prefeitos, com status, evidência e fonte.">
+  <link rel="canonical" href="https://promessas.afsm.me/">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="pt_BR">
+  <meta property="og:site_name" content="Monitor de Promessas">
+  <meta property="og:title" content="Monitor de Promessas">
+  <meta property="og:description" content="Quantas promessas dos planos de governo foram cumpridas? Presidentes, governadores e prefeitos, promessa por promessa, com evidência e fonte.">
+  <meta property="og:url" content="https://promessas.afsm.me/">
+  <meta property="og:image" content="https://promessas.afsm.me/compartilhar.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "name": "Monitor de Promessas",
+        "url": "https://promessas.afsm.me/",
+        "inLanguage": "pt-BR"
+      },
+      {
+        "@type": "Dataset",
+        "name": "Promessas dos planos de governo registrados no TSE e seu cumprimento",
+        "description": "Promessas testáveis extraídas dos planos de governo de presidentes, governadores e prefeitos registrados no Tribunal Superior Eleitoral (TSE), classificadas pelo método do Comparative Party Pledges Group (cumprida, parcialmente cumprida, não cumprida, em andamento, interrompida), com trecho literal do plano, evidência, fonte e impacto fiscal das promessas presidenciais.",
+        "url": "https://promessas.afsm.me/",
+        "inLanguage": "pt-BR",
+        "isAccessibleForFree": true,
+        "spatialCoverage": "Brasil",
+        "temporalCoverage": "2011/..",
+        "keywords": ["promessas de campanha", "plano de governo", "TSE", "presidente", "governador", "prefeito", "transparência"],
+        "distribution": [
+          {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://promessas.afsm.me/dados/promessas.csv"},
+          {"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://promessas.afsm.me/dados/promessas.json"},
+          {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://promessas.afsm.me/dados/impacto_fiscal.csv"}
+        ]
+      }
+    ]
+  }
+  </script>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -59,6 +100,7 @@
     </section>
   </main>
 
+  <noscript><p class="wrap">O Monitor de Promessas precisa de JavaScript para mostrar os dados. A base completa está em <a href="dados/promessas.csv">promessas.csv</a> e <a href="dados/promessas.json">promessas.json</a>.</p></noscript>
   <script src="data.js"></script>
   <script src="app.js"></script>
 </body>
