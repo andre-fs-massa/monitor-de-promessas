@@ -260,15 +260,15 @@ const POR_PAGINA = 10; // linhas por página na tabela de promessas
 
 function linhaPromessa(p, leg, comImpacto) {
   const fonte = p.fonte_url ? `<a href="${esc(p.fonte_url)}" target="_blank" rel="noopener">fonte</a>` : "";
-  const impacto = comImpacto ? `<td class="imp">${celulaImpacto(p)}</td>` : "";
+  const impacto = comImpacto ? `<td class="imp" data-label="Impacto fiscal">${celulaImpacto(p)}</td>` : "";
   return `<tr>
-    <td><div>${esc(p.promessa)}</div><div class="trecho">${local(p)}: “${esc(p.trecho_literal)}”</div></td>
-    <td>${esc(p.area)}</td>
-    <td><span class="chip"><i class="ponto" style="background:${COR[p.status]}"></i>${ROTULO[p.status]}</span>
+    <td data-label="Promessa"><div>${esc(p.promessa)}</div><div class="trecho">${local(p)}: “${esc(p.trecho_literal)}”</div></td>
+    <td data-label="Área">${esc(p.area)}</td>
+    <td data-label="Status"><span class="chip"><i class="ponto" style="background:${COR[p.status]}"></i>${ROTULO[p.status]}</span>
       <div class="conf">${CONF[p.confianca]}</div>
       ${p.depende_legislativo === "sim" ? `<span class="tag-congresso">Depende do ${leg}</span>` : ""}
       ${p.outro_ente ? `<span class="tag-ente" title="A execução cabe por lei a outro ente federativo">Competência: ${esc(p.outro_ente)}</span>` : ""}</td>
-    <td class="evid">${esc(p.evidencia)} ${fonte}</td>
+    <td class="evid" data-label="Evidência">${esc(p.evidencia)} ${fonte}</td>
     ${impacto}
   </tr>`;
 }

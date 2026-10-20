@@ -89,6 +89,10 @@ button:hover { border-color: var(--accent); }
   .promessas thead { display: none; }
   .promessas tr { display: block; border-bottom: 1px solid var(--border); padding: 8px 0; }
   .promessas td { display: block; border: 0; padding: 4px 12px; width: auto !important; }
+  /* Rótulo da coluna acima de cada campo, como nas outras tabelas */
+  .promessas td::before { content: attr(data-label); display: block; color: var(--muted); font-size: 0.72rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em; margin-bottom: 2px; }
+  .promessas td + td { padding-top: 8px; }
+  .promessas td:first-child > div:first-of-type { font-weight: 600; }
 }
 
 .secao-topo { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin: 40px 0 8px; }
