@@ -31,9 +31,7 @@ body {
 h1 { margin: 0 0 6px; font-size: 1.75rem; letter-spacing: -0.01em; }
 h2 { font-size: 1.2rem; margin: 40px 0 8px; }
 h3 { margin: 0; font-size: 1.1rem; }
-.previa { background: var(--aviso-bg); border: 1px solid var(--s-parcial); border-radius: 8px; padding: 8px 12px; margin: 0; font-size: 0.9rem; }
-.sub, .nota { color: var(--muted); margin: 0 0 16px; max-width: 70ch; }
-.rodape .sub { max-width: none; margin-bottom: 12px; }
+.nota { color: var(--muted); margin: 0 0 16px; max-width: 70ch; }
 .topo h1 .pais { white-space: nowrap; }
 /* Subtítulo em duas linhas: contexto leve + pergunta em destaque */
 .chamada { margin: 10px 0 0; line-height: 1.3; text-wrap: balance; }
@@ -186,4 +184,36 @@ button:hover { border-color: var(--accent); }
 /* Rodapé: código aberto e licença */
 .rodape { border-top: 1px solid var(--border); margin-top: 40px; padding: 20px 0 32px; color: var(--muted); font-size: 0.86rem; }
 .rodape p { margin: 0 0 6px; }
-.rodape .previa { margin-bottom: 16px; }
+
+/* Método: caixa expansível (fechada por padrão) */
+.metodo-caixa { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; margin-top: 40px; overflow: hidden; }
+.metodo-caixa > summary { list-style: none; cursor: pointer; display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 18px 20px; }
+.metodo-caixa > summary::-webkit-details-marker { display: none; }
+.metodo-caixa > summary:hover { background: #fafaf8; }
+.metodo-caixa > summary:focus-visible { outline: 2px solid var(--accent); outline-offset: -2px; }
+.metodo-titulo { display: flex; flex-direction: column; gap: 4px; }
+.metodo-titulo h2 { margin: 0; }
+.metodo-resumo { color: var(--muted); font-size: 0.9rem; }
+.metodo-seta { flex: none; width: 32px; height: 32px; border-radius: 50%; background: var(--bg); border: 1px solid var(--border); position: relative; transition: transform 0.2s ease; }
+.metodo-seta::before { content: ""; position: absolute; left: 50%; top: 45%; width: 8px; height: 8px; border-right: 2px solid var(--accent); border-bottom: 2px solid var(--accent); transform: translate(-50%, -50%) rotate(45deg); }
+.metodo-caixa[open] .metodo-seta { transform: rotate(180deg); }
+.metodo-caixa[open] > summary { border-bottom: 1px solid var(--border); }
+.metodo-caixa > ul { margin: 0; padding: 16px 20px 20px 40px; }
+.metodo-caixa > ul li { margin-bottom: 10px; line-height: 1.55; }
+.metodo-caixa > ul li:last-child { margin-bottom: 0; }
+@media (max-width: 640px) {
+  .metodo-caixa > summary { padding: 14px 16px; }
+  .metodo-caixa > ul { padding: 14px 16px 16px 32px; }
+}
+
+/* Rodapé enxuto */
+.rodape .wrap { display: flex; flex-direction: column; gap: 10px; }
+.rodape p { margin: 0; }
+.rodape-sobre strong { color: var(--text); }
+.rodape-previa .selo-previa { display: inline-block; margin-right: 6px; }
+.selo-previa { background: var(--aviso-bg); border: 1px solid var(--s-parcial); color: #7a5410; border-radius: 999px; padding: 1px 10px; font-size: 0.78rem; font-weight: 600; }
+.rodape-links { display: flex; flex-wrap: wrap; gap: 8px 20px; padding: 4px 0; }
+.rodape-links a { color: var(--accent); font-weight: 600; text-decoration: none; }
+.rodape-links a:hover { text-decoration: underline; }
+.rodape-licenca { font-size: 0.8rem; }
+.rodape-licenca a { white-space: nowrap; }

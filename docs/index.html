@@ -91,8 +91,15 @@
     </section>
 
     <section id="metodo" aria-labelledby="t-metodo">
-      <h2 id="t-metodo">Método</h2>
-      <ul>
+      <details class="metodo-caixa">
+        <summary>
+          <span class="metodo-titulo">
+            <h2 id="t-metodo">Método</h2>
+            <span class="metodo-resumo">De onde vêm as promessas, como cada uma é classificada e como calculamos o impacto fiscal</span>
+          </span>
+          <span class="metodo-seta" aria-hidden="true"></span>
+        </summary>
+        <ul>
         <li><strong>Fonte das promessas:</strong> só o plano de governo registrado no TSE (portal de dados abertos). Discursos, debates e entrevistas ficam de fora.</li>
         <li><strong>Elegibilidade (CPPG):</strong> entram todas as frases do plano que comprometem o governo com uma ação ou resultado testável (criar, extinguir, construir, implantar, meta com número), tenham ou não evidência encontrada. Diretrizes genéricas ("valorizar a educação", "fortalecer", "apoiar") e estudos de viabilidade não são codificados.</li>
         <li><strong>Status:</strong> cumprida, parcialmente cumprida, não cumprida; em andamento enquanto o mandato está em curso; interrompida quando o mandato acabou antes do prazo (impeachment, renúncia) com a promessa já iniciada e prazo posterior à saída (sem nenhum início, ela conta como não cumprida). Quando a busca na imprensa e em fontes oficiais não encontra nenhum registro de execução, a promessa conta como não cumprida, e a busca fica descrita na evidência: confiança baixa se a busca foi só na imprensa e em sites, média se também foi consultado o Diário Oficial ou o Legislativo (Assembleia ou Câmara Municipal).</li>
@@ -102,16 +109,21 @@
         <li><strong>Comparação:</strong> presidentes, governadores e prefeitos não são somados no mesmo consolidado, porque têm poderes e orçamentos de escala diferente.</li>
         <li><strong>Taxas:</strong> calculadas sobre as promessas avaliadas (excluindo as não avaliadas).</li>
         <li><strong>Evidência:</strong> cada veredito tem link para a fonte e nível de confiança. Base aberta: <a href="dados/promessas.csv">promessas.csv</a>, <a href="dados/promessas.json">promessas.json</a> e <a href="dados/impacto_fiscal.csv">impacto_fiscal.csv</a>.</li>
-      </ul>
+        </ul>
+      </details>
     </section>
   </main>
 
   <footer class="rodape">
     <div class="wrap">
-      <p class="sub">Promessas extraídas dos planos de governo registrados no TSE e classificadas pelo método do Comparative Party Pledges Group (CPPG).</p>
-      <p class="previa"><strong>Versão preliminar:</strong> as classificações e os valores de impacto fiscal ainda estão em revisão e podem mudar.</p>
-      <p><strong>Código aberto:</strong> veja como foi feito, aponte erros ou colabore no <a href="https://github.com/andre-fs-massa/monitor-de-promessas">GitHub</a>.</p>
-      <p>Uso livre para fins não comerciais, com crédito: dados e textos sob <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.pt_BR">CC BY-NC 4.0</a>; código sob <a href="https://polyformproject.org/licenses/noncommercial/1.0.0">PolyForm Noncommercial 1.0.0</a>. © 2026 André Massa.</p>
+      <p class="rodape-sobre"><strong>Monitor de Promessas - Brasil</strong> · promessas dos planos de governo registrados no TSE, classificadas pelo método CPPG.</p>
+      <p class="rodape-previa"><span class="selo-previa">Versão preliminar</span> Classificações e valores de impacto fiscal ainda em revisão.</p>
+      <nav class="rodape-links" aria-label="Links do projeto">
+        <a href="https://github.com/andre-fs-massa/monitor-de-promessas">Código no GitHub</a>
+        <a href="https://github.com/andre-fs-massa/monitor-de-promessas/issues/new/choose">Apontar um erro</a>
+        <a href="dados/promessas.csv">Baixar os dados</a>
+      </nav>
+      <p class="rodape-licenca">© 2026 André Massa · Uso não comercial: dados sob <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.pt_BR">CC BY-NC 4.0</a>, código sob <a href="https://polyformproject.org/licenses/noncommercial/1.0.0">PolyForm NC 1.0.0</a>.</p>
     </div>
   </footer>
 
