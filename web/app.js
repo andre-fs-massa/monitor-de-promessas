@@ -234,7 +234,9 @@ function renderConsolidado(lista, cargo) {
   $("t-consolidado").textContent =
     cargo === "presidente" ? "Consolidado dos presidentes" : `Consolidado dos ${txt.plural} · ${nomeLugar(lista[0])}`;
   $("nota-consolidado").textContent =
-    lista.length === 1 ? `1 ${txt.singular} analisado` : `${lista.length} ${txt.plural} analisados`;
+    lista.length === 1
+      ? `1 mandato de ${txt.singular} analisado.`
+      : `${lista.length} mandatos de ${txt.plural} analisados.`;
   $("kpis-consolidado").innerHTML = kpis(cols, r);
   $("barra-consolidado").innerHTML = blocoLegislativo(daVez, cols, txt.legislativo, "legislativo");
 
