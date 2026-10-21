@@ -234,15 +234,15 @@
     "pagina": 6,
     "impacto": {
       "impacto_fiscal": "despesa_aumenta",
-      "valor_incremental_rs_bi": "1.5",
-      "valor_total_rs_bi": "4.2",
+      "valor_incremental_rs_bi": "1.6",
+      "valor_total_rs_bi": "4.3",
       "ano_ref": "2025",
       "valor_acumulado_rs_bi": "2.6",
       "periodo_acumulado": "2023-2025",
       "compensacao_rs_bi": "",
       "recorrente": "sim",
       "confianca": "media",
-      "explicacao": "Formação e provisão de profissionais para a atenção primária (ação 21BG, que paga o Mais Médicos): R$ 2,34 bi em 2023, R$ 3,99 bi em 2024 e R$ 4,15 bi em 2025, contra R$ 2,64 bi em 2022.",
+      "explicacao": "Formação e provisão de profissionais para a atenção primária (ação 21BG, que paga o Mais Médicos) e bolsas de supervisão do programa pagas pelo MEC (ação 00QC): R$ 2,42 bi em 2023, R$ 4,12 bi em 2024 e R$ 4,29 bi em 2025, contra R$ 2,73 bi em 2022.",
       "fonte_oficial": "https://portaldatransparencia.gov.br/download-de-dados/orcamento-despesa/2025",
       "fonte_comparacao": ""
     }
@@ -297,15 +297,15 @@
     "impacto": {
       "impacto_fiscal": "despesa_aumenta",
       "valor_incremental_rs_bi": "",
-      "valor_total_rs_bi": "0.8",
-      "ano_ref": "2024",
-      "valor_acumulado_rs_bi": "",
-      "periodo_acumulado": "",
+      "valor_total_rs_bi": "0.06",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "1.1",
+      "periodo_acumulado": "2023-2025",
       "compensacao_rs_bi": "",
       "recorrente": "sim",
       "confianca": "baixa",
-      "explicacao": "Apoio à modernização de estruturas produtivas do Complexo Industrial da Saúde (ação 20K7): R$ 0,79 bi em 2024; a maior parte da estratégia usa estatais, financiamentos e setor privado.",
-      "fonte_oficial": "https://portaldatransparencia.gov.br/download-de-dados/orcamento-despesa/2024",
+      "explicacao": "Apoio à modernização de estruturas produtivas do Complexo Industrial da Saúde (ação 20K7): R$ 0,48 bi em 2023, R$ 0,79 bi em 2024 e R$ 0,06 bi em 2025, contra R$ 0,06 bi em 2022. Em 2025 o gasto voltou ao nível de 2022, por isso não há despesa a mais por ano; a maior parte da estratégia usa estatais, financiamentos e setor privado.",
+      "fonte_oficial": "https://portaldatransparencia.gov.br/download-de-dados/orcamento-despesa/2025",
       "fonte_comparacao": ""
     }
   },
@@ -1598,17 +1598,17 @@
     "pagina": 34,
     "impacto": {
       "impacto_fiscal": "despesa_aumenta",
-      "valor_incremental_rs_bi": "0.05",
-      "valor_total_rs_bi": "0.05",
-      "ano_ref": "2020",
-      "valor_acumulado_rs_bi": "0.05",
-      "periodo_acumulado": "2020",
+      "valor_incremental_rs_bi": "0.06",
+      "valor_total_rs_bi": "0.06",
+      "ano_ref": "2022",
+      "valor_acumulado_rs_bi": "0.10",
+      "periodo_acumulado": "2020-2022",
       "compensacao_rs_bi": "",
       "recorrente": "sim",
-      "confianca": "media",
-      "explicacao": "O MEC reservou R$ 54 milhões para as 54 primeiras escolas cívico-militares em 2020 (R$ 1 milhão por escola, R$ 28 milhões para pagar militares da reserva); não há ação orçamentária própria para os anos seguintes.",
+      "confianca": "baixa",
+      "explicacao": "Escolas cívico-militares (Pecim), programa sem ação orçamentária própria. Segundo nota técnica do MEC divulgada pela imprensa, a remuneração dos militares da reserva custou R$ 7,0 milhões em 2020, R$ 27,2 milhões em 2021 e R$ 64,3 milhões em 2022. Os repasses às escolas não entram, porque não há série oficial em valores da época; por isso o valor está subestimado. Os R$ 54 milhões anunciados pelo MEC para 2020 eram reserva, não gasto.",
       "fonte_oficial": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2020/01/educacao-investimento-em-ensino-qualidade",
-      "fonte_comparacao": ""
+      "fonte_comparacao": "https://www.poder360.com.br/anuncios-do-governo/governo-lula-decide-encerrar-programa-de-escola-civico-militares/"
     }
   },
   {
@@ -1847,14 +1847,14 @@
     "impacto": {
       "impacto_fiscal": "neutro",
       "valor_incremental_rs_bi": "",
-      "valor_total_rs_bi": "2.6",
+      "valor_total_rs_bi": "2.7",
       "ano_ref": "2022",
       "valor_acumulado_rs_bi": "",
       "periodo_acumulado": "",
       "compensacao_rs_bi": "",
       "recorrente": "sim",
       "confianca": "media",
-      "explicacao": "O Médicos pelo Brasil substituiu o Mais Médicos sem aumentar o gasto: a provisão de médicos para a atenção primária custou R$ 2,64 bi em 2022 (ação 21BG), contra R$ 2,91 bi do Mais Médicos em 2018 (ações 214U e 00QC).",
+      "explicacao": "O Médicos pelo Brasil substituiu o Mais Médicos sem aumentar o gasto: a provisão de médicos para a atenção primária e as bolsas de supervisão custaram R$ 2,73 bi em 2022 (ações 21BG e 00QC), contra R$ 2,91 bi do Mais Médicos em 2018 (ações 214U e 00QC).",
       "fonte_oficial": "https://portaldatransparencia.gov.br/download-de-dados/orcamento-despesa/2022",
       "fonte_comparacao": ""
     }
@@ -2311,17 +2311,17 @@
     "pagina": 65,
     "impacto": {
       "impacto_fiscal": "receita_reduz",
-      "valor_incremental_rs_bi": "",
+      "valor_incremental_rs_bi": "3.7",
       "valor_total_rs_bi": "",
-      "ano_ref": "",
-      "valor_acumulado_rs_bi": "",
-      "periodo_acumulado": "",
+      "ano_ref": "2022",
+      "valor_acumulado_rs_bi": "2.2",
+      "periodo_acumulado": "2022",
       "compensacao_rs_bi": "",
-      "recorrente": "",
+      "recorrente": "sim",
       "confianca": "baixa",
-      "explicacao": "As reduções de 10% do Imposto de Importação (nov/2021 e mai/2022) reduzem a arrecadação, mas o governo não divulgou a renúncia estimada; só os efeitos esperados no PIB.",
+      "explicacao": "O Ministério da Economia estimou em R$ 3,7 bi por ano a perda de arrecadação com o segundo corte de 10% do Imposto de Importação (mai/2022, com base nas importações de 2021). No acumulado entram os sete meses de jun a dez/2022 (cerca de R$ 2,2 bi). O primeiro corte, de nov/2021, não tem estimativa divulgada e fica fora, por isso o valor está subestimado. A estimativa foi divulgada pela imprensa; a nota original no gov.br não está acessível.",
       "fonte_oficial": "https://www.gov.br/economia/pt-br/assuntos/noticias/2022/maio/governo-anuncia-nova-reducao-de-10-no-imposto-de-importacao-de-bens-comercializados",
-      "fonte_comparacao": ""
+      "fonte_comparacao": "https://www.poder360.com.br/economia/corte-de-tarifa-de-importacao-tera-renuncia-de-r-37-bilhoes"
     }
   },
   {
@@ -3769,15 +3769,15 @@
     "impacto": {
       "impacto_fiscal": "despesa_aumenta",
       "valor_incremental_rs_bi": "",
-      "valor_total_rs_bi": "",
-      "ano_ref": "",
+      "valor_total_rs_bi": "0.04",
+      "ano_ref": "2015",
       "valor_acumulado_rs_bi": "",
       "periodo_acumulado": "",
       "compensacao_rs_bi": "",
-      "recorrente": "",
-      "confianca": "baixa",
-      "explicacao": "Obras do PAC 2 em parceria com os municípios; não foi localizada ação orçamentária própria com execução em 2015.",
-      "fonte_oficial": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Praças dos Esportes e da Cultura (CEUs, ação 12MG, do PAC 2), programa que já existia: não houve novos empenhos em 2014 nem em 2015; em 2015 foram pagos R$ 0,04 bi de obras contratadas antes, contra R$ 0,22 bi pagos em 2014. Como o gasto caiu, não há despesa a mais. Valores pagos (Tesouro Transparente), porque a ação não tem empenho nesses anos.",
+      "fonte_oficial": "https://www.tesourotransparente.gov.br/ckan/dataset/despesas-da-uniao-mensais-desde-2008",
       "fonte_comparacao": ""
     }
   },
