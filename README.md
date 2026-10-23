@@ -13,7 +13,7 @@ O Monitor de Promessas lê o plano de governo que cada presidente, governador e 
 
 ## O que tem na base
 
-27 mandatos e 1.504 promessas (atualizado em outubro de 2026):
+28 mandatos e 1.521 promessas (atualizado em outubro de 2026):
 
 | Cargo | Mandato | Situação | Promessas |
 |---|---|---|---:|
@@ -44,6 +44,7 @@ O Monitor de Promessas lê o plano de governo que cada presidente, governador e 
 | Prefeito (Belo Horizonte) | Fuad Noman (2024) | em curso (com Álvaro Damião) | 27 |
 | Prefeito (Belo Horizonte) | Alexandre Kalil (2020) | interrompido (renúncia) | 94 |
 | Prefeito (Belo Horizonte) | Alexandre Kalil (2016) | encerrado | 16 |
+| Prefeito (Belo Horizonte) | Marcio Lacerda (2012) | encerrado | 17 |
 
 Os planos de governo só passaram a ser registrados no TSE a partir das eleições de 2010, por isso a base começa nelas.
 
