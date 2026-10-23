@@ -4,6 +4,7 @@ data/raw/
 data/interim/*.csv
 # Documentos oficiais baixados durante as buscas (PDFs grandes; os links estão nas evidências)
 data/interim/busca_oficial/*_docs/
+data/interim/busca_oficial/pdm_sp_*/*.pdf
 # Pasta antiga de publicação (o site agora fica em docs/)
 publicacao/
 __pycache__/

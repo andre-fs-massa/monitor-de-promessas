@@ -13,7 +13,7 @@ O Monitor de Promessas lê o plano de governo que cada presidente, governador e 
 
 ## O que tem na base
 
-16 mandatos e 998 promessas (atualizado em outubro de 2026):
+20 mandatos e 1.287 promessas (atualizado em outubro de 2026):
 
 | Cargo | Mandato | Situação | Promessas |
 |---|---|---|---:|
@@ -33,6 +33,10 @@ O Monitor de Promessas lê o plano de governo que cada presidente, governador e 
 | Prefeito (Rio) | Eduardo Paes (2020) | encerrado | 9 |
 | Prefeito (Rio) | Marcelo Crivella (2016) | encerrado | 48 |
 | Prefeito (Rio) | Eduardo Paes (2012) | encerrado | 80 |
+| Prefeito (São Paulo) | Ricardo Nunes (2024) | em curso | 92 |
+| Prefeito (São Paulo) | Bruno Covas (2020) | encerrado (completado pelo vice, Ricardo Nunes) | 48 |
+| Prefeito (São Paulo) | João Doria (2016) | interrompido (renúncia) | 89 |
+| Prefeito (São Paulo) | Fernando Haddad (2012) | encerrado | 60 |
 
 Os planos de governo só passaram a ser registrados no TSE a partir das eleições de 2010, por isso a base começa nelas.
 
