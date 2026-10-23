@@ -1,0 +1,29 @@
+# Censo do plano de Romeu Zema (governo de Minas Gerais, 2022): uma tupla por promessa testável.
+# (trecho_literal, promessa, area, tipo, depende_legislativo, outro_ente, termo de busca)
+# Só o capítulo "Perspectivas futuras" traz propostas; o resto é balanço do 1º mandato.
+# Ficaram de fora "continuar", "dar continuidade", "manter", "fortalecer" e "incentivar".
+P = [
+    ("pretendemos finalizar a entrega dos Hospitais Regionais", "Concluir a entrega dos Hospitais Regionais, por concessão e PPP", "Saúde", "acao", "nao", "", "hospital regional"),
+    ("b) Ampliação do Opera Mais: Expandir e atualizar o ROL de procedimentos cirúrgicos do OPERA MAIS", "Ampliar o Opera Mais (procedimentos e prestadores) para reduzir a fila de cirurgias", "Saúde", "acao", "nao", "", "Opera Mais"),
+    ("d) Água e Esgoto para todos Coordenar a formação de blocos regionais, conforme Novo Marco do Saneamento,", "Formar blocos regionais de saneamento para atrair investimento privado", "Saneamento", "acao", "sim", "", "saneamento"),
+    ("b) Integração das Bases de Informação da Segurança Pública", "Integrar as bases de informação das instituições de segurança pública", "Segurança pública", "acao", "nao", "", "segurança pública"),
+    ("c) Ampliação do Plantão digital Ampliar o Plantão Digital", "Ampliar a Delegacia Virtual / Plantão Digital para atendimento 24h a todos os mineiros", "Segurança pública", "acao", "nao", "", "delegacia virtual"),
+    ("Expandir o Trilhas do Futuro para continuar e ampliar a oferta gratuita de cursos técnicos", "Ampliar as vagas do Trilhas de Futuro (cursos técnicos gratuitos)", "Educação", "acao", "nao", "", "Trilhas de Futuro"),
+    ("b) Expansão do Projeto Somar Vamos ampliar o alcance do Projeto Somar.", "Ampliar o Projeto Somar (escolas estaduais geridas em parceria com instituições privadas)", "Educação", "acao", "nao", "", "Somar"),
+    ("c) Ampliar o Ensino Médio em Tempo Integral", "Ampliar o ensino médio em tempo integral", "Educação", "acao", "nao", "", "tempo integral"),
+    ("V.4. Eixo Infraestrutura e Logística a) Programas de Concessão Ampliar os programas de concessão e de parcerias público-privadas.", "Ampliar as concessões e PPPs (rodovias, aeroportos, balsas, transporte metropolitano)", "Infraestrutura", "acao", "nao", "", "concessão"),
+    ("c) Fontes Renováveis de Energia Criar um Marco Legal Estadual para as fontes renováveis de Energia", "Criar o marco legal estadual das fontes renováveis de energia", "Energia", "acao", "sim", "", "energia renovável"),
+    ("Tornar mais rápidas as decisões por parte do estado, licenciando automaticamente empreendimentos de menor impacto.", "Licenciar automaticamente empreendimentos de menor impacto (Acelera Minas)", "Meio ambiente", "acao", "nao", "", "licenciamento"),
+    ("d) Regularização Fundiária Ampliação das políticas de regularização fundiária Urbana e Rural", "Ampliar a regularização fundiária urbana e rural", "Habitação", "acao", "nao", "", "regularização fundiária"),
+    ("e) Desestatização Realizar a venda de participações minoritárias e privatização de empresas estatais", "Vender participações minoritárias e privatizar empresas estatais", "Estatais", "acao", "sim", "", "desestatização"),
+    ("f) Fundo de apoio e desenvolvimento rural Criar um Fundo Estadual para concessão de microcrédito individualizado", "Criar fundo estadual de microcrédito para agricultores familiares", "Agricultura", "acao", "sim", "", "microcrédito"),
+    ("g) Rastreabilidade e Certificação AgroPastoril Regulamentar a rastreabilidade e certificação dos produtos agropastoris", "Regulamentar a rastreabilidade e a certificação de produtos agropecuários com empresas privadas", "Agricultura", "acao", "nao", "", "rastreabilidade"),
+    ("b) Novo regulamento do ICMS Iniciamos o trabalho de revisão do ultrapassado Regulamento do ICMS -- RICMS de", "Concluir o novo Regulamento do ICMS em 2023", "Finanças públicas", "acao", "nao", "", "Regulamento do ICMS"),
+    ("c) Lei de Responsabilidade Fiscal Mineira Elaboração de um projeto de lei para estabelecer normas de finanças públicas", "Enviar projeto de Lei de Responsabilidade Fiscal mineira, incluindo inativos e auxílios na despesa de pessoal", "Finanças públicas", "acao", "sim", "", "responsabilidade fiscal"),
+    ("os cargos em comissões e em confiança que estão vagos por mera deliberação do Governo, nesta nova etapa, serão extintos definitivamente.", "Extinguir definitivamente os cargos em comissão vagos", "Gestão pública", "acao", "nao", "", "cargos em comissão"),
+    ("garantir o poder de compra do servidor público, com o reajustamento anual para recompor as perdas ocasionadas pela inflação.", "Reajustar anualmente os salários dos servidores pela inflação", "Gestão pública", "resultado", "sim", "", "revisão geral"),
+    ("d) Concessões de Unidades de Proteção Continuar e ampliar o programa de concessões de gestão de parques", "Ampliar as concessões de parques e unidades de conservação", "Meio ambiente", "acao", "nao", "", "concessão parque"),
+    ("Prover acesso à internet e a equipamentos tecnológicos, em parceria com a Secretaria de Estado de Desenvolvimento Econômico, para Mineiros em situação de vulnerabilidade.", "Prover internet, equipamentos e cursos de informática a pessoas em vulnerabilidade", "Inclusão digital", "acao", "nao", "", "inclusão digital"),
+    ("b) Auxílio Habitacional Conceder crédito, pago pelo estado, para custear, em caráter integral ou parcial,", "Criar o Auxílio Habitacional para demandas habitacionais urgentes", "Habitação", "acao", "nao", "", "auxílio habitacional"),
+    ("c) Auxílio Capacitação Auxílio social para Mineiros em estado de vulnerabilidade associado a oferta de cursos", "Criar auxílio social ligado a cursos de capacitação para pessoas em vulnerabilidade", "Assistência social", "acao", "nao", "", "auxílio"),
+]
