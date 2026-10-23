@@ -5098,7 +5098,21 @@
     "evidencia": "O prazo era 2026. Antes da renúncia o ritmo estava longe da meta: 66,8 mil vagas formais em jan–jul/2025, 35% menos que no mesmo período de 2024.",
     "fonte_url": "https://monitormercantil.com.br/estado-do-rio-abriu-so-6-119-postos-de-trabalho-em-julho/",
     "data_evidencia": "2025-08",
-    "pagina": 5
+    "pagina": 5,
+    "impacto": {
+      "impacto_fiscal": "sem_valor_proprio",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Meta de emprego; é resultado da economia e de outros programas, não de uma despesa própria.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-02",
@@ -5115,7 +5129,21 @@
     "evidencia": "Prazo até o fim do mandato, mas sem nenhum início até a renúncia. Em mais de três anos não foi localizado o projeto; a única medida próxima é o art. 26 da Lei Orçamentária de 2025, que pede estudos de modernização administrativa. Busca complementar no Diário Oficial do RJ (Parte I, jan/2023 a 23/03/2026) e no sistema da Alerj (proposições 2023-2027 e leis) em out/2026 também não localizou registro.",
     "fonte_url": "http://alerjln1.alerj.rj.gov.br/CONTLEI.NSF/f25edae7e64db53b032564fe005262ef/8c2f054f08ac4a8e03258c1400709b5b?OpenDocument=",
     "data_evidencia": "2025-01",
-    "pagina": 7
+    "pagina": 7,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Mudança de regras de gestão; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-03",
@@ -5132,7 +5160,21 @@
     "evidencia": "Ação do Pacto RJ, com prazo de três anos a partir de 2021. Após a consulta pública de 2022, não foram localizadas licitação nem obras.",
     "fonte_url": "https://www.tupi.fm/rio/rj-abre-consulta-publica-sobre-novo-sistema-de-transporte-na-baixada-fluminense/",
     "data_evidencia": "2022-05",
-    "pagina": 10
+    "pagina": 10,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Construir o metrô leve aumentaria a despesa com investimento; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-04",
@@ -5149,7 +5191,21 @@
     "evidencia": "Ação do Pacto RJ. O teleférico não voltou a operar até a renúncia; em set/2026 ainda estava na troca de cabos, sem data para reabrir.",
     "fonte_url": "https://tribunadosertao.com.br/rj-em-foco/2026/09/05/973848-teleferico-do-alemao-comeca-a-troca-de-cabos-na-proxima-semana",
     "data_evidencia": "2026-09",
-    "pagina": 10
+    "pagina": 10,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Reativar o teleférico aumentaria a despesa (obra e operação); não voltou a operar até a renúncia.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-05",
@@ -5166,7 +5222,21 @@
     "evidencia": "Ação do Pacto RJ. O MIS não ficou pronto no prazo; abriu só em mai/2026, após a renúncia, com visitação restrita.",
     "fonte_url": "https://www.correiodamanha.com.br/cultura/exposicao/2026/05/amp/283244-enfim-o-mis.html",
     "data_evidencia": "2026-05",
-    "pagina": 10
+    "pagina": 10,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Concluir o museu aumentaria a despesa com obra; só abriu depois da renúncia.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-06",
@@ -5183,7 +5253,21 @@
     "evidencia": "Ação do Pacto RJ. Em dez/2024, fim do prazo, havia 13 unidades em funcionamento.",
     "fonte_url": "https://www.correiodamanha.com.br/estado-do-rio/2024/12/175469-estado-oferta-cerca-de-126-milhoes-de-refeicoes-em-2024.html",
     "data_evidencia": "2024-12",
-    "pagina": 10
+    "pagina": 10,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.115",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "baixa",
+      "explicacao": "Abertura e reforma de Restaurantes do Povo: o governo diz ter investido mais de R$ 115 milhões no programa (ex.: R$ 12 milhões na unidade de Nova Iguaçu, dez/2024, e R$ 1,6 milhão na de Barra Mansa), sem divisão por ano. O custeio das refeições não foi divulgado. O portal de transparência do Estado não pôde ser consultado; valor anunciado pelo governo e publicado na imprensa.",
+      "fonte_oficial": "",
+      "fonte_comparacao": "https://digital.correiodamanha.com.br/jornalcorreiodamanha/2025/12/24/23221b/pdf/2412cmanha17.pdf"
+    }
   },
   {
     "id": "castro_rj_2022-07",
@@ -5200,7 +5284,21 @@
     "evidencia": "Ação do Pacto RJ. Seis meses após o lançamento, 22 E-Tecs tinham sido entregues; não foi localizado o total final. Busca complementar no Diário Oficial do RJ (Parte I, jan/2023 a 23/03/2026) e no sistema da Alerj (proposições 2023-2027 e leis) em out/2026 também não localizou registro.",
     "fonte_url": "https://www.tupi.fm/?p=1568681",
     "data_evidencia": "2023",
-    "pagina": 10
+    "pagina": 10,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "Reforma de Cieps como E-Tecs: o governo anunciou R$ 150 milhões para as 50 escolas, mas só 22 foram entregues e não há valor do que foi gasto. O portal de transparência do Estado não pôde ser consultado; valor anunciado pelo governo e publicado na imprensa.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-08",
@@ -5217,7 +5315,21 @@
     "evidencia": "Ação do Pacto RJ, com prazo vencido em 2024. Não há registro de 5 mil entregas: o portal do Pacto mostrava obras como as 320 unidades do Complexo do Alemão ainda em execução, e o programa Casa da Gente tinha cerca de 4 mil unidades em contratação. Busca complementar no Diário Oficial do RJ (Parte I, jan/2023 a 23/03/2026) e no sistema da Alerj (proposições 2023-2027 e leis) em out/2026 também não localizou registro.",
     "fonte_url": "https://pacto.rj.gov.br/ficha.php?p=96",
     "data_evidencia": "2024",
-    "pagina": 10
+    "pagina": 10,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Construir moradias aumentaria a despesa; a meta não foi atingida e não há valor do que foi gasto.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-09",
@@ -5234,7 +5346,21 @@
     "evidencia": "O programa passou de 40 bases (mai/2024) para 61 (mar/2026), antes da renúncia.",
     "fonte_url": "https://digital.correiodamanha.com.br/jornalcorreiodamanha/2026/03/04/213825/pdf/0403cmanha17.pdf",
     "data_evidencia": "2026-03",
-    "pagina": 24
+    "pagina": 24,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "Novas bases da Segurança Presente aumentam a despesa (policiais em horário extra pago e viaturas), parte paga pela Fecomércio e por prefeituras; o custo anual do programa não é divulgado. O portal de transparência do Estado não pôde ser consultado; valor anunciado pelo governo e publicado na imprensa.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-10",
@@ -5251,7 +5377,21 @@
     "evidencia": "O Rio Imagem Baixada funciona em Nova Iguaçu desde 2023 e passou de 2 milhões de exames em set/2025.",
     "fonte_url": "https://digital.correiodamanha.com.br/jornalcorreiodamanha/2025/09/29/222151/pdf/2909cmanha11.pdf",
     "data_evidencia": "2025-09",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.09",
+      "ano_ref": "2023",
+      "valor_acumulado_rs_bi": "0.09",
+      "periodo_acumulado": "2023",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "media",
+      "explicacao": "Construção e equipamentos do Rio Imagem Baixada (Nova Iguaçu), com recursos do Pacto RJ: R$ 90 milhões. O custeio anual do centro não foi divulgado. O portal de transparência do Estado não pôde ser consultado; valor anunciado pelo governo e publicado na imprensa.",
+      "fonte_oficial": "",
+      "fonte_comparacao": "https://digital.correiodamanha.com.br/jornalcorreiodamanha/2025/09/29/222151/pdf/2909cmanha11.pdf"
+    }
   },
   {
     "id": "castro_rj_2022-11",
@@ -5268,7 +5408,21 @@
     "evidencia": "O governador assinou o decreto que pôs em funcionamento o Observatório (previsto na Lei 9.644/2022) e o estado lançou a plataforma de dados.",
     "fonte_url": "https://folhadoleste.com.br/castro-cria-observatorio-do-feminicidio-para-combater-violencia-video/",
     "data_evidencia": "2024-06",
-    "pagina": 33
+    "pagina": 33,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Observatório de dados, com custo pequeno frente ao orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-12",
@@ -5285,7 +5439,21 @@
     "evidencia": "O prazo era o fim do mandato. A Cedae contratou a primeira etapa (terraplanagem) e a segunda etapa estava em licitação em 2025.",
     "fonte_url": "https://www.tupi.fm/?p=923184",
     "data_evidencia": "2025",
-    "pagina": 35
+    "pagina": 35,
+    "impacto": {
+      "impacto_fiscal": "fora_do_orcamento",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Obra da Cedae, empresa estatal com orçamento próprio, fora do orçamento fiscal do Estado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-13",
@@ -5302,7 +5470,21 @@
     "evidencia": "O Hospital do Coração de Duque de Caxias, com R$ 21 milhões do estado, foi inaugurado em set/2024 e virou referência regional.",
     "fonte_url": "https://www.correiodamanha.com.br/baixada/2026/08/311264-hospital-do-coracao-de-caxias-e-referencia-na-baixada.html",
     "data_evidencia": "2024-09",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.021",
+      "ano_ref": "2024",
+      "valor_acumulado_rs_bi": "0.021",
+      "periodo_acumulado": "2024",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "media",
+      "explicacao": "Repasse do Estado de R$ 21 milhões para o Hospital do Coração de Duque de Caxias, hospital municipal inaugurado em set/2024. O portal de transparência do Estado não pôde ser consultado; valor anunciado pelo governo e publicado na imprensa.",
+      "fonte_oficial": "",
+      "fonte_comparacao": "https://www.correiodamanha.com.br/baixada/2026/08/311264-hospital-do-coracao-de-caxias-e-referencia-na-baixada.html"
+    }
   },
   {
     "id": "castro_rj_2022-14",
@@ -5319,7 +5501,21 @@
     "evidencia": "Prazo até o fim do mandato, mas sem nenhum início até a renúncia. Não foi localizado lançamento até a renúncia; a secretaria tratou apenas do eMuseu do Esporte, iniciativa digital da UERJ, e em 2025 o Maracanã entrou na lista de imóveis à venda. Busca complementar no Diário Oficial do RJ (Parte I, jan/2023 a 23/03/2026) e no sistema da Alerj (proposições 2023-2027 e leis) em out/2026 também não localizou registro. No Diário Oficial aparece só o patrocínio, por lei de incentivo, do e-Museu do Esporte (projeto digital privado).",
     "fonte_url": "https://www.rj.gov.br/esporte/emuseu-do-esporte-dialoga-com-secretaria",
     "data_evidencia": "2023",
-    "pagina": 30
+    "pagina": 30,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Lançar o museu aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-15",
@@ -5336,7 +5532,21 @@
     "evidencia": "Concessão federal. O prazo era o fim do mandato; a ANTT aprovou os estudos em dez/2025 e o projeto seguiu ao TCU, sem leilão até a renúncia.",
     "fonte_url": "https://agenciainfra.com/blog/antt-aprova-estudos-e-ef-118-ira-ao-tcu-com-aportes-da-vale-mrs-e-rumo/",
     "data_evidencia": "2025-12",
-    "pagina": 27
+    "pagina": 27,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Concessão de ferrovia federal; não passa pelo orçamento do Estado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-16",
@@ -5353,7 +5563,21 @@
     "evidencia": "Prazo até o fim do mandato, mas sem nenhum início até a renúncia. Não foram localizados registros de obra até a renúncia; em Lazareto, o projeto público registrado é a restauração do casarão pela prefeitura, sem relação com moradia. Busca complementar no Diário Oficial do RJ (Parte I, jan/2023 a 23/03/2026) e no sistema da Alerj (proposições 2023-2027 e leis) em out/2026 também não localizou registro. No Diário Oficial, as ações do estado em Duas Pedras/Lazareto são obras de contenção e drenagem (contrato de 2021), sem relação com moradias.",
     "fonte_url": "https://www.pmnf.rj.gov.br/noticia/view/5275/casarao-do-lazareto-entra-na-fase-final-de-restauracao-e-sera-novo-espaco-de-cultura-e-cidadania-em-nova-friburgo",
     "data_evidencia": "2026-03",
-    "pagina": 28
+    "pagina": 28,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Construir as moradias aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-17",
@@ -5370,7 +5594,21 @@
     "evidencia": "Ação do Pacto RJ, com prazo vencido em 2024. A ligação não foi feita: em set/2026 ainda aparecia como proposta de campanha para o governo seguinte.",
     "fonte_url": "https://diariodorio.com/politica/2026/09/14/eduardo-paes-propoe-brt-ate-nova-iguacu-e-aeroparque-na-area-do-aeroclube.html",
     "data_evidencia": "2026-09",
-    "pagina": 10
+    "pagina": 10,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Fazer a ligação viária aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-18",
@@ -5387,7 +5625,21 @@
     "evidencia": "Ação do Pacto RJ. O corredor Neves–Guaxindiba (MUVI), executado pelo estado, teve obras iniciadas em 2023 e trechos entregues em 2024, mas não foi localizada a conclusão total.",
     "fonte_url": "https://www.correiodamanha.com.br/estado-do-rio/2024/07/144870-sao-goncalo-tem-nova-etapa-de-corredor-viario.html",
     "data_evidencia": "2024-07",
-    "pagina": 10
+    "pagina": 10,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.287",
+      "ano_ref": "2024",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "baixa",
+      "explicacao": "Corredor MUVI (Neves–Guaxindiba), em parceria com a Prefeitura de São Gonçalo: investimento anunciado de R$ 287 milhões (R$ 262 milhões no início das obras), sem divisão entre Estado e prefeitura nem por ano; a obra não estava concluída. O portal de transparência do Estado não pôde ser consultado; valor anunciado pelo governo e publicado na imprensa.",
+      "fonte_oficial": "",
+      "fonte_comparacao": "https://folhadoleste.com.br/obras-muvi-sao-goncalo-mobilidade/"
+    }
   },
   {
     "id": "castro_rj_2022-19",
@@ -5404,7 +5656,21 @@
     "evidencia": "Busca na imprensa e em sites oficiais (out/2026) não localizou registro de balanço da revitalização dos 882 km até a renúncia. Busca complementar no Diário Oficial do RJ (Parte I, jan/2023 a 23/03/2026) e no sistema da Alerj (proposições 2023-2027 e leis) em out/2026 também não localizou registro.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 10
+    "pagina": 10,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Revitalizar as vias aumentaria a despesa; sem balanço do que foi feito.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-20",
@@ -5421,7 +5687,21 @@
     "evidencia": "A meta era anual (10 mil moradias por ano); as metas de 2023, 2024 e 2025 venceram antes da renúncia e as entregas localizadas são pontuais (ex.: 153 casas em Areal, edital de 500 em Teresópolis), muito abaixo do prometido. Programa criado em 2021 com meta de 50 mil unidades até 2026.",
     "fonte_url": "https://www.tupi.fm/?p=889890",
     "data_evidencia": "2024",
-    "pagina": 26
+    "pagina": 26,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Construir moradias aumentaria a despesa; as entregas ficaram muito abaixo da meta e não há valor.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-21",
@@ -5438,7 +5718,21 @@
     "evidencia": "O governo entregou aos moradores os projetos de adequação das 150 moradias; não foi localizada a conclusão das reformas até a renúncia.",
     "fonte_url": "https://www.tupi.fm/?p=950634",
     "data_evidencia": "2023",
-    "pagina": 27
+    "pagina": 27,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "Reformar as casas aumentaria a despesa; só os projetos foram entregues, sem valor divulgado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-22",
@@ -5455,7 +5749,21 @@
     "evidencia": "Em ago/2024 o Samu estadual inaugurava a 38ª base descentralizada e tinha comprado 28 das 30 motolâncias; não foi localizada a 40ª base até a renúncia.",
     "fonte_url": "https://www.correiodamanha.com.br/rio-de-janeiro/2024/08/149595-samu-cresce-17-no-1-semestre.html",
     "data_evidencia": "2024-08",
-    "pagina": 21
+    "pagina": 21,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "Bases do Samu e motolâncias aumentam a despesa; a compra das 30 motolâncias e de ambulâncias (R$ 87,4 milhões no programa Samu 100% RJ) foi feita em 2022, antes do mandato, e o custeio das novas bases não foi divulgado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-23",
@@ -5472,7 +5780,21 @@
     "evidencia": "Busca na imprensa e em sites oficiais (out/2026) não localizou registro de turma do Desenvolve Mulher no Cantagalo até a renúncia. Busca complementar no Diário Oficial do RJ (Parte I, jan/2023 a 23/03/2026) e no sistema da Alerj (proposições 2023-2027 e leis) em out/2026 também não localizou registro.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 32
+    "pagina": 32,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Levar o curso ao Cantagalo aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-24",
@@ -5489,7 +5811,21 @@
     "evidencia": "O programa seguia em execução: em jun/2026 somava 2,15 milhões de mudas plantadas e 1.294 hectares restaurados, abaixo da meta.",
     "fonte_url": "https://www.correiodamanha.com.br/estado-do-rio/2026/06/297485-florestas-do-amanha-investe-rs-395-milhoes-no-rio.html",
     "data_evidencia": "2026-06",
-    "pagina": 34
+    "pagina": 34,
+    "impacto": {
+      "impacto_fiscal": "fora_do_orcamento",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Plantio pago pelo Fundo da Mata Atlântica (recursos de compensação ambiental geridos pelo Funbio) e por parceiros privados, fora do orçamento fiscal do Estado; o programa soma mais de R$ 100 milhões.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-25",
@@ -5506,7 +5842,21 @@
     "evidencia": "A única revisão localizada (Lei 11.071/2025) aumentou a compensação ao Fundo Orçamentário Temporário cobrada das empresas beneficiadas, sem vincular os incentivos a metas de resultado. Busca complementar no Diário Oficial do RJ (Parte I, jan/2023 a 23/03/2026) e no sistema da Alerj (proposições 2023-2027 e leis) em out/2026 também não localizou registro.",
     "fonte_url": "https://monitormercantil.com.br/estado-do-rio-reduzira-gradualmente-incentivos-fiscais-ate-2032/",
     "data_evidencia": "2025-12",
-    "pagina": 17
+    "pagina": 17,
+    "impacto": {
+      "impacto_fiscal": "receita_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "Ligar os incentivos a metas poderia aumentar a receita; não implementada. A Lei 11.071/2025 aumentou a contribuição das empresas beneficiadas ao Fundo Orçamentário Temporário, mas não é o que foi prometido.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-26",
@@ -5523,7 +5873,21 @@
     "evidencia": "A rede de escolas interculturais passou de 20 para 27 unidades em 2024, em 12 municípios.",
     "fonte_url": "https://folhadoleste.com.br/escolas-interculturais-ampliam-oferta-de-vagas-para-2024/",
     "data_evidencia": "2024",
-    "pagina": 19
+    "pagina": 19,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "Novas escolas interculturais aumentam a despesa com educação, sem valor separado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-27",
@@ -5540,7 +5904,21 @@
     "evidencia": "Busca na imprensa e em sites oficiais (out/2026) não localizou registro de expansão do UniverSeeduc até a renúncia. Busca complementar no Diário Oficial do RJ (Parte I, jan/2023 a 23/03/2026) e no sistema da Alerj (proposições 2023-2027 e leis) em out/2026 também não localizou registro.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 19
+    "pagina": 19,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Levar cursos a novas cidades aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-28",
@@ -5557,7 +5935,21 @@
     "evidencia": "O Instituto Estadual de Oncologia da Baixada Fluminense (Onco Baixada), em Nova Iguaçu, foi inaugurado em fev/2026, antes da renúncia, com R$ 87,3 milhões do estado.",
     "fonte_url": "https://www.tupi.fm/?p=2284749",
     "data_evidencia": "2026-02",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.087",
+      "ano_ref": "2026",
+      "valor_acumulado_rs_bi": "0.087",
+      "periodo_acumulado": "2023-2026",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "media",
+      "explicacao": "Construção do Instituto Estadual de Oncologia da Baixada (Nova Iguaçu), inaugurado em fev/2026: R$ 87,3 milhões do Estado, sem divisão por ano. O custeio do hospital não foi divulgado. O portal de transparência do Estado não pôde ser consultado; valor anunciado pelo governo e publicado na imprensa.",
+      "fonte_oficial": "",
+      "fonte_comparacao": "https://www.tupi.fm/?p=2284749"
+    }
   },
   {
     "id": "castro_rj_2022-29",
@@ -5574,7 +5966,21 @@
     "evidencia": "As obras foram retomadas em 2022 e chegaram à fase final em 2024, mas o hospital não abriu até a renúncia; em set/2026 ainda aguardava inauguração.",
     "fonte_url": "https://www.diariodorio.com/politica/2026/09/03/douglas-ruas-promete-inaugurar-hospital-do-cancer-de-friburgo-nos-primeiros-100-dias.html",
     "data_evidencia": "2026-09",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.075",
+      "ano_ref": "2024",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "baixa",
+      "explicacao": "Obra do Hospital Estadual de Oncologia de Nova Friburgo, retomada em 2022 e não inaugurada: o governo citava cerca de R$ 75 milhões em 2024 (R$ 65,3 milhões em outra reportagem), sem divisão por ano. O portal de transparência do Estado não pôde ser consultado; valor anunciado pelo governo e publicado na imprensa.",
+      "fonte_oficial": "",
+      "fonte_comparacao": "https://www.correiodamanha.com.br/correio-serrano/2024/07/144296-hospital-oncologico-de-nova-friburgo-sera-entregue-em-novembro-de-2024.html"
+    }
   },
   {
     "id": "castro_rj_2022-30",
@@ -5591,7 +5997,21 @@
     "evidencia": "Busca na imprensa e em sites oficiais (out/2026) não localizou registro de hospital estadual em Resende consolidado (os registros localizados são o Hospital de Olhos, de 2024, e o Hospital do Câncer municipal com repasse estadual) até a renúncia. Busca complementar no Diário Oficial do RJ (Parte I, jan/2023 a 23/03/2026) e no sistema da Alerj (proposições 2023-2027 e leis) em out/2026 também não localizou registro. No Diário Oficial aparecem só repasses estaduais a serviços municipais e filantrópicos de Resende.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Consolidar o hospital aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-31",
@@ -5608,7 +6028,21 @@
     "evidencia": "Busca na imprensa e em sites oficiais (out/2026) não localizou registro de obra ou ampliação do Hospital do Tórax até a renúncia. Busca complementar no Diário Oficial do RJ (Parte I, jan/2023 a 23/03/2026) e no sistema da Alerj (proposições 2023-2027 e leis) em out/2026 também não localizou registro.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o hospital aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-32",
@@ -5625,7 +6059,21 @@
     "evidencia": "Havia uma maternidade estadual em São Gonçalo com obra inacabada (Maternidade São Gonçalo e Clínica da Mãe, no Colubandê). Em fev/2025 a Secretaria de Saúde e a EMOP firmaram cooperação e em nov/2025 foram reservados R$ 1,65 milhão para contratar os projetos de conclusão da obra; a maternidade não ficou pronta até a renúncia.",
     "fonte_url": "https://www.ioerj.com.br/portal/modules/conteudoonline/view_publicacao.php?d=MjAyNS0xMS0xMA==&j=MTI=&p=MTQ=&i=MjY5MjQ0MQ==&s=ZDJkZTU3ZDk4NWUxMTViMzMyZWRkNmM1OTRlM2NkMzk=&tb=",
     "data_evidencia": "2025-11",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "Concluir a maternidade aumentaria a despesa; até a renúncia só houve a cooperação com a EMOP e uma reserva de R$ 1,65 milhão (nov/2025).",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-33",
@@ -5642,7 +6090,21 @@
     "evidencia": "A primeira fase da reforma do Getúlio Vargas foi entregue em set/2024, com a segunda em projeto; não foram localizadas obras no Azevedo Lima e no Roberto Chabo até a renúncia.",
     "fonte_url": "https://www.correiodamanha.com.br/nacional/sudeste/2024/09/156984-modernizacao-do-hospital-estadual-getulio-vargas.html",
     "data_evidencia": "2024-09",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.011",
+      "ano_ref": "2024",
+      "valor_acumulado_rs_bi": "0.011",
+      "periodo_acumulado": "2024",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "media",
+      "explicacao": "Primeira fase da reforma do Hospital Getúlio Vargas (emergência e CTI), entregue em set/2024: R$ 10,6 milhões com equipamentos. Azevedo Lima e Roberto Chabo não tiveram obra. O portal de transparência do Estado não pôde ser consultado; valor anunciado pelo governo e publicado na imprensa.",
+      "fonte_oficial": "",
+      "fonte_comparacao": "https://www.correiodamanha.com.br/nacional/sudeste/2024/09/156984-modernizacao-do-hospital-estadual-getulio-vargas.html"
+    }
   },
   {
     "id": "castro_rj_2022-34",
@@ -5659,7 +6121,21 @@
     "evidencia": "Busca na imprensa e em sites oficiais (out/2026) não localizou registro de ampliação do Laços para 75 unidades até a renúncia. Busca complementar no Diário Oficial do RJ (Parte I, jan/2023 a 23/03/2026) e no sistema da Alerj (proposições 2023-2027 e leis) em out/2026 também não localizou registro.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o programa aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-35",
@@ -5676,7 +6152,21 @@
     "evidencia": "Busca na imprensa e em sites oficiais (out/2026) não localizou registro de instituição da gestão de custos na Secretaria de Saúde até a renúncia. Busca complementar no Diário Oficial do RJ (Parte I, jan/2023 a 23/03/2026) e no sistema da Alerj (proposições 2023-2027 e leis) em out/2026 também não localizou registro.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Mudança de gestão; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-36",
@@ -5693,7 +6183,21 @@
     "evidencia": "Em mar/2026, antes da renúncia, foi inaugurada a primeira base em Armação dos Búzios, a 62ª do programa.",
     "fonte_url": "https://digital.correiodamanha.com.br/jornalcorreiodamanha/2026/03/06/214513/pdf/0603cmanha29.pdf",
     "data_evidencia": "2026-03",
-    "pagina": 24
+    "pagina": 24,
+    "impacto": {
+      "impacto_fiscal": "sem_valor_proprio",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Base da Segurança Presente em Búzios; o valor do programa está no item 9.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-37",
@@ -5710,7 +6214,21 @@
     "evidencia": "Busca na imprensa e em sites oficiais (out/2026) não localizou registro de novas bases da Lei Seca (o reforço localizado, de equipes, é de jun/2026, após a renúncia) até a renúncia. Busca complementar no Diário Oficial do RJ (Parte I, jan/2023 a 23/03/2026) e no sistema da Alerj (proposições 2023-2027 e leis) em out/2026 também não localizou registro.",
     "fonte_url": "https://www.tupi.fm/?p=2401878",
     "data_evidencia": "2026-10",
-    "pagina": 24
+    "pagina": 24,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Novas bases aumentariam a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-38",
@@ -5727,7 +6245,21 @@
     "evidencia": "Busca na imprensa e em sites oficiais (out/2026) não localizou registro de obra de complexo de treinamento da PM até a renúncia. Busca complementar no Diário Oficial do RJ (Parte I, jan/2023 a 23/03/2026) e no sistema da Alerj (proposições 2023-2027 e leis) em out/2026 também não localizou registro.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 24
+    "pagina": 24,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Construir o complexo aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-39",
@@ -5744,7 +6276,21 @@
     "evidencia": "O concurso para o quadro de Saúde da PM abriu em jun/2023 (67 vagas, 42 de médicos), mudou de banca e foi retomado em jan/2025; não foi localizada a posse dos aprovados até a renúncia.",
     "fonte_url": "https://www.direcaoconcursos.com.br/noticias/concurso-pmerj-saude-edital-publicado",
     "data_evidencia": "2025-01",
-    "pagina": 24
+    "pagina": 24,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Contratar médicos e profissionais de saúde para a PM aumentaria a despesa com pessoal; os aprovados não tinham tomado posse até a renúncia.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-40",
@@ -5761,7 +6307,21 @@
     "evidencia": "O Bairro Presente passou de 35 módulos (2022) para 54 em funcionamento em jul/2023. Não foi localizada a ampliação do Cidade Integrada para novas comunidades.",
     "fonte_url": "https://www.tupi.fm/?p=1663841",
     "data_evidencia": "2023-07",
-    "pagina": 24
+    "pagina": 24,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "Novos módulos do Bairro Presente aumentam a despesa (policiais em horário extra pago e viaturas); custo não divulgado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-41",
@@ -5778,7 +6338,21 @@
     "evidencia": "Busca na imprensa e em sites oficiais (out/2026) não localizou registro de conclusão do armazém de dados (o projeto aparece apenas como meta no planejamento do ISP para 2024–2027) até a renúncia. Busca complementar no Diário Oficial do RJ (Parte I, jan/2023 a 23/03/2026) e no sistema da Alerj (proposições 2023-2027 e leis) em out/2026 também não localizou registro.",
     "fonte_url": "https://www.rj.gov.br/isp/sites/default/files/2024-11/PEDTIC_ISP_2024_2025.pdf",
     "data_evidencia": "2026-10",
-    "pagina": 25
+    "pagina": 25,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Sistema de dados, com custo pequeno frente ao orçamento; não implementado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-42",
@@ -5795,7 +6369,21 @@
     "evidencia": "Busca na imprensa e em sites oficiais (out/2026) não localizou registro de licitação ou obra da TransBaixada até a renúncia. Busca complementar no Diário Oficial do RJ (Parte I, jan/2023 a 23/03/2026) e no sistema da Alerj (proposições 2023-2027 e leis) em out/2026 também não localizou registro.",
     "fonte_url": "https://www.tupi.fm/sentinelas/claudio-castro-diz-que-vai-tirar-do-papel-a-transbaixada-vai-mudar-a-historia-da-baixada-toda/",
     "data_evidencia": "2026-10",
-    "pagina": 28
+    "pagina": 28,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar a via aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-43",
@@ -5812,7 +6400,21 @@
     "evidencia": "Busca na imprensa e em sites oficiais (out/2026) não localizou registro de reforma das casas em Preto Forro até a renúncia. Busca complementar no Diário Oficial do RJ (Parte I, jan/2023 a 23/03/2026) e no sistema da Alerj (proposições 2023-2027 e leis) em out/2026 também não localizou registro. No Diário Oficial, a obra do estado em Preto Forro é a de um centro comunitário e área de lazer (2023–2026), não a reforma das casas.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 28
+    "pagina": 28,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Reformar as casas aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-44",
@@ -5829,7 +6431,21 @@
     "evidencia": "A CODIN lançou em 2022 edital para escolher a administradora da ZPE do Açu (suspenso pelo TCE), fez nova consulta pública do edital em mar/2024 e criou em set/2024 a comissão de implantação; a ZPE não entrou em funcionamento até a renúncia.",
     "fonte_url": "https://www.ioerj.com.br/portal/modules/conteudoonline/view_publicacao.php?d=MjAyNC0wMy0wOA==&j=MTI=&p=MzU=&i=MjU1MTExOA==&s=MjUzYjkzYmZjMjQ3ZmYwNjM0ZTc1NzViZWM2YjVmNDI=&tb=",
     "data_evidencia": "2024-09",
-    "pagina": 27
+    "pagina": 27,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Zona de processamento de exportação: regime fiscal federal; a implantação não chegou a funcionar.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-45",
@@ -5846,7 +6462,21 @@
     "evidencia": "Busca na imprensa e em sites oficiais (out/2026) não localizou registro de implantação do Aeroporto Indústria até a renúncia. Busca complementar no Diário Oficial do RJ (Parte I, jan/2023 a 23/03/2026) e no sistema da Alerj (proposições 2023-2027 e leis) em out/2026 também não localizou registro.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 27
+    "pagina": 27,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Regime aduaneiro federal em aeroporto federal; não implementado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-46",
@@ -5863,7 +6493,21 @@
     "evidencia": "Busca na imprensa e em sites oficiais (out/2026) não localizou registro de novo CIAM ou CEAM inaugurado até a renúncia. Busca complementar no Diário Oficial do RJ (Parte I, jan/2023 a 23/03/2026) e no sistema da Alerj (proposições 2023-2027 e leis) em out/2026 também não localizou registro. No Diário Oficial aparece só a cooperação de 2024 para estruturar o CEAM já existente de Queimados.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 33
+    "pagina": 33,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Novos centros aumentariam a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-47",
@@ -5880,7 +6524,21 @@
     "evidencia": "O Decreto 48.391/2023 fixou as diretrizes e o pacto foi lançado em ago/2023, com 112 ações de 21 secretarias e instituições.",
     "fonte_url": "https://folhadoleste.com.br/pacto-estadual-contra-violencia-as-mulheres-e-lancado-no-estado-do-rio/",
     "data_evidencia": "2023-08",
-    "pagina": 33
+    "pagina": 33,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Pacto de articulação entre órgãos, sem orçamento próprio.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-48",
@@ -5897,7 +6555,21 @@
     "evidencia": "Busca na imprensa e em sites oficiais (out/2026) não localizou registro de criação da Casa de Defesa Pró-Vida até a renúncia. Busca complementar no Diário Oficial do RJ (Parte I, jan/2023 a 23/03/2026) e no sistema da Alerj (proposições 2023-2027 e leis) em out/2026 também não localizou registro.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 33
+    "pagina": 33,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar a casa aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "castro_rj_2022-49",
@@ -5914,7 +6586,21 @@
     "evidencia": "Busca na imprensa e em sites oficiais (out/2026) não localizou registro de abertura de novos polos até a renúncia. Busca complementar no Diário Oficial do RJ (Parte I, jan/2023 a 23/03/2026) e no sistema da Alerj (proposições 2023-2027 e leis) em out/2026 também não localizou registro.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 33
+    "pagina": 33,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Novos polos aumentariam a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "witzel_rj_2018-01",

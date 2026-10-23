@@ -50,7 +50,7 @@ Uma **promessa** é uma frase do plano de governo registrado no TSE que comprome
 
 As taxas são calculadas sobre as promessas avaliadas (`total − nao_avaliada`). Para mandatos em curso, o status reflete a `data_corte` de `mandatos.csv`. Para mandatos interrompidos, a avaliação vai até `mandato_fim_efetivo` (data do afastamento ou da renúncia; o motivo fica em `motivo_interrupcao`); fatos posteriores podem aparecer na evidência, mas não mudam o status.
 
-## Impacto fiscal (presidentes)
+## Impacto fiscal (presidentes e governadores do RJ)
 
 Arquivo `data/impacto_fiscal/<mandato>.csv` (uma linha por promessa do mandato), validado pelo `build.py` e publicado em `data/base_aberta/impacto_fiscal.csv`.
 
@@ -66,3 +66,6 @@ Arquivo `data/impacto_fiscal/<mandato>.csv` (uma linha por promessa do mandato),
 | `fonte_oficial` / `fonte_comparacao` | Primeiro fonte oficial (execução por ação no Portal da Transparência/CGU via `scripts/orcamento_federal.py`, ministérios, Planalto, consultorias de orçamento do Congresso); imprensa só para comparar |
 
 Despesa = empenhada (na Dilma 2010 usa-se o valor PAGO do Tesouro Transparente, "Despesas da União mensais desde 2008", em todos os anos, porque o Portal da Transparência só tem o empenhado a partir de 2014); empréstimos reembolsáveis (Finep, Fundo Social) são financeiros e ficam fora. A interface soma os incrementais por grupo e calcula o resultado (déficit ou superávit) = receitas a mais − receitas a menos − compensações atreladas − despesas a mais + despesas cortadas, com a ressalva de que os anos variam e não há correção pela inflação.
+
+
+Governadores do RJ: o orçamento de referência é o do Estado. Como os portais oficiais do Estado (Transparência, SEFAZ, TCE, Alerj) recusam conexões feitas de fora do Brasil, os valores vêm de investimentos anunciados pelo governo e publicados na imprensa (`fonte_comparacao`), com confiança média ou baixa. Obra ou equipamento é gasto único (`recorrente` = `nao`) e o acumulado é o valor investido no mandato, com o período da obra; custeio não divulgado fica sem valor.

@@ -37,14 +37,18 @@ const IMPACTO = {
 const SEM_IMPACTO_DETALHE = {
   sem_impacto_direto: "medida regulatória ou sem gasto relevante",
   regra_fiscal: "regra fiscal: muda o limite de gastos, não um gasto específico",
-  fora_do_orcamento: "pago por estatal ou fundo fora do Orçamento da União",
+  fora_do_orcamento: "pago por estatal ou fundo fora do orçamento público",
   sem_impacto_primario: "não gera gasto nem receita no resultado primário",
   indireto_estatal: "efeito indireto, via lucros e dividendos de estatal",
   sem_valor_proprio: "resultado de outros programas, já contados neles",
 };
 const grupoImpacto = (p) => (p.impacto ? (IMPACTO[p.impacto.impacto_fiscal] ? p.impacto.impacto_fiscal : "sem_impacto") : "");
 const num = (v) => parseFloat(v || "0");
-const fmtBi = (v) => `R$ ${num(v).toLocaleString("pt-BR", { maximumFractionDigits: 1 })} bi`;
+const fmtBi = (v) => {
+  const x = num(v);
+  if (x !== 0 && Math.abs(x) < 1) return `R$ ${(x * 1000).toLocaleString("pt-BR", { maximumFractionDigits: Math.abs(x) < 0.01 ? 1 : 0 })} mi`;
+  return `R$ ${x.toLocaleString("pt-BR", { maximumFractionDigits: 1 })} bi`;
+};
 
 function blocoImpacto(lista, m) {
   const com = lista.filter((p) => p.impacto);
@@ -89,7 +93,7 @@ function blocoImpacto(lista, m) {
     </div>` : "";
   return `
     <div class="impacto-resumo">
-      <h4>Impacto no orçamento federal</h4>
+      <h4>Impacto no orçamento ${m && m.cargo === "governador" ? "do Estado" : m && m.cargo === "prefeito" ? "do município" : "federal"}</h4>
       ${acumulado}
       ${recolhivel("impacto-kpis", "Receitas, despesas e promessas sem impacto direto", `<div class="kpis">${tiles.join("")}</div>`)}    </div>`;
 }
