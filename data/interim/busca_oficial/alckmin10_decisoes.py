@@ -1,0 +1,83 @@
+# Classificação do censo de Geraldo Alckmin (SP, 2010), mandato 2011-2014 completo; data de corte 2026-10-23.
+# Chave = índice (1-based) em alckmin10_def.P; valor = (status, confianca, evidencia, fonte_url, data_evidencia)
+# ou None para tirar do censo. Opcional: sobrescritas de campos em AJUSTES.
+SEM = "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2011 a dez/2014) não localizou "
+A = "http://www.al.sp.gov.br/norma/"
+
+
+def S(txt, url="", data="2026-10"):
+    return ("nao_cumprida", "media", SEM + txt, url, data)
+
+
+D = {
+    1: ("cumprida", "alta", "As Leis Complementares 1.164 e 1.191/2012 criaram o Programa Ensino Integral, que começou em 2012 com 16 escolas de ensino médio e chegou a 113 unidades em 2014.", A + "169046", "2014"),
+    2: S("criação do programa Aluno em Tempo Integral, de atividades no contraturno."),
+    3: ("cumprida", "alta", "O Decreto 57.133/2011 criou o Programa de Qualificação Profissional Via Rápida Emprego, de cursos de curta duração.", A + "161722", "2011-07"),
+    4: ("cumprida", "alta", "Entre 2011 e 2014 foram abertas 26 Etecs; em 2014 a rede tinha 216 Etecs com 221 mil alunos, contra a meta de 177 mil matrículas anunciada em 2010.", "https://istoe.com.br/alckmin-deixou-de-investir-r-44-milhoes-em-etecs-e-fatecs", "2014"),
+    5: S("programa para alunos das Etecs e Fatecs comprarem computadores e equipamentos."),
+    6: ("cumprida", "media", "O Decreto 57.121/2011 criou o Programa Rede de Ensino Médio Técnico (Rede), de ensino técnico para alunos da rede estadual em parceria com instituições de formação profissional.", A + "161701", "2011-07"),
+    7: ("cumprida", "alta", "Entre 2011 e 2014 foram abertas 14 Fatecs (Tatuapé, Taubaté, Itaquera, Jacareí, Pompeia, entre outras), e leis de 2011 e 2012 criaram cargos docentes na USP e na Unesp.", "https://istoe.com.br/alckmin-deixou-de-investir-r-44-milhoes-em-etecs-e-fatecs", "2014"),
+    8: ("cumprida", "alta", "A Lei 14.836/2012 criou a Fundação Univesp, que abriu seu primeiro vestibular em 2014 com 3.330 vagas em engenharias e licenciaturas.", A + "167531", "2014"),
+    9: ("cumprida", "alta", "Decretos de 2011 a 2013 criaram AMEs em Barretos, Catanduva, Mogi das Cruzes, Mauá, Assis, Ourinhos, Sorocaba, Pariquera-Açu e Lorena.", A + "161102", "2013-04"),
+    10: ("cumprida", "alta", "Decretos de 2011 a 2014 criaram unidades Lucy Montoro em São José do Rio Preto, Mogi Mirim, Marília, Pariquera-Açu e Santos.", A + "161795", "2014-01"),
+    11: ("cumprida", "alta", "O governo criou o programa Recomeço e as unidades Recomeço Helvétia (2013) e Recomeço Ipiranga (2014), além de convênios com comunidades terapêuticas (Lei 15.550/2014).", A + "171425", "2014-03"),
+    12: S("ampliação do programa de reforma e modernização dos hospitais estaduais."),
+    13: S("ampliação dos locais de distribuição ou da lista de medicamentos do Dose Certa."),
+    14: S("ampliação da entrega domiciliar de medicamentos de uso contínuo pelo Estado."),
+    15: ("cumprida", "media", "A Rede Hebe Camargo de Combate ao Câncer foi lançada em mar/2013, com investimento anunciado de R$ 190 milhões e 71 unidades integradas.", "https://al.sp.gov.br/spl/2013/10/Propositura/1164821_50089880_Propositura.doc", "2013-10"),
+    16: ("cumprida", "media", "O Decreto 61.019/2014 criou o Centro de Referência do Idoso Oeste, na capital, e o programa São Paulo Amigo do Idoso foi instituído em 2012.", A + "173912", "2014-12"),
+    17: ("nao_cumprida", "media", "A PM terminou 2014 com cerca de 4 mil policiais a menos que o efetivo fixado em lei (93,8 mil); não foi localizado aumento do efetivo real no mandato.", "https://exame.com/brasil/pm-deve-fechar-o-ano-com-4-mil-homens-a-menos/", "2014-11"),
+    18: S("aumento do número de delegados; as leis do período reestruturaram a carreira e os vencimentos."),
+    19: ("cumprida", "media", "A Lei Complementar 1.188/2012 autorizou a remuneração de policiais em convênios com prefeituras, e a Atividade Delegada, criada na capital em 2009, se espalhou por cerca de 60 outras cidades.", "https://siave.camarapiracicaba.sp.gov.br/arquivo?Id=363440", "2012"),
+    20: ("parcialmente_cumprida", "media", "O governo se comprometeu com o CNJ a zerar os presos em delegacias até ago/2012, mas em set/2012 ainda havia 5,6 mil (eram 6 mil em dez/2011); algumas cadeias públicas foram extintas, como a de São José do Rio Preto em 2014.", "https://www.conjur.com.br/2012-set-26/cnj-elabora-relatorio-recomendacoes-fechar-cadeias-superlotadas//?print=1", "2012-09"),
+    21: S("expansão da Delegacia Eletrônica."),
+    22: ("cumprida", "media", "Em 2014 o governo lançou o Detecta, sistema da SSP com a Microsoft que integra bancos de dados policiais e câmeras de monitoramento, inclusive de municípios.", "https://news.microsoft.com/pt-br/parceria-entre-governo-de-sp-e-microsoft-amplia-acoes-de-inteligencia-policial/", "2014-04"),
+    23: ("cumprida", "alta", "Decretos de 2011 criaram novas unidades prisionais, como as penitenciárias femininas de Tremembé II e Tupi Paulista e o CDP de Taiúva.", A + "161079", "2011-08"),
+    24: S("ampliação das audiências por videoconferência."),
+    25: ("nao_cumprida", "media", "O monitoramento por tornozeleira, iniciado em 2010, esbarrou na Justiça: em mar/2011 só 1.180 presos tinham autorização, das 4,5 mil tornozeleiras contratadas; não foi localizada ampliação no mandato.", "https://vermelho.org.br/2011/03/14/juizes-do-interior-vetam-tornozeleira-eletronica-em-sp/", "2011-03"),
+    26: S("expansão do Banco do Povo aos 645 municípios; em 2017 deputados ainda pediam unidades em vários municípios."),
+    27: S("expansão do Emprega São Paulo com georreferenciamento."),
+    28: ("cumprida", "media", "Em 2011 foram criados o Via Rápida Emprego (Decreto 57.133) e o Programa Escola de Qualificação Profissional, do Fundo Social (Decreto 57.314).", A + "162148", "2011-09"),
+    29: None,  # Rede Estadual de Parques Tecnológicos: o Sistema Paulista de Parques Tecnológicos já existia (2006)
+    30: S("aumento do benefício ou da cobertura do Renda Cidadã e do Ação Jovem; o Decreto 56.922/2011 reorganizou o Ação Jovem.", A + "161257"),
+    31: ("cumprida", "alta", "Decretos de 2013 e 2014 criaram seis novos Centros de Integração da Cidadania.", A + "172531", "2014-03"),
+    32: S("balanço de ampliação ou recuperação de estradas vicinais no mandato."),
+    33: ("cumprida", "alta", "O Projeto de Desenvolvimento Rural Sustentável – Microbacias II teve unidade de gestão criada em 2011 e o projeto de apoio a negócios de produtores aprovado em 2012 (Decreto 58.211).", A + "167491", "2012-07"),
+    34: S("ampliação do programa Melhor Caminho."),
+    35: S("ampliação do Viva Leite, transferido para a Secretaria de Desenvolvimento Social em 2011."),
+    36: S("ampliação da rede Bom Prato no mandato; em 2014 ela tinha cerca de 40 unidades."),
+    37: ("cumprida", "baixa", "O Inventário Florestal mostrou aumento da vegetação nativa entre os levantamentos de 2008-2009 e 2017-2019 (22,9% do território), mas não isola o período do mandato.", "https://revistapesquisa.fapesp.br/estado-de-sao-paulo-registra-aumento-de-49-na-area-de-vegetacao-nativa/", "2020"),
+    38: ("cumprida", "media", "O Decreto 58.148/2012 criou o Parque Estadual Nascentes do Paranapanema e o Mosaico de Unidades de Conservação de Paranapiacaba.", A + "167275", "2012-06"),
+    39: S("aumento do número de municípios com tratamento de esgoto universalizado no mandato."),
+    40: ("parcialmente_cumprida", "baixa", "Em jan/2014 havia oito piscinões em obras na Grande São Paulo, mas o governo cancelou a PPP que construiria outros sete reservatórios.", "https://www.dgabc.com.br/Noticia/506502/sem-ppp-estado-garante-que-ira-manter-limpeza-de-25-piscinoes", "2014-01"),
+    41: ("nao_cumprida", "media", "Até 2014 só a revisão do projeto e o apoio técnico a três núcleos do parque tinham sido feitos; as obras desses núcleos ficaram para 2015.", "https://vermelho.org.br/?p=333794", "2014"),
+    42: ("cumprida", "media", "A terceira etapa do Projeto Tietê seguiu em execução e a quarta começou em 2014; o Decreto 59.093/2013 instituiu planos de despoluição dos rios da Região Metropolitana.", A + "169958", "2014"),
+    43: S("ampliação da urbanização de favelas e da erradicação de cortiços."),
+    44: ("parcialmente_cumprida", "baixa", "A CDHU seguiu entregando moradias, inclusive em parceria com o governo federal e prefeituras (ex.: Carapicuíba, 2013 e 2014); não foi localizado balanço que mostre ampliação da oferta no mandato.", "https://cbic.org.br/mais-de-100-familias-de-carapicuiba-recebem-casa-propria/", "2013-07"),
+    45: ("cumprida", "baixa", "O Decreto 57.905/2012 autorizou a Defesa Civil estadual a firmar convênios com municípios para obras e serviços de prevenção; não foi localizado balanço das obras.", A + "166447", "2012-03"),
+    46: S("ampliação do programa Vila Dignidade."),
+    47: ("cumprida", "alta", "O Decreto 56.639, de 01/01/2011, organizou a Secretaria de Desenvolvimento Metropolitano (extinta depois pela Lei 15.331/2014).", A + "160807", "2011-01"),
+    48: ("cumprida", "alta", "Os Decretos 59.094 e 59.229/2013 instituíram os fundos de desenvolvimento da Região Metropolitana de São Paulo e do Vale do Paraíba e Litoral Norte.", A + "169969", "2013-04"),
+    49: ("cumprida", "media", "A rede foi ampliada no mandato, com o primeiro trecho do monotrilho da Linha 15 (Vila Prudente–Oratório, ago/2014) e novas estações de metrô.", "https://www.tribunapr.com.br/noticias/brasil/alckmin-inaugura-monotrilho-e-defende-investimento-em-infraestrutura/", "2014-08"),
+    50: ("nao_cumprida", "media", "A CPTM contratou 65 trens em 2013, mas as entregas atrasaram (só dez entregues em 2016); não houve conversão das linhas ao padrão de metrô no mandato.", "https://exame.com/brasil/promotoria-apura-atraso-em-entrega-de-trens-da-cptm", "2016"),
+    51: ("nao_cumprida", "media", "As obras da linha de trem até Guarulhos (Linha 13-Jade) começaram no mandato, mas ela só foi inaugurada em mar/2018.", "https://diariodotransporte.com.br/2018/03/31/alckmin-inaugura-linha-13-jade/", "2018-03"),
+    52: ("nao_cumprida", "media", "As obras do VLT da Baixada Santista atrasaram (previstas para 2012, adiadas para 2013) e nenhum trecho operava ao fim de 2014.", "https://sites.unisanta.br/hemeroteca/arquivos/a62.pdf", "2012-10"),
+    53: ("nao_cumprida", "media", "O corredor, com conclusão prevista para o 2º semestre de 2014, não foi concluído: em 2017 o governo assinou contrato para continuar as obras, com três anos de atraso.", "https://diariodotransporte.com.br/2017/04/14/com-tres-anos-de-atraso-alckmin-assina-contrato-para-continuacao-de-obras-em-corredor-de-onibus-na-regiao-de-campinas/amp/", "2017-04"),
+    54: ("parcialmente_cumprida", "alta", "O Trecho Leste foi aberto em jul/2014 (37,7 km, 87% do previsto); as obras do Trecho Norte começaram em 2013 e não foram concluídas.", "https://setcesp.org.br/noticias/alckmin-entrega-hoje-parte-do-trecho-leste-do-rodoanel/", "2014-07"),
+    55: S("ampliação da capacidade da hidrovia, que parou por falta de chuva em 2014; o pacote de investimentos com a União só foi anunciado em 2015."),
+    56: ("cumprida", "media", "A Virada Cultural Paulista passou de 24 a 27 cidades em 2012 para 28 a 31 municípios em 2014.", "https://en.wikipedia.org/wiki/Virada_Cultural", "2014"),
+    57: S("criação do programa Ruas 24 Horas."),
+    58: S("criação do Museu da História de São Paulo."),
+    59: ("cumprida", "alta", "O MAC USP inaugurou em jan/2012 sua sede no antigo prédio do Detran, no Ibirapuera, reformado pela Secretaria da Cultura.", "https://revistapesquisa.fapesp.br/wp-content/uploads/2012/03/094-0951.pdf", "2012-03"),
+    60: S("criação do programa Cine Cidade."),
+    61: ("cumprida", "baixa", "A Lei 14.949/2013, de iniciativa parlamentar e sancionada, ampliou o Bolsa Talento Esportivo para atletas de modalidades não olímpicas; não foi localizado o número de bolsas.", A + "169386", "2013-02"),
+    62: ("cumprida", "media", "O Cartão VidAtiva, benefício para idosos de baixa renda fazerem atividade física em academias e clubes credenciados, começou em fase piloto em dez/2013.", "https://comdipi.jundiai.sp.gov.br/wp-content/uploads/2015/02/cartilha-idoso.pdf", "2013-12"),
+    63: S("construção de novo Centro Olímpico estadual."),
+    64: S("reforma do Conjunto Desportivo do Ibirapuera ou de outras unidades esportivas estaduais."),
+    65: ("parcialmente_cumprida", "media", "O Estado criou o programa de incentivo ao investimento esportivo para a Copa (Decreto 58.339/2012), mas o monotrilho da Linha 17, a obra estadual de mobilidade da matriz da Copa, saiu da lista em 2013 e não foi entregue.", "https://apublica.org/2013/01/promessa-da-copa-2014-de-melhorar-mobilidade-urbana-nao-sera-cumprida/", "2013"),
+    66: S("ampliação do Programa Estadual de Desburocratização."),
+    67: ("cumprida", "baixa", "Novos postos do Poupatempo foram abertos no mandato (ex.: Carapicuíba, dez/2014); não foi localizado o total de postos de 2010 e 2014.", "https://carapicuiba.sp.gov.br/noticia/impressao?id=1778", "2014-12"),
+    68: ("parcialmente_cumprida", "media", "O Acessa São Paulo passou de 596 postos em 525 municípios (2010) para 849 unidades em 589 municípios (2015), sem chegar a todos os 645.", "https://teletime.com.br/26/04/2016/governo-de-sp-lanca-edital-para-promover-acesso-wi-fi-em-telecentros/", "2016-04"),
+    69: ("cumprida", "alta", "Em out/2014 o governo ampliou o programa Banda Larga Popular, com isenção de ICMS também para planos de 1,5 e 2 Mbps; havia 2,5 milhões de residências atendidas.", "https://tiinside.com.br/16/10/2014/sao-paulo-anuncia-extensao-da-banda-larga-sem-icms-para-servicos-de-15-mbps-e-2-mbps/", "2014-10"),
+}
+AJUSTES = {25: {"promessa": "Ampliar o monitoramento eletrônico de presos do regime semiaberto"}}

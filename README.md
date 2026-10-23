@@ -13,7 +13,7 @@ O Monitor de Promessas lê o plano de governo que cada presidente, governador e 
 
 ## O que tem na base
 
-13 mandatos e 776 promessas (atualizado em outubro de 2026):
+16 mandatos e 998 promessas (atualizado em outubro de 2026):
 
 | Cargo | Mandato | Situação | Promessas |
 |---|---|---|---:|
@@ -26,12 +26,15 @@ O Monitor de Promessas lê o plano de governo que cada presidente, governador e 
 | Governador (RJ) | Luiz Fernando Pezão (2014) | encerrado | 77 |
 | Governador (RJ) | Sérgio Cabral (2010) | interrompido (renúncia) | 137 |
 | Governador (SP) | Tarcísio de Freitas (2022) | em curso | 77 |
+| Governador (SP) | João Doria (2018) | interrompido (renúncia) | 29 |
+| Governador (SP) | Geraldo Alckmin (2014) | interrompido (renúncia) | 125 |
+| Governador (SP) | Geraldo Alckmin (2010) | encerrado | 68 |
 | Prefeito (Rio) | Eduardo Paes (2024) | em curso | 48 |
 | Prefeito (Rio) | Eduardo Paes (2020) | encerrado | 9 |
 | Prefeito (Rio) | Marcelo Crivella (2016) | encerrado | 48 |
 | Prefeito (Rio) | Eduardo Paes (2012) | encerrado | 80 |
 
-Os planos de governo só passaram a ser registrados no TSE a partir das eleições de 2010, por isso a base começa nelas. Próximos na fila: os governadores de São Paulo de 2010 a 2018.
+Os planos de governo só passaram a ser registrados no TSE a partir das eleições de 2010, por isso a base começa nelas.
 
 ## Como funciona
 
