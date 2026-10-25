@@ -33785,7 +33785,21 @@
     "evidencia": "As Leis Complementares 1.164 e 1.191/2012 criaram o Programa Ensino Integral, que começou em 2012 com 16 escolas de ensino médio e chegou a 113 unidades em 2014.",
     "fonte_url": "http://www.al.sp.gov.br/norma/169046",
     "data_evidencia": "2014",
-    "pagina": 7
+    "pagina": 7,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.061",
+      "valor_total_rs_bi": "0.061",
+      "ano_ref": "2014",
+      "valor_acumulado_rs_bi": "0.074",
+      "periodo_acumulado": "2011-2014",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Educação integral (ação 6136), criada com o Programa Ensino Integral: sem empenho até 2012, R$ 12 milhões em 2013 e R$ 61 milhões em 2014. Subestima o custo, porque a maior parte do salário e da gratificação dos professores estava nas ações gerais de pessoal.",
+      "fonte_oficial": "https://www.fazenda.sp.gov.br/SigeoLei131/Paginas/FlexConsDespesa.aspx",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-02",
@@ -33802,7 +33816,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2011 a dez/2014) não localizou criação do programa Aluno em Tempo Integral, de atividades no contraturno.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 7
+    "pagina": 7,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Instituir o Aluno em Tempo Integral aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-03",
@@ -33819,7 +33847,21 @@
     "evidencia": "O Decreto 57.133/2011 criou o Programa de Qualificação Profissional Via Rápida Emprego, de cursos de curta duração.",
     "fonte_url": "http://www.al.sp.gov.br/norma/161722",
     "data_evidencia": "2011-07",
-    "pagina": 7
+    "pagina": 7,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O Via Rápida Emprego paga bolsas e cursos, mas o gasto fica em ações gerais de qualificação profissional, sem separação.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-04",
@@ -33836,7 +33878,21 @@
     "evidencia": "Entre 2011 e 2014 foram abertas 26 Etecs; em 2014 a rede tinha 216 Etecs com 221 mil alunos, contra a meta de 177 mil matrículas anunciada em 2010.",
     "fonte_url": "https://istoe.com.br/alckmin-deixou-de-investir-r-44-milhoes-em-etecs-e-fatecs",
     "data_evidencia": "2014",
-    "pagina": 7
+    "pagina": 7,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.632",
+      "valor_total_rs_bi": "1.789",
+      "ano_ref": "2014",
+      "valor_acumulado_rs_bi": "1.683",
+      "periodo_acumulado": "2011-2014",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Soma das ações do Centro Paula Souza (Etecs e Fatecs): expansão e desenvolvimento da educação profissional técnica e tecnológica (1515, 2226, 5290, 5292) e ensino médio (5852). Foram R$ 1,16 bi em 2010, R$ 1,26 bi em 2011, R$ 1,38 bi em 2012, R$ 1,89 bi em 2013 e R$ 1,79 bi em 2014. Inclui pessoal e reajustes, não só as unidades novas; o valor também cobre as Fatecs da promessa 7.",
+      "fonte_oficial": "https://www.fazenda.sp.gov.br/SigeoLei131/Paginas/FlexConsDespesa.aspx",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-05",
@@ -33853,7 +33909,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2011 a dez/2014) não localizou programa para alunos das Etecs e Fatecs comprarem computadores e equipamentos.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 7
+    "pagina": 7,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar meios de compra de computadores aumentaria a despesa ou seria crédito; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-06",
@@ -33870,7 +33940,21 @@
     "evidencia": "O Decreto 57.121/2011 criou o Programa Rede de Ensino Médio Técnico (Rede), de ensino técnico para alunos da rede estadual em parceria com instituições de formação profissional.",
     "fonte_url": "http://www.al.sp.gov.br/norma/161701",
     "data_evidencia": "2011-07",
-    "pagina": 7
+    "pagina": 7,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O programa Rede paga cursos técnicos em instituições parceiras, mas o gasto não aparece em ação própria do orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-07",
@@ -33887,7 +33971,21 @@
     "evidencia": "Entre 2011 e 2014 foram abertas 14 Fatecs (Tatuapé, Taubaté, Itaquera, Jacareí, Pompeia, entre outras), e leis de 2011 e 2012 criaram cargos docentes na USP e na Unesp.",
     "fonte_url": "https://istoe.com.br/alckmin-deixou-de-investir-r-44-milhoes-em-etecs-e-fatecs",
     "data_evidencia": "2014",
-    "pagina": 7
+    "pagina": 7,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "As novas Fatecs estão nas ações do Centro Paula Souza, contadas na promessa 4; as vagas das universidades estaduais são pagas pelo repasse fixo do ICMS, sem despesa nova do Tesouro.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-08",
@@ -33904,7 +34002,21 @@
     "evidencia": "A Lei 14.836/2012 criou a Fundação Univesp, que abriu seu primeiro vestibular em 2014 com 3.330 vagas em engenharias e licenciaturas.",
     "fonte_url": "http://www.al.sp.gov.br/norma/167531",
     "data_evidencia": "2014",
-    "pagina": 7
+    "pagina": 7,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.029",
+      "ano_ref": "2014",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Univesp (ação 2076 até 2012 e ação 6137 depois): R$ 23 milhões em 2010, R$ 20 milhões em 2011, R$ 22 milhões em 2012, R$ 16 milhões em 2013 e R$ 29 milhões em 2014. No mandato o gasto ficou abaixo de 2010, por isso só o custo de 2014.",
+      "fonte_oficial": "https://www.fazenda.sp.gov.br/SigeoLei131/Paginas/FlexConsDespesa.aspx",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-09",
@@ -33921,7 +34033,21 @@
     "evidencia": "Decretos de 2011 a 2013 criaram AMEs em Barretos, Catanduva, Mogi das Cruzes, Mauá, Assis, Ourinhos, Sorocaba, Pariquera-Açu e Lorena.",
     "fonte_url": "http://www.al.sp.gov.br/norma/161102",
     "data_evidencia": "2013-04",
-    "pagina": 8
+    "pagina": 8,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "Os novos AMEs aumentam a despesa (obra e custeio), mas o gasto não aparece em ação própria do orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-10",
@@ -33938,7 +34064,21 @@
     "evidencia": "Decretos de 2011 a 2014 criaram unidades Lucy Montoro em São José do Rio Preto, Mogi Mirim, Marília, Pariquera-Açu e Santos.",
     "fonte_url": "http://www.al.sp.gov.br/norma/161795",
     "data_evidencia": "2014-01",
-    "pagina": 8
+    "pagina": 8,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "As novas unidades da Rede Lucy Montoro aumentam a despesa, mas o gasto não aparece em ação própria do orçamento até 2015.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-11",
@@ -33955,7 +34095,21 @@
     "evidencia": "O governo criou o programa Recomeço e as unidades Recomeço Helvétia (2013) e Recomeço Ipiranga (2014), além de convênios com comunidades terapêuticas (Lei 15.550/2014).",
     "fonte_url": "http://www.al.sp.gov.br/norma/171425",
     "data_evidencia": "2014-03",
-    "pagina": 8
+    "pagina": 8,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O programa Recomeço e suas unidades aumentam a despesa, mas no período o gasto não aparece em ação própria do orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-12",
@@ -33972,7 +34126,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2011 a dez/2014) não localizou ampliação do programa de reforma e modernização dos hospitais estaduais.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 8
+    "pagina": 8,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar a reforma dos hospitais estaduais aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-13",
@@ -33989,7 +34157,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2011 a dez/2014) não localizou ampliação dos locais de distribuição ou da lista de medicamentos do Dose Certa.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 8
+    "pagina": 8,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o Dose Certa aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-14",
@@ -34006,7 +34188,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2011 a dez/2014) não localizou ampliação da entrega domiciliar de medicamentos de uso contínuo pelo Estado.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 8
+    "pagina": 8,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar a entrega de medicamentos em casa aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-15",
@@ -34023,7 +34219,21 @@
     "evidencia": "A Rede Hebe Camargo de Combate ao Câncer foi lançada em mar/2013, com investimento anunciado de R$ 190 milhões e 71 unidades integradas.",
     "fonte_url": "https://al.sp.gov.br/spl/2013/10/Propositura/1164821_50089880_Propositura.doc",
     "data_evidencia": "2013-10",
-    "pagina": 8
+    "pagina": 8,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "A Rede Hebe Camargo teve investimento anunciado de R$ 190 milhões, mas o gasto não aparece em ação própria do orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-16",
@@ -34040,7 +34250,21 @@
     "evidencia": "O Decreto 61.019/2014 criou o Centro de Referência do Idoso Oeste, na capital, e o programa São Paulo Amigo do Idoso foi instituído em 2012.",
     "fonte_url": "http://www.al.sp.gov.br/norma/173912",
     "data_evidencia": "2014-12",
-    "pagina": 8
+    "pagina": 8,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O Centro de Referência do Idoso e o São Paulo Amigo do Idoso têm custo pequeno frente ao orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-17",
@@ -34057,7 +34281,21 @@
     "evidencia": "A PM terminou 2014 com cerca de 4 mil policiais a menos que o efetivo fixado em lei (93,8 mil); não foi localizado aumento do efetivo real no mandato.",
     "fonte_url": "https://exame.com/brasil/pm-deve-fechar-o-ano-com-4-mil-homens-a-menos/",
     "data_evidencia": "2014-11",
-    "pagina": 8
+    "pagina": 8,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o efetivo policial aumentaria a despesa com pessoal; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-18",
@@ -34074,7 +34312,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2011 a dez/2014) não localizou aumento do número de delegados; as leis do período reestruturaram a carreira e os vencimentos.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 8
+    "pagina": 8,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Aumentar o número de delegados aumentaria a despesa com pessoal; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-19",
@@ -34091,7 +34343,21 @@
     "evidencia": "A Lei Complementar 1.188/2012 autorizou a remuneração de policiais em convênios com prefeituras, e a Atividade Delegada, criada na capital em 2009, se espalhou por cerca de 60 outras cidades.",
     "fonte_url": "https://siave.camarapiracicaba.sp.gov.br/arquivo?Id=363440",
     "data_evidencia": "2012",
-    "pagina": 8
+    "pagina": 8,
+    "impacto": {
+      "impacto_fiscal": "fora_do_orcamento",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A Atividade Delegada é paga pelas prefeituras conveniadas, não pelo orçamento do Estado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-20",
@@ -34108,7 +34374,21 @@
     "evidencia": "O governo se comprometeu com o CNJ a zerar os presos em delegacias até ago/2012, mas em set/2012 ainda havia 5,6 mil (eram 6 mil em dez/2011); algumas cadeias públicas foram extintas, como a de São José do Rio Preto em 2014.",
     "fonte_url": "https://www.conjur.com.br/2012-set-26/cnj-elabora-relatorio-recomendacoes-fechar-cadeias-superlotadas//?print=1",
     "data_evidencia": "2012-09",
-    "pagina": 9
+    "pagina": 9,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Transferir presos das delegacias exige vagas em presídios (promessa 23); a desativação das carceragens não tem gasto próprio separado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-21",
@@ -34125,7 +34405,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2011 a dez/2014) não localizou expansão da Delegacia Eletrônica.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 9
+    "pagina": 9,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Expandir a Delegacia Eletrônica teria custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-22",
@@ -34142,7 +34436,21 @@
     "evidencia": "Em 2014 o governo lançou o Detecta, sistema da SSP com a Microsoft que integra bancos de dados policiais e câmeras de monitoramento, inclusive de municípios.",
     "fonte_url": "https://news.microsoft.com/pt-br/parceria-entre-governo-de-sp-e-microsoft-amplia-acoes-de-inteligencia-policial/",
     "data_evidencia": "2014-04",
-    "pagina": 9
+    "pagina": 9,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O Detecta (2014) tem custo pequeno frente ao orçamento e não aparece em ação própria no período.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-23",
@@ -34159,7 +34467,21 @@
     "evidencia": "Decretos de 2011 criaram novas unidades prisionais, como as penitenciárias femininas de Tremembé II e Tupi Paulista e o CDP de Taiúva.",
     "fonte_url": "http://www.al.sp.gov.br/norma/161079",
     "data_evidencia": "2011-08",
-    "pagina": 9
+    "pagina": 9,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "As novas unidades prisionais aumentam a despesa com obra e custeio. A consulta ao SIGEO da ação de adequação do sistema prisional (1898) foi interrompida antes de terminar, por isso não há valor.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-24",
@@ -34176,7 +34498,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2011 a dez/2014) não localizou ampliação das audiências por videoconferência.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 9
+    "pagina": 9,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar as videoconferências aumentaria a despesa no início e reduziria a escolta depois; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-25",
@@ -34193,7 +34529,21 @@
     "evidencia": "O monitoramento por tornozeleira, iniciado em 2010, esbarrou na Justiça: em mar/2011 só 1.180 presos tinham autorização, das 4,5 mil tornozeleiras contratadas; não foi localizada ampliação no mandato.",
     "fonte_url": "https://vermelho.org.br/2011/03/14/juizes-do-interior-vetam-tornozeleira-eletronica-em-sp/",
     "data_evidencia": "2011-03",
-    "pagina": 9
+    "pagina": 9,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o monitoramento eletrônico aumentaria a despesa no início e poderia reduzir o custo de vagas depois; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-26",
@@ -34210,7 +34560,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2011 a dez/2014) não localizou expansão do Banco do Povo aos 645 municípios; em 2017 deputados ainda pediam unidades em vários municípios.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 9
+    "pagina": 9,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_primario",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O Banco do Povo empresta recursos que voltam ao Estado; levá-lo a mais municípios é crédito, sem efeito no resultado primário; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-27",
@@ -34227,7 +34591,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2011 a dez/2014) não localizou expansão do Emprega São Paulo com georreferenciamento.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 9
+    "pagina": 9,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Expandir o Emprega São Paulo teria custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-28",
@@ -34244,7 +34622,21 @@
     "evidencia": "Em 2011 foram criados o Via Rápida Emprego (Decreto 57.133) e o Programa Escola de Qualificação Profissional, do Fundo Social (Decreto 57.314).",
     "fonte_url": "http://www.al.sp.gov.br/norma/162148",
     "data_evidencia": "2011-09",
-    "pagina": 10
+    "pagina": 10,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O Via Rápida e a Escola de Qualificação do Fundo Social pagam cursos, mas o gasto fica em ações gerais de qualificação, sem separação.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-29",
@@ -34261,7 +34653,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2011 a dez/2014) não localizou aumento do benefício ou da cobertura do Renda Cidadã e do Ação Jovem; o Decreto 56.922/2011 reorganizou o Ação Jovem.",
     "fonte_url": "http://www.al.sp.gov.br/norma/161257",
     "data_evidencia": "2026-10",
-    "pagina": 10
+    "pagina": 10,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o Renda Cidadã e o Ação Jovem aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-30",
@@ -34278,7 +34684,21 @@
     "evidencia": "Decretos de 2013 e 2014 criaram seis novos Centros de Integração da Cidadania.",
     "fonte_url": "http://www.al.sp.gov.br/norma/172531",
     "data_evidencia": "2014-03",
-    "pagina": 11
+    "pagina": 11,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantação de Centros de Integração da Cidadania (ação 1218): R$ 1 milhão em 2010 e quase nada no mandato; o custeio dos novos CICs fica em ações gerais, com custo pequeno frente ao orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-31",
@@ -34295,7 +34715,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2011 a dez/2014) não localizou balanço de ampliação ou recuperação de estradas vicinais no mandato.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 11
+    "pagina": 11,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar e recuperar as vicinais aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-32",
@@ -34312,7 +34746,21 @@
     "evidencia": "O Projeto de Desenvolvimento Rural Sustentável – Microbacias II teve unidade de gestão criada em 2011 e o projeto de apoio a negócios de produtores aprovado em 2012 (Decreto 58.211).",
     "fonte_url": "http://www.al.sp.gov.br/norma/167491",
     "data_evidencia": "2012-07",
-    "pagina": 11
+    "pagina": 11,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.014",
+      "valor_total_rs_bi": "0.018",
+      "ano_ref": "2014",
+      "valor_acumulado_rs_bi": "0.024",
+      "periodo_acumulado": "2011-2014",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "media",
+      "explicacao": "Microbacias II (ação 2286), projeto com financiamento do Banco Mundial: R$ 3,6 milhões em 2010, R$ 5,4 milhões em 2011, R$ 5,5 milhões em 2012, R$ 9,3 milhões em 2013 e R$ 18 milhões em 2014.",
+      "fonte_oficial": "https://www.fazenda.sp.gov.br/SigeoLei131/Paginas/FlexConsDespesa.aspx",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-33",
@@ -34329,7 +34777,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2011 a dez/2014) não localizou ampliação do programa Melhor Caminho.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 12
+    "pagina": 12,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o Melhor Caminho aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-34",
@@ -34346,7 +34808,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2011 a dez/2014) não localizou ampliação do Viva Leite, transferido para a Secretaria de Desenvolvimento Social em 2011.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 12
+    "pagina": 12,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o Viva Leite aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-35",
@@ -34363,7 +34839,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2011 a dez/2014) não localizou ampliação da rede Bom Prato no mandato; em 2014 ela tinha cerca de 40 unidades.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 12
+    "pagina": 12,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o Bom Prato aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-36",
@@ -34380,7 +34870,21 @@
     "evidencia": "O Inventário Florestal mostrou aumento da vegetação nativa entre os levantamentos de 2008-2009 e 2017-2019 (22,9% do território), mas não isola o período do mandato.",
     "fonte_url": "https://revistapesquisa.fapesp.br/estado-de-sao-paulo-registra-aumento-de-49-na-area-de-vegetacao-nativa/",
     "data_evidencia": "2020",
-    "pagina": 12
+    "pagina": 12,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O aumento da vegetação nativa veio de regras ambientais e de recomposição feita por proprietários, sem gasto próprio do Estado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-37",
@@ -34397,7 +34901,21 @@
     "evidencia": "O Decreto 58.148/2012 criou o Parque Estadual Nascentes do Paranapanema e o Mosaico de Unidades de Conservação de Paranapiacaba.",
     "fonte_url": "http://www.al.sp.gov.br/norma/167275",
     "data_evidencia": "2012-06",
-    "pagina": 12
+    "pagina": 12,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar parques estaduais é ato de proteção; a gestão das unidades é paga por ações gerais da Fundação Florestal, com custo pequeno.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-38",
@@ -34414,7 +34932,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2011 a dez/2014) não localizou aumento do número de municípios com tratamento de esgoto universalizado no mandato.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 12
+    "pagina": 12,
+    "impacto": {
+      "impacto_fiscal": "fora_do_orcamento",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Universalizar o esgoto é obra da Sabesp, fora do orçamento do Estado; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-39",
@@ -34431,7 +34963,21 @@
     "evidencia": "Em jan/2014 havia oito piscinões em obras na Grande São Paulo, mas o governo cancelou a PPP que construiria outros sete reservatórios.",
     "fonte_url": "https://www.dgabc.com.br/Noticia/506502/sem-ppp-estado-garante-que-ira-manter-limpeza-de-25-piscinoes",
     "data_evidencia": "2014-01",
-    "pagina": 13
+    "pagina": 13,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.116",
+      "ano_ref": "2014",
+      "valor_acumulado_rs_bi": "0.242",
+      "periodo_acumulado": "2011-2014",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "media",
+      "explicacao": "Reservatórios de retenção, os piscinões (ação 1573), e drenagem contra enchentes (ação 1021): R$ 180 milhões em 2010, R$ 269 milhões em 2011, R$ 244 milhões em 2012, R$ 332 milhões em 2013 e R$ 116 milhões em 2014. Gasto único de obra.",
+      "fonte_oficial": "https://www.fazenda.sp.gov.br/SigeoLei131/Paginas/FlexConsDespesa.aspx",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-40",
@@ -34448,7 +34994,21 @@
     "evidencia": "Até 2014 só a revisão do projeto e o apoio técnico a três núcleos do parque tinham sido feitos; as obras desses núcleos ficaram para 2015.",
     "fonte_url": "https://vermelho.org.br/?p=333794",
     "data_evidencia": "2014",
-    "pagina": 13
+    "pagina": 13,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantar o Parque das Várzeas do Tietê aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-41",
@@ -34465,7 +35025,21 @@
     "evidencia": "A terceira etapa do Projeto Tietê seguiu em execução e a quarta começou em 2014; o Decreto 59.093/2013 instituiu planos de despoluição dos rios da Região Metropolitana.",
     "fonte_url": "http://www.al.sp.gov.br/norma/169958",
     "data_evidencia": "2014",
-    "pagina": 13
+    "pagina": 13,
+    "impacto": {
+      "impacto_fiscal": "fora_do_orcamento",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O Projeto Tietê é obra da Sabesp, fora do orçamento do Estado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-42",
@@ -34482,7 +35056,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2011 a dez/2014) não localizou ampliação da urbanização de favelas e da erradicação de cortiços.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 13
+    "pagina": 13,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar a urbanização de favelas aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-43",
@@ -34499,7 +35087,21 @@
     "evidencia": "A CDHU seguiu entregando moradias, inclusive em parceria com o governo federal e prefeituras (ex.: Carapicuíba, 2013 e 2014); não foi localizado balanço que mostre ampliação da oferta no mandato.",
     "fonte_url": "https://cbic.org.br/mais-de-100-familias-de-carapicuiba-recebem-casa-propria/",
     "data_evidencia": "2013-07",
-    "pagina": 13
+    "pagina": 13,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "A CDHU seguiu entregando moradias, mas sem balanço de ampliação; a despesa da produção não foi comparada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-44",
@@ -34516,7 +35118,21 @@
     "evidencia": "O Decreto 57.905/2012 autorizou a Defesa Civil estadual a firmar convênios com municípios para obras e serviços de prevenção; não foi localizado balanço das obras.",
     "fonte_url": "http://www.al.sp.gov.br/norma/166447",
     "data_evidencia": "2012-03",
-    "pagina": 13
+    "pagina": 13,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "Os convênios da Defesa Civil para obras preventivas aumentam a despesa, mas o valor não aparece separado no orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-45",
@@ -34533,7 +35149,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2011 a dez/2014) não localizou ampliação do programa Vila Dignidade.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 13
+    "pagina": 13,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o Vila Dignidade aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-46",
@@ -34550,7 +35180,21 @@
     "evidencia": "O Decreto 56.639, de 01/01/2011, organizou a Secretaria de Desenvolvimento Metropolitano (extinta depois pela Lei 15.331/2014).",
     "fonte_url": "http://www.al.sp.gov.br/norma/160807",
     "data_evidencia": "2011-01",
-    "pagina": 13
+    "pagina": 13,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar a Secretaria de Desenvolvimento Metropolitano tem custo administrativo pequeno.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-47",
@@ -34567,7 +35211,21 @@
     "evidencia": "Os Decretos 59.094 e 59.229/2013 instituíram os fundos de desenvolvimento da Região Metropolitana de São Paulo e do Vale do Paraíba e Litoral Norte.",
     "fonte_url": "http://www.al.sp.gov.br/norma/169969",
     "data_evidencia": "2013-04",
-    "pagina": 13
+    "pagina": 13,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Instituir os fundos metropolitanos só cria as contas; o gasto depende de aportes, não separados.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-48",
@@ -34584,7 +35242,21 @@
     "evidencia": "A rede foi ampliada no mandato, com o primeiro trecho do monotrilho da Linha 15 (Vila Prudente–Oratório, ago/2014) e novas estações de metrô.",
     "fonte_url": "https://www.tribunapr.com.br/noticias/brasil/alckmin-inaugura-monotrilho-e-defende-investimento-em-infraestrutura/",
     "data_evidencia": "2014-08",
-    "pagina": 13
+    "pagina": 13,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "1.368",
+      "valor_total_rs_bi": "3.93",
+      "ano_ref": "2014",
+      "valor_acumulado_rs_bi": "3.351",
+      "periodo_acumulado": "2011-2014",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "media",
+      "explicacao": "Subscrição de ações do Metrô (ação 1695), da CPTM (1856) e da EMTU (1693), forma pela qual o Estado paga as obras de metrô, trens e corredores: R$ 2,56 bi em 2010, R$ 2,77 bi em 2011, R$ 3,20 bi em 2012, R$ 3,71 bi em 2013 e R$ 3,93 bi em 2014. Inclui também a modernização das linhas existentes. Gasto único de obra.",
+      "fonte_oficial": "https://www.fazenda.sp.gov.br/SigeoLei131/Paginas/FlexConsDespesa.aspx",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-49",
@@ -34601,7 +35273,21 @@
     "evidencia": "A CPTM contratou 65 trens em 2013, mas as entregas atrasaram (só dez entregues em 2016); não houve conversão das linhas ao padrão de metrô no mandato.",
     "fonte_url": "https://exame.com/brasil/promotoria-apura-atraso-em-entrega-de-trens-da-cptm",
     "data_evidencia": "2016",
-    "pagina": 13
+    "pagina": 13,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Modernizar as linhas da CPTM aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-50",
@@ -34618,7 +35304,21 @@
     "evidencia": "As obras da linha de trem até Guarulhos (Linha 13-Jade) começaram no mandato, mas ela só foi inaugurada em mar/2018.",
     "fonte_url": "https://diariodotransporte.com.br/2018/03/31/alckmin-inaugura-linha-13-jade/",
     "data_evidencia": "2018-03",
-    "pagina": 14
+    "pagina": 14,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Levar o trem a Guarulhos aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-51",
@@ -34635,7 +35335,21 @@
     "evidencia": "As obras do VLT da Baixada Santista atrasaram (previstas para 2012, adiadas para 2013) e nenhum trecho operava ao fim de 2014.",
     "fonte_url": "https://sites.unisanta.br/hemeroteca/arquivos/a62.pdf",
     "data_evidencia": "2012-10",
-    "pagina": 14
+    "pagina": 14,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantar o VLT da Baixada aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-52",
@@ -34652,7 +35366,21 @@
     "evidencia": "O corredor, com conclusão prevista para o 2º semestre de 2014, não foi concluído: em 2017 o governo assinou contrato para continuar as obras, com três anos de atraso.",
     "fonte_url": "https://diariodotransporte.com.br/2017/04/14/com-tres-anos-de-atraso-alckmin-assina-contrato-para-continuacao-de-obras-em-corredor-de-onibus-na-regiao-de-campinas/amp/",
     "data_evidencia": "2017-04",
-    "pagina": 14
+    "pagina": 14,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Concluir o Corredor Noroeste aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-53",
@@ -34669,7 +35397,21 @@
     "evidencia": "O Trecho Leste foi aberto em jul/2014 (37,7 km, 87% do previsto); as obras do Trecho Norte começaram em 2013 e não foram concluídas.",
     "fonte_url": "https://setcesp.org.br/noticias/alckmin-entrega-hoje-parte-do-trecho-leste-do-rodoanel/",
     "data_evidencia": "2014-07",
-    "pagina": 14
+    "pagina": 14,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.566",
+      "valor_total_rs_bi": "1.319",
+      "ano_ref": "2014",
+      "valor_acumulado_rs_bi": "0.984",
+      "periodo_acumulado": "2011-2014",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "baixa",
+      "explicacao": "Obras do Rodoanel Norte (ação 2283: R$ 34 milhões em 2012, R$ 2,01 bi em 2013 e R$ 1,20 bi em 2014) e subscrição de ações da Dersa, que fez o Trecho Sul (ação 1679: R$ 753 milhões em 2010, R$ 630 milhões em 2011 e R$ 119 milhões em 2014). O Trecho Leste foi feito pela concessionária, fora do orçamento. A subscrição da Dersa também paga outras obras. Gasto único de obra.",
+      "fonte_oficial": "https://www.fazenda.sp.gov.br/SigeoLei131/Paginas/FlexConsDespesa.aspx",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-54",
@@ -34686,7 +35428,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2011 a dez/2014) não localizou ampliação da capacidade da hidrovia, que parou por falta de chuva em 2014; o pacote de investimentos com a União só foi anunciado em 2015.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 14
+    "pagina": 14,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar a capacidade da hidrovia aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-55",
@@ -34703,7 +35459,21 @@
     "evidencia": "A Virada Cultural Paulista passou de 24 a 27 cidades em 2012 para 28 a 31 municípios em 2014.",
     "fonte_url": "https://en.wikipedia.org/wiki/Virada_Cultural",
     "data_evidencia": "2014",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "Levar a Virada Cultural a mais cidades tem custo pequeno frente ao orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-56",
@@ -34720,7 +35490,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2011 a dez/2014) não localizou criação do programa Ruas 24 Horas.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar o Ruas 24 Horas aumentaria a despesa (custo pequeno); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-57",
@@ -34737,7 +35521,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2011 a dez/2014) não localizou criação do Museu da História de São Paulo.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar o Museu da História de São Paulo aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-58",
@@ -34754,7 +35552,21 @@
     "evidencia": "O MAC USP inaugurou em jan/2012 sua sede no antigo prédio do Detran, no Ibirapuera, reformado pela Secretaria da Cultura.",
     "fonte_url": "https://revistapesquisa.fapesp.br/wp-content/uploads/2012/03/094-0951.pdf",
     "data_evidencia": "2012-03",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "A reforma do antigo prédio do Detran para o MAC USP foi gasto único, pequeno frente ao orçamento e sem ação própria.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-59",
@@ -34771,7 +35583,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2011 a dez/2014) não localizou criação do programa Cine Cidade.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar o Cine Cidade aumentaria a despesa (custo pequeno); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-60",
@@ -34788,7 +35614,21 @@
     "evidencia": "A Lei 14.949/2013, de iniciativa parlamentar e sancionada, ampliou o Bolsa Talento Esportivo para atletas de modalidades não olímpicas; não foi localizado o número de bolsas.",
     "fonte_url": "http://www.al.sp.gov.br/norma/169386",
     "data_evidencia": "2013-02",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "Ampliar o Bolsa Talento Esportivo tem custo pequeno frente ao orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-61",
@@ -34805,7 +35645,21 @@
     "evidencia": "O Cartão VidAtiva, benefício para idosos de baixa renda fazerem atividade física em academias e clubes credenciados, começou em fase piloto em dez/2013.",
     "fonte_url": "https://comdipi.jundiai.sp.gov.br/wp-content/uploads/2015/02/cartilha-idoso.pdf",
     "data_evidencia": "2013-12",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O Cartão VidAtiva começou em fase piloto em dez/2013, com custo pequeno.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-62",
@@ -34822,7 +35676,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2011 a dez/2014) não localizou construção de novo Centro Olímpico estadual.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Construir o Centro Olímpico aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-63",
@@ -34839,7 +35707,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2011 a dez/2014) não localizou reforma do Conjunto Desportivo do Ibirapuera ou de outras unidades esportivas estaduais.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Reformar as unidades esportivas aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-64",
@@ -34856,7 +35738,21 @@
     "evidencia": "O Estado criou o programa de incentivo ao investimento esportivo para a Copa (Decreto 58.339/2012), mas o monotrilho da Linha 17, a obra estadual de mobilidade da matriz da Copa, saiu da lista em 2013 e não foi entregue.",
     "fonte_url": "https://apublica.org/2013/01/promessa-da-copa-2014-de-melhorar-mobilidade-urbana-nao-sera-cumprida/",
     "data_evidencia": "2013",
-    "pagina": 16
+    "pagina": 16,
+    "impacto": {
+      "impacto_fiscal": "receita_reduz",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O incentivo da Copa (Decreto 58.339/2012) é crédito de ICMS para investimento esportivo e reduz a receita, mas a renúncia não foi separada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-65",
@@ -34873,7 +35769,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2011 a dez/2014) não localizou ampliação do Programa Estadual de Desburocratização.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 16
+    "pagina": 16,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar a desburocratização é gestão, sem gasto relevante; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-66",
@@ -34890,7 +35800,21 @@
     "evidencia": "Novos postos do Poupatempo foram abertos no mandato (ex.: Carapicuíba, dez/2014); não foi localizado o total de postos de 2010 e 2014.",
     "fonte_url": "https://carapicuiba.sp.gov.br/noticia/impressao?id=1778",
     "data_evidencia": "2014-12",
-    "pagina": 16
+    "pagina": 16,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.136",
+      "valor_total_rs_bi": "0.399",
+      "ano_ref": "2014",
+      "valor_acumulado_rs_bi": "0.424",
+      "periodo_acumulado": "2011-2014",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Operação do Poupatempo (ação 5372): R$ 263 milhões em 2010, R$ 316 milhões em 2011, R$ 358 milhões em 2012, R$ 403 milhões em 2013 e R$ 399 milhões em 2014. Inclui o reajuste dos contratos, não só os postos novos.",
+      "fonte_oficial": "https://www.fazenda.sp.gov.br/SigeoLei131/Paginas/FlexConsDespesa.aspx",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-67",
@@ -34907,7 +35831,21 @@
     "evidencia": "O Acessa São Paulo passou de 596 postos em 525 municípios (2010) para 849 unidades em 589 municípios (2015), sem chegar a todos os 645.",
     "fonte_url": "https://teletime.com.br/26/04/2016/governo-de-sp-lanca-edital-para-promover-acesso-wi-fi-em-telecentros/",
     "data_evidencia": "2016-04",
-    "pagina": 16
+    "pagina": 16,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "Os novos postos do Acessa São Paulo aumentam a despesa. A consulta ao SIGEO da ação do programa (5636) foi interrompida antes de terminar, por isso não há valor; o custo é pequeno frente ao orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-68",
@@ -34924,7 +35862,21 @@
     "evidencia": "Em out/2014 o governo ampliou o programa Banda Larga Popular, com isenção de ICMS também para planos de 1,5 e 2 Mbps; havia 2,5 milhões de residências atendidas.",
     "fonte_url": "https://tiinside.com.br/16/10/2014/sao-paulo-anuncia-extensao-da-banda-larga-sem-icms-para-servicos-de-15-mbps-e-2-mbps/",
     "data_evidencia": "2014-10",
-    "pagina": 16
+    "pagina": 16,
+    "impacto": {
+      "impacto_fiscal": "receita_reduz",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "A Banda Larga Popular é isenção de ICMS para planos de internet baratos e reduz a receita, mas a renúncia não foi separada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2022-01",
