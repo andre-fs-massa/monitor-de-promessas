@@ -90,12 +90,31 @@ function blocoImpacto(lista, m) {
       <div class="rotulo">Resultado das promessas para as contas do governo no mandato (${periodo}${emCurso ? ", mandato em curso" : ""})</div>
       <div class="valor">${saldoAc < 0 ? "Déficit" : "Superávit"} de ${fmtBi(Math.abs(saldoAc))}</div>
       <div class="det">${contaAc}.</div>
-    </div>` : "";
+    </div>` : semValorNoMandato(com);
   return `
     <div class="impacto-resumo">
       <h4>Impacto no orçamento ${m && m.cargo === "governador" ? "do Estado" : m && m.cargo === "prefeito" ? "do município" : "federal"}</h4>
       ${acumulado}
       ${recolhivel("impacto-kpis", "Receitas, despesas e promessas sem impacto direto", `<div class="kpis">${tiles.join("")}</div>`)}    </div>`;
+}
+
+// Quando nenhuma promessa tem valor no mandato, explica o porquê em vez de deixar o quadro vazio
+function semValorNoMandato(com) {
+  const naoFeitas = com.filter((p) => p.status === "nao_cumprida").length;
+  const fora = com.filter((p) => p.impacto.impacto_fiscal === "fora_do_orcamento").length;
+  const soTotal = com.filter((p) => p.impacto.valor_total_rs_bi && grupoImpacto(p) !== "sem_impacto");
+  const motivos = [
+    naoFeitas && `${naoFeitas} de ${com.length} promessas não foram cumpridas, e só se calcula valor do que foi implementado`,
+    fora && `${fora} ficam fora do orçamento (estatais, concessionárias ou fundos próprios)`,
+    soTotal.length && `${soTotal.length > 1 ? "as promessas" : "a promessa"} ${soTotal.map((p) => `“${p.promessa.replace(/\.$/, "")}” (${fmtBi(p.impacto.valor_total_rs_bi)})`).join(", ")} ${soTotal.length > 1 ? "aparecem" : "aparece"} só com o custo total, porque as fontes não dividem o gasto por ano`,
+    "nas demais, não se localizou gasto novo feito no próprio mandato",
+  ].filter(Boolean);
+  return `
+    <div class="resultado acumulado">
+      <div class="rotulo">Resultado das promessas para as contas do governo no mandato</div>
+      <div class="valor">Sem valor no mandato</div>
+      <div class="det">Nenhuma promessa tem gasto ou receita com recorte do mandato: ${motivos.join("; ")}.</div>
+    </div>`;
 }
 
 function celulaImpacto(p) {
