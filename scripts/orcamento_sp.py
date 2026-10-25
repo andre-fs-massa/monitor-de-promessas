@@ -75,13 +75,97 @@ def buscar(txt):
     por = {}
     for r in csv.DictReader(open(SAIDA, encoding="utf-8")):
         if re.search(txt, r["nome_acao"] + " | " + r["nome_programa"], re.I) or r["acao"] == txt:
-            por.setdefault((r["acao"], r["nome_acao"], r["nome_programa"]), {})[r["ano"]] = float(r["empenhado"] or 0) / 1e6
+            v = por.setdefault((r["acao"], r["nome_acao"], r["nome_programa"]), {})  # a mesma ação pode estar em vários programas
+            v[r["ano"]] = v.get(r["ano"], 0) + float(r["empenhado"] or 0) / 1e6
     for (a, n, pg), v in sorted(por.items()):
         print(a, n[:55], "[" + pg[:35] + "]", " ".join(f"{k}: {v[k]:,.1f}" for k in sorted(v)), "(R$ mi empenhado)")
 
 
+# --- SIGEO (Secretaria da Fazenda, consulta da Lei 131): anos desde 2010, uma ação por consulta ---------------------
+SIGEO = "https://www.fazenda.sp.gov.br/SigeoLei131/Paginas/FlexConsDespesa.aspx"
+P = "ctl00$ContentPlaceHolder1$"
+CACHE_SIGEO = RAIZ / "data" / "interim" / "orcamento_sp_sigeo.csv"
+
+
+def _campos(html):
+    from bs4 import BeautifulSoup
+    s = BeautifulSoup(html, "html.parser")
+    f = {i["name"]: i.get("value", "") for i in s.find_all("input", {"type": "hidden"}) if i.get("name")}
+    for sel in s.find_all("select"):
+        op = sel.find("option", selected=True) or sel.find("option")
+        if op is not None:
+            f[sel["name"]] = op.get("value", "")
+    return f, s
+
+
+def _sigeo_ano(ano):
+    """Sessão com o ano escolhido e a fase Empenhado marcada (cada mudança é um postback; marcar a fase
+    no envio final zera os filtros, por isso ela vai antes)."""
+    s = requests.Session()
+    s.headers["User-Agent"] = "Mozilla/5.0"
+    s.verify = False
+    html = s.get(SIGEO, timeout=60).text
+    for campo, valor in (("ddlAno", str(ano)), ("cblFase$2", "on")):
+        f, _ = _campos(html)
+        if campo != "ddlAno":
+            f[P + "ddlAno"] = str(ano)
+        f.update({P + campo: valor, P + "cblFase$2": "on" if campo != "ddlAno" else "", "__EVENTTARGET": P + campo, "__EVENTARGUMENT": ""})
+        if campo == "ddlAno":
+            f.pop(P + "cblFase$2")
+        html = s.post(SIGEO, data=f, timeout=300).text
+    return s, html
+
+
+def sigeo_acoes(ano, txt):
+    _, html = _sigeo_ano(ano)
+    _, sp = _campos(html)
+    for o in sp.find(id="ctl00_ContentPlaceHolder1_ddlAcao").find_all("option"):
+        if re.search(txt, o.text, re.I):
+            print(o.text)
+
+
+def sigeo_empenhado(ano, acao):
+    s, html = _sigeo_ano(ano)
+    f, _ = _campos(html)
+    f.update({P + "ddlAcao": acao, P + "cblFase$2": "on", "__EVENTTARGET": P + "ddlAcao", "__EVENTARGUMENT": ""})
+    html = s.post(SIGEO, data=f, timeout=300).text
+    f, _ = _campos(html)
+    f.update({P + "cblFase$2": "on", P + "btnPesquisar": "Pesquisar", "__EVENTTARGET": "", "__EVENTARGUMENT": ""})
+    f.pop(P + "Home", None)
+    _, sp = _campos(s.post(SIGEO, data=f, timeout=600).text)
+    t = sp.find(id="ctl00_ContentPlaceHolder1_gdvDespesas")
+    for tr in (t.find_all("tr") if t else []):
+        tds = [td.get_text(" ", strip=True) for td in tr.find_all("td")]
+        if len(tds) >= 2 and tds[-2] == "TOTAL":
+            return float(tds[-1].replace(".", "").replace(",", "."))
+    return 0.0
+
+
+def sigeo(anos, acoes):
+    cache = {}
+    if CACHE_SIGEO.exists():
+        cache = {(r["ano"], r["acao"]): r["empenhado"] for r in csv.DictReader(open(CACHE_SIGEO, encoding="utf-8"))}
+    for acao in acoes:
+        linha = []
+        for ano in anos:
+            k = (str(ano), acao)
+            if k not in cache:
+                cache[k] = str(sigeo_empenhado(ano, acao))
+            linha.append(f"{ano}: {float(cache[k]) / 1e6:,.1f}")
+        print(acao, "  ".join(linha), "(R$ mi empenhado)", flush=True)
+    with open(CACHE_SIGEO, "w", encoding="utf-8", newline="") as fh:
+        w = csv.writer(fh)
+        w.writerow(["ano", "acao", "empenhado"])
+        w.writerows([[a, c, v] for (a, c), v in sorted(cache.items())])
+
+
 if __name__ == "__main__":
+    # sigeo-acoes <ano> "regex": lista as ações do ano no SIGEO; sigeo <anos separados por vírgula> <ação> ...: empenhado
     if sys.argv[1] == "baixar":
         baixar([int(x) for x in sys.argv[2:]])
+    elif sys.argv[1] == "sigeo-acoes":
+        sigeo_acoes(int(sys.argv[2]), sys.argv[3])
+    elif sys.argv[1] == "sigeo":
+        sigeo([int(x) for x in sys.argv[2].split(",")], sys.argv[3:])
     else:
         buscar(sys.argv[2])
