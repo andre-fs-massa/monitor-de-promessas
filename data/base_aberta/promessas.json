@@ -35893,7 +35893,21 @@
     "evidencia": "Até a renúncia foram entregues as obras dos hospitais regionais de Teófilo Otoni (dez/2025) e Divinópolis (fev/2026); Governador Valadares (34% em fev/2026), Conselheiro Lafaiete e Juiz de Fora seguiam em obras.",
     "fonte_url": "https://www.agenciaminas.mg.gov.br/news/pdf/128721.pdf",
     "data_evidencia": "2026-02",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.283",
+      "valor_total_rs_bi": "0.289",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "0.643",
+      "periodo_acumulado": "2023-2025",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "media",
+      "explicacao": "Implantação dos hospitais regionais (ação 1085, paga com recursos do acordo de reparação da Vale, e ação 1020 a partir de 2024): R$ 6,5 milhões em 2022, R$ 275 milhões em 2023, R$ 98 milhões em 2024 e R$ 289 milhões em 2025. O custeio dos hospitais depois de abertos não está somado. Gasto único de obra.",
+      "fonte_oficial": "https://dados.mg.gov.br/dataset/despesa",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2022-02",
@@ -35910,7 +35924,21 @@
     "evidencia": "Em 2025 o Opera Mais incluiu 51 novos procedimentos (727 no total), com orçamento anual acima de R$ 376 milhões.",
     "fonte_url": "https://www.agenciaminas.mg.gov.br/noticia/governo-de-minas-investe-mais-de-r-148-milhoes-para-ampliar-cirurgias-eletivas-em-todo-o-estado",
     "data_evidencia": "2025",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.052",
+      "valor_total_rs_bi": "0.25",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "0.46",
+      "periodo_acumulado": "2023-2025",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Módulo de cirurgias eletivas da política hospitalar (Valora Minas / Opera Mais, ação 4454, chamada Acesso Eletivo, ação 4135, a partir de 2024): R$ 198 milhões em 2022, R$ 385 milhões em 2023, R$ 419 milhões em 2024 e R$ 250 milhões em 2025. Em 2022 a ação tinha outro nome (novos prestadores da política hospitalar), por isso a comparação é aproximada.",
+      "fonte_oficial": "https://dados.mg.gov.br/dataset/despesa",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2022-03",
@@ -35927,7 +35955,21 @@
     "evidencia": "A Lei 25.668/2025 instituiu as unidades regionais de saneamento básico e criou o Fundo Estadual de Saneamento.",
     "fonte_url": "https://www.almg.gov.br/legislacao-mineira/texto/LEI/25668/2025/",
     "data_evidencia": "2025-12",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Os blocos regionais de saneamento são regra (Lei 25.668/2025) para atrair investimento privado, sem gasto próprio relevante do Estado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2022-04",
@@ -35944,7 +35986,21 @@
     "evidencia": "A base integrada de segurança pública passou a funcionar no data lake do Estado (Prodemge), usada pela PM; auditoria do TCU ainda apontou falta de integração dos sistemas em Minas.",
     "fonte_url": "https://convergenciadigital.com.br/governo/base-integrada-de-dados-permite-a-pm-de-minas-avancar-com-ia/",
     "data_evidencia": "2025",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A base integrada de segurança fica no data lake do Estado, com custo pequeno frente ao orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2022-05",
@@ -35961,7 +36017,21 @@
     "evidencia": "Busca na imprensa, na Agência Minas e na legislação mineira (API da ALMG, jan/2023 a mar/2026) não localizou ampliação do Plantão Digital depois de 2022; em 2023 a OAB-MG pediu sua suspensão por filas de até 30 horas.",
     "fonte_url": "https://www.conjur.com.br/?p=339737",
     "data_evidencia": "2026-03",
-    "pagina": 16
+    "pagina": 16,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o Plantão Digital teria custo pequeno (a ação própria teve R$ 0,7 milhão em 2022 e quase nada depois); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2022-06",
@@ -35978,7 +36048,21 @@
     "evidencia": "O Trilhas de Futuro abriu 50 mil vagas em 2024 (ampliadas de 40 mil após recorde de inscrições) e 50 mil em 2025, além de 9.600 vagas do Trilhas nas Escolas.",
     "fonte_url": "https://www.agenciaminas.mg.gov.br/noticia/governo-de-minas-amplia-vagas-do-trilhas-de-futuro-para-50-mil-apos-recorde-de-inscricoes-123791",
     "data_evidencia": "2025-06",
-    "pagina": 16
+    "pagina": 16,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.574",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Trilhas de Futuro (ação 4203 até 2023; ações 2118, estudantes, e 2099, educadores, a partir de 2024): R$ 683 milhões em 2022, R$ 711 milhões em 2023, R$ 601 milhões em 2024 e R$ 574 milhões em 2025. Mesmo com mais vagas, o gasto ficou abaixo de 2022 em 2024 e 2025, por isso só o custo de 2025.",
+      "fonte_oficial": "https://dados.mg.gov.br/dataset/despesa",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2022-07",
@@ -35995,7 +36079,21 @@
     "evidencia": "O edital de 2024 para levar o Somar a até 80 escolas foi suspenso pelo TCE-MG e pelo TJMG; o projeto seguiu nas 3 escolas-piloto.",
     "fonte_url": "https://www.gazetadopovo.com.br/vida-e-cidadania/tjmg-sindicato-expansao-gestao-privada-escolas/",
     "data_evidencia": "2024-10",
-    "pagina": 16
+    "pagina": 16,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.006",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Projeto Somar (ação 2040 até 2023 e 2105 depois): R$ 12 milhões em 2022, R$ 10 milhões em 2023, R$ 13 milhões em 2024 e R$ 6 milhões em 2025. A expansão foi suspensa e o gasto ficou abaixo de 2022, por isso só o custo de 2025.",
+      "fonte_oficial": "https://dados.mg.gov.br/dataset/despesa",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2022-08",
@@ -36012,7 +36110,21 @@
     "evidencia": "O ensino médio em tempo integral passou de 591 escolas em 2022 para 798 em 2025, com previsão de 838 em 2026.",
     "fonte_url": "https://www.agenciaminas.mg.gov.br/noticia/governo-de-minas-anuncia-nova-expansao-do-ensino-medio-em-tempo-integral-emti-na-rede-estadual-de-ensino",
     "data_evidencia": "2025-12",
-    "pagina": 16
+    "pagina": 16,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.016",
+      "valor_total_rs_bi": "0.097",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "0.067",
+      "periodo_acumulado": "2023-2025",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Ensino médio integral da Secretaria da Educação (ação 4314 até 2023 e 2093 depois) e da Fundação Helena Antipoff (EMTI): R$ 81 milhões em 2022, R$ 105 milhões em 2023, R$ 107 milhões em 2024 e R$ 97 milhões em 2025. Subestima o custo, porque o salário dos professores das novas escolas integrais fica nas ações gerais de pessoal; a ação nova de educação integral de 2025 (R$ 146 milhões) mistura fundamental e médio e não foi somada.",
+      "fonte_oficial": "https://dados.mg.gov.br/dataset/despesa",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2022-09",
@@ -36029,7 +36141,21 @@
     "evidencia": "O governo leiloou o lote 3 de rodovias (Varginha-Furnas) e preparou novos lotes (Vetor Norte, Ouro Preto-Mariana, Zona da Mata); a Lei 25.235/2025 criou a agência reguladora de transportes.",
     "fonte_url": "https://diariodocomercio.com.br/economia/governo-leiloa-3o-lote-de-rodovias-e-grupo-vence-mais-uma-vez/",
     "data_evidencia": "2025",
-    "pagina": 16
+    "pagina": 16,
+    "impacto": {
+      "impacto_fiscal": "fora_do_orcamento",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "As concessões e PPPs de rodovias, aeroportos e travessias transferem o investimento para as concessionárias, fora do orçamento do Estado; os leilões de rodovias de MG são pelo menor pedágio, sem outorga relevante.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2022-10",
@@ -36046,7 +36172,21 @@
     "evidencia": "Não houve um marco legal único das renováveis, mas foram aprovadas leis setoriais: biogás e biometano (Lei 24.396/2023), energia rural renovável (Lei 24.625/2023) e hidrogênio verde (Lei 24.940/2024).",
     "fonte_url": "https://www.almg.gov.br/legislacao-mineira/texto/LEI/24625/2023/",
     "data_evidencia": "2024-07",
-    "pagina": 17
+    "pagina": 17,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "As leis setoriais de biogás, energia rural e hidrogênio verde são regras e programas de fomento, sem gasto ou renúncia separados no orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2022-11",
@@ -36063,7 +36203,21 @@
     "evidencia": "Busca na imprensa, na Agência Minas e na legislação mineira (API da ALMG, jan/2023 a mar/2026) não localizou licenciamento automático de empreendimentos de menor impacto; o Decreto 49.013/2025 consolidou normas de liberdade econômica.",
     "fonte_url": "https://www.almg.gov.br/legislacao-mineira/texto/DEC/49013/2025/",
     "data_evidencia": "2026-03",
-    "pagina": 17
+    "pagina": 17,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Licenciar automaticamente é mudança de regra, sem gasto relevante; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2022-12",
@@ -36080,7 +36234,21 @@
     "evidencia": "O Minas Reurb seguiu ampliando a regularização: desde 2019 mais de 80 mil escrituras viabilizadas e 19 mil títulos entregues em 299 municípios.",
     "fonte_url": "https://agenciaminas.mg.gov.br/news/pdf/128004.pdf",
     "data_evidencia": "2025-10",
-    "pagina": 17
+    "pagina": 17,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.016",
+      "valor_total_rs_bi": "0.028",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "0.061",
+      "periodo_acumulado": "2023-2025",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Regularização fundiária: Minas Reurb (ações 1020 e 1082, mais a da Região Metropolitana do Vale do Aço) e regularização de imóveis rurais e territórios coletivos (ações 4342, 4343 e 4363): R$ 12 milhões em 2022, R$ 47 milhões em 2023, R$ 22 milhões em 2024 e R$ 28 milhões em 2025.",
+      "fonte_oficial": "https://dados.mg.gov.br/dataset/despesa",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2022-13",
@@ -36097,7 +36265,21 @@
     "evidencia": "A Lei 25.664/2025 autorizou a desestatização da Copasa; a oferta de ações só foi concluída em jun/2026, já na gestão Simões.",
     "fonte_url": "https://www.almg.gov.br/legislacao-mineira/texto/LEI/25664/2025/",
     "data_evidencia": "2025-12",
-    "pagina": 17
+    "pagina": 17,
+    "impacto": {
+      "impacto_fiscal": "receita_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A venda das ações da Copasa, autorizada pela Lei 25.664/2025, só foi concluída em jun/2026, depois da renúncia; não houve receita de privatização no período do mandato.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2022-14",
@@ -36114,7 +36296,21 @@
     "evidencia": "Busca na imprensa, na Agência Minas e na legislação mineira (API da ALMG, jan/2023 a mar/2026) não localizou criação de fundo estadual de microcrédito para agricultores familiares.",
     "fonte_url": "",
     "data_evidencia": "2026-03",
-    "pagina": 17
+    "pagina": 17,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_primario",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Um fundo de microcrédito empresta recursos que voltam ao Estado, sem efeito no resultado primário; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2022-15",
@@ -36131,7 +36327,21 @@
     "evidencia": "Busca na imprensa, na Agência Minas e na legislação mineira (API da ALMG, jan/2023 a mar/2026) não localizou regulamentação da rastreabilidade e certificação agropecuária com empresas privadas.",
     "fonte_url": "",
     "data_evidencia": "2026-03",
-    "pagina": 17
+    "pagina": 17,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Regulamentar a rastreabilidade é regra, sem gasto relevante; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2022-16",
@@ -36148,7 +36358,21 @@
     "evidencia": "O novo Regulamento do ICMS foi aprovado pelo Decreto 48.589/2023 e entrou em vigor em 01/07/2023.",
     "fonte_url": "https://www.almg.gov.br/legislacao-mineira/texto/DEC/48589/2023/",
     "data_evidencia": "2023-03",
-    "pagina": 18
+    "pagina": 18,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O novo Regulamento do ICMS consolida regras, sem efeito direto separado na receita.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2022-17",
@@ -36165,7 +36389,21 @@
     "evidencia": "Busca na imprensa, na Agência Minas e na legislação mineira (API da ALMG, jan/2023 a mar/2026) não localizou envio de projeto de Lei de Responsabilidade Fiscal estadual.",
     "fonte_url": "",
     "data_evidencia": "2026-03",
-    "pagina": 18
+    "pagina": 18,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Uma Lei de Responsabilidade Fiscal mineira é regra fiscal, sem efeito direto; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2022-18",
@@ -36182,7 +36420,21 @@
     "evidencia": "A Lei 24.358/2023 extinguiu e criou cargos em comissão no Executivo; não foi localizado se todos os cargos vagos foram extintos.",
     "fonte_url": "https://www.almg.gov.br/legislacao-mineira/texto/LEI/24358/2023/",
     "data_evidencia": "2023-06",
-    "pagina": 18
+    "pagina": 18,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Cargos em comissão vagos não geram despesa; extingui-los não muda o gasto.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2022-19",
@@ -36199,7 +36451,21 @@
     "evidencia": "Houve revisão de 4,62% em 2024 (inflação de 2023, Lei 24.838/2024) e foi anunciada a de 5,4% em mar/2026, mas não houve revisão em 2023 nem em 2025.",
     "fonte_url": "https://www.agenciaminas.mg.gov.br/noticia/governo-de-minas-sanciona-nesta-quinta-feira-27-6-reajuste-salarial-de-4-62-para-os-servidores-publicos/",
     "data_evidencia": "2026-03",
-    "pagina": 18
+    "pagina": 18,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "2.5",
+      "valor_total_rs_bi": "2.5",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "5",
+      "periodo_acumulado": "2024-2025",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Revisão geral de 4,62% dos salários em 2024 (Lei 24.838/2024, inflação de 2023), retroativa a janeiro: o governo estimou impacto de cerca de R$ 2,5 bi por ano na folha do Executivo (ativos, inativos e pensionistas). Não houve revisão em 2023 nem em 2025, por isso conta 2024 e 2025.",
+      "fonte_oficial": "https://www.agenciaminas.mg.gov.br/noticia/governo-de-minas-sanciona-nesta-quinta-feira-27-6-reajuste-salarial-de-4-62-para-os-servidores-publicos/",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2022-20",
@@ -36216,7 +36482,21 @@
     "evidencia": "O contrato de concessão dos parques do Ibitipoca e do Itacolomi foi assinado em maio de 2023, e a concessão da Rota das Grutas Peter Lund entrou em consulta pública.",
     "fonte_url": "https://www.agenciaminas.mg.gov.br/news/pdf/113003.pdf",
     "data_evidencia": "2023-05",
-    "pagina": 18
+    "pagina": 18,
+    "impacto": {
+      "impacto_fiscal": "receita_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "A concessão dos parques do Ibitipoca e do Itacolomi transfere o custeio e os investimentos para a concessionária e gera outorga, mas os valores são pequenos frente ao orçamento e não foram separados.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2022-21",
@@ -36233,7 +36513,21 @@
     "evidencia": "Busca na imprensa, na Agência Minas e na legislação mineira (API da ALMG, jan/2023 a mar/2026) não localizou novo programa de internet e equipamentos para pessoas em vulnerabilidade; o TecPop Minas existe desde 2021.",
     "fonte_url": "",
     "data_evidencia": "2026-03",
-    "pagina": 19
+    "pagina": 19,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Prover internet, equipamentos e cursos aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2022-22",
@@ -36250,7 +36544,21 @@
     "evidencia": "Não foi criado crédito habitacional, mas o programa Moradas Gerais passou a pagar reformas de até R$ 35 mil em casas de famílias vulneráveis.",
     "fonte_url": "https://www.agenciaminas.mg.gov.br/news/pdf/129563.pdf",
     "data_evidencia": "2026-02",
-    "pagina": 19
+    "pagina": 19,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.032",
+      "valor_total_rs_bi": "0.032",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "0.044",
+      "periodo_acumulado": "2023-2025",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Reformas e melhorias de casas do Moradas Gerais (ação 4103 em 2023 e 4388 em 2025): sem gasto em 2022, R$ 13 milhões em 2023 e R$ 32 milhões em 2025.",
+      "fonte_oficial": "https://dados.mg.gov.br/dataset/despesa",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2022-23",
@@ -36267,7 +36575,21 @@
     "evidencia": "O Minas Forma (mai/2024) oferece cursos gratuitos com bolsa-auxílio para pessoas do CadÚnico.",
     "fonte_url": "https://www.agenciaminas.mg.gov.br/noticia/governo-de-minas-lanca-programa-de-capacitacao-profissional-gratuita-em-101-cidades-122129",
     "data_evidencia": "2024-05",
-    "pagina": 19
+    "pagina": 19,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.01",
+      "valor_total_rs_bi": "0.012",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "0.04",
+      "periodo_acumulado": "2023-2025",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Qualificação profissional da Secretaria de Desenvolvimento Social (ação 1012 até 2023 e 4158 depois), que paga o Minas Forma: R$ 2 milhões em 2022, R$ 20 milhões em 2023, R$ 15 milhões em 2024 e R$ 12 milhões em 2025. A bolsa-auxílio pode estar em outras ações.",
+      "fonte_oficial": "https://dados.mg.gov.br/dataset/despesa",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2018-01",
