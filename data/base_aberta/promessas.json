@@ -26624,7 +26624,21 @@
     "evidencia": "A Seduc criou em 2023 a Prova Paulista, avaliação digital bimestral de aprendizagem do 4º ano do fundamental ao 3º do médio, e em 2024 uma prova semestral de recuperação para recompor a aprendizagem (857 mil alunos em 2025).",
     "fonte_url": "https://abcdoabc.com.br/seduc-sp-avalia-aprendizado-de-25-milhoes-de-estudantes-no-segundo-bimestre-a-partir-do-dia-17/",
     "data_evidencia": "2025",
-    "pagina": 8
+    "pagina": 8,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "Recomposição das aprendizagens: a Prova Paulista e a busca ativa usam a estrutura da Secretaria da Educação; o custo próprio não é separado no orçamento (a ação de avaliação e material didático mistura outras despesas).",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-02",
@@ -26641,7 +26655,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2023 a out/2026) não localizou nova fixação de metas de aprendizagem para as escolas estaduais; seguem as metas do Idesp de 2008 (horizonte 2030). As metas anunciadas em 2026 são para as prefeituras, no Alfabetiza Juntos SP.",
     "fonte_url": "https://www.metropoles.com/sao-paulo/governo-de-sp-promete-verba-para-cidade-que-melhorar-aprendizagem",
     "data_evidencia": "2026-10",
-    "pagina": 8
+    "pagina": 8,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Fixar metas de aprendizagem é regra de gestão, sem gasto relevante; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-03",
@@ -26658,7 +26686,21 @@
     "evidencia": "O Programa Ensino Integral passou de 2.029 escolas em 2022 para 2.338 em 2024, e a Seduc prevê 2.615 em 2027. Em set/2026 o governador admitiu que não chegará aos 60% de alunos prometidos na campanha, meta que não está no plano registrado.",
     "fonte_url": "https://www.gazetasp.com.br/estado/tarcisio-visa-melhorar-estrutura-das-escolas-antes-de-ampliar-ensino/",
     "data_evidencia": "2026-09",
-    "pagina": 8
+    "pagina": 8,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A ampliação do Programa Ensino Integral (2.029 escolas em 2022, 2.338 em 2024) aumenta a despesa com professores em jornada integral. O PPA 2024-2027 reagrupou as ações orçamentárias e a de 2024 em diante não é comparável à de 2022, por isso não há valor a mais.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-04",
@@ -26675,7 +26717,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2023 a out/2026) não localizou parceria do Estado para ampliar o Profesp, programa federal do Ministério da Defesa.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 8
+    "pagina": 8,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o Profesp aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-05",
@@ -26692,7 +26748,21 @@
     "evidencia": "O ensino técnico integrado ao ensino médio na rede estadual passou de cerca de 35 mil alunos em 2023 para 71,9 mil em 2024; para 2026, 2.212 escolas oferecem cursos técnicos, com previsão de 321 mil estudantes.",
     "fonte_url": "https://exame.com/brasil/tarcisio-afirma-que-vai-expandir-ensino-tecnico-em-escolas-regulares-de-sp/",
     "data_evidencia": "2025-11",
-    "pagina": 8
+    "pagina": 8,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.625",
+      "valor_total_rs_bi": "0.967",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "1.276",
+      "periodo_acumulado": "2023-2025",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Ensino técnico integrado ao médio na rede estadual (ação 6424, criada em 2024): R$ 916 milhões em 2024 e R$ 967 milhões em 2025, contra R$ 342 milhões do Novotec Integrado (ação 6289) em 2022; em 2023 o Novotec Integrado teve R$ 419 milhões.",
+      "fonte_oficial": "https://www.transparencia.sp.gov.br/Despesas",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-06",
@@ -26709,7 +26779,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2023 a out/2026) não localizou política estadual para atender 100% da demanda por creche; segue o programa Creche Escola, de construção de unidades com prefeituras, que já existia.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 9
+    "pagina": 9,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Atender toda a demanda por creche com as prefeituras aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-07",
@@ -26726,7 +26810,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2023 a out/2026) não localizou contratação de atendimento especializado na rede privada voltada às regiões desassistidas. O reforço da rede filantrópica pela Tabela SUS Paulista está no item das tabelas de remuneração.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 11
+    "pagina": 11,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Contratar atendimento na rede privada aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-08",
@@ -26743,7 +26841,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2023 a out/2026) não localizou criação de agência ou centro estadual de controle de doenças com autonomia; a vigilância segue na Coordenadoria de Controle de Doenças da Secretaria da Saúde.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 11
+    "pagina": 11,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar o centro de controle de doenças aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-09",
@@ -26760,7 +26872,21 @@
     "evidencia": "A Tabela SUS Paulista, em vigor desde jan/2024, complementa com recursos do Tesouro estadual o valor pago pela tabela federal (até cinco vezes), primeiro às Santas Casas e filantrópicas e depois a hospitais municipais; cerca de R$ 6 bi pagos no primeiro ano.",
     "fonte_url": "https://www.conass.org.br/?p=49728",
     "data_evidencia": "2025",
-    "pagina": 12
+    "pagina": 12,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "5.332",
+      "valor_total_rs_bi": "10.091",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "9.138",
+      "periodo_acumulado": "2024-2025",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "A Tabela SUS Paulista (desde jan/2024) é paga pela ação de serviços contratados e conveniados de saúde (5532) e substituiu o Santas Casas SUStentáveis (ação 6221). Somando as duas: R$ 8,57 bi em 2024 e R$ 10,09 bi em 2025, contra R$ 4,76 bi em 2022, ou R$ 3,8 bi a mais em 2024 e R$ 5,3 bi a mais em 2025. O governo informou R$ 4,3 bi pela Tabela SUS Paulista em 2024 e cerca de R$ 10 bi até jun/2026. A ação também paga outros contratos, que podem ter crescido no período.",
+      "fonte_oficial": "https://www.transparencia.sp.gov.br/Despesas",
+      "fonte_comparacao": "https://www.correiodamanha.com.br/colunistas/brasilianas/2026/05/284651-brasilianas-sus-paulista-modelo-que-inspira-o-df-mostra-alto-custo-e-forte-expansao.html"
+    }
   },
   {
     "id": "tarcisio_sp_2022-10",
@@ -26777,7 +26903,21 @@
     "evidencia": "A Lei 17.745/2023, de iniciativa parlamentar e sancionada pelo governador, obriga a divulgar a ordem de espera dos pacientes para consultas, exames e cirurgias da Cross e do SUS, com integração das filas municipais e estaduais (com vetos parciais).",
     "fonte_url": "https://www.al.sp.gov.br/repositorio/legislacao/lei/2023/lei-17745-12.09.2023.html",
     "data_evidencia": "2023-09",
-    "pagina": 12
+    "pagina": 12,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A Lei 17.745/2023 obriga a publicar a fila; é regra de transparência, sem gasto relevante.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-11",
@@ -26794,7 +26934,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2023 a out/2026) não localizou novo plano de cargos e salários dos profissionais da saúde; houve só a prorrogação de contratos temporários (PLC 81/2023).",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 12
+    "pagina": 12,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Novo plano de cargos e salários aumentaria a despesa com pessoal; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-12",
@@ -26811,7 +26965,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2023 a out/2026) não localizou novos serviços estaduais de longa permanência em geriatria; o cofinanciamento de 70 Centros Dia do programa SP Amigo do Idoso já existia. O g1 diz que o atendimento a idosos foi ampliado, sem detalhar.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 12
+    "pagina": 12,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Novos serviços para idosos aumentariam a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-13",
@@ -26828,7 +26996,21 @@
     "evidencia": "O Decreto 68.828/2024 instituiu o Programa Muralha Paulista, que integra câmeras, leitura de placas e bases de dados do Estado, dos municípios e de outros órgãos para a atuação policial.",
     "fonte_url": "http://www.al.sp.gov.br/norma/209919",
     "data_evidencia": "2024-09",
-    "pagina": 16
+    "pagina": 16,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.498",
+      "valor_total_rs_bi": "0.502",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "0.967",
+      "periodo_acumulado": "2024-2025",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Ação Muralha Paulista (6557, criada em 2024 com o programa do Decreto 68.828/2024): R$ 473 milhões em 2024 e R$ 502 milhões em 2025, contra R$ 4 milhões de videomonitoramento policial (ação 6058) em 2022. Inclui câmeras, leitura de placas e sistemas de dados.",
+      "fonte_oficial": "https://www.transparencia.sp.gov.br/Despesas",
+      "fonte_comparacao": "https://www.bnewssaopaulo.com.br/noticias/politica/tce-questiona-contrato-milionario-de-cameras-em-sp-e-abre-fiscalizacao-sobre-programa-muralha-paulista.html"
+    }
   },
   {
     "id": "tarcisio_sp_2022-14",
@@ -26845,7 +27027,21 @@
     "evidencia": "Até abr/2025 as polícias Militar e Civil receberam 9,1 mil agentes (7,8 mil só em 2024, o maior volume desde 2011), e o governo previa 23,5 mil contratações até o fim de 2026; não há dado do efetivo líquido após aposentadorias.",
     "fonte_url": "https://folha.qconcursos.com/n/concurso-policial-sp-ingresso-de-23-mil-agentes",
     "data_evidencia": "2025-04",
-    "pagina": 16
+    "pagina": 16,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O aumento do efetivo (9,1 mil agentes até abr/2025) aumenta a despesa com pessoal, mas a folha das polícias também muda com reajustes e aposentadorias, e o custo das novas contratações não é separado no orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-15",
@@ -26862,7 +27058,21 @@
     "evidencia": "A política foi revista: o novo contrato de 12 mil câmeras (Motorola, set/2024) prevê acionamento pelo policial ou remoto pelo Copom, em vez da gravação contínua. Depois de pressão do STF, o governo manteve as câmeras antigas durante os testes.",
     "fonte_url": "https://www.poder360.com.br/seguranca-publica/gestao-tarcisio-quer-cameras-corporais-que-podem-ser-desligadas-por-pms/",
     "data_evidencia": "2024-12",
-    "pagina": 16
+    "pagina": 16,
+    "impacto": {
+      "impacto_fiscal": "neutro",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O novo contrato de 12 mil câmeras corporais (2024) substituiu o anterior; a mudança é de regra de uso, sem gasto novo relevante.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-16",
@@ -26879,7 +27089,21 @@
     "evidencia": "Só a região da Cracolândia ganhou mapa com os crimes por rua (2023); para o restante do Estado a divulgação de dados foi ampliada, mas sem os mapas interativos prometidos (o g1 classifica como cumprida em parte).",
     "fonte_url": "https://www.gazetasp.com.br/?p=63992",
     "data_evidencia": "2026",
-    "pagina": 16
+    "pagina": 16,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Publicar mapas de crimes usa dados que a Secretaria já tem, sem gasto relevante.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-17",
@@ -26896,7 +27120,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2023 a out/2026) não localizou reformulação das delegacias regionais de homicídios.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 17
+    "pagina": 17,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Reformular as delegacias de homicídios é reorganização administrativa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-18",
@@ -26913,7 +27151,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2023 a out/2026) não localizou instalação de bloqueadores de celular em todos os presídios.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 17
+    "pagina": 17,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Instalar bloqueadores de celular aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-19",
@@ -26930,7 +27182,21 @@
     "evidencia": "Desde 2024 presos soltos em audiência de custódia na Capital passaram a usar tornozeleira (200 equipamentos iniciais, com previsão de 8 mil); para o semiaberto a SAP mantém 4,5 mil tornozeleiras e anunciou nova contratação.",
     "fonte_url": "https://www.gazetasp.com.br/estado/presos-liberados-apos-audiencia-de-custodia-em-sp-comecam-a-usar/",
     "data_evidencia": "2025",
-    "pagina": 17
+    "pagina": 17,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "A ampliação das tornozeleiras aumenta a despesa com monitoramento eletrônico, mas o contrato não aparece em ação própria do orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-20",
@@ -26947,7 +27213,21 @@
     "evidencia": "Desde set/2024 agressores soltos em audiência de custódia na Capital podem receber tornozeleira monitorada pelo Copom (200 equipamentos cedidos pela SAP); em cerca de dois anos foram presos 73 agressores de mulheres.",
     "fonte_url": "https://jovempan.com.br/brasil/projeto-pioneiro-em-sp-prende-73-agressores-de-mulheres-com-uso-de-tornozeleira-eletronica",
     "data_evidencia": "2026",
-    "pagina": 17
+    "pagina": 17,
+    "impacto": {
+      "impacto_fiscal": "sem_valor_proprio",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "As tornozeleiras dos agressores foram cedidas pela Secretaria da Administração Penitenciária e são monitoradas pelo Copom; o custo está dentro do monitoramento eletrônico (promessa 19).",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-21",
@@ -26964,7 +27244,21 @@
     "evidencia": "O número de Delegacias de Defesa da Mulher com atendimento 24 horas passou de 11 para 18, e decretos de 2025 e 2026 reclassificaram unidades.",
     "fonte_url": "https://sbtnews.sbt.com.br/noticia/brasil/governo-de-sp-expande-atendimento-em-7-delegacias-de-defesa-da-mulher",
     "data_evidencia": "2025",
-    "pagina": 17
+    "pagina": 17,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Mais Delegacias da Mulher 24 horas aumentam a despesa com pessoal, que não é separada no orçamento (a ação Delegacia da Mulher 24h tinha só R$ 4 milhões em 2022 e deixou de existir em 2024).",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-22",
@@ -26981,7 +27275,21 @@
     "evidencia": "Entre 2023 e 2025 foram abertos 15 abrigos sigilosos para mulheres, seis deles regionais (atendem 30 cidades, até 120 pessoas), segundo a Secretaria de Desenvolvimento Social.",
     "fonte_url": "https://www.abcdoabc.com.br/agosto-lilas-abrigos-para-mulheres-crescem/",
     "data_evidencia": "2025-08",
-    "pagina": 17
+    "pagina": 17,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "Os abrigos para mulheres aumentam a despesa, mas não aparecem em ação própria do orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-23",
@@ -26998,7 +27306,21 @@
     "evidencia": "O Hub de Cuidados substituiu o Cratod no centro da Capital (Decreto 68.287/2023 reorganizou a unidade Recomeço) e o governo anunciou mil novas vagas em comunidades terapêuticas; não foi localizado balanço da ampliação.",
     "fonte_url": "https://revistaoeste.com/brasil/tarcisio-vai-expandir-comunidades-terapeuticas-para-viciados-em-drogas/",
     "data_evidencia": "2024",
-    "pagina": 20
+    "pagina": 20,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "A requalificação do Recomeço aumenta a despesa com acolhimento terapêutico, mas as ações do programa foram reagrupadas em 2024 (política sobre drogas) e não são comparáveis às de 2022.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-24",
@@ -27015,7 +27337,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2023 a out/2026) não localizou expansão dos centros de acolhimento da população de rua com as prefeituras; houve um comitê de acompanhamento da política estadual (Decreto 70.085/2025).",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 20
+    "pagina": 20,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Expandir os centros de acolhimento aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-25",
@@ -27032,7 +27368,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2023 a out/2026) não localizou programa estadual de emprego para população de rua, ex-dependentes químicos e egressos do sistema prisional.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 20
+    "pagina": 20,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar o programa de emprego aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-26",
@@ -27049,7 +27399,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2023 a out/2026) não localizou plano estadual de logística e investimentos de longo prazo.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 21
+    "pagina": 21,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar um plano de logística é planejamento, sem gasto relevante; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-27",
@@ -27066,7 +27430,21 @@
     "evidencia": "As travessias foram concedidas, mas num único pacote de 14 linhas (litoral, Grande SP e Paraibuna), e não uma a uma: leilão em nov/2025, vencido pela AcquaVias SP, PPP de 20 anos.",
     "fonte_url": "https://www.gazetasp.com.br/economia/balsas-viagens-litoral-sp-mudam-apos-leilao-25-bi/",
     "data_evidencia": "2025-11",
-    "pagina": 21
+    "pagina": 21,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "Na PPP das travessias (leilão em nov/2025, contrato em mai/2026), o Estado pagará contraprestação anual de cerca de R$ 400 milhões (desconto de 12,6% sobre R$ 461 milhões) a partir de 2027, no lugar da operação própria, que custou R$ 353 milhões em 2025 (ação 6414). Nada mudou no orçamento até 2025.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-28",
@@ -27083,7 +27461,21 @@
     "evidencia": "O primeiro trecho do Rodoanel Norte (24 km, Fernão Dias–Dutra) foi entregue em 22/12/2025; o segundo, até a Av. Raimundo Pereira de Magalhães, seguia em obras, com entrega prevista para o 2º semestre de 2026.",
     "fonte_url": "https://www.band.com.br/radio-bandeirantes/noticias/apos-13-anos-trecho-norte-do-rodoanel-e-inaugurado-com-promessa-de-aliviar-transito-em-sp-202512221346",
     "data_evidencia": "2025-12",
-    "pagina": 21
+    "pagina": 21,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "1.428",
+      "ano_ref": "2023",
+      "valor_acumulado_rs_bi": "1.428",
+      "periodo_acumulado": "2023",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "alta",
+      "explicacao": "Aporte do Estado na concessão do Rodoanel Norte (Via Appia, contrato de ago/2023): R$ 1,43 bi empenhados em 2023 na ação 2283; em 2024 e 2025 nada, e em 2026 mais R$ 1,46 bi (ano ainda não completo, fora do acumulado). O governo prevê pagar ainda R$ 4,4 bi por reequilíbrio do contrato.",
+      "fonte_oficial": "https://www.transparencia.sp.gov.br/Despesas",
+      "fonte_comparacao": "https://www.metropoles.com/sao-paulo/tarcisio-44-bilhoes-rodoanel"
+    }
   },
   {
     "id": "tarcisio_sp_2022-29",
@@ -27100,7 +27492,21 @@
     "evidencia": "O Estado retomou a obra em ago/2023, em convênio com o DNIT; em abr/2026 estava 97% concluída, com término previsto para 30/06/2026, sem confirmação de entrega localizada.",
     "fonte_url": "https://agenciainfra.com/blog/?p=39755",
     "data_evidencia": "2026-04",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "A obra do pedral, em convênio com o DNIT, aumenta a despesa, mas não aparece em ação própria do orçamento depois de 2023 (a ação da Hidrovia Tietê-Paraná teve R$ 99 milhões em 2023).",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-30",
@@ -27117,7 +27523,21 @@
     "evidencia": "A Linha 17-Ouro começou a operar em mar/2026 e o primeiro trecho da Linha 6-Laranja (seis estações) em jul/2026, ambas em operação assistida; o restante da Linha 6 está previsto para 2027.",
     "fonte_url": "https://diariodotransporte.com.br/2026/06/30/tarcisio-entrega-linha-6-laranja-de-metro-nesta-quinta-feira-02-marcando-inicio-da-operacao-assistida-em-seis-estacoes/",
     "data_evidencia": "2026-07",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "1.361",
+      "valor_total_rs_bi": "2.291",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "3.213",
+      "periodo_acumulado": "2023-2025",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "media",
+      "explicacao": "Aportes do Estado na PPP da Linha 6-Laranja (ação 2475): R$ 1,31 bi em 2023, R$ 2,40 bi em 2024 e R$ 2,29 bi em 2025, contra R$ 0,93 bi em 2022. As Linhas 17, 2 e 15 são pagas por aumento de capital do Metrô, que em 2024 foi lançado numa ação única (R$ 3,48 bi) e não dá para separar por linha; por isso o valor conta só a Linha 6 e subestima o gasto.",
+      "fonte_oficial": "https://www.transparencia.sp.gov.br/Despesas",
+      "fonte_comparacao": "https://abcdoabc.com.br/linha-6-laranja-aporte-37-bi/"
+    }
   },
   {
     "id": "tarcisio_sp_2022-31",
@@ -27134,7 +27554,21 @@
     "evidencia": "O contrato de concessão do Trem Intercidades São Paulo–Campinas (com a Linha 7-Rubi e o trem Campinas–Jundiaí) foi assinado com o consórcio C2 Mobilidade em 29/05/2024, após leilão em fev/2024.",
     "fonte_url": "https://diariodotransporte.com.br/2024/05/28/tarcisio-assina-contrato-do-tic-trem-intercidades-sao-paulo-campinas-com-o-c2-mobilidade-nesta-quarta-29-confirma-assessoria-do-palacio-dos-bandeirantes/",
     "data_evidencia": "2024-05",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.145",
+      "valor_total_rs_bi": "0.158",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "0.145",
+      "periodo_acumulado": "2025",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "media",
+      "explicacao": "Acompanhamento da implantação do Trem Intercidades (ação 2621): R$ 158 milhões em 2025, contra R$ 13 milhões em 2022; o contrato (2024) prevê aporte público de até cerca de R$ 8,9 bi ao longo da obra, com conclusão prevista para 2031.",
+      "fonte_oficial": "https://www.transparencia.sp.gov.br/Despesas",
+      "fonte_comparacao": "https://diariodotransporte.com.br/2024/03/01/tic-grupo-comporte-c2-mobilidade-sobre-trilhos-vence-leilao-do-tic-trem-intercidades-entre-sao-paulo-e-campinas-via-jundiai-nesta-quinta-29-desconto-so-de-001/"
+    }
   },
   {
     "id": "tarcisio_sp_2022-32",
@@ -27151,7 +27585,21 @@
     "evidencia": "As linhas da EMTU receberam 438 ônibus novos em 2024, todos acessíveis, mas com plataforma elevatória; piso baixo só nos BRT de Campinas. Não há dado da frota total substituída.",
     "fonte_url": "https://diariodotransporte.com.br/2025/01/07/linhas-intermunicipais-da-emtu-receberam-438-novos-veiculos-em-2024/",
     "data_evidencia": "2025-01",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "fora_do_orcamento",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Os ônibus intermunicipais são comprados pelas empresas operadoras, fora do orçamento do Estado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-33",
@@ -27168,7 +27616,21 @@
     "evidencia": "O programa de vicinais, criado em 2019, foi incorporado ao São Paulo Pra Toda Obra, que prevê modernizar 22,3 mil km de rodovias e vicinais; não há balanço dos quilômetros entregues.",
     "fonte_url": "https://semil.sp.gov.br/?p=128181",
     "data_evidencia": "2025-08",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A recuperação de vicinais aumenta a despesa, mas a ação Estradas Vicinais (R$ 2,87 bi em 2022) foi trocada em 2024 por Estradas Municipais (R$ 0,86 bi em 2025) dentro do SP Pra Toda Obra, sem comparação direta.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-34",
@@ -27185,7 +27647,21 @@
     "evidencia": "O iRAP foi adotado no Lote Paranapanema (cerca de 285 km concedidos), como modelo para futuros editais, e o Decreto 70.551/2026 criou o Plano de Segurança Viária 2025–2035; não chega a todas as rodovias.",
     "fonte_url": "https://abcdoabc.com.br/sp-adota-metodologia-internacional-para-modernizar-rodovias-do-lote-paranapanema/",
     "data_evidencia": "2026-04",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Adotar o iRAP é regra técnica das concessões, sem gasto relevante.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-35",
@@ -27202,7 +27678,21 @@
     "evidencia": "As rodovias concedidas somam cerca de 2,4 mil km com wi-fi, e os novos contratos de concessão passaram a exigi-lo; não foi localizado wi-fi nos ônibus intermunicipais.",
     "fonte_url": "https://www.gazetasp.com.br/estado/rodovias-paulistas-tem-mais-de-24-mil-km-de-wi-fi-livre/",
     "data_evidencia": "2024",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "fora_do_orcamento",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O wi-fi nas rodovias é pago pelas concessionárias, fora do orçamento do Estado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-36",
@@ -27219,7 +27709,21 @@
     "evidencia": "O Casa Paulista ampliou o subsídio à compra (13,1 mil unidades autorizadas só em abr/2025, além de até 30 mil em modalidades do Minha Casa Minha Vida); não há balanço oficial consolidado da oferta.",
     "fonte_url": "https://abcdoabc.com.br/sp-autoriza-investimento-de-quase-r-1-bilhao-para-novas-moradias-em-parceria-com-a-caixa/",
     "data_evidencia": "2025-04",
-    "pagina": 23
+    "pagina": 23,
+    "impacto": {
+      "impacto_fiscal": "sem_valor_proprio",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O aumento da oferta de moradias com fomento do Estado tem o gasto contado na carta de crédito do Casa Paulista (promessa 38).",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-37",
@@ -27236,7 +27740,21 @@
     "evidencia": "O Sistema de Monitoramento por Satélites, criado em set/2023, envia alertas de desmatamento, ocupação irregular e novas edificações em áreas naturais a 79 municípios; entre out/2024 e mar/2025 gerou 368 vistorias e 122 autuações.",
     "fonte_url": "https://jovempan.com.br/brasil/governo-de-sp-divulga-dados-de-monitoramento-de-crimes-ambientais-por-satelite/",
     "data_evidencia": "2025",
-    "pagina": 24
+    "pagina": 24,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O monitoramento por satélite tem custo pequeno frente ao orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-38",
@@ -27253,7 +27771,21 @@
     "evidencia": "A carta de crédito do Casa Paulista dá de R$ 10 mil a R$ 16 mil por unidade a famílias de baixa renda, somados ao desconto do Minha Casa Minha Vida (sucessor do Casa Verde e Amarela).",
     "fonte_url": "https://portas.com.br/mercado-imobiliario/casa-paulista-subsidio-quem-tem-direito/",
     "data_evidencia": "2025",
-    "pagina": 24
+    "pagina": 24,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.299",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Carta de crédito do Casa Paulista (ação 16822742 da CDHU): R$ 182 milhões em 2024 e R$ 299 milhões em 2025; o subsídio estadual ao crédito habitacional já existia e foi maior em 2022 (R$ 1,03 bi, ação 2486), por isso não há despesa a mais, só o custo total. O governo diz ter investido R$ 1,2 bi em cartas de crédito desde 2023.",
+      "fonte_oficial": "https://www.transparencia.sp.gov.br/Despesas",
+      "fonte_comparacao": "https://www.portaltela.com/noticias/economia/2026/06/03/casa-paulista-amplia-acesso-a-moradias-por-meio-de-cartas-de-credito/"
+    }
   },
   {
     "id": "tarcisio_sp_2022-39",
@@ -27270,7 +27802,21 @@
     "evidencia": "O Decreto 68.410/2024 declarou de utilidade pública os imóveis da PPP Campos Elíseos e o Decreto 69.620/2025 autorizou a licitação da concessão para construir e operar o Centro Administrativo.",
     "fonte_url": "http://www.al.sp.gov.br/norma/211058",
     "data_evidencia": "2025-06",
-    "pagina": 26
+    "pagina": 26,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O Polo Administrativo será uma PPP: o Estado pagaria contraprestação depois da obra, mas a concessão só teve a licitação autorizada (Decreto 69.620/2025), sem contrato.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-40",
@@ -27287,7 +27833,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2023 a out/2026) não localizou construção estadual de habitação de interesse social e de mercado popular na ZEIS do centro; os atos da PPP Campos Elíseos tratam de unidades administrativas.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 26
+    "pagina": 26,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Construir moradias no centro aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-41",
@@ -27304,7 +27864,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2023 a out/2026) não localizou parceria com a Prefeitura para a fase 2 da Operação Urbana Água Branca ou o enterramento de trilhos.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 26
+    "pagina": 26,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Enterrar os trilhos na Água Branca aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-42",
@@ -27321,7 +27895,21 @@
     "evidencia": "O programa IntegraTietê, lançado em 2023, reúne desassoreamento, coleta e tratamento de esgoto e monitoramento dos rios Tietê e Pinheiros (2,3 milhões de m³ retirados até jan/2025).",
     "fonte_url": "https://abcdoabc.com.br/rio-pinheiros-e-destaque-no-primeiro-ano-de-acoes-do-programa-integratiete/",
     "data_evidencia": "2025-01",
-    "pagina": 28
+    "pagina": 28,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O IntegraTietê reúne ações já existentes: a ação de revitalização dos rios Tietê e Pinheiros (6562) teve R$ 395 milhões em 2025, contra R$ 343 milhões das ações Novo Rio Pinheiros e manutenção do Tietê em 2022; parte do programa (esgoto) é paga pela Sabesp, fora do orçamento. A diferença é pequena e as ações não são diretamente comparáveis.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-43",
@@ -27338,7 +27926,21 @@
     "evidencia": "Com a privatização da Sabesp (jul/2024), o contrato antecipou a universalização de 2033 para 2029, e não para 2027 como prometido: quatro dos seis anos de antecipação.",
     "fonte_url": "https://agenciainfra.com/blog/sabesp-quer-antecipar-universalizacao-para-antes-de-2029/",
     "data_evidencia": "2026-03",
-    "pagina": 28
+    "pagina": 28,
+    "impacto": {
+      "impacto_fiscal": "fora_do_orcamento",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A universalização do saneamento é feita pela Sabesp, privatizada em jul/2024, fora do orçamento do Estado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-44",
@@ -27355,7 +27957,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2023 a out/2026) não localizou projeto de Código Estadual de Meio Ambiente do Executivo.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 28
+    "pagina": 28,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar o Código Ambiental é lei, sem gasto relevante; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-45",
@@ -27372,7 +27988,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2023 a out/2026) não localizou adoção do leilão reverso de embalagens.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 28
+    "pagina": 28,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O leilão reverso é regra de logística reversa, paga pelas empresas; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-46",
@@ -27389,7 +28019,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2023 a out/2026) não localizou Código Estadual de Fauna; o único ato próximo é o Decreto 69.582/2025, sobre o resgate de fauna silvestre.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 28
+    "pagina": 28,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar o Código de Fauna é lei, sem gasto relevante; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-47",
@@ -27406,7 +28050,21 @@
     "evidencia": "O monitoramento por satélite passou a gerar alertas de desmatamento (2023), e o MapBiomas aponta São Paulo entre os estados sem perda líquida de vegetação nativa em 41 anos; não há dado oficial da perda bruta anual.",
     "fonte_url": "https://brasil.mapbiomas.org/wp-content/uploads/sites/3/2026/08/Factsheet-Colecao-11-12082026-1.pdf",
     "data_evidencia": "2026-08",
-    "pagina": 29
+    "pagina": 29,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Zerar a perda de cobertura florestal depende de fiscalização e monitoramento já existentes; sem gasto novo separado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-48",
@@ -27423,7 +28081,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2023 a out/2026) não localizou criação de banco genético florestal; o banco de germoplasma de espécies nativas do Instituto de Pesquisas Ambientais já existia.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 29
+    "pagina": 29,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar o banco genético aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-49",
@@ -27440,7 +28112,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2023 a out/2026) não localizou instalação de energia solar nos prédios públicos estaduais; o projeto Rede Solar, com o BID, estava em estudo.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 29
+    "pagina": 29,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Instalar energia solar aumentaria o investimento (e reduziria a conta de luz depois); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-50",
@@ -27457,7 +28143,21 @@
     "evidencia": "O Decreto 70.683/2026 instituiu a Política Estadual de Distritos de Inovação; não foram localizados hubs criados junto às universidades para incubar startups.",
     "fonte_url": "http://www.al.sp.gov.br/norma/212748",
     "data_evidencia": "2026-06",
-    "pagina": 31
+    "pagina": 31,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A política de distritos de inovação (Decreto 70.683/2026) é regra, sem gasto relevante até agora.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-51",
@@ -27474,7 +28174,21 @@
     "evidencia": "A Lei 18.375/2025, de iniciativa do governador, reestruturou o Fundo de Aval que garante os empréstimos do Banco do Povo e do Desenvolve SP, regulamentada pelo Decreto 70.459/2026.",
     "fonte_url": "http://www.al.sp.gov.br/norma/212084",
     "data_evidencia": "2025-12",
-    "pagina": 31
+    "pagina": 31,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_primario",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A reestruturação do Fundo de Aval (Lei 18.375/2025) mexe num fundo garantidor de empréstimos, que não entra no resultado primário.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-52",
@@ -27491,7 +28205,21 @@
     "evidencia": "O Banco do Povo abriu em 2023 linha de R$ 50 milhões exclusiva para mulheres empreendedoras, além do Empreenda Mulher.",
     "fonte_url": "https://www.gazetasp.com.br/estado/estado-de-sp-financiou-mais-de-r-395-milhoes-em-credito-para/",
     "data_evidencia": "2023",
-    "pagina": 31
+    "pagina": 31,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_primario",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A linha de microcrédito do Banco do Povo é empréstimo reembolsável, fora do resultado primário.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-53",
@@ -27508,7 +28236,21 @@
     "evidencia": "O Decreto 67.660/2023 criou o Jovem Aprendiz Paulista para micro e pequenas empresas, com o Estado custeando 100% da formação dos aprendizes.",
     "fonte_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2023/decreto-67660-26.04.2023.html",
     "data_evidencia": "2023-04",
-    "pagina": 31
+    "pagina": 31,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.146",
+      "ano_ref": "2023",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "O Estado paga a formação dos aprendizes (pelo CIEE); o governo anunciou R$ 145,5 milhões para o programa no lançamento (2023). O gasto não aparece em ação própria do orçamento, por isso não há valor por ano.",
+      "fonte_oficial": "",
+      "fonte_comparacao": "https://jcconcursos.com.br/noticia/brasil/governo-de-sp-oferece-programa-de-jovem-aprendiz-sem-custo-para-empresario-110917"
+    }
   },
   {
     "id": "tarcisio_sp_2022-54",
@@ -27525,7 +28267,21 @@
     "evidencia": "A Sefaz-SP tirou da substituição tributária mais de 130 itens a partir de 2026 (Portaria SRE 64/2025) e outras 174 mercadorias a partir de out/2026 (Portaria SRE 34/2026).",
     "fonte_url": "https://smabr.com/sefaz-sp-exclui-174-mercadorias-do-regime-de-substituicao-tributaria-do-icms/",
     "data_evidencia": "2026",
-    "pagina": 32
+    "pagina": 32,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Tirar mercadorias da substituição tributária muda a forma de cobrar o ICMS (quem recolhe e quando), sem efeito previsto na arrecadação.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-55",
@@ -27542,7 +28298,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2023 a out/2026) não localizou planejamento do uso do solo rural por município via satélite.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 33
+    "pagina": 33,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O planejamento do uso do solo por satélite teria custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-56",
@@ -27559,7 +28329,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2023 a out/2026) não localizou abertura de novas Fábricas de Cultura no interior; em 2025 o programa CultSP na Estrada levou atividades itinerantes a cidades sem unidade fixa.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 35
+    "pagina": 35,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Abrir novas Fábricas de Cultura aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-57",
@@ -27576,7 +28360,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2023 a out/2026) não localizou criação de centros regionais de esporte olímpico.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 37
+    "pagina": 37,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar centros de esporte olímpico aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-58",
@@ -27593,7 +28391,21 @@
     "evidencia": "Os repasses do Dadetur às estâncias e municípios de interesse turístico bateram recorde em 2023 (R$ 197 milhões para 185 municípios) e no 1º trimestre de 2024.",
     "fonte_url": "https://www.panrotas.com.br/100xbrasil/investimentos/2023/09/setur-sp-repassa-r-197-milhoes-para-185-municipios-turisticos_199455.html",
     "data_evidencia": "2024",
-    "pagina": 37
+    "pagina": 37,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "Os repasses às estâncias aumentam a despesa, mas o empenhado da ação de apoio aos municípios turísticos caiu de R$ 374 milhões (2022) para R$ 284 milhões (2023), e a ação foi reorganizada em 2024; o recorde de 2023 citado pelo governo (R$ 197 milhões) é de valores pagos, não comparável.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-59",
@@ -27610,7 +28422,21 @@
     "evidencia": "O Decreto 69.056/2024 criou o portal único SP.GOV.BR e unificou os canais digitais do Executivo, dentro da Estratégia de Governo Digital 2023–2026 (Decreto 67.799/2023).",
     "fonte_url": "http://www.al.sp.gov.br/norma/210234",
     "data_evidencia": "2024-11",
-    "pagina": 39
+    "pagina": 39,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O portal único SP.GOV.BR reorganiza canais digitais que já existiam; custo pequeno frente ao orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-60",
@@ -27627,7 +28453,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2023 a out/2026) não localizou contrato público para solução inovadora (CPSI) firmado pelo Estado.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 39
+    "pagina": 39,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Contratar soluções inovadoras é forma de compra, sem gasto novo relevante; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-61",
@@ -27644,7 +28484,21 @@
     "evidencia": "O Poupatempo aceita login gov.br desde jun/2023, e o Decreto 68.306/2024 regulou o uso de assinaturas eletrônicas nas interações com a administração estadual.",
     "fonte_url": "https://abcdoabc.com.br/poupatempo-digital-agora-tambem-e-gov-br/",
     "data_evidencia": "2024-01",
-    "pagina": 40
+    "pagina": 40,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Aceitar a assinatura gov.br é regra, sem gasto relevante.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-62",
@@ -27661,7 +28515,21 @@
     "evidencia": "O Decreto 67.979/2023 disciplinou a aprovação tácita dos atos públicos de liberação de atividades econômicas quando o prazo máximo não é cumprido.",
     "fonte_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2023/decreto-67979-25.09.2023.html",
     "data_evidencia": "2023-09",
-    "pagina": 40
+    "pagina": 40,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A aprovação tácita é regra, sem gasto relevante.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-63",
@@ -27678,7 +28546,21 @@
     "evidencia": "A Lei 17.761/2023, de iniciativa parlamentar e sancionada pelo governador, criou o licenciamento simplificado com base na Lei federal de Liberdade Econômica, regulamentada pelo Decreto 67.979/2023.",
     "fonte_url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2023/decreto-67979-25.09.2023.html",
     "data_evidencia": "2023-09",
-    "pagina": 40
+    "pagina": 40,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A Lei de Liberdade Econômica é regra, sem gasto relevante.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-64",
@@ -27695,7 +28577,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2023 a out/2026) não localizou oferta aos municípios dos sistemas estaduais de compras, pessoal, orçamento ou contabilidade; a plataforma Cidades SP.GOV.BR trata só de zeladoria e iluminação.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 40
+    "pagina": 40,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Oferecer os sistemas aos municípios teria custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-65",
@@ -27712,7 +28608,21 @@
     "evidencia": "O Pix passou a ser aceito no IPVA (out/2023), em multas, licenciamento e transferência de veículos (jan/2024) e em mais 11 taxas do Detran (fev/2024); não chega a todas as custas e tributos.",
     "fonte_url": "https://www.poder360.com.br/brasil/sp-libera-pagamento-de-multa-e-licenciamento-via-pix/",
     "data_evidencia": "2024-02",
-    "pagina": 40
+    "pagina": 40,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Aceitar Pix nos tributos muda o meio de pagamento, sem efeito relevante na arrecadação.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-66",
@@ -27729,7 +28639,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2023 a out/2026) não localizou medida estadual para adotar o CPF e o CNPJ como identificadores únicos; o CPF passou a ser o número único de identificação por lei federal (Lei 14.534/2023).",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 40
+    "pagina": 40,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Adotar CPF e CNPJ como identificadores é regra, sem gasto relevante; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-67",
@@ -27746,7 +28670,21 @@
     "evidencia": "O Decreto 67.683/2023 criou o Plano Estadual de Promoção da Integridade, reorganizado como Política Paulista de Promoção da Integridade em 2026.",
     "fonte_url": "http://www.al.sp.gov.br/norma/208047",
     "data_evidencia": "2023-05",
-    "pagina": 40
+    "pagina": 40,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O plano de integridade é regra de gestão, sem gasto relevante.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-68",
@@ -27763,7 +28701,21 @@
     "evidencia": "O Decreto 69.328/2025 aprovou o Código de Ética da Administração Pública direta e autárquica do Estado.",
     "fonte_url": "http://www.al.sp.gov.br/norma/210556",
     "data_evidencia": "2025-01",
-    "pagina": 40
+    "pagina": 40,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O código de ética é regra, sem gasto relevante.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-69",
@@ -27780,7 +28732,21 @@
     "evidencia": "O governo começou com 23 secretarias, o mesmo número da gestão anterior, com fusões e criações de pastas; não foi localizada redução.",
     "fonte_url": "https://www.correiobraziliense.com.br/politica/2022/12/amp/5061194-tarcisio-completa-lista-de-secretarios-de-sp-e-e-alvo-de-protestos.html",
     "data_evidencia": "2022-12",
-    "pagina": 40
+    "pagina": 40,
+    "impacto": {
+      "impacto_fiscal": "despesa_reduz",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Reduzir o número de secretarias reduziria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-70",
@@ -27797,7 +28763,21 @@
     "evidencia": "A Lei Complementar 1.419/2024, de iniciativa do governador, reorganizou a Controladoria Geral do Estado como órgão próprio e criou a carreira de Auditor Estadual de Controle.",
     "fonte_url": "http://www.al.sp.gov.br/norma/210421",
     "data_evidencia": "2024-12",
-    "pagina": 40
+    "pagina": 40,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "A reorganização da Controladoria (LC 1.419/2024) criou a carreira de Auditor Estadual, o que aumenta a despesa com pessoal, mas o custo não foi divulgado e a Controladoria não tem ação própria comparável a 2022.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-71",
@@ -27814,7 +28794,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2023 a out/2026) não localizou política estadual de segurança cibernética.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 41
+    "pagina": 41,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar a política de segurança cibernética é regra; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-72",
@@ -27831,7 +28825,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2023 a out/2026) não localizou criação de gestora de investimentos e do patrimônio do Estado.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 41
+    "pagina": 41,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_primario",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar a gestora de investimentos mexe no patrimônio, não no resultado primário; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-73",
@@ -27848,7 +28856,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2023 a out/2026) não localizou núcleo de avaliação de políticas públicas; o Decreto 68.159/2023 trata da política de governança em geral.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 41
+    "pagina": 41,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar o núcleo de avaliação teria custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-74",
@@ -27865,7 +28887,21 @@
     "evidencia": "Em fev/2023 decretos renovaram ou criaram benefícios que reduzem o ICMS até o fim de 2024, e foi revogado o artigo da Lei 17.293/2020 que permitia ao Executivo mudar alíquotas sem a Alesp; não houve redução geral das alíquotas majoradas em 2021.",
     "fonte_url": "https://mercadoeconsumo.com.br/27/02/2023/economia/tarcisio-anuncia-decretos-de-reducao-de-icms-em-sp-ate-o-fim-de-2024/",
     "data_evidencia": "2023-02",
-    "pagina": 43
+    "pagina": 43,
+    "impacto": {
+      "impacto_fiscal": "receita_reduz",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "Os decretos de fev/2023 renovaram ou criaram benefícios de ICMS até o fim de 2024, o que reduz a receita; a Fazenda não divulgou a renúncia desses decretos separadamente (a LDO 2026 estima R$ 78,7 bi de renúncias de ICMS no total).",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-75",
@@ -27882,7 +28918,21 @@
     "evidencia": "A alíquota do ICMS sobre veículos (14,5% desde 2021) não foi reduzida; as mudanças foram isenções pontuais.",
     "fonte_url": "https://www.boca.com.br/politica/tarcisio-de-freitas-cumpre-17-de-40-promessas-ate-2026",
     "data_evidencia": "2026",
-    "pagina": 43
+    "pagina": 43,
+    "impacto": {
+      "impacto_fiscal": "receita_reduz",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Reduzir o ICMS sobre veículos reduziria a receita; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-76",
@@ -27899,7 +28949,21 @@
     "evidencia": "A alíquota-base do IPVA continua em 4% em 2026; as leis de 2024 e 2025 (18.065 e 18.386) criaram isenções e incentivos para motos, híbridos e veículos a hidrogênio.",
     "fonte_url": "http://www.al.sp.gov.br/norma/212095",
     "data_evidencia": "2026",
-    "pagina": 43
+    "pagina": 43,
+    "impacto": {
+      "impacto_fiscal": "receita_reduz",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Reduzir a alíquota do IPVA reduziria a receita; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "tarcisio_sp_2022-77",
@@ -27916,7 +28980,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2023 a out/2026) não localizou redução das taxas do Detran; a taxa de licenciamento segue corrigida pela Ufesp todo ano (R$ 160,22 em 2024).",
     "fonte_url": "https://mundorh.com.br/detran-sp-divulga-calendario-de-licenciamento-para-2024",
     "data_evidencia": "2026-10",
-    "pagina": 43
+    "pagina": 43,
+    "impacto": {
+      "impacto_fiscal": "receita_reduz",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Reduzir as taxas do Detran reduziria a receita; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2018-01",

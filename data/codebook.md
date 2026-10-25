@@ -50,7 +50,7 @@ Uma **promessa** é uma frase do plano de governo registrado no TSE que comprome
 
 As taxas são calculadas sobre as promessas avaliadas (`total − nao_avaliada`). Para mandatos em curso, o status reflete a `data_corte` de `mandatos.csv`. Para mandatos interrompidos, a avaliação vai até `mandato_fim_efetivo` (data do afastamento ou da renúncia; o motivo fica em `motivo_interrupcao`); fatos posteriores podem aparecer na evidência, mas não mudam o status.
 
-## Impacto fiscal (presidentes e governadores do RJ)
+## Impacto fiscal (presidentes e governadores do RJ e de SP)
 
 Arquivo `data/impacto_fiscal/<mandato>.csv` (uma linha por promessa do mandato), validado pelo `build.py` e publicado em `data/base_aberta/impacto_fiscal.csv`.
 
@@ -69,3 +69,5 @@ Despesa = empenhada (na Dilma 2010 usa-se o valor PAGO do Tesouro Transparente, 
 
 
 Governadores do RJ: o orçamento de referência é o do Estado. Como os portais oficiais do Estado (Transparência, SEFAZ, TCE, Alerj) recusam conexões feitas de fora do Brasil, os valores vêm de investimentos anunciados pelo governo e publicados na imprensa (`fonte_comparacao`), com confiança média ou baixa. Obra ou equipamento é gasto único (`recorrente` = `nao`) e o acumulado é o valor investido no mandato, com o período da obra; custeio não divulgado fica sem valor.
+
+Governadores de SP: o orçamento de referência é o do Estado de São Paulo. A despesa é a empenhada por ação no Portal da Transparência do Estado (`scripts/orcamento_sp.py`, base desde 2020; para anos anteriores, consulta por ação no SIGEO da Secretaria da Fazenda). Quando o PPA reagrupa ações e a ação nova não é comparável à do ano anterior ao mandato, não há valor a mais; quando um programa substitui outro (ex.: Tabela SUS Paulista no lugar do Santas Casas SUStentáveis), as duas ações são somadas nos dois lados da comparação. Aporte em concessão ou PPP para obra é gasto único (`recorrente` = `nao`).

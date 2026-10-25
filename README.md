@@ -58,7 +58,7 @@ Os planos de governo só passaram a ser registrados no TSE a partir das eleiçõ
    - `interrompida`, quando o mandato acabou antes do prazo (impeachment, renúncia, afastamento) com a promessa já iniciada.
 4. **Evidência.** Cada veredito tem fonte e nível de confiança (alta, média, baixa). A busca começa por fontes oficiais (Diário Oficial, Assembleias, Câmara dos Deputados, Portal da Transparência) e usa a imprensa como complemento. Quando nada é encontrado, a promessa conta como não cumprida e a busca feita fica descrita na evidência.
 5. **Outros marcadores.** Se a promessa depende do Legislativo (lei, emenda, conversão de medida provisória) e se a execução cabe por lei a outro ente federativo.
-6. **Impacto fiscal (presidentes).** Efeito no orçamento federal de cada promessa implementada: quanto aumentou ou reduziu despesas e receitas, por ano e acumulado no mandato, com dados oficiais.
+6. **Impacto fiscal (presidentes e governadores do RJ e de SP).** Efeito no orçamento federal ou estadual de cada promessa implementada: quanto aumentou ou reduziu despesas e receitas, por ano e acumulado no mandato, com dados oficiais.
 
 As regras completas, com os casos de fronteira, estão no **[livro de códigos](data/codebook.md)**. Presidentes, governadores e prefeitos não são somados num mesmo consolidado, porque têm poderes e orçamentos de escala diferente.
 
@@ -77,7 +77,7 @@ Cada promessa pode ser conferida de ponta a ponta:
 data/
   mandatos.csv                cadastro dos mandatos (cargo, local, datas, situação, link do plano no TSE)
   promessas/<mandato>.csv     promessas de cada mandato, uma por linha — a fonte da verdade
-  impacto_fiscal/<mandato>.csv impacto fiscal das promessas (presidentes)
+  impacto_fiscal/<mandato>.csv impacto fiscal das promessas (presidentes e governadores do RJ e de SP)
   codebook.md                 livro de códigos: regras de seleção e classificação
   base_aberta/                base consolidada gerada (CSV e JSON)
   interim/<mandato>.txt       texto extraído de cada plano de governo
@@ -91,6 +91,7 @@ scripts/
   busca_sp.py                 busca nas leis, decretos e projetos do governador (dados abertos da Alesp)
   busca_br.py                 busca projetos do Executivo na Câmara dos Deputados (API de dados abertos)
   orcamento_federal.py        agrega a execução do orçamento federal por ação (Portal da Transparência e Tesouro)
+  orcamento_sp.py             baixa a despesa do Estado de SP por programa e ação (Portal da Transparência de SP)
   publicar.sh                 gera e publica o site em docs/
 web/                          código da interface (HTML, CSS e JavaScript, sem dependências)
 docs/                         site publicado no GitHub Pages (gerado; não edite à mão)
