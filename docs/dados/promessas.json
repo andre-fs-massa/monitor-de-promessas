@@ -29910,7 +29910,21 @@
     "evidencia": "Decretos de 2017 e 2018 criaram unidades da Rede Lucy Montoro em Botucatu, Sorocaba e Diadema.",
     "fonte_url": "http://www.al.sp.gov.br/norma/182645",
     "data_evidencia": "2018-03",
-    "pagina": 11
+    "pagina": 11,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "As novas unidades da Rede Lucy Montoro aumentam a despesa. A ação da rede (6214) só aparece no orçamento a partir de 2016, com o PPA novo (R$ 106 milhões em 2016 e R$ 113 milhões em 2017); em 2014 o gasto estava em outra ação, por isso não há base de comparação.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-002",
@@ -29927,7 +29941,21 @@
     "evidencia": "O Decreto 62.394/2016 formalizou a Rede Hebe Camargo, que já funcionava desde 2013; não foi localizado balanço de novos serviços de oncologia levados a outras regiões.",
     "fonte_url": "https://saude.sp.gov.br/resources/rede-hebe-camargo/legislacao/decreto_n62.394_de_28_de_dezembro_de_2016.pdf",
     "data_evidencia": "2016-12",
-    "pagina": 11
+    "pagina": 11,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "A Rede Hebe Camargo foi formalizada, mas não foi localizado gasto novo em ação própria do orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-003",
@@ -29944,7 +29972,21 @@
     "evidencia": "O Decreto 61.115/2015 criou o projeto Viva Mais dentro do programa São Paulo Amigo do Idoso, sob o Fundo Social de Solidariedade.",
     "fonte_url": "http://www.al.sp.gov.br/norma/174090",
     "data_evidencia": "2015-02",
-    "pagina": 11
+    "pagina": 11,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.003",
+      "valor_total_rs_bi": "0.005",
+      "ano_ref": "2017",
+      "valor_acumulado_rs_bi": "0.007",
+      "periodo_acumulado": "2015-2017",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Centros Dia e Centros de Convivência do Idoso do São Paulo Amigo do Idoso (ação 2481): R$ 2,6 milhões em 2014, R$ 5,8 milhões em 2015, R$ 4,2 milhões em 2016 e R$ 5,2 milhões em 2017.",
+      "fonte_oficial": "https://www.fazenda.sp.gov.br/SigeoLei131/Paginas/FlexConsDespesa.aspx",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-004",
@@ -29961,7 +30003,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou programa de formação inicial de professores em regime integral.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 12
+    "pagina": 12,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar a formação de professores em regime integral aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-005",
@@ -29978,7 +30034,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou programa de formação em gestão e liderança para gestores escolares no período.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 12
+    "pagina": 12,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar a formação de gestores escolares aumentaria a despesa (custo pequeno); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-006",
@@ -29995,7 +30065,21 @@
     "evidencia": "Na Avaliação Nacional da Alfabetização de 2016, 54,7% dos alunos do 3º ano no país e 43,7% no Sudeste tinham leitura insuficiente; não foi localizado o dado de São Paulo, mas a meta de alfabetizar todas as crianças até os 7 anos não foi atingida em nenhum estado.",
     "fonte_url": "https://observatorio3setor.org.br/wp-content/uploads/2018/08/Resultados-ANA-2016-Todos-Pela-Educação.pdf",
     "data_evidencia": "2017-10",
-    "pagina": 12
+    "pagina": 12,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Garantir a alfabetização com programa novo aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-007",
@@ -30012,7 +30096,21 @@
     "evidencia": "Em vez de ampliação, o orçamento do Escola da Família sofreu cortes de cerca de R$ 75 milhões em dois anos, segundo requerimento de informação de deputados na Alesp em 2017.",
     "fonte_url": "https://www.al.sp.gov.br/spl/2017/11/Propositura/1000193156_1000137438_Propositura.doc",
     "data_evidencia": "2017-11",
-    "pagina": 12
+    "pagina": 12,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o Escola da Família aumentaria a despesa, mas o programa foi reduzido no período.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-008",
@@ -30029,7 +30127,21 @@
     "evidencia": "A Secretaria da Educação começou em 2015 um projeto de ensino socioemocional em 17 escolas, ampliado para 145 escolas de tempo integral do fundamental I em 2016.",
     "fonte_url": "https://exame.com/brasil/escolas-ensinam-a-lidar-com-as-emocoes/",
     "data_evidencia": "2016-03",
-    "pagina": 12
+    "pagina": 12,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O projeto socioemocional em escolas de tempo integral tem custo pequeno, dentro das ações gerais da Educação.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-009",
@@ -30046,7 +30158,21 @@
     "evidencia": "Nenhum estado universalizou o atendimento de 15 a 17 anos no período; no país, a taxa era de 87,2% em 2016. Não foi localizado dado de São Paulo que indique universalização.",
     "fonte_url": "https://todospelaeducacao.org.br/wordpress/wp-content/uploads/2021/12/nota-tecnica-taxas-de-atendimento-escolar.pdf",
     "data_evidencia": "2016",
-    "pagina": 13
+    "pagina": 13,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Universalizar o ensino médio aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-010",
@@ -30063,7 +30189,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou ampliação dos cursos ou do público da Escola Virtual de Programas Educacionais (Evesp).",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 13
+    "pagina": 13,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar a Evesp aumentaria a despesa (custo pequeno); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-011",
@@ -30080,7 +30220,21 @@
     "evidencia": "O programa de tempo integral recebeu mais 75 escolas em 2015 e chegou a 364 em 2018; a meta de mil escolas até 2018, anunciada pelo governo, não está no plano registrado.",
     "fonte_url": "https://www.istoedinheiro.com.br/modelo-de-ensino-em-tempo-integral-e-ampliado-em-sp-e-chega-a-464-municipios/",
     "data_evidencia": "2018",
-    "pagina": 13
+    "pagina": 13,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.769",
+      "ano_ref": "2017",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Educação integral (ação 6136): R$ 61 milhões em 2014, R$ 104 milhões em 2015, R$ 41 milhões em 2016 e R$ 769 milhões em 2017. O salto de 2017 vem da mudança do que a ação paga (passou a incluir a gratificação dos professores do tempo integral), por isso não há comparação com 2014 e fica só o custo de 2017.",
+      "fonte_oficial": "https://www.fazenda.sp.gov.br/SigeoLei131/Paginas/FlexConsDespesa.aspx",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-012",
@@ -30097,7 +30251,21 @@
     "evidencia": "O governador enviou o projeto em 2015 e sancionou a Lei 16.279/2016, que aprovou o Plano Estadual de Educação.",
     "fonte_url": "http://www.al.sp.gov.br/norma/178720",
     "data_evidencia": "2016-07",
-    "pagina": 13
+    "pagina": 13,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Aprovar o Plano Estadual de Educação é lei de metas, sem gasto próprio.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-013",
@@ -30114,7 +30282,21 @@
     "evidencia": "A Resolução SS 16, de fev/2015, instituiu a rede de cuidados em IST/HIV/aids e hepatites virais, com grupos regionais para a atenção básica, a rede especializada e a hospitalar.",
     "fonte_url": "https://www.saude.sp.gov.br/resources/ccd/homepage/gpa/experiencias-exitosas/crtreuniaoccd16outubro.pdf",
     "data_evidencia": "2015-02",
-    "pagina": 14
+    "pagina": 14,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A rede de cuidados em IST/aids e hepatites organiza serviços que já existiam, sem gasto novo separado no orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-014",
@@ -30131,7 +30313,21 @@
     "evidencia": "O programa Recomeço tinha 3,3 mil vagas de internação em 2016 (1,5 mil em hospitais e 1,8 mil em comunidades terapêuticas), contra cerca de 500 em 2011; não foi localizado o número de 2014 para comparar.",
     "fonte_url": "https://brasildefato.com.br/2016/08/15/orgao-do-estado-realizou-mais-de-2-mil-internacoes-involuntarias-de-dependentes-em-sp/",
     "data_evidencia": "2016-08",
-    "pagina": 14
+    "pagina": 14,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.03",
+      "valor_total_rs_bi": "0.03",
+      "ano_ref": "2017",
+      "valor_acumulado_rs_bi": "0.079",
+      "periodo_acumulado": "2015-2017",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Programa Recomeço nas ações da Saúde (6184) e do Desenvolvimento Social (6190): sem empenho em 2014, R$ 20 milhões em 2015, R$ 29 milhões em 2016 e R$ 30 milhões em 2017. O programa já existia desde 2013 e parte das vagas é paga por ações gerais da Saúde, por isso o valor é incompleto.",
+      "fonte_oficial": "https://www.fazenda.sp.gov.br/SigeoLei131/Paginas/FlexConsDespesa.aspx",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-015",
@@ -30148,7 +30344,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou expansão da telemedicina, do teleeletro e da teleurgência a todo o estado.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 14
+    "pagina": 14,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Levar a telemedicina a todo o estado aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-016",
@@ -30165,7 +30375,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou projeto estadual de reconstrução da mama logo após a mastectomia.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 14
+    "pagina": 14,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Iniciar a reconstrução da mama aumentaria a despesa (custo pequeno); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-017",
@@ -30182,7 +30406,21 @@
     "evidencia": "O hospital, anunciado em 2014 para a zona oeste da capital, não foi inaugurado; em 2016 o Estado contratou o projeto básico da reforma do antigo Hospital Panamericano para abrigar o Hospital Estadual de Trauma.",
     "fonte_url": "https://www.al.sp.gov.br/spl/2017/06/Acessorio/1000046566_1000075699_Acessorio.pdf",
     "data_evidencia": "2017-06",
-    "pagina": 14
+    "pagina": 14,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O Hospital de Trauma não foi inaugurado; houve só a contratação do projeto, de custo pequeno.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-018",
@@ -30199,7 +30437,21 @@
     "evidencia": "Decretos de 2017 e 2018 criaram os Hospitais Regionais de São José dos Campos, Sorocaba, Piracicaba e Registro.",
     "fonte_url": "http://www.al.sp.gov.br/norma/182391",
     "data_evidencia": "2018-01",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.205",
+      "valor_total_rs_bi": "0.205",
+      "ano_ref": "2017",
+      "valor_acumulado_rs_bi": "0.28",
+      "periodo_acumulado": "2015-2017",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Pagamentos às PPPs dos Hospitais Regionais de São José dos Campos (ação 2473) e de Sorocaba (2531): sem empenho em 2014, R$ 28 milhões em 2015, R$ 48 milhões em 2016 e R$ 205 milhões em 2017. Os hospitais de Piracicaba e Registro não estão em ações próprias e não foram somados.",
+      "fonte_oficial": "https://www.fazenda.sp.gov.br/SigeoLei131/Paginas/FlexConsDespesa.aspx",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-019",
@@ -30216,7 +30468,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou programa ou balanço de construção e reforma de UBSs e Caps pelo Estado no período.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Construir e reformar UBSs e Caps aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-020",
@@ -30233,7 +30499,21 @@
     "evidencia": "Decretos de 2016 e 2017 criaram os AMEs de São Carlos, Santa Bárbara d'Oeste, Botucatu e São Vicente e um AME do Idoso.",
     "fonte_url": "http://www.al.sp.gov.br/norma/177730",
     "data_evidencia": "2017-10",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "Os novos AMEs aumentam a despesa (obra e custeio), mas o gasto não aparece em ação própria do orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-021",
@@ -30250,7 +30530,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou implantação de cartão SUS ou cartão de saúde estadual.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantar o Cartão SUS aumentaria a despesa (custo pequeno); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-022",
@@ -30267,7 +30561,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou ampliação do Serviço Estadual de Diagnóstico por Imagem.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o Sedi aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-023",
@@ -30284,7 +30592,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou nova logística de armazenamento e distribuição de medicamentos.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A nova logística de medicamentos aumentaria a despesa no início e poderia reduzi-la depois; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-024",
@@ -30301,7 +30623,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou programa de reforma e modernização dos hospitais estaduais.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Reformar e modernizar os hospitais estaduais aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-025",
@@ -30318,7 +30654,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou projeto de contingência para desastres e agravos à saúde; o plano de contingência de 2017 trata do polo industrial de Cubatão.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O projeto de contingência é planejamento, sem gasto relevante; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-026",
@@ -30335,7 +30685,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou novo sistema de controle de custos dos serviços de saúde.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O sistema de controle de custos é gestão, sem gasto relevante; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-027",
@@ -30352,7 +30716,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou centros de lazer e esporte nas unidades da Secretaria da Saúde.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantar centros de lazer nas unidades da Saúde aumentaria a despesa (custo pequeno); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-028",
@@ -30369,7 +30747,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou programa de capacitação de profissionais de saúde pela rede de ensino superior.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A capacitação de profissionais de saúde aumentaria a despesa (custo pequeno); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-029",
@@ -30386,7 +30778,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou extensão do Jovem Cidadão – Meu Primeiro Trabalho a todo o estado.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 16
+    "pagina": 16,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Estender o Jovem Cidadão aumentaria a despesa com bolsas; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-030",
@@ -30403,7 +30809,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou ampliação do Aprendiz Paulista.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 16
+    "pagina": 16,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o Aprendiz Paulista aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-031",
@@ -30420,7 +30840,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou expansão do Banco do Povo Paulista aos 645 municípios.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 16
+    "pagina": 16,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_primario",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O Banco do Povo empresta recursos que voltam ao Estado; levá-lo a mais municípios é crédito, sem efeito no resultado primário; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-032",
@@ -30437,7 +30871,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou expansão das linhas do Casa Paulista Microcrédito, criadas em 2011.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 16
+    "pagina": 16,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_primario",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O microcrédito do Casa Paulista é empréstimo, sem efeito no resultado primário; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-033",
@@ -30454,7 +30902,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou expansão do programa Escola do Empreendedor Paulista.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 16
+    "pagina": 16,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Expandir a Escola do Empreendedor aumentaria a despesa (custo pequeno); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-034",
@@ -30471,7 +30933,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou criação do Museu Virtual do Trabalhador.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 16
+    "pagina": 16,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar o Museu Virtual do Trabalhador teria custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-035",
@@ -30488,7 +30964,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou criação do Fórum Permanente do Mundo do Trabalho.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 16
+    "pagina": 16,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar o Fórum Permanente é coordenação, sem gasto relevante; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-036",
@@ -30505,7 +30995,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou política estadual de comercialização ou centrais de distribuição da economia solidária e da agricultura familiar.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 16
+    "pagina": 16,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar centrais de distribuição da economia solidária aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-037",
@@ -30522,7 +31026,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou linhas de crédito da Desenvolve SP para empreendimentos de economia solidária.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 16
+    "pagina": 16,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_primario",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Linhas da Desenvolve SP são empréstimos, sem efeito no resultado primário; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-038",
@@ -30539,7 +31057,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou expansão do Time do Emprego.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 17
+    "pagina": 17,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Expandir o Time do Emprego aumentaria a despesa (custo pequeno); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-039",
@@ -30556,7 +31088,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou criação do Observatório da Saúde do Trabalhador pelo governo estadual.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 17
+    "pagina": 17,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar o Observatório teria custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-040",
@@ -30573,7 +31119,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou universalização do Emprega São Paulo nem implantação de Agências Emprega SP.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 17
+    "pagina": 17,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Universalizar o Emprega São Paulo aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-041",
@@ -30590,7 +31150,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou ampliação do mapeamento dos setores da economia criativa.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 20
+    "pagina": 20,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o mapeamento da economia criativa teria custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-042",
@@ -30607,7 +31181,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou criação de incentivos fiscais específicos para a economia criativa.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 20
+    "pagina": 20,
+    "impacto": {
+      "impacto_fiscal": "receita_reduz",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar incentivos fiscais à economia criativa reduziria a receita; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-043",
@@ -30624,7 +31212,21 @@
     "evidencia": "Em jan/2016 o governo deu credenciamento definitivo a sete parques tecnológicos (quatro em Campinas, Santo André, Botucatu e São José do Rio Preto) no Sistema Paulista de Parques Tecnológicos.",
     "fonte_url": "https://agencia.fapesp.br/governo-de-sao-paulo-concede-credenciamento-definitivo-a-sete-parques-tecnologicos/22577",
     "data_evidencia": "2016-01",
-    "pagina": 21
+    "pagina": 21,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O credenciamento de parques tecnológicos é ato administrativo, sem gasto novo relevante.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-044",
@@ -30641,7 +31243,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou aumento do número de incubadoras credenciadas na rede paulista.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 21
+    "pagina": 21,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar as incubadoras aumentaria a despesa (custo pequeno); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-045",
@@ -30658,7 +31274,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou ampliação do programa de apoio tecnológico às micro, pequenas e médias empresas.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 21
+    "pagina": 21,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o apoio tecnológico às empresas aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-046",
@@ -30675,7 +31305,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou criação do Portal de Ciência, Tecnologia e Inovação do Estado.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar o portal teria custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-047",
@@ -30692,7 +31336,21 @@
     "evidencia": "A Lei 16.079/2015, de iniciativa do governador, transformou o Via Rápida em lei e criou novas modalidades (Via Rápida 18, entre outras); não foi localizado o número de vagas oferecidas no período.",
     "fonte_url": "http://www.al.sp.gov.br/norma/176851",
     "data_evidencia": "2015-12",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O Via Rápida virou lei com novas modalidades, mas o gasto com bolsas e cursos não foi separado no orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-048",
@@ -30709,7 +31367,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou material didático ou capacitação de professores do programa EJA Mundo do Trabalho.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Desenvolver material e capacitar professores do EJA aumentaria a despesa (custo pequeno); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-049",
@@ -30726,7 +31398,21 @@
     "evidencia": "A USP abriu em 2018 o curso de Medicina de Bauru, com 60 vagas; não foi localizado aumento de vagas de engenharia nas universidades estaduais.",
     "fonte_url": "https://www.blogdovestibular.com/vestibular-2018/usp-2018-abertura-de-medicina-e-biotecnologia.html",
     "data_evidencia": "2018-02",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O curso de Medicina de Bauru (USP) é pago pelo repasse fixo do ICMS às universidades, sem despesa nova do Tesouro.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-050",
@@ -30743,7 +31429,21 @@
     "evidencia": "Decretos de 2015 a 2018 criaram novas unidades (Fatecs de Santana de Parnaíba, Ribeirão Preto, Itatiba, Araraquara, Araras, Ferraz de Vasconcelos e Franco da Rocha; Etecs de Itaquera II, Santa Cruz das Palmeiras, Porto Feliz e Taboão da Serra), mas não há Etec ou Fatec em todos os municípios.",
     "fonte_url": "http://www.al.sp.gov.br/norma/182364",
     "data_evidencia": "2018-03",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.473",
+      "valor_total_rs_bi": "2.262",
+      "ano_ref": "2017",
+      "valor_acumulado_rs_bi": "0.945",
+      "periodo_acumulado": "2015-2017",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Soma das ações do Centro Paula Souza (Etecs e Fatecs): expansão e desenvolvimento da educação profissional técnica e tecnológica (1515, 2226, 5290, 5292) e ensino médio (5852). Foram R$ 1,79 bi em 2014, R$ 1,91 bi em 2015, R$ 2,14 bi em 2016 e R$ 2,26 bi em 2017. Inclui pessoal e reajustes, não só as unidades novas; o valor também cobre a promessa 51.",
+      "fonte_oficial": "https://www.fazenda.sp.gov.br/SigeoLei131/Paginas/FlexConsDespesa.aspx",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-051",
@@ -30760,7 +31460,21 @@
     "evidencia": "As Fatecs passaram de 67 mil alunos (2014, segundo o plano) para cerca de 81 mil (1º semestre de 2017); as Etecs caíram de 221 mil para cerca de 211 mil no mesmo período.",
     "fonte_url": "https://www.britishcouncil.org.br/sites/default/files/nilo_vieira_-_centro_paula_souza.pdf",
     "data_evidencia": "2017",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "A oferta de cursos técnicos e tecnológicos está nas mesmas ações do Centro Paula Souza; o gasto foi contado na promessa 50, para não somar duas vezes.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-052",
@@ -30777,7 +31491,21 @@
     "evidencia": "A Univesp ofereceu 3.330 vagas no primeiro vestibular (2014), 918 em 2016 e 10.840 no vestibular de 2017, em 51 cidades.",
     "fonte_url": "https://www.infoescola.com/noticias/univesp-publica-resultado-final-do-vestibular-20172-matriculas-iniciam-hoje/",
     "data_evidencia": "2017-07",
-    "pagina": 23
+    "pagina": 23,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.024",
+      "ano_ref": "2017",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Ensino a distância da Univesp (ação 6137): R$ 29 milhões em 2014, R$ 25 milhões em 2015, R$ 20 milhões em 2016 e R$ 24 milhões em 2017. O gasto ficou abaixo do de 2014 mesmo com mais vagas, por isso só o custo total.",
+      "fonte_oficial": "https://www.fazenda.sp.gov.br/SigeoLei131/Paginas/FlexConsDespesa.aspx",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-053",
@@ -30794,7 +31522,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou dado que mostre aumento das matrículas no ensino técnico integrado ao médio (cerca de 58 mil em 2017).",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 23
+    "pagina": 23,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o ensino técnico integrado aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-054",
@@ -30811,7 +31553,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou aumento das matrículas a distância das Etecs e Fatecs.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 23
+    "pagina": 23,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Aumentar as matrículas a distância das Etecs e Fatecs aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-055",
@@ -30828,7 +31584,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou ampliação do número de países com intercâmbio para alunos do Centro Paula Souza.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 23
+    "pagina": 23,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o intercâmbio aumentaria a despesa (custo pequeno); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-056",
@@ -30845,7 +31615,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou implantação do programa Rede Inova Paula Souza nas Fatecs.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 23
+    "pagina": 23,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantar a Rede Inova aumentaria a despesa (custo pequeno); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-057",
@@ -30862,7 +31646,21 @@
     "evidencia": "A ampliação do porto ficou travada: a Justiça Federal suspendeu e depois invalidou a licença prévia do Ibama, exigindo novos estudos de impacto.",
     "fonte_url": "https://www.tribunapr.com.br/noticias/brasil/justica-invalida-licenca-ambiental-para-ampliacao-do-porto-de-sao-sebastiao/",
     "data_evidencia": "2015-02",
-    "pagina": 24
+    "pagina": 24,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o porto de São Sebastião aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-058",
@@ -30879,7 +31677,21 @@
     "evidencia": "Cinco aeroportos regionais (Jundiaí, Bragança Paulista, Campinas-Amarais, Itanhaém e Ubatuba) foram concedidos em lote único após edital de 2017; os demais aeroportos do Daesp só foram concedidos em 2021.",
     "fonte_url": "https://www.panrotas.com.br/noticia-turismo/aviacao/2017/03/governo-realiza-leilao-de-aeroportos-hoje-confira_145052.html",
     "data_evidencia": "2017-03",
-    "pagina": 24
+    "pagina": 24,
+    "impacto": {
+      "impacto_fiscal": "receita_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "A concessão do lote de cinco aeroportos regionais (2017) gera receita de outorga, mas o valor pago não foi localizado; é pequeno frente ao orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-059",
@@ -30896,7 +31708,21 @@
     "evidencia": "As obras do Trecho Norte, iniciadas em 2013, não estavam concluídas na renúncia; em out/2017 o governo autorizou licitar a concessão da operação do trecho.",
     "fonte_url": "http://www.al.sp.gov.br/norma/183528",
     "data_evidencia": "2017-10",
-    "pagina": 24
+    "pagina": 24,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "1.008",
+      "ano_ref": "2017",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "media",
+      "explicacao": "Obras do Rodoanel Norte (ação 2283), iniciadas em 2013: R$ 1,2 bi em 2014, R$ 862 milhões em 2015, R$ 1,38 bi em 2016 e R$ 1,01 bi em 2017 (R$ 3,25 bi no mandato). O gasto do mandato ficou perto do ritmo de 2014, por isso não há valor a mais no mandato; fica o custo de 2017. Gasto único de obra.",
+      "fonte_oficial": "https://www.fazenda.sp.gov.br/SigeoLei131/Paginas/FlexConsDespesa.aspx",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-060",
@@ -30913,7 +31739,21 @@
     "evidencia": "A licitação foi suspensa pelo Tribunal de Contas em 2015 e a Dersa passou a informar que não havia previsão para o início da obra.",
     "fonte_url": "https://www.diariodolitoral.com.br/nacional/politica/alckmin-aguarda-impeachment-para-iniciar-obra-do-tunel-submerso/",
     "data_evidencia": "2016",
-    "pagina": 24
+    "pagina": 24,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantar o túnel Santos–Guarujá aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-061",
@@ -30930,7 +31770,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou ampliação do programa de pavimentação de vicinais; o pacote de recursos para rodovias e vicinais foi anunciado só em abr/2018.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 24
+    "pagina": 24,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar a pavimentação de vicinais aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-062",
@@ -30947,7 +31801,21 @@
     "evidencia": "As obras do programa seguiam inacabadas na renúncia: o derrocamento do canal de Nova Avanhandava, feito com o DNIT, parou em 2019 e só foi retomado em 2023.",
     "fonte_url": "https://semil.sp.gov.br/2023/08/governo-de-sp-faz-primeira-detonacao-subaquatica-na-hidrovia-tiete-parana-para-ampliacao-do-canal-de-nova-avanhandava/",
     "data_evidencia": "2023-08",
-    "pagina": 24
+    "pagina": 24,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.081",
+      "ano_ref": "2017",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "media",
+      "explicacao": "Investimentos na Hidrovia Tietê-Paraná (ações 1291 e 2157): R$ 107 milhões em 2014, R$ 88 milhões em 2015, R$ 81 milhões em 2016 e R$ 81 milhões em 2017. O gasto ficou abaixo de 2014, por isso só o custo de 2017.",
+      "fonte_oficial": "https://www.fazenda.sp.gov.br/SigeoLei131/Paginas/FlexConsDespesa.aspx",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-063",
@@ -30964,7 +31832,21 @@
     "evidencia": "O Decreto 61.442/2015 criou o programa Movimento Paulista de Segurança no Trânsito, com convênios do Detran com municípios.",
     "fonte_url": "http://www.al.sp.gov.br/norma/175295",
     "data_evidencia": "2015-08",
-    "pagina": 24
+    "pagina": 24,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O Movimento Paulista de Segurança no Trânsito é feito por convênios do Detran, com custo pequeno frente ao orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-064",
@@ -30981,7 +31863,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou programa de eficiência energética no setor rodoviário.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 24
+    "pagina": 24,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O programa de eficiência energética aumentaria a despesa no início e poderia reduzi-la depois; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-065",
@@ -30998,7 +31894,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou criação de câmaras de logística.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 24
+    "pagina": 24,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar câmaras de logística é coordenação, sem gasto relevante; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-066",
@@ -31015,7 +31925,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou política estadual de mineração.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 25
+    "pagina": 25,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A política de mineração é regulação, sem gasto relevante; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-067",
@@ -31032,7 +31956,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou ampliação do programa Melhor Caminho.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 27
+    "pagina": 27,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o Melhor Caminho aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-068",
@@ -31049,7 +31987,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou ampliação do programa Pontes Rurais.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 27
+    "pagina": 27,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o Pontes Rurais aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-069",
@@ -31066,7 +32018,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou ampliação do Poupatempo do Produtor Rural.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 27
+    "pagina": 27,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o Poupatempo do Produtor aumentaria a despesa (custo pequeno); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-070",
@@ -31083,7 +32049,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou ampliação dos programas de turismo social.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 28
+    "pagina": 28,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o turismo social aumentaria a despesa (custo pequeno); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-071",
@@ -31100,7 +32080,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou criação do programa Viaja São Paulo.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 28
+    "pagina": 28,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar o Viaja São Paulo aumentaria a despesa (custo pequeno); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-072",
@@ -31117,7 +32111,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou ampliação do inventário turístico do estado; a Lei Complementar 1.261/2015 tratou dos critérios de classificação das estâncias.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 28
+    "pagina": 28,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o inventário turístico teria custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-073",
@@ -31134,7 +32142,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou programa estadual de adequação da sinalização turística.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 29
+    "pagina": 29,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Adequar a sinalização turística aumentaria a despesa (custo pequeno); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-074",
@@ -31151,7 +32173,21 @@
     "evidencia": "A escolta por agentes da SAP não foi ampliada: os aprovados no concurso de 2014 aguardavam nomeação em 2017, quando a PM ainda fazia a escolta de presos; a contratação só foi autorizada em 2022.",
     "fonte_url": "https://www.al.sp.gov.br/spl/2017/12/Propositura/1000197563_1000145661_Propositura.doc",
     "data_evidencia": "2017-12",
-    "pagina": 32
+    "pagina": 32,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar a escolta por agentes penitenciários aumentaria a despesa com pessoal; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-075",
@@ -31168,7 +32204,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou ampliação da automação de portas de celas.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 32
+    "pagina": 32,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar a automação de celas aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-076",
@@ -31185,7 +32235,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou implantação do programa Diálogo Virtual para presos estrangeiros.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 32
+    "pagina": 32,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O Diálogo Virtual teria custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-077",
@@ -31202,7 +32266,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou vigilância de presídios com drones.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 32
+    "pagina": 32,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Vigiar presídios com drones aumentaria a despesa (custo pequeno); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-078",
@@ -31219,7 +32297,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou ampliação do programa de reintegração social de presos e egressos.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 32
+    "pagina": 32,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar a reintegração de presos e egressos aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-079",
@@ -31236,7 +32328,21 @@
     "evidencia": "Decretos de 2016 criaram a Penitenciária de Florínea e o CDP de Itatinga, entre outras unidades abertas no período.",
     "fonte_url": "http://www.al.sp.gov.br/norma/177061",
     "data_evidencia": "2016-06",
-    "pagina": 32
+    "pagina": 32,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "As novas unidades prisionais aumentam a despesa com obra e custeio, mas as obras estão em ações gerais da Secretaria da Administração Penitenciária, sem separação por unidade.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-080",
@@ -31253,7 +32359,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou ampliação das audiências por videoconferência.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 32
+    "pagina": 32,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar as videoconferências aumentaria a despesa no início e reduziria a escolta depois; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-081",
@@ -31270,7 +32390,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou plano decenal estadual de medidas socioeducativas; em 2016 foi criado só o sistema informatizado de acompanhamento das medidas em meio aberto (MSE Web).",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 33
+    "pagina": 33,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O Plano Decenal é planejamento, sem gasto relevante; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-082",
@@ -31287,7 +32421,21 @@
     "evidencia": "O São Paulo Solidário foi reformulado como Programa Família Paulista, estratégia intersetorial de enfrentamento da extrema pobreza lançada em 2015.",
     "fonte_url": "https://dom.maua.sp.gov.br/public/docs/1813bb6a-a4bb-4713-8c29-3a29daf85d87.pdf",
     "data_evidencia": "2015-11",
-    "pagina": 34
+    "pagina": 34,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O Família Paulista reformulou o São Paulo Solidário, sem ação própria no orçamento que permita medir gasto novo.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-083",
@@ -31304,7 +32452,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou aumento do benefício ou da cobertura dos programas estaduais de transferência de renda (Renda Cidadã, Ação Jovem).",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 34
+    "pagina": 34,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o benefício e a cobertura da transferência de renda aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-084",
@@ -31321,7 +32483,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou novas Fábricas de Cultura em parceria com prefeituras no período.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 34
+    "pagina": 34,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar as Fábricas de Cultura aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-085",
@@ -31338,7 +32514,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou inauguração de museu no Palácio dos Campos Elíseos; o prédio só recebeu o Museu das Favelas em 2022.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 34
+    "pagina": 34,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Inaugurar o Museu dos Campos Elíseos aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-086",
@@ -31355,7 +32545,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou inauguração de unidade da Pinacoteca em Botucatu.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 34
+    "pagina": 34,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Inaugurar a Pinacoteca de Botucatu aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-087",
@@ -31372,7 +32576,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou inauguração do Museu da História de São Paulo.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 34
+    "pagina": 34,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Inaugurar o Museu da História de São Paulo aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-088",
@@ -31389,7 +32607,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou contratação da PPP do Complexo Cultural da Luz.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 34
+    "pagina": 34,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Contratar a PPP do Complexo Cultural da Luz aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-089",
@@ -31406,7 +32638,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou construção de Centro Olímpico estadual para atletas de alto rendimento.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 35
+    "pagina": 35,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Construir o Centro Olímpico aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-090",
@@ -31423,7 +32669,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou implantação do programa São Paulo Educa.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 36
+    "pagina": 36,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantar o São Paulo Educa aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-091",
@@ -31440,7 +32700,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou ampliação do Cartão VidAtiva.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 36
+    "pagina": 36,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o Cartão VidAtiva aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-092",
@@ -31457,7 +32731,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou ampliação da Lei Paulista de Incentivo ao Esporte.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 36
+    "pagina": 36,
+    "impacto": {
+      "impacto_fiscal": "receita_reduz",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar a Lei Paulista de Incentivo ao Esporte reduziria a receita do ICMS; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-093",
@@ -31474,7 +32762,21 @@
     "evidencia": "O Decreto 62.938/2017 autorizou a doação de equipamentos a municípios para o projeto Academia ao Ar Livre.",
     "fonte_url": "http://www.al.sp.gov.br/norma/184000",
     "data_evidencia": "2017-11",
-    "pagina": 36
+    "pagina": 36,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "A doação de equipamentos de Academia ao Ar Livre tem custo pequeno frente ao orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-094",
@@ -31491,7 +32793,21 @@
     "evidencia": "Em 2015 o programa Centros de Excelência Esportiva foi reformulado e teve os recursos de vôlei, basquete e natação reduzidos.",
     "fonte_url": "https://www.folhavitoria.com.br/esportes/governo-de-sp-corta-gastos-com-esporte-mas-amplia-repasses-ao-judo/",
     "data_evidencia": "2015",
-    "pagina": 36
+    "pagina": 36,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar os Centros de Excelência aumentaria a despesa (custo pequeno); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-095",
@@ -31508,7 +32824,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou ampliação do programa Bolsa Talento Esportivo.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 36
+    "pagina": 36,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o Bolsa Talento Esportivo aumentaria a despesa (custo pequeno); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-096",
@@ -31525,7 +32855,21 @@
     "evidencia": "A Cetesb pôs no ar em dez/2017 o sistema Via Rápida Ambiental, de licença simplificada eletrônica para atividades de baixo risco.",
     "fonte_url": "https://semil.sp.gov.br/12/cetesb-entrega-o-sistema-via-rapido-ambiental/",
     "data_evidencia": "2017-12",
-    "pagina": 37
+    "pagina": 37,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O Via Rápida Ambiental é sistema eletrônico da Cetesb, sem gasto relevante.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-097",
@@ -31542,7 +32886,21 @@
     "evidencia": "Não foi localizada ampliação da urbanização de favelas; levantamento de dez/2017 mostrou corte de 50% nos investimentos em habitação na gestão.",
     "fonte_url": "https://istoedinheiro.com.br/governo-paulista-reduz-gasto-com-social",
     "data_evidencia": "2017-12",
-    "pagina": 41
+    "pagina": 41,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar a urbanização de favelas aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-098",
@@ -31559,7 +32917,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou política estadual de reassentamento habitacional para obras de infraestrutura.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 41
+    "pagina": 41,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A política de reassentamento é regra, sem gasto relevante; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-099",
@@ -31576,7 +32948,21 @@
     "evidencia": "A oferta de moradias não foi ampliada: levantamento de dez/2017 mostrou corte de 50% nos investimentos estaduais em habitação na gestão.",
     "fonte_url": "https://istoedinheiro.com.br/governo-paulista-reduz-gasto-com-social",
     "data_evidencia": "2017-12",
-    "pagina": 41
+    "pagina": 41,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar as moradias da CDHU e do Casa Paulista aumentaria a despesa, mas a produção caiu no período.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-100",
@@ -31593,7 +32979,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou programa de construção de moradias para reassentar famílias de áreas de risco elevado.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 41
+    "pagina": 41,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Construir moradias para reassentamento aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-101",
@@ -31610,7 +33010,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou ampliação do programa Vila Dignidade (356 unidades entregues desde 2009).",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 42
+    "pagina": 42,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o Vila Dignidade aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-102",
@@ -31627,7 +33041,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou subsídio ao financiamento habitacional de servidores estaduais.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 42
+    "pagina": 42,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Subsidiar o financiamento de servidores aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-103",
@@ -31644,7 +33072,21 @@
     "evidencia": "Foram abertas as estações Alto da Boa Vista, Borba Gato e Brooklin (2017) e Eucaliptos (mar/2018) da Linha 5-Lilás, entre outras.",
     "fonte_url": "https://diariodotransporte.com.br/2017/11/23/metro-confirma-operacao-integral-de-tres-novas-estacoes-da-linha-5-lilas-na-segunda-27/",
     "data_evidencia": "2018-03",
-    "pagina": 42
+    "pagina": 42,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "1.171",
+      "ano_ref": "2017",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "media",
+      "explicacao": "Obras da Linha 5-Lilás (ação 16951483): R$ 1,48 bi em 2016 e R$ 1,17 bi em 2017. Até 2015 o dinheiro do Metrô ia numa ação única (subscrição de ações do Metrô), sem separar por linha, por isso não há base de 2014 nem valor a mais no mandato; fica o custo de 2017. Gasto único de obra.",
+      "fonte_oficial": "https://www.fazenda.sp.gov.br/SigeoLei131/Paginas/FlexConsDespesa.aspx",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-104",
@@ -31661,7 +33103,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou início da implantação de trens regionais de passageiros; o Trem Intercidades só teve projeto e consulta pública em 2021.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 43
+    "pagina": 43,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Iniciar os trens regionais aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-105",
@@ -31678,7 +33134,21 @@
     "evidencia": "A Linha 13-Jade, até o aeroporto de Guarulhos, foi inaugurada em 31/03/2018, sem chegar aos terminais (com ônibus de ligação); a ligação a Congonhas, pela Linha 17-Ouro, seguia em obras.",
     "fonte_url": "https://diariodotransporte.com.br/2018/03/31/alckmin-inaugura-linha-13-jade/",
     "data_evidencia": "2018-03",
-    "pagina": 43
+    "pagina": 43,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.437",
+      "valor_total_rs_bi": "0.634",
+      "ano_ref": "2017",
+      "valor_acumulado_rs_bi": "0.755",
+      "periodo_acumulado": "2015-2017",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "media",
+      "explicacao": "Implantação da Linha 13-Jade da CPTM (ação 2331): R$ 197 milhões em 2014, R$ 191 milhões em 2015, R$ 521 milhões em 2016 e R$ 634 milhões em 2017. A Linha 17-Ouro, ligação a Congonhas (ação 16952282: R$ 278 milhões em 2016 e R$ 178 milhões em 2017), não entra no acumulado porque até 2015 estava na ação única do Metrô. Gasto único de obra.",
+      "fonte_oficial": "https://www.fazenda.sp.gov.br/SigeoLei131/Paginas/FlexConsDespesa.aspx",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-106",
@@ -31695,7 +33165,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou início do BRT da Baixada Santista em Praia Grande; em 2021 a prefeitura ainda pedia o corredor ao Estado.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 43
+    "pagina": 43,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Iniciar o BRT da Baixada aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-107",
@@ -31712,7 +33196,21 @@
     "evidencia": "Os corredores metropolitanos seguiam em obras: o Itapevi–São Paulo, previsto para 2017, e o Guarulhos–São Paulo ainda tinham trechos pendentes em 2021.",
     "fonte_url": "https://diariodotransporte.com.br/2021/02/15/corredores-de-onibus-da-emtu-ainda-incompletos-tem-previsoes-de-entregas-de-trechos-entre-este-ano-e-2026/",
     "data_evidencia": "2021-02",
-    "pagina": 43
+    "pagina": 43,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.147",
+      "ano_ref": "2017",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "media",
+      "explicacao": "Corredores Itapevi–São Paulo (ação 16932287), Guarulhos–São Paulo/Bileo Soares (16931938) e melhorias em corredores (16931505): R$ 133 milhões em 2016 e R$ 147 milhões em 2017. Até 2015 o dinheiro da EMTU ia numa ação única (subscrição de ações da EMTU), por isso não há base de 2014; fica o custo de 2017. Gasto único de obra.",
+      "fonte_oficial": "https://www.fazenda.sp.gov.br/SigeoLei131/Paginas/FlexConsDespesa.aspx",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-108",
@@ -31729,7 +33227,21 @@
     "evidencia": "A interligação das represas Jaguari (Paraíba do Sul) e Atibainha (Cantareira), obra de segurança hídrica após a crise de 2014-2015, foi entregue em mar/2018, na semana anterior à inauguração do Sistema São Lourenço.",
     "fonte_url": "https://www.tribunapr.com.br/noticias/brasil/sabesp-inaugura-sistema-e-aumenta-oferta-de-agua-a-populacao-de-sp/amp/",
     "data_evidencia": "2018-03",
-    "pagina": 43
+    "pagina": 43,
+    "impacto": {
+      "impacto_fiscal": "fora_do_orcamento",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A interligação Jaguari–Atibainha foi obra da Sabesp, empresa que não depende do Tesouro, fora do orçamento do Estado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-109",
@@ -31746,7 +33258,21 @@
     "evidencia": "O Sistema Produtor São Lourenço, de até 6,4 mil litros por segundo, foi inaugurado por Alckmin em abr/2018, após operação assistida desde o fim de 2017.",
     "fonte_url": "https://abcdoabc.com.br/governador-inaugura-sistema-que-garante-agua-para-22-milhoes-de-pessoas/",
     "data_evidencia": "2018-04",
-    "pagina": 43
+    "pagina": 43,
+    "impacto": {
+      "impacto_fiscal": "fora_do_orcamento",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O Sistema Produtor São Lourenço é PPP da Sabesp, fora do orçamento do Estado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-110",
@@ -31763,7 +33289,21 @@
     "evidencia": "O Programa Nascentes de recuperação de matas ciliares e mananciais foi criado em 2015 (Decreto 61.137) e ampliado em 2016 com o projeto de nascentes e olhos d'água.",
     "fonte_url": "http://www.al.sp.gov.br/norma/178525",
     "data_evidencia": "2016-06",
-    "pagina": 43
+    "pagina": 43,
+    "impacto": {
+      "impacto_fiscal": "fora_do_orcamento",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O Programa Nascentes é feito principalmente com compensações ambientais pagas por empresas, fora do orçamento do Estado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-111",
@@ -31780,7 +33320,21 @@
     "evidencia": "A 3ª etapa do Projeto Tietê seguia em execução (72% em 2019) e a 4ª, iniciada em 2014, também estava em andamento na renúncia.",
     "fonte_url": "https://sigrh.sp.gov.br/public/uploads/events//CBH-SMT/9012/projeto-tietpinheiroscomitbaciassmtctsan27nov19sem-vdeo.pdf",
     "data_evidencia": "2019-11",
-    "pagina": 44
+    "pagina": 44,
+    "impacto": {
+      "impacto_fiscal": "fora_do_orcamento",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O Projeto Tietê é obra da Sabesp, fora do orçamento do Estado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-112",
@@ -31797,7 +33351,21 @@
     "evidencia": "O Decreto 63.107/2017 reorganizou o Programa Água Limpa; não foi localizada ampliação do Córrego Limpo nem balanço de municípios atendidos.",
     "fonte_url": "http://www.al.sp.gov.br/norma/184761",
     "data_evidencia": "2017-12",
-    "pagina": 44
+    "pagina": 44,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O Água Limpa foi reorganizado, mas não foi localizado gasto novo em ação própria do orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-113",
@@ -31814,7 +33382,21 @@
     "evidencia": "O piscinão Guamiranga (850 milhões de litros), do plano de macrodrenagem, foi inaugurado em fev/2017, e em dez/2015 foi autorizada a licitação do reservatório Água Vermelha.",
     "fonte_url": "https://exame.com/brasil/com-tres-anos-de-atraso-alckmin-entrega-piscinao-em-sp/",
     "data_evidencia": "2017-02",
-    "pagina": 44
+    "pagina": 44,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.063",
+      "ano_ref": "2017",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "media",
+      "explicacao": "Reservatórios de retenção, os piscinões (ação 1573: R$ 10 milhões em 2014, R$ 58 milhões em 2015, R$ 51 milhões em 2016 e R$ 49 milhões em 2017), e drenagem contra enchentes (ação 1021: R$ 106 milhões em 2014, caindo para R$ 14 milhões em 2017). Somadas, as duas ficaram abaixo de 2014, por isso só o custo de 2017.",
+      "fonte_oficial": "https://www.fazenda.sp.gov.br/SigeoLei131/Paginas/FlexConsDespesa.aspx",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-114",
@@ -31831,7 +33413,21 @@
     "evidencia": "O IPT fez mapeamentos de risco para a Casa Militar em 2015 (ex.: Tatuí) e, pelo Programa Estadual de Prevenção de Desastres Naturais, mapeou os 174 municípios da Macrometrópole entre 2017 e 2020.",
     "fonte_url": "https://periodicos.ufabc.edu.br/index.php/dialogossocioambientais/article/view/592/380",
     "data_evidencia": "2017",
-    "pagina": 44
+    "pagina": 44,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Avaliação e mapeamento de áreas de risco (ação 4302): R$ 0,4 milhão em 2014 e de R$ 0,5 a 0,6 milhão por ano em 2015-2017, custo muito pequeno frente ao orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-115",
@@ -31848,7 +33444,21 @@
     "evidencia": "O Decreto 61.101/2015 ampliou os convênios da Defesa Civil estadual com municípios para incluir a compra de materiais e equipamentos; não foi localizado balanço das entregas.",
     "fonte_url": "http://www.al.sp.gov.br/norma/174070",
     "data_evidencia": "2015-01",
-    "pagina": 44
+    "pagina": 44,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "Os convênios da Defesa Civil para equipamentos aumentam a despesa, mas o valor não aparece separado no orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-116",
@@ -31865,7 +33475,21 @@
     "evidencia": "O Decreto 61.257/2015 instituiu o Fundo de Desenvolvimento da Região Metropolitana de Sorocaba; não foram localizados os fundos das aglomerações de Piracicaba e Jundiaí.",
     "fonte_url": "http://www.al.sp.gov.br/norma/174674",
     "data_evidencia": "2015-05",
-    "pagina": 46
+    "pagina": 46,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Instituir o fundo de Sorocaba só cria a conta; o gasto depende de aportes, não separados.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-117",
@@ -31882,7 +33506,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou reestruturação do Fumefi.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 46
+    "pagina": 46,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Reestruturar o Fumefi é mudança de regra, sem gasto relevante; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-118",
@@ -31899,7 +33537,21 @@
     "evidencia": "Foram criadas a Agência Metropolitana do Vale do Paraíba e Litoral Norte (Lei Complementar 1.258/2015) e a de Sorocaba (Lei Complementar 1.266/2015); a da Região Metropolitana de São Paulo não foi criada.",
     "fonte_url": "http://www.al.sp.gov.br/norma/174859",
     "data_evidencia": "2015-06",
-    "pagina": 46
+    "pagina": 46,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "As agências metropolitanas criadas têm custo pequeno frente ao orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-119",
@@ -31916,7 +33568,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou criação do e-Poupatempo; o portal do Poupatempo tinha só sete serviços digitais até dez/2019.",
     "fonte_url": "https://olhardigital.com.br/2019/12/20/noticias/poupatempo-inaugura-portal-com-mais-de-50-servicos-digitais/",
     "data_evidencia": "2026-10",
-    "pagina": 48
+    "pagina": 48,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar o e-Poupatempo aumentaria a despesa no início e poderia reduzi-la depois; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-120",
@@ -31933,7 +33599,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou universalização da rede do Poupatempo; a expansão para mais de 200 postos ocorreu a partir de 2019.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 48
+    "pagina": 48,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Universalizar o Poupatempo aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-121",
@@ -31950,7 +33630,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou ampliação da rede de postos do Acessa São Paulo; em dez/2016 o programa foi reformulado (Decreto 62.306) e equipamentos foram doados a municípios.",
     "fonte_url": "http://www.al.sp.gov.br/norma/180247",
     "data_evidencia": "2026-10",
-    "pagina": 48
+    "pagina": 48,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o Acessa São Paulo aumentaria a despesa (custo pequeno); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-122",
@@ -31967,7 +33661,21 @@
     "evidencia": "Em vez de universalizar seus programas, o governo extinguiu a Fundap (Lei 16.019/2015).",
     "fonte_url": "http://www.al.sp.gov.br/norma/176560",
     "data_evidencia": "2015-11",
-    "pagina": 48
+    "pagina": 48,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Universalizar a capacitação da Fundap aumentaria a despesa, mas a fundação foi extinta em 2015.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-123",
@@ -31984,7 +33692,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou adoção de processo eletrônico na administração; o programa SP Sem Papel só foi criado em 2019.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 48
+    "pagina": 48,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Adotar processo eletrônico é gestão, com custo pequeno e possível economia depois; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-124",
@@ -32001,7 +33723,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no acervo de leis, decretos e projetos do Governador na Alesp (jan/2015 a abr/2018) não localizou extensão da bonificação por resultados a todos os servidores; seguiram os decretos anuais para as carreiras que já a recebiam.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 48
+    "pagina": 48,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Universalizar a bonificação por resultados aumentaria a despesa com pessoal; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2014-125",
@@ -32018,7 +33754,21 @@
     "evidencia": "O Decreto 63.061/2017 regulou a contratação de pesquisas de satisfação dos usuários de bens e serviços públicos estaduais.",
     "fonte_url": "http://www.al.sp.gov.br/norma/184528",
     "data_evidencia": "2017-12",
-    "pagina": 48
+    "pagina": 48,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Regular as pesquisas de satisfação é ato administrativo, sem gasto relevante.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "alckmin_sp_2010-01",

@@ -132,13 +132,29 @@ def sigeo_empenhado(ano, acao):
     f, _ = _campos(html)
     f.update({P + "cblFase$2": "on", P + "btnPesquisar": "Pesquisar", "__EVENTTARGET": "", "__EVENTARGUMENT": ""})
     f.pop(P + "Home", None)
-    _, sp = _campos(s.post(SIGEO, data=f, timeout=600).text)
-    t = sp.find(id="ctl00_ContentPlaceHolder1_gdvDespesas")
-    for tr in (t.find_all("tr") if t else []):
-        tds = [td.get_text(" ", strip=True) for td in tr.find_all("td")]
-        if len(tds) >= 2 and tds[-2] == "TOTAL":
-            return float(tds[-1].replace(".", "").replace(",", "."))
-    return 0.0
+    html = s.post(SIGEO, data=f, timeout=600).text
+    # Ações grandes ocupam várias páginas da grade e a linha TOTAL só aparece na última:
+    # avança sempre para a maior página oferecida pelo paginador até achar o TOTAL.
+    vistas = {1}
+    for _ in range(200):
+        _, sp = _campos(html)
+        t = sp.find(id="ctl00_ContentPlaceHolder1_gdvDespesas")
+        if t is None:
+            return 0.0  # sem despesa no ano
+        for tr in t.find_all("tr"):
+            tds = [td.get_text(" ", strip=True) for td in tr.find_all("td")]
+            if len(tds) >= 2 and tds[-2] == "TOTAL":
+                return float(tds[-1].replace(".", "").replace(",", "."))
+        pags = [int(x) for x in re.findall(r"gdvDespesas&#39;,&#39;Page\$(\d+)&#39;", html)]
+        prox = max([p for p in pags if p not in vistas], default=None)
+        if prox is None:
+            break
+        vistas.add(prox)
+        f, _ = _campos(html)
+        f.update({P + "cblFase$2": "on", "__EVENTTARGET": P + "gdvDespesas", "__EVENTARGUMENT": f"Page${prox}"})
+        f.pop(P + "Home", None)
+        html = s.post(SIGEO, data=f, timeout=600).text
+    raise RuntimeError(f"TOTAL não encontrado: {ano} {acao}")
 
 
 def sigeo(anos, acoes):
@@ -153,10 +169,10 @@ def sigeo(anos, acoes):
                 cache[k] = str(sigeo_empenhado(ano, acao))
             linha.append(f"{ano}: {float(cache[k]) / 1e6:,.1f}")
         print(acao, "  ".join(linha), "(R$ mi empenhado)", flush=True)
-    with open(CACHE_SIGEO, "w", encoding="utf-8", newline="") as fh:
-        w = csv.writer(fh)
-        w.writerow(["ano", "acao", "empenhado"])
-        w.writerows([[a, c, v] for (a, c), v in sorted(cache.items())])
+        with open(CACHE_SIGEO, "w", encoding="utf-8", newline="") as fh:  # grava a cada ação
+            w = csv.writer(fh)
+            w.writerow(["ano", "acao", "empenhado"])
+            w.writerows([[a, c, v] for (a, c), v in sorted(cache.items())])
 
 
 if __name__ == "__main__":
