@@ -37815,7 +37815,21 @@
     "evidencia": "O governo criou os Fóruns Regionais de Governo em 17 territórios (decreto de jun/2015), com reuniões e transferência simbólica do gabinete às regiões, mas não deslocou órgãos da Cidade Administrativa para o interior.",
     "fonte_url": "https://www.agenciaminas.mg.gov.br/multimidia/galeria/governador-pimentel-anuncia-a-criacao-dos-foruns-regionais-de-governo-2015",
     "data_evidencia": "2015-06",
-    "pagina": 3
+    "pagina": 3,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Os Fóruns Regionais de Governo funcionaram com reuniões nas regiões e a estrutura existente; não há ação orçamentária própria nem órgãos deslocados para o interior.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "pimentel_mg_2014-02",
@@ -37832,7 +37846,21 @@
     "evidencia": "Busca na imprensa, na Agência Minas e na legislação mineira (API da ALMG, jan/2015 a dez/2018) não localizou novo modelo estadual de ensino médio; o Reinventando o Ensino Médio é anterior a 2015 e a reforma de 2017 é federal.",
     "fonte_url": "",
     "data_evidencia": "2018-12",
-    "pagina": 7
+    "pagina": 7,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Um novo modelo de ensino médio aumentaria a despesa com escolas e professores; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "pimentel_mg_2014-03",
@@ -37849,7 +37877,21 @@
     "evidencia": "Busca na imprensa, na Agência Minas e na legislação mineira (API da ALMG, jan/2015 a dez/2018) não localizou aumento da participação do Estado na oferta de educação infantil.",
     "fonte_url": "",
     "data_evidencia": "2018-12",
-    "pagina": 10
+    "pagina": 10,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar a oferta estadual de educação infantil aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "pimentel_mg_2014-04",
@@ -37866,7 +37908,21 @@
     "evidencia": "O Decreto 47.227/2017 instituiu a Educação Integral e Integrada, e os alunos atendidos passaram de 102 mil em 2015 para cerca de 150 mil em 2017.",
     "fonte_url": "https://www.almg.gov.br/legislacao-mineira/texto/DEC/47227/2017/",
     "data_evidencia": "2017-08",
-    "pagina": 10
+    "pagina": 10,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.041",
+      "valor_total_rs_bi": "0.06",
+      "ano_ref": "2017",
+      "valor_acumulado_rs_bi": "0.089",
+      "periodo_acumulado": "2015-2018",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Ações próprias de tempo integral da Secretaria de Educação (ensino fundamental, ensino médio, alimentação escolar e Educação Integral) e oficinas da Fundação Helena Antipoff: R$ 19 milhões em 2014, R$ 38 milhões em 2015, R$ 57 milhões em 2016, R$ 60 milhões em 2017 e R$ 8 milhões em 2018. A queda de 2018 parece mudança de classificação (o programa seguiu em vigor pelo Decreto 47.227/2017), por isso o acumulado subestima o custo; o salário dos professores das horas a mais fica nas ações gerais de pessoal.",
+      "fonte_oficial": "https://dados.mg.gov.br/dataset/despesa",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "pimentel_mg_2014-05",
@@ -37883,7 +37939,21 @@
     "evidencia": "Busca na imprensa, na Agência Minas e na legislação mineira (API da ALMG, jan/2015 a dez/2018) não localizou ampliação do ensino técnico estadual ligado às vocações regionais.",
     "fonte_url": "",
     "data_evidencia": "2018-12",
-    "pagina": 10
+    "pagina": 10,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o ensino técnico estadual aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "pimentel_mg_2014-06",
@@ -37900,7 +37970,21 @@
     "evidencia": "Busca na imprensa, na Agência Minas e na legislação mineira (API da ALMG, jan/2015 a dez/2018) não localizou plano de investimentos para os vazios assistenciais da rede de saúde.",
     "fonte_url": "",
     "data_evidencia": "2018-12",
-    "pagina": 11
+    "pagina": 11,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Investir nos vazios assistenciais da rede de saúde aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "pimentel_mg_2014-07",
@@ -37917,7 +38001,21 @@
     "evidencia": "Em vez de reforçar o apoio, o Estado acumulou atrasos nos repasses da saúde aos municípios; a dívida de 2009 a 2020, de R$ 6,7 bilhões, só foi parcelada em acordo de 2021.",
     "fonte_url": "https://www.agenciaminas.mg.gov.br/noticia/governo-de-minas-assina-acordo-com-a-amm-para-pagamento-de-dividas-da-saude",
     "data_evidencia": "2018-12",
-    "pagina": 11
+    "pagina": 11,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Reforçar o apoio à atenção básica dos municípios aumentaria a despesa (o Estado, ao contrário, atrasou os repasses da saúde); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "pimentel_mg_2014-08",
@@ -37934,7 +38032,21 @@
     "evidencia": "Busca na imprensa, na Agência Minas e na legislação mineira (API da ALMG, jan/2015 a dez/2018) não localizou criação de carreiras regionais para médicos e outros profissionais de saúde.",
     "fonte_url": "",
     "data_evidencia": "2018-12",
-    "pagina": 11
+    "pagina": 11,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Carreiras regionais na saúde aumentariam a despesa com pessoal; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "pimentel_mg_2014-09",
@@ -37951,7 +38063,21 @@
     "evidencia": "Busca na imprensa, na Agência Minas e na legislação mineira (API da ALMG, jan/2015 a dez/2018) não localizou rede estadual de atenção a usuários de crack, álcool e outras drogas.",
     "fonte_url": "",
     "data_evidencia": "2018-12",
-    "pagina": 11
+    "pagina": 11,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Uma rede de atenção a usuários de drogas aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "pimentel_mg_2014-10",
@@ -37968,7 +38094,21 @@
     "evidencia": "A Secretaria de Segurança Pública passou a publicar todo mês, pelo Observatório de Segurança Pública Cidadã, os dados de crimes violentos dos 853 municípios.",
     "fonte_url": "https://agenciaminas.mg.gov.br/news/pdf/105195.pdf",
     "data_evidencia": "2017",
-    "pagina": 12
+    "pagina": 12,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Publicar os dados de violência no observatório da Secretaria de Segurança tem custo pequeno, sem ação orçamentária própria.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "pimentel_mg_2014-11",
@@ -37985,7 +38125,21 @@
     "evidencia": "Busca na imprensa, na Agência Minas e na legislação mineira (API da ALMG, jan/2015 a dez/2018) não localizou recomposição do efetivo da Polícia Militar; em 2015-2018 o efetivo de Minas esteve entre os que caíram no país.",
     "fonte_url": "",
     "data_evidencia": "2018-12",
-    "pagina": 12
+    "pagina": 12,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Recompor o efetivo da PM aumentaria a despesa com pessoal; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "pimentel_mg_2014-12",
@@ -38002,7 +38156,21 @@
     "evidencia": "Busca na imprensa, na Agência Minas e na legislação mineira (API da ALMG, jan/2015 a dez/2018) não localizou plano de reativação e expansão da malha ferroviária; o Plano Estratégico Ferroviário só saiu em 2021.",
     "fonte_url": "",
     "data_evidencia": "2018-12",
-    "pagina": 8
+    "pagina": 8,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Planejar a malha ferroviária teria custo pequeno (estudos); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "anastasia_mg_2010-01",

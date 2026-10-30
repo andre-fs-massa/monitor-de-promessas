@@ -1,0 +1,13 @@
+id,impacto_fiscal,valor_incremental_rs_bi,valor_total_rs_bi,ano_ref,valor_acumulado_rs_bi,periodo_acumulado,compensacao_rs_bi,recorrente,confianca,explicacao,fonte_oficial,fonte_comparacao
+pimentel_mg_2014-01,sem_impacto_direto,,,,,,,,media,Os Fóruns Regionais de Governo funcionaram com reuniões nas regiões e a estrutura existente; não há ação orçamentária própria nem órgãos deslocados para o interior.,,
+pimentel_mg_2014-02,despesa_aumenta,,,,,,,,media,Um novo modelo de ensino médio aumentaria a despesa com escolas e professores; não implementada.,,
+pimentel_mg_2014-03,despesa_aumenta,,,,,,,,media,Ampliar a oferta estadual de educação infantil aumentaria a despesa; não implementada.,,
+pimentel_mg_2014-04,despesa_aumenta,0.041,0.06,2017,0.089,2015-2018,,sim,baixa,"Ações próprias de tempo integral da Secretaria de Educação (ensino fundamental, ensino médio, alimentação escolar e Educação Integral) e oficinas da Fundação Helena Antipoff: R$ 19 milhões em 2014, R$ 38 milhões em 2015, R$ 57 milhões em 2016, R$ 60 milhões em 2017 e R$ 8 milhões em 2018. A queda de 2018 parece mudança de classificação (o programa seguiu em vigor pelo Decreto 47.227/2017), por isso o acumulado subestima o custo; o salário dos professores das horas a mais fica nas ações gerais de pessoal.",https://dados.mg.gov.br/dataset/despesa,
+pimentel_mg_2014-05,despesa_aumenta,,,,,,,,media,Ampliar o ensino técnico estadual aumentaria a despesa; não implementada.,,
+pimentel_mg_2014-06,despesa_aumenta,,,,,,,,media,Investir nos vazios assistenciais da rede de saúde aumentaria a despesa; não implementada.,,
+pimentel_mg_2014-07,despesa_aumenta,,,,,,,,media,"Reforçar o apoio à atenção básica dos municípios aumentaria a despesa (o Estado, ao contrário, atrasou os repasses da saúde); não implementada.",,
+pimentel_mg_2014-08,despesa_aumenta,,,,,,,,media,Carreiras regionais na saúde aumentariam a despesa com pessoal; não implementada.,,
+pimentel_mg_2014-09,despesa_aumenta,,,,,,,,media,Uma rede de atenção a usuários de drogas aumentaria a despesa; não implementada.,,
+pimentel_mg_2014-10,sem_impacto_direto,,,,,,,,media,"Publicar os dados de violência no observatório da Secretaria de Segurança tem custo pequeno, sem ação orçamentária própria.",,
+pimentel_mg_2014-11,despesa_aumenta,,,,,,,,media,Recompor o efetivo da PM aumentaria a despesa com pessoal; não implementada.,,
+pimentel_mg_2014-12,sem_impacto_direto,,,,,,,,media,Planejar a malha ferroviária teria custo pequeno (estudos); não implementada.,,
