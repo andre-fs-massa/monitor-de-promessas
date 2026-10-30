@@ -33,7 +33,7 @@ alckmin_sp_2010-31,despesa_aumenta,,,,,,,,media,Ampliar e recuperar as vicinais 
 alckmin_sp_2010-32,despesa_aumenta,0.014,0.018,2014,0.024,2011-2014,,nao,media,"Microbacias II (ação 2286), projeto com financiamento do Banco Mundial: R$ 3,6 milhões em 2010, R$ 5,4 milhões em 2011, R$ 5,5 milhões em 2012, R$ 9,3 milhões em 2013 e R$ 18 milhões em 2014.",https://www.fazenda.sp.gov.br/SigeoLei131/Paginas/FlexConsDespesa.aspx,
 alckmin_sp_2010-33,despesa_aumenta,,,,,,,,media,Ampliar o Melhor Caminho aumentaria a despesa; não implementada.,,
 alckmin_sp_2010-34,despesa_aumenta,,,,,,,,media,Ampliar o Viva Leite aumentaria a despesa; não implementada.,,
-alckmin_sp_2010-35,despesa_aumenta,,,,,,,,media,Ampliar o Bom Prato aumentaria a despesa; não implementada.,,
+alckmin_sp_2010-35,despesa_aumenta,0.025,0.053,2014,0.051,2012-2014,,sim,baixa,"Bom Prato (ação 13300000 até 2010; 60010000 a partir de 2011): R$ 28,5 milhões em 2010, R$ 35,7 milhões em 2012, R$ 47,9 milhões em 2013 e R$ 53,0 milhões em 2014. Em 2011, ano de troca do código da ação, só aparecem R$ 4,2 milhões (o restante deve ter sido pago por outra ação), por isso o acumulado conta 2012 a 2014.",https://www.fazenda.sp.gov.br/SigeoLei131/Paginas/FlexConsDespesa.aspx,
 alckmin_sp_2010-36,sem_impacto_direto,,,,,,,,media,"O aumento da vegetação nativa veio de regras ambientais e de recomposição feita por proprietários, sem gasto próprio do Estado.",,
 alckmin_sp_2010-37,sem_impacto_direto,,,,,,,,media,"Criar parques estaduais é ato de proteção; a gestão das unidades é paga por ações gerais da Fundação Florestal, com custo pequeno.",,
 alckmin_sp_2010-38,fora_do_orcamento,,,,,,,,media,"Universalizar o esgoto é obra da Sabesp, fora do orçamento do Estado; não implementada.",,

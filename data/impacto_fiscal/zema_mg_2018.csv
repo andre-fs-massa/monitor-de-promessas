@@ -21,7 +21,7 @@ zema_mg_2018-19,sem_impacto_direto,,,,,,,,media,Um cadastro voluntário de bens 
 zema_mg_2018-20,sem_impacto_direto,,,,,,,,media,Monitorar indicadores de inquéritos tem custo pequeno; não implementada.,,
 zema_mg_2018-21,despesa_reduz,,,,,,,,media,Trocar parte das prisões por tornozeleiras reduziria o custo do sistema prisional; não implementada.,,
 zema_mg_2018-22,despesa_aumenta,0.002,0.002,2022,0.002,2022,,nao,baixa,"Compra de 1.040 câmeras corporais pela PM em 2022, junto com 65 docas e 1.040 pistolas de impulso elétrico: R$ 2,4 milhões no total, segundo a imprensa; não há ação orçamentária própria. Gasto único.",,https://pradosonline.com.br/?p=51475
-zema_mg_2018-23,despesa_aumenta,,,,,,,,media,Expandir APACs e PPPs prisionais aumentaria a despesa com vagas; não implementada.,,
+zema_mg_2018-23,despesa_aumenta,0.038,0.084,2022,0.064,2019-2022,,sim,baixa,"Convênios das APACs (ação 4129, Metodologia de Custódias Alternativas, até 2019; 4427 a partir de 2020): R$ 46 milhões em 2018, R$ 48 milhões em 2019, R$ 52 milhões em 2020, R$ 65 milhões em 2021 e R$ 84 milhões em 2022. Não houve nova PPP prisional.",https://dados.mg.gov.br/dataset/despesa,
 zema_mg_2018-24,despesa_aumenta,,,,,,,,media,Integrar os sistemas das polícias exigiria investimento em tecnologia; não implementada.,,
 zema_mg_2018-25,sem_impacto_direto,,,,,,,,media,Criar um setor de inteligência teria custo pequeno; não implementada.,,
 zema_mg_2018-26,despesa_aumenta,,,,,,,,media,"Cerco eletrônico, drones e GPS exigiriam investimento; não implementada.",,
