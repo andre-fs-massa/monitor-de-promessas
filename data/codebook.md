@@ -50,7 +50,7 @@ Uma **promessa** é uma frase do plano de governo registrado no TSE que comprome
 
 As taxas são calculadas sobre as promessas avaliadas (`total − nao_avaliada`). Para mandatos em curso, o status reflete a `data_corte` de `mandatos.csv`. Para mandatos interrompidos, a avaliação vai até `mandato_fim_efetivo` (data do afastamento ou da renúncia; o motivo fica em `motivo_interrupcao`); fatos posteriores podem aparecer na evidência, mas não mudam o status.
 
-## Impacto fiscal (presidentes, governadores do RJ, de SP e de MG e prefeitos de SP)
+## Impacto fiscal (presidentes, governadores do RJ, de SP e de MG e prefeitos de SP e BH)
 
 Arquivo `data/impacto_fiscal/<mandato>.csv` (uma linha por promessa do mandato), validado pelo `build.py` e publicado em `data/base_aberta/impacto_fiscal.csv`.
 
@@ -75,3 +75,5 @@ Governadores de SP: o orçamento de referência é o do Estado de São Paulo. A 
 Governadores de MG: o orçamento de referência é o do Estado de Minas Gerais. A despesa é a empenhada por ação nos dados abertos da Controladoria-Geral do Estado (conjunto "Despesa pública", desde 2002; `scripts/orcamento_mg.py`). Quando o PPAG renumera uma ação, a nova é somada à que ela substituiu; quando o gasto do mandato fica abaixo do ano anterior ao mandato, fica só o custo do último ano.
 
 Prefeitos de São Paulo: o orçamento de referência é o do Município de São Paulo. A despesa é a empenhada (líquida) por projeto/atividade nos dados abertos da Prefeitura (conjunto "Execução orçamentária", desde 2003; `scripts/orcamento_spcapital.py`). Mesmo método dos governadores: diferença de cada ano completo do mandato para o ano anterior ao mandato; quando o gasto do mandato fica abaixo desse ano, fica só o custo do último ano completo.
+
+Prefeitos de Belo Horizonte: o orçamento de referência é o do Município de Belo Horizonte. A despesa é a empenhada por ação e subação nos dados abertos da Prefeitura (conjunto "Despesas Orçamentárias", desde 2020; `scripts/orcamento_bh.py`). O portal não tem despesa por ação antes de 2018, por isso só há impacto fiscal para Kalil 2020 e Fuad Noman 2024. Mesmo método dos prefeitos de São Paulo.

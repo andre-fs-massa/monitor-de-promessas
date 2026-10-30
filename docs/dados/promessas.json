@@ -28052,7 +28052,21 @@
     "evidencia": "Dois dos três viadutos da Cristiano Machado foram entregues (Waldomiro Lobo, com todas as alças em out/2025, e Saramenha, em jun/2026); o da Sebastião de Brito segue em obras.",
     "fonte_url": "https://prefeitura.pbh.gov.br/noticias/pbh-libera-transito-no-novo-viaduto-da-cristiano-machado-com-avenida-saramenha",
     "data_evidencia": "2026-06",
-    "pagina": 2
+    "pagina": 2,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.044",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "media",
+      "explicacao": "Obras nas interseções da Avenida Cristiano Machado (subação 1330.011), que pagam os viadutos e a trincheira da Cristo Rei: R$ 116,7 milhões em 2024 e R$ 43,5 milhões em 2025. Gasto único de obra.",
+      "fonte_oficial": "https://dados.pbh.gov.br/dataset/despesas-orcamentarias",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "fuad_bh_2024-02",
@@ -28069,7 +28083,21 @@
     "evidencia": "A trincheira da Cristiano Machado com o boulevard em frente à Catedral Cristo Rei está em obras desde set/2025, com conclusão prevista para o 2º semestre de 2028.",
     "fonte_url": "https://prefeitura.pbh.gov.br/noticias/segundo-turno-de-trabalho-acelera-obras-da-trincheira-cristo-rei-regiao-norte-da-capital",
     "data_evidencia": "2026",
-    "pagina": 2
+    "pagina": 2,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A trincheira e o boulevard da Cristo Rei são pagos pela mesma subação das obras da Cristiano Machado; o custo está na promessa 1.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "fuad_bh_2024-03",
@@ -28086,7 +28114,21 @@
     "evidencia": "A obra da nova maternidade do Odilon Behrens começou em set/2022, com entrega prevista para 2025; não foi localizada a inauguração até out/2026.",
     "fonte_url": "https://diariodocomercio.com.br/negocios/odilon-behrens-expandira-atendimento-nova-maternidade-2025/",
     "data_evidencia": "2026-10",
-    "pagina": 3
+    "pagina": 3,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "A obra da maternidade do Odilon Behrens não tem ação própria no orçamento; o hospital é pago pela rede hospitalar geral.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "fuad_bh_2024-04",
@@ -28103,7 +28145,21 @@
     "evidencia": "Desde 2025 foram entregues cerca de 11 novos centros de saúde pela PPP (a cidade chegou a 154 unidades, a 61ª da PPP em mai/2026), de 20 prometidos.",
     "fonte_url": "https://prefeitura.pbh.gov.br/noticias/60-novos-centros-de-saude-entregues-pela-pbh-beneficiam-cerca-de-900-mil-pessoas",
     "data_evidencia": "2026-05",
-    "pagina": 3
+    "pagina": 3,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.046",
+      "valor_total_rs_bi": "0.182",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "0.046",
+      "periodo_acumulado": "2025",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Contraprestação da PPP de unidades de atenção primária (subação 2902.001), que constrói e mantém os novos centros de saúde: R$ 135,1 milhões em 2024 e R$ 181,5 milhões em 2025.",
+      "fonte_oficial": "https://dados.pbh.gov.br/dataset/despesas-orcamentarias",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "fuad_bh_2024-05",
@@ -28120,7 +28176,21 @@
     "evidencia": "A Prefeitura anunciou a continuidade do projeto de mobilidade do Belvedere, com obras previstas para começar no 1º semestre e terminar no fim de 2026.",
     "fonte_url": "https://prefeitura.pbh.gov.br/noticias/alvaro-damiao-anuncia-continuidade-de-projeto-de-mobilidade-no-belvedere",
     "data_evidencia": "2026",
-    "pagina": 3
+    "pagina": 3,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "As obras dos viadutos da BR-040 no Belvedere estão previstas para 2026, sem gasto separado em 2025.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "fuad_bh_2024-06",
@@ -28137,7 +28207,21 @@
     "evidencia": "O BRT Amazonas está em estudos e projetos (contrato aditado em out/2026); a licitação das obras está prevista para 2027 e a execução para 2028-2030.",
     "fonte_url": "https://diariodotransporte.com.br/2026/10/07/contrato-dos-projetos-do-brt-amazonas-de-belo-horizonte-mg-aumenta-r-162-milhao-para-levantamentos-sondagens-e-ensaios/",
     "data_evidencia": "2026-10",
-    "pagina": 3
+    "pagina": 3,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O BRT Amazonas está em estudos e projetos, com custo pequeno; a obra está prevista para 2028-2030.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "fuad_bh_2024-07",
@@ -28154,7 +28238,21 @@
     "evidencia": "O reservatório Vilarinho II, parado em 2025 por suspeita de irregularidades, teve nova licitação para conclusão aberta até out/2026; a estrutura opera com metade da capacidade.",
     "fonte_url": "https://prefeitura.pbh.gov.br/noticias/pbh-abre-licitacao-para-conclusao-das-obras-do-reservatorio-vilarinho-ii-em-venda-nova",
     "data_evidencia": "2026-10",
-    "pagina": 3
+    "pagina": 3,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.059",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "baixa",
+      "explicacao": "Drenagem e gestão do risco de inundações (ações 1400 e 1203), que pagam o Vilarinho e outras bacias: R$ 174 milhões em 2024 e R$ 59 milhões em 2025. A obra do Vilarinho II parou em 2025 e foi relicitada.",
+      "fonte_oficial": "https://dados.pbh.gov.br/dataset/despesas-orcamentarias",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "fuad_bh_2024-08",
@@ -28171,7 +28269,21 @@
     "evidencia": "O Anel Rodoviário foi municipalizado em jun/2025, com R$ 60 milhões da União para novas alças e viaduto; a Câmara aprovou empréstimo de até R$ 1 bilhão para as obras.",
     "fonte_url": "https://diariodocomercio.com.br/economia/anel-rodoviario-transferido-prefeitura-belo-horizonte/",
     "data_evidencia": "2025-06",
-    "pagina": 3
+    "pagina": 3,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "As obras do Anel Rodoviário dependem de R$ 60 milhões da União e de empréstimo de até R$ 1 bi aprovado pela Câmara; sem gasto separado em 2025.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "fuad_bh_2024-09",
@@ -28188,7 +28300,21 @@
     "evidencia": "O programa Centro de Todo Mundo segue com obras em praças e vias do Centro; a revitalização não foi concluída.",
     "fonte_url": "https://prefeitura.pbh.gov.br/noticias/programa-centro-de-todo-mundo-contabiliza-oito-obras-em-andamento-na-capital",
     "data_evidencia": "2026",
-    "pagina": 3
+    "pagina": 3,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O Centro de Todo Mundo não tem ação própria no orçamento; as obras em praças e vias estão em ações gerais de infraestrutura.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "fuad_bh_2024-10",
@@ -28205,7 +28331,21 @@
     "evidencia": "O Programa de Qualificação das Centralidades (Decreto 18.840/2024) entregou o plano de ação da centralidade Waldomiro Lobo e elabora os de outras regiões.",
     "fonte_url": "https://prefeitura.pbh.gov.br/noticias/pbh-entrega-plano-de-acao-waldomiro-lobo-durante-o-bhfeliz-no-guarani",
     "data_evidencia": "2026",
-    "pagina": 3
+    "pagina": 3,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Elaborar os planos das centralidades tem custo pequeno.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "fuad_bh_2024-11",
@@ -28222,7 +28362,21 @@
     "evidencia": "A licitação de R$ 110 milhões do Parque Ciliar do Onça, aberta em 2025, foi suspensa para revisão e deve ser retomada em 2026; uma primeira etapa de melhorias já foi entregue.",
     "fonte_url": "https://ofator.com.br/informacao/pbh-adia-licitacao-de-r-110-milhoes-para-obras-no-ribeirao-do-onca/",
     "data_evidencia": "2026",
-    "pagina": 4
+    "pagina": 4,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A licitação do Parque Ciliar do Onça (R$ 110 milhões) foi suspensa; sem obra principal em 2025.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "fuad_bh_2024-12",
@@ -28239,7 +28393,21 @@
     "evidencia": "O Parque do Aterro (Taiobeiras) está em projeto, incluído no programa BH Verde Azul (consulta de jun/2026), sem obra iniciada.",
     "fonte_url": "https://prefeitura.pbh.gov.br/sites/default/files/estrutura-de-governo/obras-e-infraestrutura/2026/apresentacao-consulta-bh-verde-azul-22-06-26.pdf",
     "data_evidencia": "2026-06",
-    "pagina": 4
+    "pagina": 4,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O Parque Taiobeiras está em projeto, sem obra.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "fuad_bh_2024-13",
@@ -28256,7 +28424,21 @@
     "evidencia": "O corredor verde da Avenida Antônio Carlos chegou a 2.095 árvores plantadas; o Plano de Metas prevê 4 corredores.",
     "fonte_url": "https://prefeitura.pbh.gov.br/noticias/pbh-planta-mil-arvores-no-corredor-verde-da-antonio-carlos-nesta-terca-feira-3",
     "data_evidencia": "2026",
-    "pagina": 4
+    "pagina": 4,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O plantio dos corredores verdes está somado na arborização (promessa 18).",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "fuad_bh_2024-14",
@@ -28273,7 +28455,21 @@
     "evidencia": "A Mata do Jardim América foi desapropriada em 2024 para virar parque, mas a implantação não foi localizada até out/2026.",
     "fonte_url": "https://prefeitura.pbh.gov.br/noticias/prefeitura-viabiliza-implantacao-de-novo-parque-na-regiao-oeste-da-capital",
     "data_evidencia": "2026-10",
-    "pagina": 4
+    "pagina": 4,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A área do parque do Jardim América foi desapropriada em 2024; a implantação ainda não começou.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "fuad_bh_2024-15",
@@ -28290,7 +28486,21 @@
     "evidencia": "Busca na imprensa, no site da Prefeitura e no Plano de Metas 2025-2028 (jan/2025 a out/2026) não localizou ampliação do Parque Tom Jobim, no Luxemburgo.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 4
+    "pagina": 4,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o Parque Tom Jobim exigiria obra; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "fuad_bh_2024-16",
@@ -28307,7 +28517,21 @@
     "evidencia": "Novas miniflorestas foram plantadas em 2025 e 2026 (ex.: legado do Carnaval na Tereza Cristina); o Plano de Metas prevê 60 até 2028.",
     "fonte_url": "https://prefeitura.pbh.gov.br/noticias/representantes-do-carnaval-de-bh-plantam-minifloresta-neste-sabado-28-como-legado-da-festa",
     "data_evidencia": "2026-02",
-    "pagina": 5
+    "pagina": 5,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "As miniflorestas são plantadas com a arborização (promessa 18), com custo pequeno.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "fuad_bh_2024-17",
@@ -28324,7 +28548,21 @@
     "evidencia": "A Prefeitura entregou o primeiro refúgio climático fixo, no Centro, e os primeiros refúgios móveis, no bairro São Paulo; a meta é de 100.",
     "fonte_url": "https://prefeitura.pbh.gov.br/noticias/prefeitura-entrega-primeiro-refugio-climatico-de-belo-horizonte",
     "data_evidencia": "2026",
-    "pagina": 5
+    "pagina": 5,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "Os primeiros refúgios climáticos têm custo pequeno, sem ação própria.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "fuad_bh_2024-18",
@@ -28341,7 +28579,21 @@
     "evidencia": "O Plano Municipal de Arborização Urbana foi lançado e a meta de 50 mil árvores plantadas em 2025 foi atingida; a promessa vai até 2050.",
     "fonte_url": "https://prefeitura.pbh.gov.br/noticias/prefeitura-de-bh-alcanca-meta-de-50-mil-arvores-plantadas-em-2025",
     "data_evidencia": "2025-12",
-    "pagina": 5
+    "pagina": 5,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.037",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Preservação da arborização municipal (subação 2811.001): R$ 38,2 milhões em 2024 e R$ 36,9 milhões em 2025; as 50 mil árvores de 2025 não aumentaram o gasto dessa ação.",
+      "fonte_oficial": "https://dados.pbh.gov.br/dataset/despesas-orcamentarias",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "fuad_bh_2024-19",
@@ -28358,7 +28610,21 @@
     "evidencia": "O atendimento veterinário público ganhou nova sede, o Centro Avançado de Saúde Animal no UniBH (set/2026); não foi localizada parceria com clínicas privadas.",
     "fonte_url": "https://prefeitura.pbh.gov.br/noticias/complexo-publico-veterinario-ganha-novas-unidades-e-estruturas-mais-modernas",
     "data_evidencia": "2026-09",
-    "pagina": 5
+    "pagina": 5,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.001",
+      "valor_total_rs_bi": "0.004",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "0.001",
+      "periodo_acumulado": "2025",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Atendimento médico-veterinário (subação 2877.009): R$ 2,8 milhões em 2024 e R$ 3,7 milhões em 2025. O Centro Avançado de Saúde Animal abriu em set/2026.",
+      "fonte_oficial": "https://dados.pbh.gov.br/dataset/despesas-orcamentarias",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "fuad_bh_2024-20",
@@ -28375,7 +28641,21 @@
     "evidencia": "O programa Viver de Novo (dez/2025) começou a convocar pessoas em situação de rua para o Bolsa Moradia (300 convocadas).",
     "fonte_url": "https://www.itatiaia.com.br/brasil/sudeste/mg/bh-comeca-a-convocar-pessoas-em-situacao-de-rua-para-programa-de-moradia/",
     "data_evidencia": "2026",
-    "pagina": 6
+    "pagina": 6,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.006",
+      "valor_total_rs_bi": "0.013",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "0.006",
+      "periodo_acumulado": "2025",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Bolsa Moradia e Locação Social (ação 2792), que paga o aluguel social do Viver de Novo: R$ 7,9 milhões em 2024 e R$ 13,4 milhões em 2025. A ação também atende famílias de áreas de risco.",
+      "fonte_oficial": "https://dados.pbh.gov.br/dataset/despesas-orcamentarias",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "fuad_bh_2024-21",
@@ -28392,7 +28672,21 @@
     "evidencia": "O eixo de saúde do Viver de Novo ampliou o Consultório na Rua de 8 para 10 equipes; não foram localizados serviços próprios de saúde mental para essa população.",
     "fonte_url": "https://prefeitura.pbh.gov.br/assistencia-social-e-direitos-humanos/viver-de-novo",
     "data_evidencia": "2026",
-    "pagina": 6
+    "pagina": 6,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "As duas novas equipes do Consultório na Rua são pagas pela atenção primária geral, sem valor separado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "fuad_bh_2024-22",
@@ -28409,7 +28703,21 @@
     "evidencia": "A Prefeitura enviou à Câmara projeto que reserva até 5% das vagas não especializadas dos contratos de obras e serviços para pessoas em situação de rua.",
     "fonte_url": "https://prefeitura.pbh.gov.br/noticias/pbh-anuncia-acoes-para-populacao-em-situacao-de-rua-incluindo-vagas-em-obras-e-servicos",
     "data_evidencia": "2026",
-    "pagina": 7
+    "pagina": 7,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Reservar vagas em contratos para pessoas em situação de rua é regra de contratação (projeto de lei).",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "fuad_bh_2024-23",
@@ -28426,7 +28734,21 @@
     "evidencia": "O prontuário eletrônico (SIGRAH) segue implantado em etapas, com novo contrato desde dez/2025 e queixas de médicos; não estava pleno em 2025, como prometido.",
     "fonte_url": "https://prefeitura.pbh.gov.br/saude/sigrah",
     "data_evidencia": "2026-03",
-    "pagina": 8
+    "pagina": 8,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O novo contrato do prontuário eletrônico (dez/2025) não tem ação própria no orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "fuad_bh_2024-24",
@@ -28443,7 +28765,21 @@
     "evidencia": "Busca na imprensa, no site da Prefeitura e no Plano de Metas 2025-2028 (jan/2025 a out/2026) não localizou aplicativo com consultas, exames e vacinas do usuário do SUS-BH; o PBH APP já mostrava resultados de exames desde 2019.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 8
+    "pagina": 8,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Um aplicativo de saúde teria custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "fuad_bh_2024-25",
@@ -28460,7 +28796,21 @@
     "evidencia": "Até o fim de 2025 foram entregues 3 das 12 novas escolas prometidas (EMEIs Estrela Dalva, Tupã e Parque da Aviação); outras ficaram para 2026.",
     "fonte_url": "https://www.itatiaia.com.br/brasil/sudeste/mg/prefeitura-vai-comecar-a-construcao-de-mais-quatro-escolas-infantis-em-bh/",
     "data_evidencia": "2026",
-    "pagina": 9
+    "pagina": 9,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Entregar 12 novas escolas exigiria obra (só 3 foram entregues); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "fuad_bh_2024-26",
@@ -28477,7 +28827,21 @@
     "evidencia": "Em 2025 as 3 novas EMEIs somaram cerca de 660 vagas integrais, longe das 2.400 prometidas, e a EMEF de 960 vagas ficou para 2026.",
     "fonte_url": "https://prefeitura.pbh.gov.br/sites/default/files/estrutura-de-governo/planejamento/2025/plano-de-metas-2025-2028-revisada-30.09.25.pdf",
     "data_evidencia": "2025-12",
-    "pagina": 9
+    "pagina": 9,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Abrir vagas integrais na educação infantil aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "fuad_bh_2024-27",
@@ -28494,7 +28858,21 @@
     "evidencia": "Busca na imprensa, no site da Prefeitura e no Plano de Metas 2025-2028 (jan/2025 a out/2026) não localizou abertura de mil novas vagas em creches conveniadas.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 9
+    "pagina": 9,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Abrir mil vagas em creches conveniadas aumentaria a despesa (o gasto com as creches parceiras subiu de R$ 398 milhões em 2024 para R$ 471 milhões em 2025, mas a ampliação de vagas não foi localizada); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-01",
@@ -28511,7 +28889,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou implantação do Centro de Atenção à Saúde da Mulher e do Centro de Parto Normal no Odilon Behrens até a renúncia; a obra da nova maternidade só começou em set/2022, na gestão Fuad.",
     "fonte_url": "https://prefeitura.pbh.gov.br/noticias/pbh-inicia-obras-de-nova-maternidade-e-centro-obstetrico-na-regiao-noroeste",
     "data_evidencia": "2022-03",
-    "pagina": 10
+    "pagina": 10,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantar o Centro de Atenção à Saúde da Mulher e o Centro de Parto Normal no Odilon Behrens aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-02",
@@ -28528,7 +28920,21 @@
     "evidencia": "Em out/2021 começou a terceira etapa do método Wolbachia, ampliando a soltura para as seis regionais que faltavam, de forma progressiva; a cobertura da cidade inteira não estava concluída na renúncia.",
     "fonte_url": "https://prefeitura.pbh.gov.br/noticias/prefeitura-amplia-soltura-de-aedes-aegypti-com-wolbachia-para-combater-doencas",
     "data_evidencia": "2021-10",
-    "pagina": 12
+    "pagina": 12,
+    "impacto": {
+      "impacto_fiscal": "fora_do_orcamento",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O método Wolbachia é feito pela Fiocruz e pelo World Mosquito Program, com recursos do Ministério da Saúde; a Prefeitura apoia com a vigilância já existente.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-03",
@@ -28545,7 +28951,21 @@
     "evidencia": "Kalil assinou a ordem de serviço para reconstruir 40 centros de saúde pela PPP e parte deles foi entregue no mandato, mas o pacote não estava concluído na renúncia.",
     "fonte_url": "https://prefeitura.pbh.gov.br/noticias/prefeitura-da-inicio-obras-de-reconstrucao-de-40-centros-de-saude",
     "data_evidencia": "2022-03",
-    "pagina": 13
+    "pagina": 13,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "A reconstrução dos centros de saúde é feita pela PPP da atenção primária, cuja contraprestação não aparece separada no orçamento de 2020 e 2021.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-04",
@@ -28562,7 +28982,21 @@
     "evidencia": "O SIGRAH começou a ser implantado nas UPAs e no Odilon Behrens entre out/2020 e fev/2021, com conclusão prevista para out/2022; os centros de saúde só entraram a partir de 2023.",
     "fonte_url": "https://prefeitura.pbh.gov.br/sites/default/files/estrutura-de-governo/saude/2021/acontece-saude-117.pdf",
     "data_evidencia": "2021",
-    "pagina": 14
+    "pagina": 14,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.003",
+      "ano_ref": "2021",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Modernização dos sistemas de informatização em saúde (Programa Melhor Saúde - BID, subação 1395.009), que paga o SIGRAH: R$ 2,9 milhões em 2020 e R$ 3,0 milhões em 2021, praticamente estável.",
+      "fonte_oficial": "https://dados.pbh.gov.br/dataset/despesas-orcamentarias",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-05",
@@ -28579,7 +29013,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de dar dispositivos móveis e ferramentas virtuais aos agentes comunitários e de endemias tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 14
+    "pagina": 14,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Dar dispositivos móveis e ferramentas virtuais aos agentes comunitários e de endemias aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-06",
@@ -28596,7 +29044,21 @@
     "evidencia": "Em 2021 a Prefeitura abriu 579 novas vagas para crianças de 0 a 3 anos em creches parceiras e duas novas UMEIs, com 276 vagas.",
     "fonte_url": "https://prefeitura.pbh.gov.br/noticias/pbh-tem-579-vagas-mais-para-criancas-de-0-3-na-rede-parceira-de-educacao-0",
     "data_evidencia": "2021",
-    "pagina": 16
+    "pagina": 16,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "As vagas em creches parceiras estão na promessa 7; as duas novas UMEIs são pagas pelas ações gerais de pessoal e manutenção da educação infantil.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-07",
@@ -28613,7 +29075,21 @@
     "evidencia": "A Secretaria de Educação credenciou mais cinco creches parceiras em 2021, com 232 vagas de berçário e 347 em novas turmas de 0 a 2 anos.",
     "fonte_url": "https://prefeitura.pbh.gov.br/noticias/pbh-tem-579-vagas-mais-para-criancas-de-0-3-na-rede-parceira-de-educacao-0",
     "data_evidencia": "2021",
-    "pagina": 16
+    "pagina": 16,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.011",
+      "valor_total_rs_bi": "0.245",
+      "ano_ref": "2021",
+      "valor_acumulado_rs_bi": "0.011",
+      "periodo_acumulado": "2021",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Parcerias com instituições de educação infantil (creches parceiras, subação 2542.003): R$ 234,2 milhões em 2020 e R$ 244,9 milhões em 2021. Inclui o reajuste do valor pago às creches, não só as vagas novas.",
+      "fonte_oficial": "https://dados.pbh.gov.br/dataset/despesas-orcamentarias",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-08",
@@ -28630,7 +29106,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de implantar 4 escolas da infância (2 em Venda Nova, 1 na Pampulha, 1 no Barreiro) tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 16
+    "pagina": 16,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantar 4 escolas da infância (2 em Venda Nova, 1 na Pampulha, 1 no Barreiro) aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-09",
@@ -28647,7 +29137,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de ampliar as turmas de tempo integral nas EMEIs tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 17
+    "pagina": 17,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar as turmas de tempo integral nas EMEIs aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-10",
@@ -28664,7 +29168,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de incluir no cadastro escolar a opção por tempo integral, com lista pública de espera tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 17
+    "pagina": 17,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Incluir no cadastro escolar a opção por tempo integral, com lista pública de espera é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-11",
@@ -28681,7 +29199,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de ampliar o Programa Appia tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 17
+    "pagina": 17,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o Programa Appia aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-12",
@@ -28698,7 +29230,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de ampliar o Programa Geração Ativa tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 17
+    "pagina": 17,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o Programa Geração Ativa aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-13",
@@ -28715,7 +29261,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de ampliar as vagas das escolas de ensino especial, com espaços para pessoas com deficiência acima de 18 anos tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 18
+    "pagina": 18,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar as vagas das escolas de ensino especial, com espaços para pessoas com deficiência acima de 18 anos aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-14",
@@ -28732,7 +29292,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de reorganizar o AEE em polos territoriais e ampliar o atendimento tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 18
+    "pagina": 18,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Reorganizar o AEE em polos territoriais e ampliar o atendimento aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-15",
@@ -28749,7 +29323,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de levar internet a todos os espaços das escolas municipais tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 18
+    "pagina": 18,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Levar internet a todos os espaços das escolas municipais aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-16",
@@ -28766,7 +29354,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de implantar Câmaras de Práticas Restaurativas nas escolas tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 19
+    "pagina": 19,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantar Câmaras de Práticas Restaurativas nas escolas é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-17",
@@ -28783,7 +29385,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de ampliar os restaurantes populares tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar os restaurantes populares aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-18",
@@ -28800,7 +29416,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de implementar o projeto Elas Cultivam Lagoinha tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 25
+    "pagina": 25,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implementar o projeto Elas Cultivam Lagoinha aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-19",
@@ -28817,7 +29447,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de implantar o Sistema de Atendimento em Direitos Humanos tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 28
+    "pagina": 28,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantar o Sistema de Atendimento em Direitos Humanos é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-20",
@@ -28834,7 +29478,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou implantação da Casa da Mulher Brasileira até a renúncia; a obra só começou depois de 2024.",
     "fonte_url": "https://prefeitura.pbh.gov.br/noticias/pbh-inicia-obra-de-implantacao-da-casa-da-mulher-brasileira",
     "data_evidencia": "2022-03",
-    "pagina": 28
+    "pagina": 28,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantar a Casa da Mulher Brasileira aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-21",
@@ -28851,7 +29509,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de criar nova estratégia de plantões noturnos e de fim de semana dos Conselhos Tutelares tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 28
+    "pagina": 28,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar nova estratégia de plantões noturnos e de fim de semana dos Conselhos Tutelares aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-22",
@@ -28868,7 +29540,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de elaborar o Plano Municipal de Políticas para a Pessoa Idosa tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 30
+    "pagina": 30,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Elaborar o Plano Municipal de Políticas para a Pessoa Idosa é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-23",
@@ -28885,7 +29571,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de equipar o Centro de Referência da Juventude com estúdio multimídia e cozinha tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 31
+    "pagina": 31,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Equipar o Centro de Referência da Juventude com estúdio multimídia e cozinha aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-24",
@@ -28902,7 +29602,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de concluir o Observatório de Direitos Humanos tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 31
+    "pagina": 31,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Concluir o Observatório de Direitos Humanos é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-25",
@@ -28919,7 +29633,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de descentralizar o Cadastro Único para 100% dos CRAS tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 32
+    "pagina": 32,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Descentralizar o Cadastro Único para 100% dos CRAS é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-26",
@@ -28936,7 +29664,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de ampliar a rede de CRAS tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 33
+    "pagina": 33,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar a rede de CRAS aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-27",
@@ -28953,7 +29695,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de concluir o reordenamento dos serviços do CREAS tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 34
+    "pagina": 34,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Concluir o reordenamento dos serviços do CREAS é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-28",
@@ -28970,7 +29726,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de instituir o Selo SUAS/BH Mais Proteção Social tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 35
+    "pagina": 35,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Instituir o Selo SUAS/BH Mais Proteção Social é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-29",
@@ -28987,7 +29757,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de ampliar o Projeto Várzea Viva tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 38
+    "pagina": 38,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o Projeto Várzea Viva aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-30",
@@ -29004,7 +29788,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de ampliar o Programa Polo Regional de Esporte e Lazer tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 39
+    "pagina": 39,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o Programa Polo Regional de Esporte e Lazer aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-31",
@@ -29021,7 +29819,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de ampliar o Programa BH é da Gente tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 40
+    "pagina": 40,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o Programa BH é da Gente aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-32",
@@ -29038,7 +29850,21 @@
     "evidencia": "As nomeações dos aprovados no concurso da Guarda Municipal começaram em fev/2022 e seguiram até completar 500 novos guardas, já na gestão Fuad.",
     "fonte_url": "https://prefeitura.pbh.gov.br/noticias/pbh-convoca-mais-um-grupo-guardas-civis-municipais-aprovados-em-concurso",
     "data_evidencia": "2022-02",
-    "pagina": 42
+    "pagina": 42,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "As nomeações dos guardas começaram em fev/2022, depois do único ano completo do mandato (2021).",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-33",
@@ -29055,7 +29881,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de criar unidade de combate a crimes ambientais na Guarda Municipal tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 42
+    "pagina": 42,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar unidade de combate a crimes ambientais na Guarda Municipal aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-34",
@@ -29072,7 +29912,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de criar o Fundo Municipal de Segurança Pública e Defesa Social tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 43
+    "pagina": 43,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar o Fundo Municipal de Segurança Pública e Defesa Social é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-35",
@@ -29089,7 +29943,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de implantar rádio digital integrado entre Guarda, Fiscalização, SAMU e BHTrans tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 43
+    "pagina": 43,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantar rádio digital integrado entre Guarda, Fiscalização, SAMU e BHTrans aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-36",
@@ -29106,7 +29974,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de concluir a plataforma tecnológica integradora do COP-BH tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 43
+    "pagina": 43,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Concluir a plataforma tecnológica integradora do COP-BH aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-37",
@@ -29123,7 +30005,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de integrar câmeras privadas ao COP-BH tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 43
+    "pagina": 43,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Integrar câmeras privadas ao COP-BH aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-38",
@@ -29140,7 +30036,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de reunir num único ato normativo as regras das atividades econômicas por CNAE tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 53
+    "pagina": 53,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Reunir num único ato normativo as regras das atividades econômicas por CNAE é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-39",
@@ -29157,7 +30067,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de criar consulta on-line automática com todos os requisitos para abrir um negócio tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 53
+    "pagina": 53,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar consulta on-line automática com todos os requisitos para abrir um negócio é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-40",
@@ -29174,7 +30098,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de unificar registro e licenciamentos num só processo, com documento único on-line tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 53
+    "pagina": 53,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Unificar registro e licenciamentos num só processo, com documento único on-line é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-41",
@@ -29191,7 +30129,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou ampliação, entre 2021 e mar/2022, da lista de atividades de baixo risco dispensadas de alvará (Decreto 17.245/2019).",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 54
+    "pagina": 54,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar as atividades de baixo risco dispensadas de alvará é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-42",
@@ -29208,7 +30160,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de levar o Horizonte Criativo ao Baixo Centro até a Praça 7 tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 54
+    "pagina": 54,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Levar o Horizonte Criativo ao Baixo Centro até a Praça 7 aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-43",
@@ -29225,7 +30191,21 @@
     "evidencia": "A rede pública de wi-fi seguiu em expansão (de 495 pontos em 2020 para mais de 3.700 em 2023, com o Vila + Conectada), mas não foi localizado quanto cresceu até a renúncia.",
     "fonte_url": "https://prefeitura.pbh.gov.br/noticias/rede-wi-fi-da-prefeitura-de-belo-horizonte-sera-ampliada",
     "data_evidencia": "2022",
-    "pagina": 55
+    "pagina": 55,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "A ampliação do wi-fi público não tem ação própria no orçamento de 2021.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-44",
@@ -29242,7 +30222,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de criar espaços descentralizados de formação em programação da Prodabel tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 55
+    "pagina": 55,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar espaços descentralizados de formação em programação da Prodabel aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-45",
@@ -29259,7 +30253,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de ampliar o Programando Sonhos Delas tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 55
+    "pagina": 55,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o Programando Sonhos Delas aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-46",
@@ -29276,7 +30284,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de criar fábrica compartilhada de moda e design para a economia criativa tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 57
+    "pagina": 57,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar fábrica compartilhada de moda e design para a economia criativa aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-47",
@@ -29293,7 +30315,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de instalar mobiliário urbano na orla da Lagoa da Pampulha tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 58
+    "pagina": 58,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Instalar mobiliário urbano na orla da Lagoa da Pampulha aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-48",
@@ -29310,7 +30346,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de criar um Sistema de Inteligência Turística tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 58
+    "pagina": 58,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar um Sistema de Inteligência Turística é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-49",
@@ -29327,7 +30377,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de implementar o Programa Municipal de Turismo Gastronômico tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 59
+    "pagina": 59,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implementar o Programa Municipal de Turismo Gastronômico aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-50",
@@ -29344,7 +30408,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de criar rede aberta de informações ambientais tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 63
+    "pagina": 63,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar rede aberta de informações ambientais é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-51",
@@ -29361,7 +30439,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de instituir o Plano Municipal de Biodiversidade tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 64
+    "pagina": 64,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Instituir o Plano Municipal de Biodiversidade é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-52",
@@ -29378,7 +30470,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de implantar o Sistema Municipal de Áreas Protegidas tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 64
+    "pagina": 64,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantar o Sistema Municipal de Áreas Protegidas é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-53",
@@ -29395,7 +30501,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de instituir o Plano Municipal de Mata Atlântica tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 64
+    "pagina": 64,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Instituir o Plano Municipal de Mata Atlântica é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-54",
@@ -29412,7 +30532,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de elaborar manual de manejo das águas urbanas tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 64
+    "pagina": 64,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Elaborar manual de manejo das águas urbanas é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-55",
@@ -29429,7 +30563,21 @@
     "evidencia": "O Complexo Público Veterinário (hospital público veterinário) foi inaugurado em mai/2021.",
     "fonte_url": "https://prefeitura.pbh.gov.br/noticias/hospital-publico-veterinario-de-bh-e-reestruturado-e-aprovado-pelos-usuarios",
     "data_evidencia": "2021-05",
-    "pagina": 65
+    "pagina": 65,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.001",
+      "valor_total_rs_bi": "0.001",
+      "ano_ref": "2021",
+      "valor_acumulado_rs_bi": "0.001",
+      "periodo_acumulado": "2021",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Atendimento médico-veterinário (subação 2877.009), que paga o hospital público veterinário: sem gasto em 2020 e R$ 0,5 milhão em 2021.",
+      "fonte_oficial": "https://dados.pbh.gov.br/dataset/despesas-orcamentarias",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-56",
@@ -29446,7 +30594,21 @@
     "evidencia": "A elaboração do Plano Local de Ação Climática começou com oficinas abertas pela Prefeitura e o ICLEI; o plano só foi publicado em nov/2022, já na gestão Fuad.",
     "fonte_url": "https://diariodocomercio.com.br/negocios/pbh-lanca-plano-de-acao-climatica/",
     "data_evidencia": "2022-11",
-    "pagina": 65
+    "pagina": 65,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Elaborar o Plano de Ação Climática tem custo pequeno.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-57",
@@ -29463,7 +30625,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de atualizar anualmente o inventário de gases de efeito estufa tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 65
+    "pagina": 65,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Atualizar anualmente o inventário de gases de efeito estufa é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-58",
@@ -29480,7 +30656,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de publicar editais do Fundo Municipal de Defesa Ambiental para projetos climáticos tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 66
+    "pagina": 66,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Publicar editais do Fundo Municipal de Defesa Ambiental para projetos climáticos é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-59",
@@ -29497,7 +30687,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de implantar projetos-piloto de soluções baseadas na natureza contra inundações tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 66
+    "pagina": 66,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantar projetos-piloto de soluções baseadas na natureza contra inundações aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-60",
@@ -29514,7 +30718,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de reformar pistas de skate e criar trilhas de mountain bike e trekking nos parques tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 68
+    "pagina": 68,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Reformar pistas de skate e criar trilhas de mountain bike e trekking nos parques aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-61",
@@ -29531,7 +30749,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de conceder espaços de gastronomia e lazer no Parque das Mangabeiras tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 68
+    "pagina": 68,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Conceder espaços de gastronomia e lazer no Parque das Mangabeiras aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-62",
@@ -29548,7 +30780,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de levar a coleta seletiva aos prédios públicos e criar novos pontos verdes tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 69
+    "pagina": 69,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Levar a coleta seletiva aos prédios públicos e criar novos pontos verdes aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-63",
@@ -29565,7 +30811,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de construir novas Unidades de Recebimento de Pequenos Volumes (URPVs) tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 70
+    "pagina": 70,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Construir novas Unidades de Recebimento de Pequenos Volumes (URPVs) aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-64",
@@ -29582,7 +30842,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de implantar coleta porta a porta nas vias viabilizadas das vilas tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 70
+    "pagina": 70,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantar coleta porta a porta nas vias viabilizadas das vilas aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-65",
@@ -29599,7 +30873,21 @@
     "evidencia": "Os estudos do Parque de Integração da Lagoinha começaram após o Plano Diretor de 2019; a licitação do projeto saiu em jul/2022 e as obras ficaram para depois.",
     "fonte_url": "https://prefeitura.pbh.gov.br/politica-urbana/informes-tecnicos/qualificacao-urbana-do-complexo-da-lagoinha",
     "data_evidencia": "2022-07",
-    "pagina": 73
+    "pagina": 73,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O Parque Lagoinha ficou em estudos, com custo pequeno; a obra exigiria investimento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-66",
@@ -29616,7 +30904,21 @@
     "evidencia": "Obras de macrodrenagem (canal do Ribeirão do Onça, Vilarinho) estavam em andamento na renúncia e foram concluídas em parte nas gestões seguintes.",
     "fonte_url": "https://prefeitura.pbh.gov.br/noticias/prefeitura-inicia-terceira-fase-de-obras-de-prevencao-de-enchentes-na-vilarinho",
     "data_evidencia": "2022",
-    "pagina": 74
+    "pagina": 74,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.109",
+      "ano_ref": "2021",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Drenagem e tratamento de fundos de vale (ação 1203), que paga as obras de macrodrenagem: R$ 110,0 milhões em 2020 e R$ 108,6 milhões em 2021; como ficou abaixo de 2020, só o custo de 2021.",
+      "fonte_oficial": "https://dados.pbh.gov.br/dataset/despesas-orcamentarias",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-67",
@@ -29633,7 +30935,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de ampliar o programa Endereço Cidadão tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 75
+    "pagina": 75,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o programa Endereço Cidadão aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-68",
@@ -29650,7 +30966,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de criar a reconversão de edificações para novos usos tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 76
+    "pagina": 76,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar a reconversão de edificações para novos usos é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-69",
@@ -29667,7 +30997,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de criar plataforma digital pública que conecte trabalhadores de territórios vulneráveis a clientes tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 78
+    "pagina": 78,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar plataforma digital pública que conecte trabalhadores de territórios vulneráveis a clientes aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-70",
@@ -29684,7 +31028,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de financiar, licitar e executar as 140 obras pendentes do Orçamento Participativo tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 80
+    "pagina": 80,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Financiar, licitar e executar as 140 obras pendentes do Orçamento Participativo aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-71",
@@ -29701,7 +31059,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de ampliar o Programa de Locação Social tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 83
+    "pagina": 83,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o Programa de Locação Social aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-72",
@@ -29718,7 +31090,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de construir moradias para reassentar famílias removidas por obras do PAC e de fundos de vale tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 83
+    "pagina": 83,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Construir moradias para reassentar famílias removidas por obras do PAC e de fundos de vale aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-73",
@@ -29735,7 +31121,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de iniciar o Programa de Assistência e Assessoria Técnica, com financiamento de materiais tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 83
+    "pagina": 83,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Iniciar o Programa de Assistência e Assessoria Técnica, com financiamento de materiais é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-74",
@@ -29752,7 +31152,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de implementar o Plano de Quitação Voluntária das moradias do OPH tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 84
+    "pagina": 84,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implementar o Plano de Quitação Voluntária das moradias do OPH é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-75",
@@ -29769,7 +31183,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou contratação da urbanização da Vila Cabana; a seleção da empreiteira só abriu em jun/2026.",
     "fonte_url": "https://prefeitura.pbh.gov.br/noticias/aberto-processo-para-contratacao-das-obras-de-urbanizacao-da-vila-cabana-do-pai-tomas",
     "data_evidencia": "2022-03",
-    "pagina": 84
+    "pagina": 84,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Contratar e executar a urbanização da Vila Cabana com o Banco Mundial aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-76",
@@ -29786,7 +31214,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de ampliar a regularização fundiária de loteamentos de interesse social tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 84
+    "pagina": 84,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar a regularização fundiária de loteamentos de interesse social aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-77",
@@ -29803,7 +31245,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de incluir regra de compliance nos contratos do transporte coletivo tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 87
+    "pagina": 87,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Incluir regra de compliance nos contratos do transporte coletivo é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-78",
@@ -29820,7 +31276,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de criar e publicar o Boletim Técnico e Econômico do Transporte Coletivo tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 87
+    "pagina": 87,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar e publicar o Boletim Técnico e Econômico do Transporte Coletivo é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-79",
@@ -29837,7 +31307,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de incluir no app da PBH denúncia em tempo real de assédio no transporte tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 87
+    "pagina": 87,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Incluir no app da PBH denúncia em tempo real de assédio no transporte aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-80",
@@ -29854,7 +31338,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de criar aplicativo de orientação para pessoas com deficiência tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 88
+    "pagina": 88,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar aplicativo de orientação para pessoas com deficiência aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-81",
@@ -29871,7 +31369,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de instalar sinal sonoro em mais semáforos tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 88
+    "pagina": 88,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Instalar sinal sonoro em mais semáforos aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-82",
@@ -29888,7 +31400,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de criar o laboratório de mobilidade MOBLAB tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 88
+    "pagina": 88,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar o laboratório de mobilidade MOBLAB é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-83",
@@ -29905,7 +31431,21 @@
     "evidencia": "Um ônibus 100% elétrico foi testado por 30 dias em quatro linhas a partir de 12/11/2021, em parceria com a Cemig e a BHTrans.",
     "fonte_url": "https://prefeitura.pbh.gov.br/noticias/onibus-eletrico-comeca-ser-testado-em-belo-horizonte-nesta-sexta-feira-dia-12",
     "data_evidencia": "2021-11",
-    "pagina": 88
+    "pagina": 88,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O ônibus elétrico foi testado em parceria com a Cemig e as empresas de ônibus, sem gasto da Prefeitura.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-84",
@@ -29922,7 +31462,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de implantar projeto de calçadas seguras no Centro tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 89
+    "pagina": 89,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantar projeto de calçadas seguras no Centro aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-85",
@@ -29939,7 +31493,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de ampliar ciclovias, bicicletários e bicicletas compartilhadas (Pedala BH) tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 89
+    "pagina": 89,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar ciclovias, bicicletários e bicicletas compartilhadas (Pedala BH) aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-86",
@@ -29956,7 +31524,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de implantar faixas exclusivas de ônibus no Corredor Amazonas e no Barreiro tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 89
+    "pagina": 89,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantar faixas exclusivas de ônibus no Corredor Amazonas e no Barreiro aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-87",
@@ -29973,7 +31555,21 @@
     "evidencia": "A Via 710 (ligação entre José Cândido e dos Andradas), em obras desde 2014 com trechos liberados aos poucos, seguia inacabada na renúncia; o plano de Fuad, em 2024, ainda previa concluí-la.",
     "fonte_url": "https://cmbh.mg.gov.br/print/comunica%C3%A7%C3%A3o/not%C3%ADcias/2020/12/obras-da-710-dificultam-acesso-ao-bairro-s%C3%A3o-paulo",
     "data_evidencia": "2022-03",
-    "pagina": 89
+    "pagina": 89,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.005",
+      "ano_ref": "2021",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "media",
+      "explicacao": "Via 710 (subação 1330.007): R$ 12,3 milhões em 2020 e R$ 5,4 milhões em 2021; como ficou abaixo de 2020, só o custo de 2021.",
+      "fonte_oficial": "https://dados.pbh.gov.br/dataset/despesas-orcamentarias",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-88",
@@ -29990,7 +31586,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de concluir a implantação do sistema integrado de gestão (GRP) tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 91
+    "pagina": 91,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Concluir a implantação do sistema integrado de gestão (GRP) é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-89",
@@ -30007,7 +31617,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de tornar digital a tramitação de documentos e processos em toda a Prefeitura tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 92
+    "pagina": 92,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Tornar digital a tramitação de documentos e processos em toda a Prefeitura é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-90",
@@ -30024,7 +31648,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de adotar o BIM na gestão das obras públicas tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 92
+    "pagina": 92,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Adotar o BIM na gestão das obras públicas é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-91",
@@ -30041,7 +31679,21 @@
     "evidencia": "A Prefeitura lançou o novo Portal de Serviços (BH Digital) com mais de mil serviços, ampliado na pandemia; a data exata do lançamento não foi confirmada.",
     "fonte_url": "https://prefeitura.pbh.gov.br/noticias/prefeitura-lanca-novo-portal-de-servicos-para-facilitar-pedidos-line",
     "data_evidencia": "2021",
-    "pagina": 93
+    "pagina": 93,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O novo portal de serviços usa a estrutura de tecnologia da Prefeitura, sem ação própria no orçamento de 2021.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-92",
@@ -30058,7 +31710,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de adotar login único (o mesmo do Estado e da União) em todos os sistemas da PBH tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 93
+    "pagina": 93,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Adotar login único (o mesmo do Estado e da União) em todos os sistemas da PBH é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-93",
@@ -30075,7 +31741,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de fazer rodadas de seleção de protótipos de startups para testes na Prefeitura tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 94
+    "pagina": 94,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Fazer rodadas de seleção de protótipos de startups para testes na Prefeitura é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2020-94",
@@ -30092,7 +31772,21 @@
     "evidencia": "Busca na imprensa e no site da Prefeitura (jan/2021 a 28/03/2022) não localizou registro de que a promessa de adotar pacote de incentivos para bares e restaurantes no pós-pandemia tenha sido cumprida até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2022-03",
-    "pagina": 99
+    "pagina": 99,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Adotar pacote de incentivos para bares e restaurantes no pós-pandemia é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "kalil_bh_2016-01",
