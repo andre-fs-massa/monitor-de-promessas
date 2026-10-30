@@ -15948,7 +15948,21 @@
     "evidencia": "A Lei 9.385, de 06/05/2026, sancionada pelo prefeito, criou o Programa Educação para Cidadania e para a Sustentabilidade na rede municipal. O projeto de lei foi de autoria de vereador.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/14784/6",
     "data_evidencia": "2026-05",
-    "pagina": 2
+    "pagina": 2,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O programa Educação para Cidadania veio de lei de vereador e tem custo pequeno.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-002",
@@ -15965,7 +15979,21 @@
     "evidencia": "O Super Centro Carioca de Saúde da Zona Oeste (Campo Grande) foi inaugurado em 18/03/2026; o da Zona Norte (Piedade, voltado a crianças e adolescentes) teve a pedra fundamental lançada em set/2026, com entrega prevista para 2027. Não foram localizados os projetos de Realengo e Jacarepaguá.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/14947/1",
     "data_evidencia": "2026-09",
-    "pagina": 3
+    "pagina": 3,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.061",
+      "ano_ref": "2026",
+      "valor_acumulado_rs_bi": "0.061",
+      "periodo_acumulado": "2025-2026",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "media",
+      "explicacao": "O Super Centro Carioca de Saúde da Zona Oeste, inaugurado em mar/2026, custou cerca de R$ 61 milhões, incluindo a compra do imóvel; R$ 50 milhões vieram de economia do orçamento da Câmara Municipal repassada à prefeitura. O da Zona Norte (Câmara destinou R$ 75 milhões) ainda está em obra. Gasto único; o custeio da unidade não está somado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": "https://diariodorio.com/prefeitura-abre-super-centro-carioca-de-saude-da-zona-oeste-com-foco-em-obesidade-e-reabilitacao/"
+    }
   },
   {
     "id": "paes_rio_2024-003",
@@ -15982,7 +16010,21 @@
     "evidencia": "Em set/2024 havia um Centro de Estímulo ao Desenvolvimento no TEA (Oscar Clark). O centro de Irajá, inaugurado em mar/2026, é o oitavo da rede, ou seja, cerca de 7 novos dos 8 prometidos.",
     "fonte_url": "https://diariodorio.com/rio-inaugura-centro-de-reabilitacao-em-iraja-com-foco-em-autismo-e-fisioterapia/",
     "data_evidencia": "2026-03",
-    "pagina": 3
+    "pagina": 3,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "Os novos centros de referência em autismo aumentam a despesa; o valor não foi localizado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-004",
@@ -15999,7 +16041,21 @@
     "evidencia": "O tempo integral chegou a 52,1% das matrículas da rede municipal em 2025 (Acordo de Resultados 2026, meta de 54% para 2026); a meta do plano é mais de 70%.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/14815/7",
     "data_evidencia": "2026-05",
-    "pagina": 4
+    "pagina": 4,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "Ampliar o tempo integral aumenta a despesa com professores e escolas; o valor não foi localizado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-005",
@@ -16016,7 +16072,21 @@
     "evidencia": "A prefeitura criou 2.065 novas vagas em creches em 2025 e fixou a meta de 5.000 para 2026 (Acordo de Resultados 2026), de um total prometido de 13 mil.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/14815/7",
     "data_evidencia": "2026-05",
-    "pagina": 4
+    "pagina": 4,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "As 2.065 vagas de creche criadas em 2025 aumentam a despesa; o valor não foi localizado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-006",
@@ -16033,7 +16103,21 @@
     "evidencia": "A rede tinha 276 GETs em 2025 e 317 em set/2026, com meta de 350 em 2026 e 500 até 2028.",
     "fonte_url": "https://www.correiodamanha.com.br/estado-do-rio/2026/09/317602-paes-pretente-por-no-estado-nova-educacao-tecnologica.html",
     "data_evidencia": "2026-09",
-    "pagina": 4
+    "pagina": 4,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "Os novos Ginásios Educacionais Tecnológicos aumentam a despesa; o valor não foi localizado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-007",
@@ -16050,7 +16134,21 @@
     "evidencia": "124.621 alunos tiveram aulas de lógica de programação em 2025; a meta para 2026 é de 144 mil (Acordo de Resultados 2026), de 200 mil prometidos.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/14815/7",
     "data_evidencia": "2026-05",
-    "pagina": 4
+    "pagina": 4,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "As aulas de programação são dadas na rede, com custo pequeno separado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-008",
@@ -16067,7 +16165,21 @@
     "evidencia": "A razão era de 3,6 alunos por mediador da educação especial em 2025, com meta de 3,4 em 2026 (Acordo de Resultados 2026); a promessa é de 1 para 3. Houve seleções de agentes de apoio em 2025 e 2026.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/14815/7",
     "data_evidencia": "2026-05",
-    "pagina": 4
+    "pagina": 4,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "Os novos agentes de apoio à educação especial aumentam a folha da educação; o valor não foi localizado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-009",
@@ -16084,7 +16196,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2025–2026) em out/2026 não localizou registro de climatização de todas as salas de aula (o Plano Estratégico 2025-2028 prevê climatizar 100% das salas até 2027, sem balanço de execução).",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/7538/252",
     "data_evidencia": "2025-08",
-    "pagina": 4
+    "pagina": 4,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Climatizar todas as salas aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-010",
@@ -16101,7 +16227,21 @@
     "evidencia": "A LC 289/2025 autorizou trocar o BRT por VLT ou VLP na Transcarioca e na Transoeste, mas em jul/2026 o contrato de concessão seguia sem assinatura porque a prefeitura mudou o projeto para VLP (veículo leve sobre pneus), abandonando o sistema sobre trilhos prometido.",
     "fonte_url": "https://agenda.prefeitura.rio/wp-content/uploads/sites/9/2026/08/Reuniao-de-Secretariado-agosto-2026.pdf",
     "data_evidencia": "2026-08",
-    "pagina": 5
+    "pagina": 5,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Trocar o BRT por VLT ou VLP seria feito por concessão, com aportes da prefeitura; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-011",
@@ -16118,7 +16258,21 @@
     "evidencia": "Com a bilhetagem Jaé, a prefeitura criou a integração expressa ônibus-metrô (Resolução SMTR 3.824, abr/2025) e o Sistema de Transporte Unificado Complementar, que integra as vans ao Bilhete Único (Decreto 58.732, set/2026).",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/14960/5",
     "data_evidencia": "2026-09",
-    "pagina": 5
+    "pagina": 5,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "As novas integrações tarifárias com a bilhetagem Jaé tendem a aumentar o subsídio ao transporte; o valor não foi separado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-012",
@@ -16135,7 +16289,21 @@
     "evidencia": "Havia 6 km de motofaixas em 2025 e 19 km em mai/2026, com meta de 80 km em 2026 (Acordo de Resultados 2026); novas motofaixas foram decretadas em ago/2026.",
     "fonte_url": "https://www.correiodamanha.com.br/rio-de-janeiro/2026/05/285697-prefeitura-implementa-mais-de-19-km-de-motofaixas.html",
     "data_evidencia": "2026-05",
-    "pagina": 5
+    "pagina": 5,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A faixa azul para motos é sinalização, com custo pequeno.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-013",
@@ -16152,7 +16320,21 @@
     "evidencia": "A prefeitura e o BNDES preparam uma PPP de 175 ônibus elétricos (R$ 509 mi, operação a partir de 2027); a nova licitação dos ônibus paga mais às viações com frota elétrica; a meta de 2026 é concluir o edital do lote elétrico.",
     "fonte_url": "https://diariodotransporte.com.br/2026/09/24/rio-de-janeiro-e-bndes-preparam-ppp-para-onibus-eletricos-em-projeto-que-envolve-r-13-bilhao-e-renovacao-da-frota-ate-2028/",
     "data_evidencia": "2026-09",
-    "pagina": 5
+    "pagina": 5,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "A PPP de 175 ônibus elétricos (R$ 509 milhões) só começa a operar em 2027.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-014",
@@ -16169,7 +16351,21 @@
     "evidencia": "A plataforma Oportunidades Cariocas reúne a oferta de capacitação de várias secretarias: tinha 1.451 cursos e 78.059 inscrições até ago/2026.",
     "fonte_url": "https://agenda.prefeitura.rio/wp-content/uploads/sites/9/2026/08/Reuniao-de-Secretariado-agosto-2026.pdf",
     "data_evidencia": "2026-08",
-    "pagina": 6
+    "pagina": 6,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A plataforma Oportunidades Cariocas reúne cursos já existentes, com custo pequeno.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-015",
@@ -16186,7 +16382,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2025–2026) em out/2026 não localizou registro de programa de incentivo à formalização com cursos e auxílio financeiro.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 6
+    "pagina": 6,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Um programa de formalização com auxílio financeiro aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-016",
@@ -16203,7 +16413,21 @@
     "evidencia": "O Fundo Municipal de Turismo já existia (Lei 2.929); o Decreto 57.057, de out/2025, criou o Programa de Fomento a Novas Rotas Aéreas Internacionais custeado por esse fundo, que já repassou recursos a companhia aérea em 2026.",
     "fonte_url": "https://www.normasbrasil.com.br/norma/decreto-57057-2025-rio-de-janeiro_485506.html",
     "data_evidencia": "2025-10",
-    "pagina": 6
+    "pagina": 6,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O programa de novas rotas aéreas (Decreto 57.057/2025) é pago pelo Fundo Municipal de Turismo, que já existia; o valor repassado às companhias não foi localizado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-017",
@@ -16220,7 +16444,21 @@
     "evidencia": "A bolsa (Base Exchange) ainda não tinha autorização do Banco Central e da CVM em abr/2026 e prevê começar a operar em 2027; a prefeitura reduziu o ISS do setor de 5% para 2%. O prazo prometido (até 2026) ainda não venceu.",
     "fonte_url": "https://timesbrasil.com.br/investimentos/bolsa/nova-bolsa-de-valores-base-exchange-no-rj-planeja-romper-o-monopolio-veja-entrevista-com-ceo/",
     "data_evidencia": "2026-04",
-    "pagina": 6
+    "pagina": 6,
+    "impacto": {
+      "impacto_fiscal": "receita_reduz",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "A redução do ISS do mercado de capitais de 5% para 2% reduz a receita, mas a bolsa ainda não opera, por isso ainda não há perda de arrecadação.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-018",
@@ -16237,7 +16475,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2025–2026) em out/2026 não localizou registro de ampliação das rondas escolares ou da Guarda Municipal em praças e parques (só ações pontuais, como a Operação Volta às Aulas de mar/2026).",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 7
+    "pagina": 7,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar as rondas da Guarda aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-019",
@@ -16254,7 +16506,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2025–2026) em out/2026 não localizou registro de expansão do programa BRT Seguro (só nomeações para a gerência do programa).",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 7
+    "pagina": 7,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Expandir o BRT Seguro aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-020",
@@ -16271,7 +16537,21 @@
     "evidencia": "A LC 282/2025 criou a Força Municipal, divisão armada da Guarda Municipal; cerca de 600 agentes formados começaram a atuar armados em 15/03/2026.",
     "fonte_url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/guarda-municipal-armada-do-rio-comeca-a-atuar-neste-domingo/",
     "data_evidencia": "2026-03",
-    "pagina": 7
+    "pagina": 7,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.038",
+      "valor_total_rs_bi": "0.216",
+      "ano_ref": "2026",
+      "valor_acumulado_rs_bi": "0.038",
+      "periodo_acumulado": "2025",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Força Municipal, divisão armada da Guarda (LC 282/2025): a prefeitura estimou o impacto orçamentário em R$ 38,2 milhões em 2025, R$ 215,7 milhões em 2026 e R$ 463,2 milhões em 2027, com a formação de novos agentes. É estimativa do governo, não gasto medido.",
+      "fonte_oficial": "",
+      "fonte_comparacao": "https://monitormercantil.com.br/camara-do-rio-aprova-projeto-que-cria-forca-de-seguranca-armada/"
+    }
   },
   {
     "id": "paes_rio_2024-021",
@@ -16288,7 +16568,21 @@
     "evidencia": "O Civitas instalou 4.682 novas câmeras até ago/2026 (meta de 15 mil até 2028) e inaugurou nova sala de monitoramento; não foi localizado balanço da ampliação da iluminação pública.",
     "fonte_url": "https://agenda.prefeitura.rio/wp-content/uploads/sites/9/2026/08/Reuniao-de-Secretariado-agosto-2026.pdf",
     "data_evidencia": "2026-08",
-    "pagina": 7
+    "pagina": 7,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.18",
+      "ano_ref": "2026",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "O orçamento da central de inteligência Civitas subiu de R$ 16 milhões para cerca de R$ 180 milhões por ano, pago por aditivo à PPP de iluminação Smart Luz, com a nova sede inaugurada em jan/2026; a expansão para 20 mil câmeras até 2028 está estimada em R$ 600 milhões. Não há valor de 2025 separado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": "https://governodigital.prefeitura.rio/noticia/prefeitura-inaugura-nova-sede-da-civitas-e-triplica-capacidade-operacional-da-central-de-inteligencia-com-orcamento-anual-de-r-180-milhoes/"
+    }
   },
   {
     "id": "paes_rio_2024-022",
@@ -16305,7 +16599,21 @@
     "evidencia": "Há concessões e PPPs em preparação no mandato (PPP de ônibus elétricos de R$ 509 mi, nova licitação dos ônibus), mas não foi localizado balanço do investimento privado atraído.",
     "fonte_url": "https://diariodotransporte.com.br/2026/09/24/rio-de-janeiro-e-bndes-preparam-ppp-para-onibus-eletricos-em-projeto-que-envolve-r-13-bilhao-e-renovacao-da-frota-ate-2028/",
     "data_evidencia": "2026-09",
-    "pagina": 8
+    "pagina": 8,
+    "impacto": {
+      "impacto_fiscal": "fora_do_orcamento",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Atrair investimento privado por concessões e PPPs passa o investimento às concessionárias.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-023",
@@ -16322,7 +16630,21 @@
     "evidencia": "27% dos serviços mais pedidos estavam no WhatsApp em jul/2026 (meta de 100% em 2028); não foi localizada ampliação do Wi-Fi público.",
     "fonte_url": "https://agenda.prefeitura.rio/wp-content/uploads/sites/9/2026/08/Reuniao-de-Secretariado-agosto-2026.pdf",
     "data_evidencia": "2026-08",
-    "pagina": 8
+    "pagina": 8,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O atendimento por WhatsApp tem custo pequeno.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-024",
@@ -16339,7 +16661,21 @@
     "evidencia": "A prefeitura conquistou o Selo Diamante do Programa Nacional de Transparência Pública em dez/2025 (o primeiro foi em 2024, antes do mandato).",
     "fonte_url": "https://en.prefeitura.rio/cidade/rio-alcanca-selo-diamante-no-programa-nacional-de-transparencia-publica-pelo-segundo-ano-consecutivo/",
     "data_evidencia": "2025-12",
-    "pagina": 8
+    "pagina": 8,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Conquistar o selo de transparência é medida de gestão.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-025",
@@ -16356,7 +16692,21 @@
     "evidencia": "A dragagem começou em nov/2025 e as obras da 1ª fase de controle de enchentes do Rio Acari, em set/2026, com previsão até 2027.",
     "fonte_url": "https://diariodorio.com/rio-de-janeiro/2026/09/12/prefeitura-do-rio-inicia-obras-contra-enchentes-no-rio-acari-primeira-fase-vai-ate-2027.html",
     "data_evidencia": "2026-09",
-    "pagina": 9
+    "pagina": 9,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.43",
+      "ano_ref": "2026",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "media",
+      "explicacao": "As obras de controle de enchentes do Rio Acari começaram em set/2026, com investimento previsto de R$ 430 milhões (obras e manutenção), financiado em grande parte por empréstimo da Caixa com garantia da União (R$ 350 milhões). Em 2025 houve só a dragagem, de R$ 9 milhões a R$ 14 milhões, sem valor separado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": "https://tribunadosertao.com.br/rj-em-foco/2026/09/12/977798-prefeitura-inicia-obras-contra-enchentes-no-rio-acari-projeto-de-r-430-milhoes-preve-beneficiar-80-mil-pessoas"
+    }
   },
   {
     "id": "paes_rio_2024-026",
@@ -16373,7 +16723,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2025–2026) em out/2026 não localizou registro de programa de moradias para reassentar populações ribeirinhas.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 9
+    "pagina": 9,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Reassentar ribeirinhos aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-027",
@@ -16390,7 +16754,21 @@
     "evidencia": "Em jul/2026 a cidade seguia com 165 sirenes em 103 comunidades, o mesmo sistema de antes do mandato; o Plano Estratégico prevê sirenes em novas áreas só para 2028.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/14871/1",
     "data_evidencia": "2026-07",
-    "pagina": 9
+    "pagina": 9,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar as sirenes aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-028",
@@ -16407,7 +16785,21 @@
     "evidencia": "As obras de macrodrenagem do Jardim Maravilha pelo Novo PAC (R$ 340 mi, prazo de 3 anos) começaram em jun/2026.",
     "fonte_url": "https://www.tribunadosertao.com.br/rj-em-foco/2026/06/22/926515-evento-com-lula-marca-formalizacao-de-obras-do-novo-pac-anunciadas-para-o-rio-desde-o-ano-passado",
     "data_evidencia": "2026-06",
-    "pagina": 9
+    "pagina": 9,
+    "impacto": {
+      "impacto_fiscal": "fora_do_orcamento",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "As obras do Jardim Maravilha (R$ 340 milhões) são do Novo PAC, pagas sobretudo pela União, e começaram em jun/2026.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-029",
@@ -16424,7 +16816,21 @@
     "evidencia": "Não há projeto com o nome ZN Verde, mas o programa Planta+Rio (dez/2025) prevê produzir 90 mil mudas e plantar 80 mil até 2028, com prioridade para a Zona Norte, e os plantios começaram em Ramos.",
     "fonte_url": "https://ambienteclima.prefeitura.rio/wp-content/uploads/sites/81/2025/12/caderno_tecnico_planta_mais_rio.pdf",
     "data_evidencia": "2025-12",
-    "pagina": 9
+    "pagina": 9,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O Planta+Rio (90 mil mudas até 2028) tem custo pequeno; o valor não foi localizado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-030",
@@ -16441,7 +16847,21 @@
     "evidencia": "Em out/2025 a prefeitura lançou o Cartão Primeira Infância Carioca (R$ 200 por mês), mas para crianças de 0 a 4 anos, e não de 0 a 6; atendia mais de 32 mil famílias em set/2026.",
     "fonte_url": "https://www.correiodamanha.com.br/rio-de-janeiro/2026/09/321937-cartao-da-primeira-infancia-carioca-amplia-beneficio-para-mais-de-32-mil-familias.html",
     "data_evidencia": "2026-09",
-    "pagina": 10
+    "pagina": 10,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.077",
+      "valor_total_rs_bi": "0.077",
+      "ano_ref": "2026",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Cartão Primeira Infância Carioca (out/2025): R$ 200 por mês para mais de 32 mil famílias em set/2026, ou cerca de R$ 77 milhões por ano (cálculo a partir dos números divulgados pela prefeitura); em 2025 foram só três meses.",
+      "fonte_oficial": "",
+      "fonte_comparacao": "https://www.correiodamanha.com.br/rio-de-janeiro/2026/09/321937-cartao-da-primeira-infancia-carioca-amplia-beneficio-para-mais-de-32-mil-familias.html"
+    }
   },
   {
     "id": "paes_rio_2024-031",
@@ -16458,7 +16878,21 @@
     "evidencia": "As cozinhas comunitárias do Prato Feito Carioca passaram a 75 em jun/2026 (meta de 100 até 2028); não foi localizada a criação do Restaurante Popular Carioca (a cidade segue com 3 restaurantes populares).",
     "fonte_url": "https://agenda.prefeitura.rio/wp-content/uploads/sites/9/2026/08/Reuniao-de-Secretariado-agosto-2026.pdf",
     "data_evidencia": "2026-08",
-    "pagina": 10
+    "pagina": 10,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "As novas cozinhas comunitárias do Prato Feito Carioca aumentam a despesa; o valor não foi localizado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-032",
@@ -16475,7 +16909,21 @@
     "evidencia": "Segundo a própria prefeitura, 9.950 pessoas em situação de rua foram acolhidas nas unidades de acolhimento em 2025 (Acordo de Resultados 2026), acima das 7 mil prometidas.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/14815/13",
     "data_evidencia": "2026-05",
-    "pagina": 10
+    "pagina": 10,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O acolhimento da população de rua é pago pelas ações gerais de assistência social; o valor não foi separado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-033",
@@ -16492,7 +16940,21 @@
     "evidencia": "Novas frentes do Morar Carioca começaram em 2025 e 2026 (Morro do Queto, Vila Nova Canaã, Praça Seca, Maré) e o Bairro Maravilha requalificou 38,8 km de vias em 2025, com meta de 88,8 km até 2026.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/14815/12",
     "data_evidencia": "2026-05",
-    "pagina": 11
+    "pagina": 11,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "As novas frentes do Morar Carioca e do Bairro Maravilha aumentam o investimento; o valor não foi localizado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-034",
@@ -16509,7 +16971,21 @@
     "evidencia": "O Casa Carioca segue com orçamento (crédito suplementar em set/2026), mas não foi localizado o número de moradias reformadas no mandato.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/14967/3",
     "data_evidencia": "2026-09",
-    "pagina": 11
+    "pagina": 11,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O Casa Carioca teve crédito suplementar em set/2026; o valor gasto não foi localizado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-035",
@@ -16526,7 +17002,21 @@
     "evidencia": "O programa HUB Favela Empreendedora foi criado pelo Decreto 55.602, de 01/01/2025, e recebeu projetos por chamamento público em 2025 e 2026.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/13903/43",
     "data_evidencia": "2026-02",
-    "pagina": 11
+    "pagina": 11,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O HUB Favela Empreendedora apoia projetos por chamamento, com custo pequeno.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-036",
@@ -16543,7 +17033,21 @@
     "evidencia": "A Rede Empreendedora Carioca, da Secretaria da Mulher, abriu nova edição de capacitação em 2026 e tem metas de feiras e formalização para 2026; não foi localizado balanço da ampliação.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/14779/1",
     "data_evidencia": "2026-05",
-    "pagina": 12
+    "pagina": 12,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A capacitação para o empreendedorismo feminino tem custo pequeno.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-037",
@@ -16560,7 +17064,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2025–2026) em out/2026 não localizou registro de ampliação do cadastro de mulheres chefes de família, mães e grávidas no Cartão Carioca.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 12
+    "pagina": 12,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Incluir mais famílias no Cartão Carioca aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-038",
@@ -16577,7 +17095,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2025–2026) em out/2026 não localizou registro de ampliação da Ronda Maria da Penha (só a meta de botão de pânico no sistema da Ronda em 2026).",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/14855/11",
     "data_evidencia": "2026-07",
-    "pagina": 12
+    "pagina": 12,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar a Ronda Maria da Penha aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-039",
@@ -16594,7 +17126,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2025–2026) em out/2026 não localizou registro de capacitação de pessoas com deficiência e familiares no mandato (o PPA 2026-2029 prevê 17.500 capacitados, sem execução informada).",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/13868/28",
     "data_evidencia": "2026-01",
-    "pagina": 13
+    "pagina": 13,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Capacitar pessoas com deficiência aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-040",
@@ -16611,7 +17157,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2025–2026) em out/2026 não localizou registro de transporte de pessoas com deficiência para consultas, exames e cirurgias.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 13
+    "pagina": 13,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Transporte para pessoas com deficiência aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-041",
@@ -16628,7 +17188,21 @@
     "evidencia": "O Pacto pela Juventude formou 2.160 jovens líderes em 2025, abaixo dos 3 mil por ano prometidos; a meta para 2026 é de 6 mil acumulados.",
     "fonte_url": "https://juv.prefeitura.rio/wp-content/uploads/sites/20/2026/04/Art.-2o-inciso-IV-Anexo-4_-Relatorio-anual-da-gestao_2025.docx.pdf",
     "data_evidencia": "2026-04",
-    "pagina": 14
+    "pagina": 14,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "A formação de jovens no Pacto pela Juventude tem custo pequeno; o valor não foi localizado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-042",
@@ -16645,7 +17219,21 @@
     "evidencia": "Havia 7 Espaços da Juventude em 2025 (meta de 20) e Casas da Juventude só em duas áreas de planejamento (Centro e Pavuna).",
     "fonte_url": "https://juv.prefeitura.rio/wp-content/uploads/sites/20/2026/04/Art.-2o-inciso-IV-Anexo-4_-Relatorio-anual-da-gestao_2025.docx.pdf",
     "data_evidencia": "2026-04",
-    "pagina": 14
+    "pagina": 14,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "Os Espaços e Casas da Juventude aumentam a despesa; o valor não foi localizado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-043",
@@ -16662,7 +17250,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2025–2026) em out/2026 não localizou registro de atendimento a jovens no programa Rio Vestibular.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 14
+    "pagina": 14,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Atender jovens no Rio Vestibular aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-044",
@@ -16679,7 +17281,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2025–2026) em out/2026 não localizou registro de ampliação do Jaé Cultural (só a menção no Plano Estratégico 2025-2028).",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o Jaé Cultural aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-045",
@@ -16696,7 +17312,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2025–2026) em out/2026 não localizou registro de expansão do programa Oficina Cultural Carioca (há oficinas culturais apoiadas por editais de fomento de 2026, mas não identificadas como o programa).",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Expandir o Oficina Cultural Carioca aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-046",
@@ -16713,7 +17343,21 @@
     "evidencia": "O Museu Olímpico foi inaugurado no Velódromo em ago/2025 (fechado depois de incêndio em abr/2026, com obras até nov/2026); as obras do Parque Imagine, legado olímpico, estão previstas para começar até dez/2026.",
     "fonte_url": "https://agenda.prefeitura.rio/wp-content/uploads/sites/9/2026/08/Reuniao-de-Secretariado-agosto-2026.pdf",
     "data_evidencia": "2026-08",
-    "pagina": 16
+    "pagina": 16,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O Museu Olímpico funciona no Velódromo, já existente; o valor das obras do Parque do Legado não foi localizado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2024-047",
@@ -16730,7 +17374,21 @@
     "evidencia": "Em jul/2026 a Vila Olímpica do Parque Oeste estava com 96,8% das obras (inauguração prevista para dez/2026), Rio das Pedras com 8% e Sepetiba com 21%; a da Cidade de Deus ainda não tinha terreno.",
     "fonte_url": "https://agenda.prefeitura.rio/wp-content/uploads/sites/9/2026/08/Reuniao-de-Secretariado-agosto-2026.pdf",
     "data_evidencia": "2026-08",
-    "pagina": 16
+    "pagina": 16,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.22",
+      "ano_ref": "2026",
+      "valor_acumulado_rs_bi": "0.22",
+      "periodo_acumulado": "2025-2026",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "baixa",
+      "explicacao": "O complexo do Parque Oeste Ana Gonzaga, com a Vila Olímpica, recebeu investimento total de R$ 220 milhões, com obras concluídas em out/2026; inclui o parque, não só a vila. Os valores das vilas de Rio das Pedras e Sepetiba, em obra, não foram localizados.",
+      "fonte_oficial": "",
+      "fonte_comparacao": "https://www.correiodamanha.com.br/rio-de-janeiro/2026/10/326462-prefeitura-conclui-obras-do-parque-oeste-ana-gonzaga-em-inhoaiba.html"
+    }
   },
   {
     "id": "paes_rio_2024-048",
@@ -16747,7 +17405,21 @@
     "evidencia": "O Time Rio apoiava 66 atletas em jul/2026, contra 63 na base de 2024; a meta do Plano Estratégico é ampliar em 10% até 2028.",
     "fonte_url": "https://agenda.prefeitura.rio/wp-content/uploads/sites/9/2026/08/Reuniao-de-Secretariado-agosto-2026.pdf",
     "data_evidencia": "2026-08",
-    "pagina": 16
+    "pagina": 16,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Apoiar três atletas a mais no Time Rio tem custo pequeno.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2020-001",
@@ -16764,7 +17436,21 @@
     "evidencia": "O BRT Transbrasil foi concluído e o eixo da Avenida Brasil atraiu 15 investimentos privados até 2024, acima da meta de 10 do Plano Estratégico 2021-2024 (balanço da própria prefeitura).",
     "fonte_url": "https://transparencia.prefeitura.rio/wp-content/uploads/sites/100/2023/07/Balanco-de-Entregas-2021-2024.pdf",
     "data_evidencia": "2024-12",
-    "pagina": 1
+    "pagina": 1,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.2",
+      "ano_ref": "2023",
+      "valor_acumulado_rs_bi": "0.2",
+      "periodo_acumulado": "2021-2024",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "baixa",
+      "explicacao": "A revitalização do eixo da Avenida Brasil teve como principal obra a conclusão do BRT TransBrasil, retomada em ago/2021 e inaugurada em fev/2024. Em 2023 a prefeitura liberou R$ 164 milhões de recursos próprios para cobrir o orçamento da obra, além de R$ 36 milhões destinados no início do ano; o restante foi financiado pela Caixa e pelo BNDES. Os portais de transparência do Rio não puderam ser consultados.",
+      "fonte_oficial": "",
+      "fonte_comparacao": "https://diariodotransporte.com.br/2023/10/17/eduardo-paes-libera-r-164-milhoes-para-cobrir-orcamento-das-obras-do-corredor-brt-transbrasil/"
+    }
   },
   {
     "id": "paes_rio_2020-002",
@@ -16781,7 +17467,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2021–2024) em out/2026 não localizou registro de convênios com o Ministério Público, o Tribunal de Contas ou a Transparência Internacional. A prefeitura criou o Programa Carioca de Integridade Pública (Decreto 48.349/2021) e a Controladoria assinou acordo com a CGU em 2023, que não são os convênios prometidos.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 1
+    "pagina": 1,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Convênios de ética e transparência têm custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2020-003",
@@ -16798,7 +17498,21 @@
     "evidencia": "A prefeitura passou a publicar decretos anuais com o calendário de pagamento dos servidores e quitou, de forma escalonada até 2022, o 13º salário de 2020 deixado em atraso pela gestão anterior.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/5975/3",
     "data_evidencia": "2023-08",
-    "pagina": 2
+    "pagina": 2,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Pagar os salários em dia muda o calendário de pagamento; quitar o 13º de 2020 em atraso foi pagamento de dívida já existente, sem despesa nova.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2020-004",
@@ -16815,7 +17529,21 @@
     "evidencia": "O Decreto 48.798, de abr/2021, retomou o Programa de Acordos de Resultados; de 2022 a 2024, 99% dos servidores participaram do programa (balanço da própria prefeitura).",
     "fonte_url": "https://fazenda.prefeitura.rio/wp-content/uploads/sites/12/2022/10/1.Dec-48798_2021-AR2021.pdf",
     "data_evidencia": "2021-04",
-    "pagina": 2
+    "pagina": 2,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O Acordo de Resultados paga bônus de até uma remuneração aos servidores que cumprem as metas; o valor pago de 2021 a 2024 não foi localizado (o ciclo de 2025, pago em 2026, custou mais de R$ 270 milhões).",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2020-005",
@@ -16832,7 +17560,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2021–2024) em out/2026 não localizou registro de ampliação dos recursos ou reajuste do Cartão Família Carioca; houve só um pagamento emergencial extra em 2021 (Auxílio Carioca, média de R$ 240 por família).",
     "fonte_url": "https://agenciabrasil.ebc.com.br/economia/noticia/2021-03/covid-19-cidade-do-rio-tera-auxilio-para-900-mil-pessoas",
     "data_evidencia": "2021-03",
-    "pagina": 2
+    "pagina": 2,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o Cartão Família Carioca aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2020-006",
@@ -16849,7 +17591,21 @@
     "evidencia": "A prefeitura seguiu com os mesmos 3 restaurantes populares (Bangu, Campo Grande e Bonsucesso) e não abriu farmácias populares; a expansão do combate à fome foi feita por cozinhas comunitárias.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/6753/67",
     "data_evidencia": "2024-09",
-    "pagina": 2
+    "pagina": 2,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Abrir restaurantes e farmácias populares aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2020-007",
@@ -16866,7 +17622,21 @@
     "evidencia": "O plano dos 100 dias previu a retomada das frentes de trabalho nas comunidades (Guardiões dos Rios, Agentes Comunitários de Saúde, Garis Comunitários), e o número de trabalhadores comunitários em favelas cresceu 96% até 2024 (meta de 30%, balanço da própria prefeitura).",
     "fonte_url": "https://transparencia.prefeitura.rio/wp-content/uploads/sites/100/2023/07/Balanco-de-Entregas-2021-2024.pdf",
     "data_evidencia": "2024-12",
-    "pagina": 2
+    "pagina": 2,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "As frentes de trabalho (Guardiões dos Rios, Garis e Agentes Comunitários) aumentam a despesa com bolsas e contratos; o valor não foi localizado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2020-008",
@@ -16883,7 +17653,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2021–2024) em out/2026 não localizou registro de programa de conscientização para a cidadania nas escolas e espaços públicos no mandato (a promessa foi repetida no plano de 2024 e o programa só foi criado por lei em 2026).",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 2
+    "pagina": 2,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Um programa de conscientização teria custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2020-009",
@@ -16900,7 +17684,21 @@
     "evidencia": "O Decreto 48.393, de 01/01/2021, instituiu o Plano de Ações para os 100 primeiros dias, com 25 ações (preparar as Clínicas da Família para a vacinação, planejar a volta às aulas, Plano BRT com Dignidade); a prefeitura fez a intervenção no BRT em mar/2021.",
     "fonte_url": "https://doweb.rio.rj.gov.br/apifront/portal/edicoes/imprimir_materia/703152/4791",
     "data_evidencia": "2021-01",
-    "pagina": 2
+    "pagina": 2,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O plano de 100 dias organizou ações de gestão (vacinação, volta às aulas, Plano BRT), cujo custo está nas ações gerais de cada área.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-001",
