@@ -23433,7 +23433,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou implantação do prontuário eletrônico nas unidades até a renúncia; ele entrou no Programa de Metas (meta de 100% das UBS até 2020), e em 2020 funcionava em 103 UBS.",
     "fonte_url": "https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/governo/arquivos/programa_de_metas/2017-2020%20-%20Programa%20de%20Metas%20-%20Vers%C3%A3o%20Final%20(Participativa).pdf",
     "data_evidencia": "2018-04",
-    "pagina": 6
+    "pagina": 6,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantar o prontuário eletrônico integrando todas as unidades de saúde, inclusive as de OS aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-02",
@@ -23450,7 +23464,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou ampliação da telemedicina ou do monitoramento a distância de idosos.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 6
+    "pagina": 6,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o uso da telemedicina e monitorar a distância idosos com risco de agravamento aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-03",
@@ -23467,7 +23495,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou implantação de unidades móveis de saúde.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 7
+    "pagina": 7,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantar unidades móveis de saúde nas periferias aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-04",
@@ -23484,7 +23526,21 @@
     "evidencia": "O aplicativo Agenda Fácil (out/2017) chegou a todas as 459 UBS em mar/2018, mas serve para marcar e cancelar consultas e exames, não para orientar sobre o serviço mais adequado.",
     "fonte_url": "https://prefeitura.sp.gov.br/w/noticia/agenda-facil-chega-a-todas-as-ubs-da-cidade-e-permite-marcar-consultas-pelo-celular",
     "data_evidencia": "2018-03",
-    "pagina": 7
+    "pagina": 7,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O Agenda Fácil (app de marcação de consultas) usa a estrutura de tecnologia da saúde, com custo pequeno e sem ação própria.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-05",
@@ -23501,7 +23557,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou criação da agência regulatória de convênios das vagas de 0 a 3 anos.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 8
+    "pagina": 8,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar a agência regulatória de convênios das vagas de 0 a 3 anos é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-06",
@@ -23518,7 +23588,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou programa específico de habilidades socioemocionais; o Currículo da Cidade (dez/2017) passou a tratar dessas competências dentro das disciplinas.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 8
+    "pagina": 8,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar programas de habilidades socioemocionais para os alunos da rede municipal aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-07",
@@ -23535,7 +23619,21 @@
     "evidencia": "O Programa São Paulo Integral passou de 71 escolas em 2016 para 102 em 2018.",
     "fonte_url": "https://prefeitura.sp.gov.br/w/noticia/educacao-integral-cresce-43-em-sao-paulo",
     "data_evidencia": "2018",
-    "pagina": 8
+    "pagina": 8,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.01",
+      "ano_ref": "2017",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Ações de Educação Integral (atividade 4303): R$ 13,5 milhões em 2016 e R$ 9,8 milhões em 2017. Subestima o custo, porque os professores das escolas integrais são pagos pelas ações gerais de remuneração.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-08",
@@ -23552,7 +23650,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou criação do Centro de Apoio e Inovação para professores.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 8
+    "pagina": 8,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar o Centro de Apoio e Inovação para professores e equipes escolares aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-09",
@@ -23569,7 +23681,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou criação do Centro Regional de Atendimento a Crianças e Adolescentes.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 10
+    "pagina": 10,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar Centro Regional de Atendimento a Crianças e Adolescentes vítimas de violação de direitos aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-10",
@@ -23586,7 +23712,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou criação do Centro de Apoio e Valorização da Família.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 10
+    "pagina": 10,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar o Centro de Apoio e Valorização da Família aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-11",
@@ -23603,7 +23743,21 @@
     "evidencia": "Em mai/2017 a Prefeitura lançou o Programa Redenção (com outro nome), de prevenção, tratamento e reinserção de usuários de drogas, em parceria com o Recomeço estadual, e o incluiu no Programa de Metas.",
     "fonte_url": "https://istoedinheiro.com.br/doria-inclui-acao-anticrack-no-plano-de-metas",
     "data_evidencia": "2017-07",
-    "pagina": 11
+    "pagina": 11,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O Programa Redenção é pago por ações gerais de saúde e assistência social; a ação própria de álcool e drogas teve menos de R$ 1 milhão por ano, sem valor separado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-12",
@@ -23620,7 +23774,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou abertura de unidades do Bom Prato (programa estadual) na capital por iniciativa da Prefeitura.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 11
+    "pagina": 11,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantar unidades do Bom Prato nos distritos mais vulneráveis aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-13",
@@ -23637,7 +23805,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou unificação do cadastro dos beneficiários de transferência de renda; o cadastro único criado em 2017 (CENTS) é de entidades parceiras.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 11
+    "pagina": 11,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Unificar o cadastro dos beneficiários dos programas de transferência de renda e da assistência é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-14",
@@ -23654,7 +23836,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou centros de informação ao imigrante em rodoviárias, aeroportos ou estações; houve só o projeto Portas Abertas, de português para imigrantes (ago/2017).",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 11
+    "pagina": 11,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantar centros de informação ao imigrante e refugiado em rodoviárias, aeroportos e estações aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-15",
@@ -23671,7 +23867,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou transformação dos Centros de Convivência de Idosos em Centros de Sabedoria e Conhecimento.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 12
+    "pagina": 12,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Transformar os Centros de Convivência de Idosos em Centros de Sabedoria e Conhecimento aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-16",
@@ -23688,7 +23898,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou ampliação do Programa de Assistência Domiciliar ao Idoso.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 12
+    "pagina": 12,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o Programa de Assistência Domiciliar ao Idoso aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-17",
@@ -23705,7 +23929,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou ampliação do Programa Acompanhante de Idosos até a renúncia; o programa entrou no Programa de Metas.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 12
+    "pagina": 12,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o Programa Acompanhante de Idosos aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-18",
@@ -23722,7 +23960,21 @@
     "evidencia": "Doria inaugurou em 02/04/2018 a UBS/URSI Conjunto AE Carvalho, em Itaquera, planejada como nova Unidade de Referência à Saúde do Idoso.",
     "fonte_url": "https://prefeitura.sp.gov.br/w/noticia/zona-leste-recebe-equipamento-de-saude-e-de-atendimento-aos-idosos",
     "data_evidencia": "2018-04",
-    "pagina": 12
+    "pagina": 12,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "A nova Unidade de Referência à Saúde do Idoso, inaugurada em abr/2018, é paga pela manutenção geral da atenção básica, fora do ano completo (2017).",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-19",
@@ -23739,7 +23991,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou plano municipal de ações afirmativas até a renúncia; o Plano Municipal de Promoção da Igualdade Racial só foi instituído em nov/2018 (Decreto 58.526), já na gestão Covas.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 14
+    "pagina": 14,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantar o Plano Municipal de Ações Afirmativas e Combate ao Racismo é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-20",
@@ -23756,7 +24022,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou ampliação dos Centros de Referência de Promoção da Igualdade Racial até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 14
+    "pagina": 14,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar os Centros de Referência de Combate ao Racismo aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-21",
@@ -23773,7 +24053,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou implantação do Programa Via Rápida Zumbi dos Palmares.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 14
+    "pagina": 14,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantar o Programa Via Rápida Zumbi dos Palmares de trabalho e empreendedorismo afro-brasileiro aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-22",
@@ -23790,7 +24084,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou criação de grupo de trabalho intersetorial contra a intolerância religiosa.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 14
+    "pagina": 14,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar grupo de trabalho intersetorial de combate à intolerância religiosa é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-23",
@@ -23807,7 +24115,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou criação de fundo municipal para a comunidade negra.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 14
+    "pagina": 14,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar fundo municipal de políticas para a comunidade negra e núcleos de combate ao racismo nas prefeituras regionais aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-24",
@@ -23824,7 +24146,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou criação de conselho de participação e desenvolvimento da comunidade negra.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar conselho de participação e desenvolvimento da comunidade negra é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-25",
@@ -23841,7 +24177,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou fórum da comunidade negra ou premiação de destaques.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Instituir fórum da comunidade negra e premiação de destaques é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-26",
@@ -23858,7 +24208,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou criação de um Centro Cultural Afro.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar o Centro Cultural Afro aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-27",
@@ -23875,7 +24239,21 @@
     "evidencia": "Em 2017 o Transcidadania foi descentralizado para os centros de cidadania LGBT, mas teve as vagas reduzidas de 200 para 100, segundo ativistas; a ampliação só veio em 2020.",
     "fonte_url": "https://www.brasildefato.com.br/2017/06/28/ativistas-denunciam-corte-em-programas-destinados-a-pessoas-trans-na-gestao-doria",
     "data_evidencia": "2017-06",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o Programa Transcidadania aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-28",
@@ -23892,7 +24270,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou ampliação dos Centros de Cidadania LGBT até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o Centro de Referência LGBT aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-29",
@@ -23909,7 +24301,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou criação do Fórum Ecumênico Municipal; um fórum inter-religioso foi proposto por vereador em 2017 (PL 325/2017).",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar o Fórum Ecumênico Municipal é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-30",
@@ -23926,7 +24332,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou criação de uma rede única de serviços para a mulher.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 16
+    "pagina": 16,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar uma Rede Única de Serviços para a mulher aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-31",
@@ -23943,7 +24363,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou aulas de educação financeira nas escolas ou CEUs.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 16
+    "pagina": 16,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Oferecer aulas de educação financeira e vida prática aos jovens nas escolas ou CEUs nos fins de semana aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-32",
@@ -23960,7 +24394,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou criação da Virada Hackathon Jovens Empreendedores.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 16
+    "pagina": 16,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar a Virada Hackathon Jovens Empreendedores aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-33",
@@ -23977,7 +24425,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou museu da cidade na Casa das Retortas (imóvel do Estado).",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 17
+    "pagina": 17,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantar na Casa das Retortas o Museu da História da Cidade de São Paulo aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-34",
@@ -23994,7 +24456,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou criação do Centro da Memória da Dramaturgia Brasileira.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 17
+    "pagina": 17,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar o Centro da Memória da Dramaturgia Brasileira aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-35",
@@ -24011,7 +24487,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou criação do prêmio São Paulo Amiga da Leitura.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 18
+    "pagina": 18,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar o prêmio São Paulo Amiga da Leitura aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-36",
@@ -24028,7 +24518,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou reativação ou aumento dos ônibus-biblioteca.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 18
+    "pagina": 18,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Reativar e aumentar os ônibus-biblioteca aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-37",
@@ -24045,7 +24549,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou criação de conselhos de cultura nas Prefeituras Regionais.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 18
+    "pagina": 18,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar Conselhos de Cultura nas Prefeituras Regionais é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-38",
@@ -24062,7 +24580,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou elaboração de novo Plano Municipal de Esporte.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 19
+    "pagina": 19,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Elaborar novo Plano Municipal de Esporte é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-39",
@@ -24079,7 +24611,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou criação de Núcleos de Desenvolvimento Regional.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 21
+    "pagina": 21,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar Núcleos de Desenvolvimento Regional aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-40",
@@ -24096,7 +24642,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou unidades do Empreenda SP nas Prefeituras Regionais; o Empreenda Fácil é o sistema eletrônico de abertura de empresas.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 25
+    "pagina": 25,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar o Empreenda SP em cada Prefeitura Regional aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-41",
@@ -24113,7 +24673,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou aprovação de lei municipal de inovação.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 21
+    "pagina": 21,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Aprovar a Lei Municipal de Inovação é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-42",
@@ -24130,7 +24704,21 @@
     "evidencia": "O Decreto 57.576, de 01/01/2017, transformou as subprefeituras em Prefeituras Regionais (a Lei 16.974/2018, já na gestão Covas, voltou ao nome antigo).",
     "fonte_url": "https://www.prefeitura.sp.gov.br/cidade/secretarias/upload/direitos_humanos/participacao_social/COMTRAE/LEGISLACAO/Decreto%2057_576%202017%20-%20Funcionamento%20Adm_%20Publica.pdf",
     "data_evidencia": "2017-01",
-    "pagina": 21
+    "pagina": 21,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Mudar o nome e as atribuições das subprefeituras é reorganização administrativa.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-43",
@@ -24147,7 +24735,21 @@
     "evidencia": "A primeira unidade do Descomplica SP, praça de atendimento no padrão Poupatempo, abriu em São Miguel Paulista em mar/2018; as demais vieram depois da renúncia.",
     "fonte_url": "https://legislacao.prefeitura.sp.gov.br/leis/portaria-conjunta-1-de-2-de-fevereiro-de-2018",
     "data_evidencia": "2018-03",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "A primeira unidade do Descomplica SP abriu em mar/2018 (projeto 1358: R$ 5,8 milhões em 2018), fora do ano completo do mandato (2017).",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-44",
@@ -24164,7 +24766,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou implantação de um Centro de Operações Integrado; o Programa de Metas previa implantá-lo até 2020.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar um Centro de Operações Integrado para o Município aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-45",
@@ -24181,7 +24797,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou centro de controle da mobilidade integrando CET e SPTrans.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantar um Centro de Controle e Operação da Mobilidade integrando CET e SPTrans aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-46",
@@ -24198,7 +24828,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou integração da central da GCM ao COPOM da Polícia Militar.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Integrar a central da GCM (CETEL) ao COPOM da Polícia Militar é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-47",
@@ -24215,7 +24859,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou wi-fi com soluções pedagógicas nas EMEFs; a lei do Wi-Fi Livre Sampa (Lei 16.685/2017) foi sancionada com veto à parte que obrigava o sinal nos prédios públicos.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Levar wi-fi com soluções pedagógicas às EMEFs, aberto às comunidades vizinhas aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-48",
@@ -24232,7 +24890,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou modernização das Centrais de Tráfego em Área.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 23
+    "pagina": 23,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Modernizar as cinco Centrais de Tráfego em Área aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-49",
@@ -24249,7 +24921,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou criação de observatório de ideias para talentos criativos.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 23
+    "pagina": 23,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar observatório de ideias para atrair talentos criativos, instalado nos bairros é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-50",
@@ -24266,7 +24952,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou polo criativo de tecnologia na Fábrica do Samba; em 2017 o imóvel foi cedido à liga das escolas de samba (Decreto 57.948/2017).",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 24
+    "pagina": 24,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Instalar um polo criativo na Fábrica do Samba aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-51",
@@ -24283,7 +24983,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou polo de capacitação em audiovisual em parceria com a iniciativa privada.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 24
+    "pagina": 24,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar polo de capacitação em audiovisual (animação e publicidade) com a iniciativa privada aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-52",
@@ -24300,7 +25014,21 @@
     "evidencia": "O Empreenda Fácil, sistema que simplifica a abertura, o licenciamento e o fechamento de empresas, começou a funcionar em 05/05/2017 (Decreto 57.681/2017).",
     "fonte_url": "https://serpro.gov.br/menu/noticias/noticias-2017/gloria-guimaraes-participa-do-lancamento-do-empreenda-facil-em-sao-paulo",
     "data_evidencia": "2017-05",
-    "pagina": 25
+    "pagina": 25,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O Empreenda Fácil é um sistema de simplificação com custo pequeno.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-53",
@@ -24317,7 +25045,21 @@
     "evidencia": "Com o Empreenda Fácil, o tempo de abertura de empresas de baixo risco caiu de mais de 100 dias para 5 dias em 2018 (meta 40 do Programa de Metas), sem chegar aos 2 dias úteis prometidos.",
     "fonte_url": "https://prefeitura.sp.gov.br/cidade/secretarias/upload/governo/planejamento/Resumo%20Executivo%20Semestral%20-%20Julho%20de%202018.pdf",
     "data_evidencia": "2018-06",
-    "pagina": 25
+    "pagina": 25,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Reduzir o prazo de abertura de empresas é mudança de procedimento, sem gasto relevante.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-54",
@@ -24334,7 +25076,21 @@
     "evidencia": "Não foram criadas frentes de trabalho em serviços públicos; o programa Trabalho Novo (2017) encaminhou pessoas em situação de rua para empregos em empresas privadas.",
     "fonte_url": "https://www.gazetadopovo.com.br/economia/empreender-pme/sem-titulo-diq42fd2cv6safpzhtwe7j9e2",
     "data_evidencia": "2017",
-    "pagina": 25
+    "pagina": 25,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar frentes de trabalho emergenciais para pessoas em vulnerabilidade aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-55",
@@ -24351,7 +25107,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou Mutirão do Emprego até a renúncia; as edições no Vale do Anhangabaú são de 2019 em diante.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 26
+    "pagina": 26,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantar o Mutirão do Emprego aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-56",
@@ -24368,7 +25138,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou implantação de Ruas 24 Horas.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 26
+    "pagina": 26,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantar Ruas 24 Horas de compras, lazer e cultura é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-57",
@@ -24385,7 +25169,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou criação de centro tecnológico agrícola ou escola técnica agrícola com o Estado.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 27
+    "pagina": 27,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar, com o Estado, um Centro Tecnológico de Pesquisa para Agricultura e uma Escola Técnica Agrícola aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-58",
@@ -24402,7 +25200,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou centro de compostagem em grande escala na Zona Sul; os novos pátios de compostagem só abriram a partir de set/2018.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 27
+    "pagina": 27,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar um centro de compostagem em grande escala na Zona Sul aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-59",
@@ -24419,7 +25231,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou Poupatempo da atividade rural.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 28
+    "pagina": 28,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar, com o Estado, um Poupatempo da atividade rural aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-60",
@@ -24436,7 +25262,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou programa de monitoramento de emissões de ônibus e caminhões a diesel.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 30
+    "pagina": 30,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantar programa de monitoramento de emissões de ônibus e caminhões a diesel aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-61",
@@ -24453,7 +25293,21 @@
     "evidencia": "O Córrego Limpo seguiu sendo ampliado: em set/2017 a Prefeitura entregou o 150º córrego despoluído e atuava em 81 córregos desde janeiro.",
     "fonte_url": "https://gestaourbana.prefeitura.sp.gov.br/?p=25927",
     "data_evidencia": "2017-09",
-    "pagina": 30
+    "pagina": 30,
+    "impacto": {
+      "impacto_fiscal": "fora_do_orcamento",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O Córrego Limpo é feito com a Sabesp, que paga as obras de coleta de esgoto; a parte da Prefeitura não tem ação própria.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-62",
@@ -24470,7 +25324,21 @@
     "evidencia": "Em set/2017 a Prefeitura recebeu o projeto Centro Novo (Jaime Lerner, via Secovi) e começou o enterramento de 52 km de fios no centro, com conclusão prevista para jul/2018; o programa não foi concluído até a renúncia.",
     "fonte_url": "https://gestaourbana.prefeitura.sp.gov.br/noticias/prefeitura-recebe-o-projeto-centro-novo/",
     "data_evidencia": "2017-09",
-    "pagina": 31
+    "pagina": 31,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O projeto Centro Novo foi doado (via Secovi), e o enterramento de fios é feito pelas concessionárias de energia e telecomunicações, sem valor separado no orçamento da Prefeitura.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-63",
@@ -24487,7 +25355,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou criação de unidade de gestão do Circuito das Compras; o Decreto 58.010/2017 só transferiu suas atribuições para a Secretaria das Prefeituras Regionais.",
     "fonte_url": "https://legislacao.prefeitura.sp.gov.br/leis/decreto-58010-de-4-de-dezembro-de-2017",
     "data_evidencia": "2018-04",
-    "pagina": 31
+    "pagina": 31,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar uma Unidade de Gestão para o Circuito das Compras (Brás, 25 de Março, Bom Retiro) é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-64",
@@ -24504,7 +25386,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou transformação do Parque Industrial da Mooca em Parque da Indústria Criativa.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 31
+    "pagina": 31,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Transformar o Parque Industrial da Mooca em Parque da Indústria Criativa aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-65",
@@ -24521,7 +25417,21 @@
     "evidencia": "O Aprova Rápido (Decreto 58.028/2017) passou a valer em mar/2018; o tempo médio de emissão de alvarás caiu de 532 para 438 dias em 2018, longe dos 90 prometidos.",
     "fonte_url": "https://www.legisweb.com.br/legislacao/?id=483383",
     "data_evidencia": "2018-06",
-    "pagina": 32
+    "pagina": 32,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Reduzir o prazo do licenciamento é mudança de procedimento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-66",
@@ -24538,7 +25448,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou implantação dos Polos Tecnológicos do Jaguaré e da Zona Leste.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 32
+    "pagina": 32,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantar os Polos Tecnológicos do Jaguaré e da Zona Leste aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-67",
@@ -24555,7 +25479,21 @@
     "evidencia": "O Plano de Desenvolvimento Urbano Integrado (conduzido pelo Estado) teve audiências públicas na capital em out/2017, mas não foi concluído.",
     "fonte_url": "https://legislacao.prefeitura.sp.gov.br/leis/decreto-57925-de-10-de-outubro-de-2017",
     "data_evidencia": "2017-10",
-    "pagina": 32
+    "pagina": 32,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O Plano de Desenvolvimento Urbano Integrado é conduzido pelo Estado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-68",
@@ -24572,7 +25510,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou ampliação das linhas noturnas; em 2017 a SPTrans estudou aumentar os intervalos da rede da madrugada para cortar custos.",
     "fonte_url": "https://diariodotransporte.com.br/2017/08/21/sptrans-estuda-aumentar-intervalos-de-onibus-nas-linhas-da-madrugada/",
     "data_evidencia": "2018-04",
-    "pagina": 33
+    "pagina": 33,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar as linhas de ônibus noturnas nos fins de semana aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-69",
@@ -24589,7 +25541,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou criação de linhas interbairros até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 33
+    "pagina": 33,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar as linhas de ônibus interbairros aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-70",
@@ -24606,7 +25572,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou bolsões de estacionamento pagos com Bilhete Único.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 33
+    "pagina": 33,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantar bolsões de estacionamento pagos com Bilhete Único nas pontas das linhas troncais e do metrô é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-71",
@@ -24623,7 +25603,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou cessão de espaços municipais para centros de treinamento e exames do Detran.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 34
+    "pagina": 34,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ceder espaços municipais ao Detran para Centros de Treinamento e Exames é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-72",
@@ -24640,7 +25634,21 @@
     "evidencia": "O Decreto 57.889/2017 regulamentou o compartilhamento de bicicletas e o credenciamento de operadoras, inclusive sem estação fixa, aberto em dez/2017; as novas operadoras só começaram depois da renúncia.",
     "fonte_url": "https://diariodotransporte.com.br/2017/12/13/prefeitura-de-sp-publica-portaria-que-abre-credenciamento-para-compartilhamento-de-bicicletas-sem-estacao-fixa/",
     "data_evidencia": "2017-12",
-    "pagina": 34
+    "pagina": 34,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O compartilhamento de bicicletas é regulamentado e operado por empresas privadas, sem gasto da Prefeitura.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-73",
@@ -24657,7 +25665,21 @@
     "evidencia": "Os novos limites de velocidade nas marginais (programa Marginal Segura) passaram a valer em 25/01/2017.",
     "fonte_url": "https://setcesp.org.br/noticias/doria-aumenta-velocidade-nas-marginais-para-carros-em-25-de-janeiro/",
     "data_evidencia": "2017-01",
-    "pagina": 34
+    "pagina": 34,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "Mudar o limite de velocidade é regra de trânsito; pode reduzir a receita de multas, sem valor medido.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-74",
@@ -24674,7 +25696,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou implantação de miniterminais de cargas.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 35
+    "pagina": 35,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantar miniterminais de cargas para pequenos e médios comércios aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-75",
@@ -24691,7 +25727,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou comitê multissetorial de cargas; em dez/2017 foi criado um grupo de trabalho interno da Secretaria de Mobilidade para rever a regulamentação do transporte de cargas.",
     "fonte_url": "https://legislacao.prefeitura.sp.gov.br/leis/portaria-secretaria-municipal-de-mobilidade-e-transportes-smt-224-de-5-de-dezembro-de-2017",
     "data_evidencia": "2018-04",
-    "pagina": 35
+    "pagina": 35,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar comitê multissetorial de cargas é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-76",
@@ -24708,7 +25758,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou criação de conselhos de segurança no trânsito e de transportes nas regiões.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 35
+    "pagina": 35,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar Conselhos de Segurança no Trânsito e de Transportes nas regiões operacionais é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-77",
@@ -24725,7 +25789,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou programa de aluguel social em imóveis ociosos; em 2017 só foi criado grupo de trabalho para diagnosticar a Locação Social existente.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 36
+    "pagina": 36,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar programa de aluguel social em imóveis ociosos aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-78",
@@ -24742,7 +25820,21 @@
     "evidencia": "A Lei 16.680/2017 instituiu o Programa de Parcelamento Incentivado de 2017, com descontos e até 120 parcelas.",
     "fonte_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16680-de-4-de-julho-de-2017",
     "data_evidencia": "2017-07",
-    "pagina": 42
+    "pagina": 42,
+    "impacto": {
+      "impacto_fiscal": "receita_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O PPI 2017 (Lei 16.680/2017) antecipa a cobrança da dívida ativa com descontos de multa e juros; a Prefeitura esperava arrecadar cerca de R$ 1 bi, mas o valor arrecadado não foi localizado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-79",
@@ -24759,7 +25851,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou recuperação da iluminação oriental da Liberdade até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 44
+    "pagina": 44,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Recuperar a iluminação oriental da Liberdade aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-80",
@@ -24776,7 +25882,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou luminárias solares com LED em praças e parques.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 45
+    "pagina": 45,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantar luminárias solares com LED em praças e parques aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-81",
@@ -24793,7 +25913,21 @@
     "evidencia": "Protótipos de banheiros públicos doados foram instalados em jan/2017, e a Lei 16.786/2018 e o Decreto 58.088/2018 regulamentaram a concessão; a licitação foi suspensa pela Justiça.",
     "fonte_url": "https://legislacao.prefeitura.sp.gov.br/leis/decreto-58088-de-15-de-fevereiro-de-2018",
     "data_evidencia": "2018-02",
-    "pagina": 45
+    "pagina": 45,
+    "impacto": {
+      "impacto_fiscal": "fora_do_orcamento",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A rede de sanitários seria uma concessão, com investimento da concessionária; a licitação foi suspensa.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-82",
@@ -24810,7 +25944,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou crematório novo na região Sul ou Sudoeste; os estudos de concessão de 2017 trataram dos crematórios existentes.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 45
+    "pagina": 45,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Construir em PPP um crematório na região Sul ou Sudoeste aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-83",
@@ -24827,7 +25975,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou ampliação das centrais de triagem manual de recicláveis até a renúncia.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 45
+    "pagina": 45,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar as centrais de triagem manual de recicláveis aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-84",
@@ -24844,7 +26006,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou rede de usinas de compostagem; os novos pátios só abriram a partir de set/2018.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 45
+    "pagina": 45,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantar rede de usinas de compostagem aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-85",
@@ -24861,7 +26037,21 @@
     "evidencia": "A Secretaria de Infraestrutura Urbana e Obras foi só renomeada para Secretaria de Serviços e Obras (Decreto 57.576/2017), sem repassar os serviços às Prefeituras Regionais; em abr/2018 voltou ao nome antigo.",
     "fonte_url": "https://prefeitura.sp.gov.br/web/subprefeituras/convias/organizacao/historico",
     "data_evidencia": "2018-04",
-    "pagina": 45
+    "pagina": 45,
+    "impacto": {
+      "impacto_fiscal": "despesa_reduz",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Extinguir uma secretaria reduziria pouco a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-86",
@@ -24878,7 +26068,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou criação de unidade gestora de drenagem urbana.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 46
+    "pagina": 46,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar unidade gestora de drenagem urbana e controle de inundações é medida administrativa ou de regra, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-87",
@@ -24895,7 +26099,21 @@
     "evidencia": "O Plano Municipal de Desestatização (Lei 16.703/2017) autorizou a concessão dos serviços cemiteriais e funerários, e em jun/2017 foi aberto chamamento para estudos de concessão dos cemitérios e crematórios; a lei da concessão saiu em 2019.",
     "fonte_url": "https://legislacao.prefeitura.sp.gov.br/leis/portaria-secretaria-municipal-de-desestatizacao-e-parceirias-smdp-20-de-23-de-junho-de-2017",
     "data_evidencia": "2017-06",
-    "pagina": 46
+    "pagina": 46,
+    "impacto": {
+      "impacto_fiscal": "fora_do_orcamento",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A concessão dos cemitérios só foi feita depois da renúncia; no mandato houve só autorização e estudos.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-88",
@@ -24912,7 +26130,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2017-2020 e no Catálogo de Legislação Municipal (jan/2017 a abr/2018) não localizou contratação de zeladoria em microáreas por parceria público-privada.",
     "fonte_url": "",
     "data_evidencia": "2018-04",
-    "pagina": 47
+    "pagina": 47,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Contratar zeladoria em microáreas por parceria público-privada aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-89",
@@ -24929,7 +26161,21 @@
     "evidencia": "Em 2017 a Câmara aprovou o Plano Municipal de Desestatização (Lei 16.703/2017), a concessão do Pacaembu (Lei 16.696/2017) e a venda do Anhembi (dez/2017).",
     "fonte_url": "https://www.saopaulo.sp.leg.br/blog/pmd-avanca-e-camara-autoriza-privatizacao-do-anhembi/",
     "data_evidencia": "2017-12",
-    "pagina": 47
+    "pagina": 47,
+    "impacto": {
+      "impacto_fiscal": "receita_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A concessão do Pacaembu e a venda do Anhembi só geraram receita depois de 2017 (contratos de 2019 em diante); em 2017 houve só as leis.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-01",
