@@ -62,7 +62,7 @@ Os planos de governo só passaram a ser registrados no TSE a partir das eleiçõ
    - `interrompida`, quando o mandato acabou antes do prazo (impeachment, renúncia, afastamento) com a promessa já iniciada.
 4. **Evidência.** Cada veredito tem fonte e nível de confiança (alta, média, baixa). A busca começa por fontes oficiais (Diário Oficial, Assembleias, Câmara dos Deputados, Portal da Transparência) e usa a imprensa como complemento. Quando nada é encontrado, a promessa conta como não cumprida e a busca feita fica descrita na evidência.
 5. **Outros marcadores.** Se a promessa depende do Legislativo (lei, emenda, conversão de medida provisória) e se a execução cabe por lei a outro ente federativo.
-6. **Impacto fiscal (presidentes, governadores do RJ, de SP e de MG e prefeitos de SP, BH e Rio).** Efeito no orçamento federal, estadual ou municipal de cada promessa implementada: quanto aumentou ou reduziu despesas e receitas, por ano e acumulado no mandato, com dados oficiais.
+6. **Impacto fiscal (presidentes, governadores do RJ, de SP, de MG e da BA e prefeitos de SP, BH e Rio).** Efeito no orçamento federal, estadual ou municipal de cada promessa implementada: quanto aumentou ou reduziu despesas e receitas, por ano e acumulado no mandato, com dados oficiais.
 
 As regras completas, com os casos de fronteira, estão no **[livro de códigos](data/codebook.md)**. Presidentes, governadores e prefeitos não são somados num mesmo consolidado, porque têm poderes e orçamentos de escala diferente.
 
@@ -81,7 +81,7 @@ Cada promessa pode ser conferida de ponta a ponta:
 data/
   mandatos.csv                cadastro dos mandatos (cargo, local, datas, situação, link do plano no TSE)
   promessas/<mandato>.csv     promessas de cada mandato, uma por linha — a fonte da verdade
-  impacto_fiscal/<mandato>.csv impacto fiscal das promessas (presidentes, governadores do RJ, de SP e de MG e prefeitos de SP, BH e Rio)
+  impacto_fiscal/<mandato>.csv impacto fiscal das promessas (presidentes, governadores do RJ, de SP, de MG e da BA e prefeitos de SP, BH e Rio)
   codebook.md                 livro de códigos: regras de seleção e classificação
   base_aberta/                base consolidada gerada (CSV e JSON)
   interim/<mandato>.txt       texto extraído de cada plano de governo

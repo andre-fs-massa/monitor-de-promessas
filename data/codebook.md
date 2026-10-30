@@ -50,7 +50,7 @@ Uma **promessa** é uma frase do plano de governo registrado no TSE que comprome
 
 As taxas são calculadas sobre as promessas avaliadas (`total − nao_avaliada`). Para mandatos em curso, o status reflete a `data_corte` de `mandatos.csv`. Para mandatos interrompidos, a avaliação vai até `mandato_fim_efetivo` (data do afastamento ou da renúncia; o motivo fica em `motivo_interrupcao`); fatos posteriores podem aparecer na evidência, mas não mudam o status.
 
-## Impacto fiscal (presidentes, governadores do RJ, de SP e de MG e prefeitos de SP, BH e Rio)
+## Impacto fiscal (presidentes, governadores do RJ, de SP, de MG e da BA e prefeitos de SP, BH e Rio)
 
 Arquivo `data/impacto_fiscal/<mandato>.csv` (uma linha por promessa do mandato), validado pelo `build.py` e publicado em `data/base_aberta/impacto_fiscal.csv`.
 
@@ -73,6 +73,8 @@ Governadores do RJ: o orçamento de referência é o do Estado. Como os portais 
 Governadores de SP: o orçamento de referência é o do Estado de São Paulo. A despesa é a empenhada por ação no Portal da Transparência do Estado (`scripts/orcamento_sp.py`, base desde 2020; para anos anteriores, consulta por ação no SIGEO da Secretaria da Fazenda). Quando o PPA reagrupa ações e a ação nova não é comparável à do ano anterior ao mandato, não há valor a mais; quando um programa substitui outro (ex.: Tabela SUS Paulista no lugar do Santas Casas SUStentáveis), as duas ações são somadas nos dois lados da comparação. Aporte em concessão ou PPP para obra é gasto único (`recorrente` = `nao`).
 
 Governadores de MG: o orçamento de referência é o do Estado de Minas Gerais. A despesa é a empenhada por ação nos dados abertos da Controladoria-Geral do Estado (conjunto "Despesa pública", desde 2002; `scripts/orcamento_mg.py`). Quando o PPAG renumera uma ação, a nova é somada à que ela substituiu; quando o gasto do mandato fica abaixo do ano anterior ao mandato, fica só o custo do último ano.
+
+Governadores da BA: o orçamento de referência é o do Estado da Bahia. A despesa é a empenhada por ação nos dados abertos do Estado (conjunto "Despesas" em dados.ba.gov.br, extraído do FIPLAN/Sefaz, desde 2013; `scripts/orcamento_ba.py`; geradores em `data/interim/impacto_ba/`). Mesmas regras de MG: quando o gasto do último ano fica abaixo do ano anterior ao mandato, fica só o custo do último ano. Como a série começa em 2013, Jaques Wagner (2010) só tem o custo de 2014, sem valor a mais nem acumulado. Ações gerais que cobrem várias promessas (construção de unidades de saúde, de escolas, de barragens, sistemas de água) ficam em uma promessa e as demais são `sem_valor_proprio`. Obras da Embasa (estatal) ficam fora do orçamento.
 
 Prefeitos de São Paulo: o orçamento de referência é o do Município de São Paulo. A despesa é a empenhada (líquida) por projeto/atividade nos dados abertos da Prefeitura (conjunto "Execução orçamentária", desde 2003; `scripts/orcamento_spcapital.py`). Mesmo método dos governadores: diferença de cada ano completo do mandato para o ano anterior ao mandato; quando o gasto do mandato fica abaixo desse ano, fica só o custo do último ano completo.
 
