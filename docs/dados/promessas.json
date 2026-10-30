@@ -38187,7 +38187,21 @@
     "evidencia": "O modelo Estado em Rede, da Gestão para a Cidadania (2011), foi testado em comitês regionais piloto (Rio Doce, Norte e Mata), sem chegar às 66 microrregiões até a renúncia.",
     "fonte_url": "https://www.agenciaminas.mg.gov.br/noticia/comite-regional-da-mata-realiza-primeira-reuniao-em-juiz-de-fora-67876",
     "data_evidencia": "2012-02",
-    "pagina": 3
+    "pagina": 3,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "Criar estrutura física nas 66 microrregiões aumentaria a despesa, mas o modelo Estado em Rede ficou em comitês piloto, sem ação orçamentária própria; sem valor.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "anastasia_mg_2010-02",
@@ -38204,7 +38218,21 @@
     "evidencia": "Foram instalados comitês regionais com agentes de várias secretarias em cidades-polo como Montes Claros e Juiz de Fora (2012), mas só em parte das regiões.",
     "fonte_url": "https://www.agenciaminas.mg.gov.br/noticia/montes-claros-recebe-6a-reuniao-do-comite-regional-do-norte-73150",
     "data_evidencia": "2012",
-    "pagina": 3
+    "pagina": 3,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Os comitês regionais funcionaram com servidores e estruturas já existentes, sem ação orçamentária própria.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "anastasia_mg_2010-03",
@@ -38221,7 +38249,21 @@
     "evidencia": "Busca na imprensa, na Agência Minas e na legislação mineira (API da ALMG, jan/2011 a 04/04/2014) não localizou unificação da base territorial dos órgãos estaduais.",
     "fonte_url": "",
     "data_evidencia": "2014-04",
-    "pagina": 4
+    "pagina": 4,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Unificar a regionalização dos órgãos é mudança administrativa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "anastasia_mg_2010-04",
@@ -38233,12 +38275,26 @@
     "tipo": "acao",
     "depende_legislativo": "nao",
     "outro_ente": "",
-    "status": "nao_cumprida",
-    "confianca": "media",
-    "evidencia": "Busca na imprensa, na Agência Minas e na legislação mineira (API da ALMG, jan/2011 a 04/04/2014) não localizou ampliação da escola em tempo integral entre 2011 e 2014.",
-    "fonte_url": "",
-    "data_evidencia": "2014-04",
-    "pagina": 6
+    "status": "cumprida",
+    "confianca": "baixa",
+    "evidencia": "O gasto do Estado nas ações próprias de tempo integral (ampliação das escolas em tempo integral e alimentação escolar, depois Educação em Tempo Integral) passou de R$ 19 milhões em 2010 para R$ 41 milhões em 2012 e R$ 46 milhões em 2013, segundo a despesa empenhada nos dados abertos da CGE-MG; não foi localizada contagem de alunos ou escolas por ano.",
+    "fonte_url": "https://dados.mg.gov.br/dataset/despesa",
+    "data_evidencia": "2013-12",
+    "pagina": 6,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.028",
+      "valor_total_rs_bi": "0.046",
+      "ano_ref": "2013",
+      "valor_acumulado_rs_bi": "0.053",
+      "periodo_acumulado": "2011-2013",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Ações próprias de tempo integral da Secretaria de Educação (Ampliação das Escolas em Tempo Integral e alimentação escolar, ações 1225 e 4034 até 2011; Educação em Tempo Integral, ações 1077 e 1085, a partir de 2012): R$ 19 milhões em 2010, R$ 22 milhões em 2011, R$ 41 milhões em 2012 e R$ 46 milhões em 2013. Subestima o custo, porque o salário dos professores das horas a mais fica nas ações gerais de pessoal.",
+      "fonte_oficial": "https://dados.mg.gov.br/dataset/despesa",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "anastasia_mg_2010-05",
@@ -38250,12 +38306,26 @@
     "tipo": "acao",
     "depende_legislativo": "nao",
     "outro_ente": "",
-    "status": "nao_cumprida",
-    "confianca": "media",
-    "evidencia": "Busca na imprensa, na Agência Minas e na legislação mineira (API da ALMG, jan/2011 a 04/04/2014) não localizou ampliação da formação profissionalizante estadual entre 2011 e 2014.",
-    "fonte_url": "",
-    "data_evidencia": "2014-04",
-    "pagina": 6
+    "status": "cumprida",
+    "confianca": "baixa",
+    "evidencia": "O gasto do Programa de Educação Profissional (PEP), que compra vagas em cursos técnicos, passou de R$ 105 milhões em 2010 para R$ 169 milhões em 2013 (despesa empenhada, dados abertos da CGE-MG), e o programa ofereceu 30 mil vagas para 2013; não foi localizada a contagem de vagas de 2010 para comparar, nem a ligação dos cursos com as necessidades regionais.",
+    "fonte_url": "https://dados.mg.gov.br/dataset/despesa",
+    "data_evidencia": "2013-12",
+    "pagina": 6,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.064",
+      "valor_total_rs_bi": "0.169",
+      "ano_ref": "2013",
+      "valor_acumulado_rs_bi": "0.09",
+      "periodo_acumulado": "2011-2013",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Programa de Educação Profissional (PEP), que compra vagas de cursos técnicos em escolas privadas (ação 4306 até 2011; 4605 a partir de 2012, mais a ação 4190 de desenvolvimento do ensino profissional): R$ 105 milhões em 2010, R$ 109 milhões em 2011, R$ 127 milhões em 2012 e R$ 169 milhões em 2013.",
+      "fonte_oficial": "https://dados.mg.gov.br/dataset/despesa",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "anastasia_mg_2010-06",
@@ -38272,6 +38342,20 @@
     "evidencia": "A extrema pobreza em Minas caiu de 3,78% (2006) para 2,49% (2013), segundo a PNAD; não há dado separado do período de Anastasia, e em 2012-2013 a extrema pobreza subiu no país.",
     "fonte_url": "https://www.ipece.ce.gov.br/wp-content/uploads/sites/45/2012/12/EnfoqueEconomicoN80_04_10_2013.pdf",
     "data_evidencia": "2013",
-    "pagina": 6
+    "pagina": 6,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.018",
+      "valor_total_rs_bi": "0.019",
+      "ano_ref": "2013",
+      "valor_acumulado_rs_bi": "0.074",
+      "periodo_acumulado": "2011-2013",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Ações do Programa Travessia, de combate à pobreza nos municípios mais pobres (Travessia Social, Renda, Saúde, Educação, Banco Travessia, Porta a Porta) e combate à pobreza rural: R$ 0,7 milhão em 2010, R$ 1,9 milhão em 2011, R$ 56 milhões em 2012 e R$ 19 milhões em 2013. A queda da extrema pobreza no período também vem de programas federais (Bolsa Família), que não entram aqui.",
+      "fonte_oficial": "https://dados.mg.gov.br/dataset/despesa",
+      "fonte_comparacao": ""
+    }
   }
 ]
