@@ -21945,7 +21945,21 @@
     "evidencia": "Em 2022 a Prefeitura lançou o Mãe Paulistana Creche, que reserva vaga em creche para os filhos de gestantes que começam o pré-natal na rede municipal até o 4º mês.",
     "fonte_url": "https://prefeitura.sp.gov.br/web/santana_tucuruvi/w/noticias/120570",
     "data_evidencia": "2022",
-    "pagina": 27
+    "pagina": 27,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A reserva de vaga em creche para filhos de mães do pré-natal (Mãe Paulistana Creche) é regra de prioridade; o custo das vagas está na promessa 2.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-02",
@@ -21962,7 +21976,21 @@
     "evidencia": "Meta 10 do Programa de Metas: a fila por vaga em creche foi zerada e seguia zerada em out/2024.",
     "fonte_url": "https://prefeitura.sp.gov.br/w/noticia/prefeitura-zera-fila-de-creche-pela-primeira-vez-na-historia",
     "data_evidencia": "2024-10",
-    "pagina": 27
+    "pagina": 27,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "3.516",
+      "valor_total_rs_bi": "5.947",
+      "ano_ref": "2024",
+      "valor_acumulado_rs_bi": "10.316",
+      "periodo_acumulado": "2021-2024",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Rede parceira de creches (atividade 2828) e construção de CEIs e EMEIs (projetos 3359 e 3361): R$ 2,43 bi em 2020, R$ 4,31 bi em 2021, R$ 5,10 bi em 2022, R$ 4,69 bi em 2023 e R$ 5,95 bi em 2024. Inclui o reajuste do valor pago por criança às entidades conveniadas, não só as vagas novas.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-03",
@@ -21979,7 +22007,21 @@
     "evidencia": "Meta 25 do Programa de Metas: 5 novos CEUs implementados até nov/2024, de 12 previstos (menos da metade).",
     "fonte_url": "https://prefeitura.sp.gov.br/documents/d/planejamento/relatorio-de-execucao-do-programa-de-metas-2021-2024_2024-pdf",
     "data_evidencia": "2024-11",
-    "pagina": 27
+    "pagina": 27,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Construir 12 CEUs aumentaria a despesa (só 5 saíram; a construção de CEUs teve R$ 158 milhões em 2020 e R$ 440 milhões em 2021-2024); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-04",
@@ -21996,7 +22038,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2021-2024 e no Catálogo de Legislação Municipal (jan/2021 a dez/2024) não localizou ampliação da Bolsa Primeira Infância.",
     "fonte_url": "",
     "data_evidencia": "2024-12",
-    "pagina": 27
+    "pagina": 27,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar a Bolsa Primeira Infância aumentaria a despesa (o gasto caiu de R$ 4,5 milhões em 2020 para zero em 2022); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-05",
@@ -22013,7 +22069,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2021-2024 e no Catálogo de Legislação Municipal (jan/2021 a dez/2024) não localizou transformação de todas as salas de aula em ambientes digitais; houve compra de tablets e equipamentos para o retorno presencial.",
     "fonte_url": "",
     "data_evidencia": "2024-12",
-    "pagina": 27
+    "pagina": 27,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Digitalizar todas as salas de aula aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-06",
@@ -22030,7 +22100,21 @@
     "evidencia": "Meta 82 do Programa de Metas: o número de alunos do São Paulo Integral cresceu 133%, acima da meta de 35%.",
     "fonte_url": "https://prefeitura.sp.gov.br/documents/d/planejamento/relatorio-de-execucao-do-programa-de-metas-2021-2024_2024-pdf",
     "data_evidencia": "2024-12",
-    "pagina": 27
+    "pagina": 27,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.125",
+      "valor_total_rs_bi": "0.129",
+      "ano_ref": "2024",
+      "valor_acumulado_rs_bi": "0.155",
+      "periodo_acumulado": "2021-2024",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Ações de Educação Integral (atividade 4303): R$ 4 milhões em 2020, R$ 1 milhão em 2021, R$ 17 milhões em 2022, R$ 24 milhões em 2023 e R$ 129 milhões em 2024. Subestima o custo, porque os professores das horas a mais são pagos pelas ações gerais de remuneração.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-07",
@@ -22047,7 +22131,21 @@
     "evidencia": "Os créditos para compra de uniforme e material escolar passaram a ser liberados diretamente às famílias, que compram nas lojas credenciadas.",
     "fonte_url": "https://prefeitura.sp.gov.br/w/noticia/prefeitura-libera-creditos-para-compra-de-material-e-uniforme-escolar-para-mais-de-28-6-mil-novos-estudantes-matriculados-na-rede-municipal",
     "data_evidencia": "2022",
-    "pagina": 27
+    "pagina": 27,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Repassar o crédito de uniforme e material às famílias muda a forma de compra, não o valor da despesa.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-08",
@@ -22064,7 +22162,21 @@
     "evidencia": "O Hospital de Parelheiros ganhou 87 leitos em 2022 e o da Brasilândia passou a funcionar como hospital geral, com pronto-socorro, chegando a cerca de 270 leitos em 2024.",
     "fonte_url": "https://prefeitura.sp.gov.br/w/noticia/pronto-socorro-do-hospital-municipal-da-brasilandia-comeca-a-atender-a-populacao",
     "data_evidencia": "2024",
-    "pagina": 29
+    "pagina": 29,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar os leitos de Parelheiros e Brasilândia aumenta o custeio, pago pela manutenção geral dos hospitais (atividade 2507), sem valor separado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-09",
@@ -22081,7 +22193,21 @@
     "evidencia": "O Hospital Bela Vista - Santa Dulce dos Pobres funcionou como referência para a população de rua, mas foi fechado em nov/2024 após interdição da Vigilância Sanitária.",
     "fonte_url": "https://www.metropoles.com/sao-paulo/nunes-decide-fechar-hospital-interditado-pela-vigilancia-sanitaria",
     "data_evidencia": "2024-11",
-    "pagina": 29
+    "pagina": 29,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O custeio do Hospital Santa Dulce dos Pobres fica na manutenção geral dos hospitais, sem valor separado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-10",
@@ -22098,7 +22224,21 @@
     "evidencia": "O Hospital Municipal Guarapiranga passou a atender pacientes de cuidados prolongados, com relatórios trimestrais de 2024.",
     "fonte_url": "https://prefeitura.sp.gov.br/w/noticia/novo-hospital-municipal-guarapiranga-amplia-rede-de-atendimento-municipal",
     "data_evidencia": "2024",
-    "pagina": 29
+    "pagina": 29,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "Mudar o perfil do Hospital Guarapiranga para cuidados prolongados troca um custeio por outro, sem valor separado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-11",
@@ -22115,7 +22255,21 @@
     "evidencia": "As obras de ampliação do Sorocabana (futuro Complexo Hospitalar da Lapa, com 317 leitos) só começaram em set/2024, com conclusão prevista para 2027.",
     "fonte_url": "https://prefeitura.sp.gov.br/web/sampa-news/w/prefeitura-avan%C3%A7a-nas-obras-de-amplia%C3%A7%C3%A3o-e-moderniza%C3%A7%C3%A3o-do-complexo-hospitalar-da-lapa",
     "data_evidencia": "2024-09",
-    "pagina": 29
+    "pagina": 29,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o Hospital Sorocabana exigiria obra (só começou em set/2024); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-12",
@@ -22132,7 +22286,21 @@
     "evidencia": "O Programa Avança Saúde, financiado pelo BID, reformou e ampliou unidades da rede; o Programa de Metas registra 354 unidades de saúde reformadas (meta 04).",
     "fonte_url": "https://prefeitura.sp.gov.br/documents/d/planejamento/relatorio-de-execucao-do-programa-de-metas-2021-2024_2024-pdf",
     "data_evidencia": "2024-12",
-    "pagina": 29
+    "pagina": 29,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.066",
+      "ano_ref": "2024",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Avança Saúde SP (projetos 9204 e 5204, mais a construção de hospitais 5416 em 2020): R$ 227 milhões em 2020, R$ 181 milhões em 2021, R$ 169 milhões em 2022, R$ 269 milhões em 2023 e R$ 66 milhões em 2024, ou R$ 685 milhões no mandato. O programa, financiado pelo BID, já gastava em 2020, por isso o gasto do mandato ficou abaixo do de 2020.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-13",
@@ -22149,7 +22317,21 @@
     "evidencia": "Meta 79 do Programa de Metas: 19 novas UPAs até nov/2024, acima das 16 prometidas.",
     "fonte_url": "https://prefeitura.sp.gov.br/documents/d/planejamento/relatorio-de-execucao-do-programa-de-metas-2021-2024_2024-pdf",
     "data_evidencia": "2024-11",
-    "pagina": 29
+    "pagina": 29,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.032",
+      "ano_ref": "2024",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Construção de UPAs e equipamentos hospitalares (projetos 1512 e 1535): R$ 21 milhões em 2020 e R$ 32 milhões em 2024 (R$ 71 milhões no mandato). O custeio das novas UPAs fica na manutenção geral da urgência, sem valor separado.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-14",
@@ -22166,7 +22348,21 @@
     "evidencia": "Só o primeiro Centro de Cuidados Integrados, em Ermelino Matarazzo, foi aberto (jun/2024), de 6 prometidos.",
     "fonte_url": "https://prefeitura.sp.gov.br/w/noticia/ermelino-matarazzo-recebera-o-primeiro-centro-de-cuidados-integrados-cci-de-sao-paulo",
     "data_evidencia": "2024-06",
-    "pagina": 29
+    "pagina": 29,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Abrir 6 Centros de Cuidados Integrados aumentaria a despesa (só 1 foi aberto); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-15",
@@ -22183,7 +22379,21 @@
     "evidencia": "A Lei 17.718/2021 regulamentou a telessaúde no município, e a rede passou a oferecer teleconsultas, inclusive de saúde mental, pelo app e-saúdeSP.",
     "fonte_url": "https://ses.sp.bvs.br/wp-content/uploads/2021/11/M_LE-17718_231121.pdf",
     "data_evidencia": "2021-11",
-    "pagina": 29
+    "pagina": 29,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "A telessaúde usa a rede e o app existentes, com custo pequeno e sem ação própria.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-16",
@@ -22200,7 +22410,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2021-2024 e no Catálogo de Legislação Municipal (jan/2021 a dez/2024) não localizou treinamento de 60 mil profissionais para atendimento a distância.",
     "fonte_url": "",
     "data_evidencia": "2024-12",
-    "pagina": 29
+    "pagina": 29,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Treinar 60 mil profissionais teria custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-17",
@@ -22217,7 +22441,21 @@
     "evidencia": "Meta 12 do Programa de Metas: 48.441 moradias de interesse social providas até nov/2024 (meta de 49 mil), cerca de 69% das 70 mil prometidas.",
     "fonte_url": "https://prefeitura.sp.gov.br/documents/d/planejamento/relatorio-de-execucao-do-programa-de-metas-2021-2024_2024-pdf",
     "data_evidencia": "2024-11",
-    "pagina": 31
+    "pagina": 31,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "2.809",
+      "valor_total_rs_bi": "2.919",
+      "ano_ref": "2024",
+      "valor_acumulado_rs_bi": "5.428",
+      "periodo_acumulado": "2021-2024",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "media",
+      "explicacao": "Moradias de interesse social: Pode Entrar (projeto 3340, desde 2023), construção de unidades habitacionais (3354) e PPP da habitação (3661): R$ 110 milhões em 2020, R$ 565 milhões em 2021, R$ 625 milhões em 2022, R$ 1,76 bi em 2023 e R$ 2,92 bi em 2024. Gasto único de obra e aquisição.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-18",
@@ -22234,7 +22472,21 @@
     "evidencia": "Meta 13 do Programa de Metas: 30.701 famílias beneficiadas com urbanização de assentamentos precários até jun/2024.",
     "fonte_url": "https://prefeitura.sp.gov.br/documents/d/planejamento/relatorio-de-execucao-do-programa-de-metas-2021-2024_2024-pdf",
     "data_evidencia": "2024-06",
-    "pagina": 31
+    "pagina": 31,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "1.287",
+      "valor_total_rs_bi": "1.551",
+      "ano_ref": "2024",
+      "valor_acumulado_rs_bi": "2.649",
+      "periodo_acumulado": "2021-2024",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "media",
+      "explicacao": "Urbanização de favelas e assentamentos precários: Programa de Mananciais (3355), urbanização de favelas (3357) e urbanização de assentamentos do Programa de Metas (5405, em 2020): R$ 264 milhões em 2020, R$ 207 milhões em 2021, R$ 710 milhões em 2022, R$ 1,24 bi em 2023 e R$ 1,55 bi em 2024. Gasto único de obra.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-19",
@@ -22251,7 +22503,21 @@
     "evidencia": "A Prefeitura informou ter chegado a cerca de 600 mil pontos de LED em dez/2021, 90% do parque de iluminação; a meta 38 (330 mil pontos) foi superada.",
     "fonte_url": "https://prefeitura.sp.gov.br/web/spregula/w/iluminacao_publica/noticias/319281",
     "data_evidencia": "2021-12",
-    "pagina": 33
+    "pagina": 33,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.169",
+      "valor_total_rs_bi": "0.602",
+      "ano_ref": "2024",
+      "valor_acumulado_rs_bi": "0.548",
+      "periodo_acumulado": "2021-2024",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "PPP da iluminação pública (atividade 6027), que fez a troca por LED, mais a manutenção antiga da rede (6161), que ela absorveu: R$ 433 milhões em 2020, R$ 521 milhões em 2021, R$ 557 milhões em 2022, R$ 600 milhões em 2023 e R$ 602 milhões em 2024. O contrato é de 2018; o aumento reflete o avanço da modernização.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-20",
@@ -22268,7 +22534,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2021-2024 e no Catálogo de Legislação Municipal (jan/2021 a dez/2024) não localizou número de novos pontos de iluminação instalados; o Programa de Metas não separa os pontos novos dos modernizados.",
     "fonte_url": "",
     "data_evidencia": "2024-12",
-    "pagina": 33
+    "pagina": 33,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Instalar 20 mil novos pontos de luz aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-21",
@@ -22285,7 +22565,21 @@
     "evidencia": "Meta 29 do Programa de Metas: 2.015 novos guardas contratados até nov/2024, o dobro do prometido.",
     "fonte_url": "https://prefeitura.sp.gov.br/documents/d/planejamento/relatorio-de-execucao-do-programa-de-metas-2021-2024_2024-pdf",
     "data_evidencia": "2024-11",
-    "pagina": 33
+    "pagina": 33,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Os 2.015 guardas contratados aumentam a folha de pagamento, paga pelas ações gerais de pessoal, sem valor separado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-22",
@@ -22302,7 +22596,21 @@
     "evidencia": "Meta 30 do Programa de Metas: 21.320 câmeras integradas até nov/2024 (City Câmeras e, depois, Smart Sampa).",
     "fonte_url": "https://prefeitura.sp.gov.br/documents/d/planejamento/relatorio-de-execucao-do-programa-de-metas-2021-2024_2024-pdf",
     "data_evidencia": "2024-11",
-    "pagina": 33
+    "pagina": 33,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.064",
+      "valor_total_rs_bi": "0.064",
+      "ano_ref": "2024",
+      "valor_acumulado_rs_bi": "0.064",
+      "periodo_acumulado": "2021-2024",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Redes de monitoramento remoto para segurança urbana (atividade 2199, Smart Sampa): sem gasto próprio até 2023 e R$ 64 milhões em 2024. A integração ao City Câmeras antes de 2024 não tinha ação própria.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-23",
@@ -22319,7 +22627,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2021-2024 e no Catálogo de Legislação Municipal (jan/2021 a dez/2024) não localizou instalação de equipamentos de vigilância nas escolas municipais até 2024; a instalação de câmeras em cerca de 400 escolas só foi anunciada em 2025.",
     "fonte_url": "https://www.portaltela.com/politica/2025/09/01/smart-sampa-amplia-monitoramento-com-53-mil-novas-cameras/",
     "data_evidencia": "2024-12",
-    "pagina": 33
+    "pagina": 33,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Instalar 12 mil equipamentos de vigilância nas escolas aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-24",
@@ -22336,7 +22658,21 @@
     "evidencia": "A GCM ampliou a frota do Dronepol, de cerca de 10 drones em 2020 para 31 em 2022.",
     "fonte_url": "https://prefeitura.sp.gov.br/w/noticia/drones-auxiliam-guarda-civil-metropolitana-no-monitoramento-da-cidade-de-sp",
     "data_evidencia": "2022-08",
-    "pagina": 33
+    "pagina": 33,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar a frota de drones da GCM tem custo pequeno.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-25",
@@ -22353,7 +22689,21 @@
     "evidencia": "Meta 49 do Programa de Metas: 75,3% da frota com wi-fi, tomadas USB e ar-condicionado em nov/2024.",
     "fonte_url": "https://prefeitura.sp.gov.br/documents/d/planejamento/relatorio-de-execucao-do-programa-de-metas-2021-2024_2024-pdf",
     "data_evidencia": "2024-11",
-    "pagina": 35
+    "pagina": 35,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O wi-fi nos ônibus é instalado pelas empresas e pago na remuneração do sistema (compensações tarifárias), sem valor separado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-26",
@@ -22370,7 +22720,21 @@
     "evidencia": "Um trecho de 4,1 km do corredor Itaquera-Líder foi entregue em jul/2024; o restante do Leste-Itaquera não foi concluído.",
     "fonte_url": "https://diariodotransporte.com.br/2024/07/05/trecho-de-41-km-do-corredor-itaquera-lider-o-primeiro-exclusivo-para-onibus-na-zona-leste-de-sao-paulo-e-entregue-nesta-sexta-05/",
     "data_evidencia": "2024-07",
-    "pagina": 35
+    "pagina": 35,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.085",
+      "valor_total_rs_bi": "0.142",
+      "ano_ref": "2024",
+      "valor_acumulado_rs_bi": "0.474",
+      "periodo_acumulado": "2021-2024",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "baixa",
+      "explicacao": "Implantação e requalificação de corredores de ônibus (projetos 5392, 1099, 1100 e 5393): R$ 57 milhões em 2020, R$ 44 milhões em 2021, R$ 208 milhões em 2022, R$ 308 milhões em 2023 e R$ 142 milhões em 2024. Inclui outros corredores e reformas além do Leste-Itaquera. Gasto único de obra.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-27",
@@ -22387,7 +22751,21 @@
     "evidencia": "O BRT Aricanduva não foi implantado até 2024; a meta 45 previa só viabilizá-lo, e as obras foram autorizadas em jul/2026.",
     "fonte_url": "https://prefeitura.sp.gov.br/documents/d/planejamento/relatorio-de-execucao-do-programa-de-metas-2021-2024_2024-pdf",
     "data_evidencia": "2024-12",
-    "pagina": 35
+    "pagina": 35,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantar o BRT Aricanduva exigiria obra; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-28",
@@ -22404,7 +22782,21 @@
     "evidencia": "Meta 44 do Programa de Metas: o Aquático começou a operar na represa Billings, integrado ao Bilhete Único.",
     "fonte_url": "https://prefeitura.sp.gov.br/documents/d/planejamento/relatorio-de-execucao-do-programa-de-metas-2021-2024_2024-pdf",
     "data_evidencia": "2024-12",
-    "pagina": 35
+    "pagina": 35,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.025",
+      "valor_total_rs_bi": "0.025",
+      "ano_ref": "2024",
+      "valor_acumulado_rs_bi": "0.058",
+      "periodo_acumulado": "2021-2024",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "media",
+      "explicacao": "Implantação do transporte hidroviário (projeto 5362): sem gasto em 2020 e 2021, R$ 2 milhões em 2022, R$ 31 milhões em 2023 e R$ 25 milhões em 2024. Gasto único de implantação; a operação começou a ser paga em 2025.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-29",
@@ -22421,7 +22813,21 @@
     "evidencia": "A duplicação da Estrada do M'Boi Mirim não saiu até 2024: a gestão passou do DER à Prefeitura em mar/2024 e as obras começaram em dez/2025.",
     "fonte_url": "https://prefeitura.sp.gov.br/w/prefeito-anuncia-in%C3%ADcio-das-obras-de-duplica%C3%A7%C3%A3o-da-estrada-do-m-boi-mirim",
     "data_evidencia": "2025-12",
-    "pagina": 35
+    "pagina": 35,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Duplicar a Estrada do M'Boi Mirim exigiria obra (começou em dez/2025); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-30",
@@ -22438,7 +22844,21 @@
     "evidencia": "As obras do complexo Pirituba-Lapa, paradas pela Justiça desde 2020, foram retomadas em jan/2024 com previsão de conclusão em dez/2026.",
     "fonte_url": "https://prefeitura.sp.gov.br/w/noticia/prefeito-anuncia-retomada-das-obras-viarias-que-ligarao-pirituba-a-lapa-apos-3-anos-de-paralisacao-pela-justica",
     "data_evidencia": "2024-01",
-    "pagina": 35
+    "pagina": 35,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Concluir o complexo Pirituba-Lapa exigiria obra (retomada em jan/2024); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-31",
@@ -22455,7 +22875,21 @@
     "evidencia": "A malha cicloviária chegou a 731 km no fim de 2023.",
     "fonte_url": "https://prefeitura.sp.gov.br/w/noticia/malha-cicloviaria-da-capital-alcanca-os-731-quilometros-de-extensao",
     "data_evidencia": "2024-01",
-    "pagina": 35
+    "pagina": 35,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.127",
+      "ano_ref": "2024",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Construção e requalificação de ciclovias (projetos 1097 e 1098): R$ 103 milhões em 2020, R$ 42 milhões em 2021, R$ 117 milhões em 2022, R$ 85 milhões em 2023 e R$ 127 milhões em 2024; no mandato, ficou abaixo do ritmo de 2020.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-32",
@@ -22472,7 +22906,21 @@
     "evidencia": "Meta 40 do Programa de Metas: manutenção de 1.079.594 m² de calçadas até nov/2024, de 1,5 milhão prometidos.",
     "fonte_url": "https://prefeitura.sp.gov.br/documents/d/planejamento/relatorio-de-execucao-do-programa-de-metas-2021-2024_2024-pdf",
     "data_evidencia": "2024-11",
-    "pagina": 37
+    "pagina": 37,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.075",
+      "ano_ref": "2024",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Reforma de calçadas (projeto 1169): R$ 141 milhões em 2020, quase nada em 2021 e 2022, R$ 56 milhões em 2023 e R$ 75 milhões em 2024.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-33",
@@ -22489,7 +22937,21 @@
     "evidencia": "Meta 59 do Programa de Metas: 14.959 pontos públicos de wi-fi em nov/2024 (a meta era 20 mil).",
     "fonte_url": "https://prefeitura.sp.gov.br/documents/d/planejamento/relatorio-de-execucao-do-programa-de-metas-2021-2024_2024-pdf",
     "data_evidencia": "2024-11",
-    "pagina": 39
+    "pagina": 39,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.006",
+      "ano_ref": "2024",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Conectividade e inclusão digital (Proconecta, atividade 4307), que paga o WiFi Livre SP: entre R$ 3 milhões e R$ 6 milhões por ano, praticamente estável.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-34",
@@ -22506,7 +22968,21 @@
     "evidencia": "Meta 74 do Programa de Metas: R$ 13,3 bilhões arrecadados com o plano de desestatização entre 2021 e 2024, acima dos R$ 9 bilhões previstos.",
     "fonte_url": "https://prefeitura.sp.gov.br/documents/d/planejamento/relatorio-de-execucao-do-programa-de-metas-2021-2024_2024-pdf",
     "data_evidencia": "2024-11",
-    "pagina": 39
+    "pagina": 39,
+    "impacto": {
+      "impacto_fiscal": "receita_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "13.3",
+      "ano_ref": "2024",
+      "valor_acumulado_rs_bi": "13.3",
+      "periodo_acumulado": "2021-2024",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "media",
+      "explicacao": "Plano de desestatização (concessões, PPPs e venda de ativos): o Programa de Metas registra R$ 13,3 bi arrecadados entre 2021 e 2024 (meta 74). Receita única; a divisão por ano não foi separada.",
+      "fonte_oficial": "https://prefeitura.sp.gov.br/documents/d/planejamento/relatorio-de-execucao-do-programa-de-metas-2021-2024_2024-pdf",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-35",
@@ -22523,7 +22999,21 @@
     "evidencia": "Meta 72 do Programa de Metas: 32 praças de atendimento Descomplica SP remodeladas nas subprefeituras.",
     "fonte_url": "https://prefeitura.sp.gov.br/documents/d/planejamento/relatorio-de-execucao-do-programa-de-metas-2021-2024_2024-pdf",
     "data_evidencia": "2024-12",
-    "pagina": 39
+    "pagina": 39,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.077",
+      "valor_total_rs_bi": "0.077",
+      "ano_ref": "2024",
+      "valor_acumulado_rs_bi": "0.177",
+      "periodo_acumulado": "2021-2024",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Descomplica SP (construção, projeto 1358, e manutenção, atividade 2403): sem gasto próprio em 2020, R$ 3 milhões em 2021, R$ 45 milhões em 2022, R$ 52 milhões em 2023 e R$ 77 milhões em 2024.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-36",
@@ -22540,7 +23030,21 @@
     "evidencia": "A Renda Básica Emergencial municipal foi prorrogada em 2021 (Lei 17.553/2021), e a meta 01 registra 2,07 milhões de pessoas em programas de transferência de renda ou apoio nutricional.",
     "fonte_url": "https://prefeitura.sp.gov.br/documents/d/planejamento/relatorio-de-execucao-do-programa-de-metas-2021-2024_2024-pdf",
     "data_evidencia": "2024-11",
-    "pagina": 41
+    "pagina": 41,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.524",
+      "ano_ref": "2021",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "A prorrogação da Renda Básica Emergencial em 2021 (Lei 17.553/2021) foi paga como benefício eventual (atividade 6167): R$ 524 milhões em 2021. Em 2020 a Renda Básica Emergencial custou R$ 417 milhões; depois de 2021 o gasto voltou a cerca de R$ 40 milhões por ano.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-37",
@@ -22557,7 +23061,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2021-2024 e no Catálogo de Legislação Municipal (jan/2021 a dez/2024) não localizou triplicação das vagas em repúblicas de autogestão.",
     "fonte_url": "",
     "data_evidencia": "2024-12",
-    "pagina": 41
+    "pagina": 41,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Triplicar as vagas em repúblicas aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-38",
@@ -22574,7 +23092,21 @@
     "evidencia": "Meta 55 do Programa de Metas: 3 Estúdios Criativos da Rede Daora implantados até dez/2024.",
     "fonte_url": "https://prefeitura.sp.gov.br/documents/d/planejamento/relatorio-de-execucao-do-programa-de-metas-2021-2024_2024-pdf",
     "data_evidencia": "2024-12",
-    "pagina": 43
+    "pagina": 43,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.017",
+      "valor_total_rs_bi": "0.021",
+      "ano_ref": "2024",
+      "valor_acumulado_rs_bi": "0.027",
+      "periodo_acumulado": "2021-2024",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Políticas e ações para juventude (atividade 4318), que paga a Rede Daora: R$ 4 milhões em 2020 e R$ 21 milhões em 2024. A ação inclui outros programas de juventude.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-39",
@@ -22591,7 +23123,21 @@
     "evidencia": "Meta 56 do Programa de Metas (quatro Distritos Criativos) sem nenhum implantado em dez/2024.",
     "fonte_url": "https://prefeitura.sp.gov.br/documents/d/planejamento/relatorio-de-execucao-do-programa-de-metas-2021-2024_2024-pdf",
     "data_evidencia": "2024-12",
-    "pagina": 43
+    "pagina": 43,
+    "impacto": {
+      "impacto_fiscal": "receita_reduz",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Zonas de flexibilização tributária reduziriam a receita; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-40",
@@ -22608,7 +23154,21 @@
     "evidencia": "A Prefeitura abriu o Hub Green Sampa, espaço para startups de negócios sustentáveis, em jun/2021.",
     "fonte_url": "https://forbes.com.br/negocios/2021/06/sao-paulo-ganha-espaco-para-promover-negocios-sustentaveis/",
     "data_evidencia": "2021-06",
-    "pagina": 43
+    "pagina": 43,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O Hub Green Sampa funciona em espaço da Prefeitura, com custo pequeno.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-41",
@@ -22625,7 +23185,21 @@
     "evidencia": "A rede TEIA passou de 7 coworkings públicos para cerca de 22 unidades, mas não foi localizado quantas abriram até 2024.",
     "fonte_url": "https://prefeitura.sp.gov.br/web/desenvolvimento/w/teias-ampliam-programa%C3%A7%C3%A3o-gratuita-em-agosto-com-atividades-voltadas-%C3%A0-inova%C3%A7%C3%A3o-gest%C3%A3o-e-gera%C3%A7%C3%A3o-de-renda",
     "data_evidencia": "2026",
-    "pagina": 43
+    "pagina": 43,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Os TEIAs (coworkings públicos) têm custo pequeno, sem ação própria.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-42",
@@ -22642,7 +23216,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2021-2024 e no Catálogo de Legislação Municipal (jan/2021 a dez/2024) não localizou criação de áreas 24 horas nas macrorregiões.",
     "fonte_url": "",
     "data_evidencia": "2024-12",
-    "pagina": 43
+    "pagina": 43,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Áreas 24 horas dependem de regras de funcionamento; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-43",
@@ -22659,7 +23247,21 @@
     "evidencia": "Meta 64 do Programa de Metas: 234.472 árvores plantadas em 2021-2024, cerca de 59% das 400 mil prometidas.",
     "fonte_url": "https://prefeitura.sp.gov.br/documents/d/planejamento/relatorio-de-execucao-do-programa-de-metas-2021-2024_2024-pdf",
     "data_evidencia": "2024-11",
-    "pagina": 45
+    "pagina": 45,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.009",
+      "valor_total_rs_bi": "0.016",
+      "ano_ref": "2024",
+      "valor_acumulado_rs_bi": "0.016",
+      "periodo_acumulado": "2021-2024",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Plantio de árvores e arborização (atividades 7130 e 6655): R$ 7 milhões em 2020, R$ 4 milhões em 2021, R$ 8 milhões em 2022 e R$ 16 milhões em 2023 e em 2024.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-44",
@@ -22676,7 +23278,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2021-2024 e no Catálogo de Legislação Municipal (jan/2021 a dez/2024) não localizou implantação do Parque Minhocão.",
     "fonte_url": "",
     "data_evidencia": "2024-12",
-    "pagina": 45
+    "pagina": 45,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantar o Parque Minhocão exigiria obra; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-45",
@@ -22693,7 +23309,21 @@
     "evidencia": "O Parque Augusta foi inaugurado em 06/11/2021.",
     "fonte_url": "https://prefeitura.sp.gov.br/w/noticia/prefeitura-inaugura-o-parque-municipal-augusta-201cprefeito-bruno-covas201dno-centro-da-capital",
     "data_evidencia": "2021-11",
-    "pagina": 45
+    "pagina": 45,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O Parque Augusta foi feito em acordo com as construtoras donas do terreno; a construção de parques da Prefeitura em 2021 (projeto 1702, R$ 29 milhões) não separa cada parque.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-46",
@@ -22710,7 +23340,21 @@
     "evidencia": "O Parque Paraisópolis foi inaugurado em 18/09/2021.",
     "fonte_url": "https://prefeitura.sp.gov.br/w/noticia/com-entrega-neste-sabado-do-parque-de-paraisopolis-a-populacao-cidade-passa-a-ter-110-parques-municipais",
     "data_evidencia": "2021-09",
-    "pagina": 45
+    "pagina": 45,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "A construção de parques em 2021 (projeto 1702, R$ 29 milhões) inclui o Parque Paraisópolis, sem valor separado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-47",
@@ -22727,7 +23371,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2021-2024 e no Catálogo de Legislação Municipal (jan/2021 a dez/2024) não localizou concessão dos parques Trianon, Chácara do Jockey e Chuvisco; a licitação do Jockey não atraiu interessados e a gestão anunciou que não faria novas concessões.",
     "fonte_url": "https://www.gazetasp.com.br/cotidiano/49446-gestao-covas-diz-que-nao-fara-mais-concessao-de-parques/",
     "data_evidencia": "2024-12",
-    "pagina": 45
+    "pagina": 45,
+    "impacto": {
+      "impacto_fiscal": "fora_do_orcamento",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Conceder os parques passaria o custeio às concessionárias; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-48",
@@ -22744,7 +23402,21 @@
     "evidencia": "Meta 69 do Programa de Metas: 1,14 milhão de toneladas de resíduos deixaram de ir para aterros entre 2021 e 2024, quase o dobro da meta.",
     "fonte_url": "https://prefeitura.sp.gov.br/documents/d/planejamento/relatorio-de-execucao-do-programa-de-metas-2021-2024_2024-pdf",
     "data_evidencia": "2024-11",
-    "pagina": 45
+    "pagina": 45,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.01",
+      "ano_ref": "2024",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Apoio às cooperativas e centrais de triagem (atividades 2410 e 6006): R$ 9 milhões em 2020 e R$ 10 milhões em 2024. A coleta seletiva em si é paga nos contratos de limpeza urbana, sem valor separado.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "doria_sp_2016-01",
