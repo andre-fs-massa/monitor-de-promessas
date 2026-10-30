@@ -26192,7 +26192,21 @@
     "evidencia": "Meta 14 do Programa de Metas superada (149%): mais de 135 mil alunos com jornada ampliada em 2015, e o Programa São Paulo Integral começou em 2016.",
     "fonte_url": "https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/gestao/arquivos/Balanco%20final%20de%20gestao%20-%20Haddad.pdf",
     "data_evidencia": "2016-12",
-    "pagina": 3
+    "pagina": 3,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.013",
+      "valor_total_rs_bi": "0.013",
+      "ano_ref": "2016",
+      "valor_acumulado_rs_bi": "0.042",
+      "periodo_acumulado": "2013-2016",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Ampliação da jornada escolar (Programa Mais Educação, atividade 4303): sem gasto próprio em 2012 e 2013, R$ 13 milhões em 2014, R$ 16 milhões em 2015 e R$ 13 milhões em 2016. Subestima o custo, porque os professores da jornada ampliada são pagos pelas ações gerais de remuneração; parte do Mais Educação era paga com dinheiro federal.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-02",
@@ -26209,7 +26223,21 @@
     "evidencia": "A educação infantil ganhou 99.229 matrículas entre jan/2013 e nov/2016 (meta 19); foram implantadas 425 creches, mas só 45 CEIs construídos pela Prefeitura (meta 16, 57%).",
     "fonte_url": "https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/gestao/arquivos/Balanco%20final%20de%20gestao%20-%20Haddad.pdf",
     "data_evidencia": "2016-11",
-    "pagina": 3
+    "pagina": 3,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.757",
+      "valor_total_rs_bi": "1.824",
+      "ano_ref": "2016",
+      "valor_acumulado_rs_bi": "1.734",
+      "periodo_acumulado": "2013-2016",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Creches da rede conveniada (atividade 2825) e construção de CEIs e EMEIs (projetos 1452, 1427, 3359 e 3358): R$ 1,07 bi em 2012, R$ 1,15 bi em 2013, R$ 1,37 bi em 2014, R$ 1,66 bi em 2015 e R$ 1,82 bi em 2016. Inclui o reajuste do valor pago por criança às entidades conveniadas, não só as vagas novas.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-03",
@@ -26226,7 +26254,21 @@
     "evidencia": "A Lei 16.213/2015 criou o Conselho de Representantes dos Conselhos de Escola (CRECE), regulamentado pelo Decreto 56.520/2015.",
     "fonte_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16213-de-17-de-junho-de-2015",
     "data_evidencia": "2015-10",
-    "pagina": 3
+    "pagina": 3,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar o conselho de representantes dos conselhos de escola é regra de participação.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-04",
@@ -26243,7 +26285,21 @@
     "evidencia": "O Plano Municipal de Educação foi aprovado pela Lei 16.271/2015.",
     "fonte_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-16271-de-17-de-setembro-de-2015",
     "data_evidencia": "2015-09",
-    "pagina": 4
+    "pagina": 4,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Aprovar o Plano Municipal de Educação é regra de planejamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-05",
@@ -26260,7 +26316,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no balanço final do Programa de Metas 2013-2016 e no Catálogo de Legislação Municipal (jan/2013 a dez/2016) não localizou criação de novas Diretorias Regionais de Educação.",
     "fonte_url": "",
     "data_evidencia": "2016-12",
-    "pagina": 4
+    "pagina": 4,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar novas diretorias regionais aumentaria a despesa administrativa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-06",
@@ -26277,7 +26347,21 @@
     "evidencia": "A Prefeitura aderiu ao Pronatec e criou, em 2014, o Comitê Gestor Intersecretarial do programa no município.",
     "fonte_url": "https://legislacao.prefeitura.sp.gov.br/leis/portaria-gabinete-do-prefeito-170-de-12-de-abril-de-2014",
     "data_evidencia": "2014-04",
-    "pagina": 5
+    "pagina": 5,
+    "impacto": {
+      "impacto_fiscal": "fora_do_orcamento",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Os cursos do Pronatec são pagos pelo governo federal.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-07",
@@ -26294,7 +26378,21 @@
     "evidencia": "Em 2015 foi criada a Coordenação Municipal de Regulação, Avaliação e Controle; não foi localizado que a Prefeitura tenha assumido a regulação dos serviços sob gestão estadual.",
     "fonte_url": "https://legislacao.prefeitura.sp.gov.br/leis/portaria-secretaria-municipal-da-saude-246-de-18-de-marco-de-2015",
     "data_evidencia": "2015-03",
-    "pagina": 6
+    "pagina": 6,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A coordenação de regulação usa servidores e sistemas existentes, com custo pequeno.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-08",
@@ -26311,7 +26409,21 @@
     "evidencia": "A Renda Básica da Cidadania não foi implantada; o projeto de lei do Executivo (PL 620/2016) só foi enviado no fim do mandato e não foi aprovado.",
     "fonte_url": "https://www.saopaulo.sp.leg.br/iah/fulltext/justificativa/JPL0055-2021.pdf",
     "data_evidencia": "2016-12",
-    "pagina": 8
+    "pagina": 8,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A Renda Básica da Cidadania aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-09",
@@ -26328,7 +26440,21 @@
     "evidencia": "Dois restaurantes comunitários (Mooca e Sé) entraram em funcionamento (meta 9) e foi inaugurado o Centro de Referência em Segurança Alimentar da Vila Maria (meta 13).",
     "fonte_url": "https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/gestao/arquivos/Balanco%20final%20de%20gestao%20-%20Haddad.pdf",
     "data_evidencia": "2016-12",
-    "pagina": 10
+    "pagina": 10,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "Os dois restaurantes comunitários e o centro de segurança alimentar têm custo pequeno, sem ação própria no orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-10",
@@ -26345,7 +26471,21 @@
     "evidencia": "Foram entregues os 7 CREAS previstos (meta 4) e 5 novos CRAS (meta 3 previa 60).",
     "fonte_url": "https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/gestao/arquivos/Balanco%20final%20de%20gestao%20-%20Haddad.pdf",
     "data_evidencia": "2016-12",
-    "pagina": 11
+    "pagina": 11,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.019",
+      "valor_total_rs_bi": "0.064",
+      "ano_ref": "2016",
+      "valor_acumulado_rs_bi": "0.041",
+      "periodo_acumulado": "2013-2016",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Manutenção e implantação de CRAS e CREAS (atividades 6239 e 6236 e projetos 5841 e 3395): R$ 45 milhões em 2012, R$ 40 milhões em 2013, R$ 57 milhões em 2014, R$ 60 milhões em 2015 e R$ 64 milhões em 2016.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-11",
@@ -26362,7 +26502,21 @@
     "evidencia": "O novo contrato do 156 criou canal exclusivo para denúncias de violação de direitos, mas a Ouvidoria Municipal de Direitos Humanos ficou em 50% (meta 62); não foi localizado um sistema de notificações.",
     "fonte_url": "https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/gestao/arquivos/Balanco%20final%20de%20gestao%20-%20Haddad.pdf",
     "data_evidencia": "2016-12",
-    "pagina": 12
+    "pagina": 12,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O canal de denúncias no 156 entrou no contrato da central de atendimento, com custo pequeno.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-12",
@@ -26379,7 +26533,21 @@
     "evidencia": "A cidade aderiu ao Sistema Nacional de Cultura e criou o Fundo Municipal de Cultura (meta 31, concluída).",
     "fonte_url": "https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/gestao/arquivos/Balanco%20final%20de%20gestao%20-%20Haddad.pdf",
     "data_evidencia": "2016-12",
-    "pagina": 13
+    "pagina": 13,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Aderir ao Sistema Nacional de Cultura e criar o fundo de cultura é regra de gestão; o fundo reorganiza recursos já existentes.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-13",
@@ -26396,7 +26564,21 @@
     "evidencia": "O projeto que reorganiza o Conselho Municipal de Cultura como Conselho Municipal de Política Cultural (PL 248/2015) não foi aprovado até o fim do mandato.",
     "fonte_url": "https://www.saopaulo.sp.leg.br/blog/composicao-do-conselho-municipal-de-politica-cultural-e-discutida-em-audiencia/",
     "data_evidencia": "2016-12",
-    "pagina": 14
+    "pagina": 14,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Recriar o conselho de cultura é regra de participação; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-14",
@@ -26413,7 +26595,21 @@
     "evidencia": "Meta 44 superada: Centro Olímpico ampliado e Núcleo de Alto Rendimento no Centro Esportivo Joerg Bruder; o Centro de Esportes Radicais abriu em mar/2016 (meta 46).",
     "fonte_url": "https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/gestao/arquivos/Balanco%20final%20de%20gestao%20-%20Haddad.pdf",
     "data_evidencia": "2016-03",
-    "pagina": 14
+    "pagina": 14,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "Ampliar o Centro Olímpico e criar núcleos de alto rendimento tem custo pequeno, sem ação própria no orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-15",
@@ -26430,7 +26626,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no balanço final do Programa de Metas 2013-2016 e no Catálogo de Legislação Municipal (jan/2013 a dez/2016) não localizou realização de competições esportivas escolares anuais.",
     "fonte_url": "",
     "data_evidencia": "2016-12",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Competições esportivas escolares teriam custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-16",
@@ -26447,7 +26657,21 @@
     "evidencia": "Os Conselhos Participativos foram criados nas 32 subprefeituras (Lei 15.764/2013, meta 113).",
     "fonte_url": "https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/gestao/arquivos/Balanco%20final%20de%20gestao%20-%20Haddad.pdf",
     "data_evidencia": "2013-12",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Os Conselhos Participativos das subprefeituras são regra de participação.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-17",
@@ -26464,7 +26688,21 @@
     "evidencia": "A Controladoria Geral do Município foi criada em 2013 (Lei 15.764/2013), reunindo auditoria, corregedoria e ouvidoria.",
     "fonte_url": "https://www.saopaulo.sp.leg.br/iah/fulltext/leis/L15764.pdf",
     "data_evidencia": "2013-05",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A Controladoria reúne órgãos que já existiam, com custo pequeno.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-18",
@@ -26481,7 +26719,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no balanço final do Programa de Metas 2013-2016 e no Catálogo de Legislação Municipal (jan/2013 a dez/2016) não localizou política integrada de saúde do servidor ou requalificação do HSPM.",
     "fonte_url": "",
     "data_evidencia": "2016-12",
-    "pagina": 16
+    "pagina": 16,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Uma política de saúde do servidor e a requalificação do HSPM aumentariam a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-19",
@@ -26498,7 +26750,21 @@
     "evidencia": "Meta 73 superada: 120 praças com o WiFi Livre SP até abr/2015 (a meta era 42).",
     "fonte_url": "https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/gestao/arquivos/Balanco%20final%20de%20gestao%20-%20Haddad.pdf",
     "data_evidencia": "2015-04",
-    "pagina": 16
+    "pagina": 16,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.004",
+      "valor_total_rs_bi": "0.004",
+      "ano_ref": "2016",
+      "valor_acumulado_rs_bi": "0.004",
+      "periodo_acumulado": "2013-2016",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Conectividade e inclusão digital (Proconecta, atividade 4307): R$ 4 milhões em 2016; nos anos anteriores o WiFi Livre SP não tinha ação própria.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-20",
@@ -26515,7 +26781,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no balanço final do Programa de Metas 2013-2016 e no Catálogo de Legislação Municipal (jan/2013 a dez/2016) não localizou instituição do Programa Cidade de Paz; houve ações do Plano Juventude Viva (meta 42, 64%).",
     "fonte_url": "",
     "data_evidencia": "2016-12",
-    "pagina": 17
+    "pagina": 17,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Um programa de prevenção à violência aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-21",
@@ -26532,7 +26812,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no balanço final do Programa de Metas 2013-2016 e no Catálogo de Legislação Municipal (jan/2013 a dez/2016) não localizou elaboração do Mapa da Violência e da Criminalidade da cidade.",
     "fonte_url": "",
     "data_evidencia": "2016-12",
-    "pagina": 17
+    "pagina": 17,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Elaborar um mapa da violência tem custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-22",
@@ -26549,7 +26843,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no balanço final do Programa de Metas 2013-2016 e no Catálogo de Legislação Municipal (jan/2013 a dez/2016) não localizou modernização e expansão do sistema eletrônico de vigilância da GCM.",
     "fonte_url": "",
     "data_evidencia": "2016-12",
-    "pagina": 17
+    "pagina": 17,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Expandir a videovigilância da GCM aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-23",
@@ -26566,7 +26874,21 @@
     "evidencia": "O efetivo da GCM foi ampliado com 500 agentes nomeados por concurso, de 2 mil previstos na meta 38 (25%).",
     "fonte_url": "https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/gestao/arquivos/Balanco%20final%20de%20gestao%20-%20Haddad.pdf",
     "data_evidencia": "2016-12",
-    "pagina": 17
+    "pagina": 17,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Os 500 guardas nomeados aumentam a folha de pagamento, paga pelas ações gerais de pessoal, sem valor separado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-24",
@@ -26583,7 +26905,21 @@
     "evidencia": "Meta 74 superada: 52.143 novos pontos de iluminação em locais sem luz e 400 mil luminárias renovadas.",
     "fonte_url": "https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/gestao/arquivos/Balanco%20final%20de%20gestao%20-%20Haddad.pdf",
     "data_evidencia": "2016-12",
-    "pagina": 17
+    "pagina": 17,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.193",
+      "valor_total_rs_bi": "0.577",
+      "ano_ref": "2016",
+      "valor_acumulado_rs_bi": "0.275",
+      "periodo_acumulado": "2013-2016",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Rede de iluminação pública: operação e manutenção (4912, que a partir de 2014 inclui a energia antes paga pelo FUNDIP, 4913), eficientização (5607) e novos pontos (5160 e 5606): R$ 384 milhões em 2012, R$ 354 milhões em 2013, R$ 343 milhões em 2014, R$ 537 milhões em 2015 e R$ 577 milhões em 2016. Inclui o aumento da conta de energia de 2015.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-25",
@@ -26600,7 +26936,21 @@
     "evidencia": "Não foi criada agência de pesquisa e inovação, mas o Decreto 55.461/2014 instituiu a política de estímulo a startups (Tech Sampa).",
     "fonte_url": "https://legislacao.prefeitura.sp.gov.br/leis/decreto-55461-de-29-de-agosto-de-2014",
     "data_evidencia": "2014-08",
-    "pagina": 20
+    "pagina": 20,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A política de estímulo a startups (Tech Sampa) tem custo pequeno.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-26",
@@ -26617,7 +26967,21 @@
     "evidencia": "A Prefeitura apoiou a implantação da Unifesp na Zona Leste e de unidades do IFSP (meta 82), mas não houve nova universidade federal na Zona Sul.",
     "fonte_url": "https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/gestao/arquivos/Balanco%20final%20de%20gestao%20-%20Haddad.pdf",
     "data_evidencia": "2016-12",
-    "pagina": 20
+    "pagina": 20,
+    "impacto": {
+      "impacto_fiscal": "fora_do_orcamento",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "As universidades e institutos federais são pagos pela União; a Prefeitura apoiou com terrenos e articulação.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-27",
@@ -26634,7 +26998,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no balanço final do Programa de Metas 2013-2016 e no Catálogo de Legislação Municipal (jan/2013 a dez/2016) não localizou criação do Conselho Municipal de Desenvolvimento Local.",
     "fonte_url": "",
     "data_evidencia": "2016-12",
-    "pagina": 21
+    "pagina": 21,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar um conselho é regra de participação; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-28",
@@ -26651,7 +27029,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no balanço final do Programa de Metas 2013-2016 e no Catálogo de Legislação Municipal (jan/2013 a dez/2016) não localizou Política Municipal de Economia Criativa.",
     "fonte_url": "",
     "data_evidencia": "2016-12",
-    "pagina": 21
+    "pagina": 21,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Uma política de economia criativa aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-29",
@@ -26668,7 +27060,21 @@
     "evidencia": "O Programa Operação Trabalho foi usado no De Braços Abertos (meta 12); não foi localizada a retomada do Bolsa Trabalho, do Começar de Novo e do Oportunidade Solidária.",
     "fonte_url": "https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/gestao/arquivos/Balanco%20final%20de%20gestao%20-%20Haddad.pdf",
     "data_evidencia": "2016-12",
-    "pagina": 21
+    "pagina": 21,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O Programa Operação Trabalho foi usado no De Braços Abertos, sem ação própria separada; os demais programas não foram retomados.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-30",
@@ -26685,7 +27091,21 @@
     "evidencia": "A Lei 16.140/2015, regulamentada em 2016, previu a compra progressiva de orgânicos da agricultura familiar para a merenda, e a Prefeitura fez chamadas públicas em 2016.",
     "fonte_url": "https://www.brasildefato.com.br/2017/06/12/gestao-doria-barra-compras-de-merenda-escolar-organica-e-agroecologica/",
     "data_evidencia": "2016",
-    "pagina": 21
+    "pagina": 21,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Comprar alimentos da agricultura familiar troca fornecedores da merenda, sem aumentar a despesa.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-31",
@@ -26702,7 +27122,21 @@
     "evidencia": "O novo Plano Diretor Estratégico foi aprovado em 31/07/2014 (Lei 16.050), e o Programa de Metas 2013-2016 foi publicado em 2013.",
     "fonte_url": "https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/gestao/arquivos/Balanco%20final%20de%20gestao%20-%20Haddad.pdf",
     "data_evidencia": "2014-07",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Revisar o Plano Diretor e publicar o Programa de Metas é regra de planejamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-32",
@@ -26719,7 +27153,21 @@
     "evidencia": "O Conselho Municipal de Política Urbana continuou existindo e foi reorganizado pelo Decreto 56.268/2015, sem virar o Conselho da Cidade.",
     "fonte_url": "https://prefeitura.sp.gov.br/web/licenciamento/w/desenvolvimento_urbano/participacao_social/conselhos_e_orgaos_colegiados/cmpu/170181",
     "data_evidencia": "2015-07",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Transformar o conselho é regra de participação; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-33",
@@ -26736,7 +27184,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no balanço final do Programa de Metas 2013-2016 e no Catálogo de Legislação Municipal (jan/2013 a dez/2016) não localizou Programas de Parceria Público-Comunitários.",
     "fonte_url": "",
     "data_evidencia": "2016-12",
-    "pagina": 23
+    "pagina": 23,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Parcerias público-comunitárias teriam custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-34",
@@ -26753,7 +27215,21 @@
     "evidencia": "A nova Lei de Zoneamento (16.402) foi sancionada em mar/2016 (meta 121); o novo Código de Obras só foi aprovado em 2017, na gestão seguinte.",
     "fonte_url": "https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/gestao/arquivos/Balanco%20final%20de%20gestao%20-%20Haddad.pdf",
     "data_evidencia": "2016-03",
-    "pagina": 24
+    "pagina": 24,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Revisar o zoneamento é regra urbanística.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-35",
@@ -26770,7 +27246,21 @@
     "evidencia": "O Plano Diretor de 2014 passou a aplicar o IPTU progressivo no tempo, a preempção e novas ZEIS, e a Prefeitura começou a notificar imóveis ociosos.",
     "fonte_url": "https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/gestao/arquivos/Balanco%20final%20de%20gestao%20-%20Haddad.pdf",
     "data_evidencia": "2016-12",
-    "pagina": 24
+    "pagina": 24,
+    "impacto": {
+      "impacto_fiscal": "receita_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O IPTU progressivo sobre imóveis ociosos aumenta a receita só a partir do 3º ano de notificação; o valor arrecadado não foi localizado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-36",
@@ -26787,7 +27277,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no balanço final do Programa de Metas 2013-2016 e no Catálogo de Legislação Municipal (jan/2013 a dez/2016) não localizou programa de capacitação técnica Sul-Sul.",
     "fonte_url": "",
     "data_evidencia": "2016-12",
-    "pagina": 24
+    "pagina": 24,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Um programa de cooperação técnica teria custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-37",
@@ -26804,7 +27308,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no balanço final do Programa de Metas 2013-2016 e no Catálogo de Legislação Municipal (jan/2013 a dez/2016) não localizou programa específico de moradia popular na região central.",
     "fonte_url": "",
     "data_evidencia": "2016-12",
-    "pagina": 24
+    "pagina": 24,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Moradia popular no centro aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-38",
@@ -26821,7 +27339,21 @@
     "evidencia": "Meta 35: 55.627 moradias viabilizadas, muitas pelo Minha Casa, Minha Vida, com 14.951 entregues até dez/2016.",
     "fonte_url": "https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/gestao/arquivos/Balanco%20final%20de%20gestao%20-%20Haddad.pdf",
     "data_evidencia": "2016-12",
-    "pagina": 25
+    "pagina": 25,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.108",
+      "valor_total_rs_bi": "0.173",
+      "ano_ref": "2016",
+      "valor_acumulado_rs_bi": "0.602",
+      "periodo_acumulado": "2013-2016",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "baixa",
+      "explicacao": "Construção de unidades habitacionais e de habitação de interesse social (projetos 3354 e 1060, desde 2014) e projetos e ações de apoio habitacional (1276): R$ 65 milhões em 2012, R$ 97 milhões em 2013, R$ 357 milhões em 2014, R$ 235 milhões em 2015 e R$ 173 milhões em 2016. O Minha Casa, Minha Vida é pago sobretudo pela União; antes de 2014 a construção pode ter sido paga por outras ações (como as operações urbanas), por isso a confiança é baixa. Gasto único.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-39",
@@ -26838,7 +27370,21 @@
     "evidencia": "Meta 36: 60.494 famílias beneficiadas por urbanização de favelas, 14.114 em obras concluídas.",
     "fonte_url": "https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/gestao/arquivos/Balanco%20final%20de%20gestao%20-%20Haddad.pdf",
     "data_evidencia": "2016-12",
-    "pagina": 25
+    "pagina": 25,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.397",
+      "ano_ref": "2016",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Urbanização de favelas, Programa Mananciais e regularização fundiária (1277/3357, 1254/3355 e 1281/3356): R$ 680 milhões em 2012, R$ 591 milhões em 2013, R$ 396 milhões em 2014, R$ 443 milhões em 2015 e R$ 397 milhões em 2016; no mandato ficou abaixo de 2012.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-40",
@@ -26855,7 +27401,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no balanço final do Programa de Metas 2013-2016 e no Catálogo de Legislação Municipal (jan/2013 a dez/2016) não localizou formação de estoque de terrenos para habitação de interesse social.",
     "fonte_url": "",
     "data_evidencia": "2016-12",
-    "pagina": 25
+    "pagina": 25,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Formar estoque de terrenos aumentaria a despesa com desapropriações; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-41",
@@ -26872,7 +27432,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no balanço final do Programa de Metas 2013-2016 e no Catálogo de Legislação Municipal (jan/2013 a dez/2016) não localizou programa de acompanhamento pós-ocupação.",
     "fonte_url": "",
     "data_evidencia": "2016-12",
-    "pagina": 25
+    "pagina": 25,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Acompanhamento pós-ocupação teria custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-42",
@@ -26889,7 +27463,21 @@
     "evidencia": "Meta 96 superada: 423,3 km de faixas exclusivas de ônibus implantados (a cidade tinha 90 km em 2012).",
     "fonte_url": "https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/gestao/arquivos/Balanco%20final%20de%20gestao%20-%20Haddad.pdf",
     "data_evidencia": "2016-12",
-    "pagina": 26
+    "pagina": 26,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "As faixas exclusivas são sinalização feita pela CET, sem ação própria no orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-43",
@@ -26906,7 +27494,21 @@
     "evidencia": "O Plano Municipal de Mobilidade Urbana foi instituído pelo Decreto 56.834/2016.",
     "fonte_url": "https://legislacao.prefeitura.sp.gov.br/leis/decreto-56834-de-24-de-fevereiro-de-2016",
     "data_evidencia": "2016-02",
-    "pagina": 26
+    "pagina": 26,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Elaborar o Plano de Mobilidade é regra de planejamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-44",
@@ -26923,7 +27525,21 @@
     "evidencia": "Em 2013 foi criado grupo de trabalho para estudar o transporte de cargas, mas não foi localizado o Plano de Logística e Carga.",
     "fonte_url": "https://legislacao.prefeitura.sp.gov.br/leis/portaria-secretaria-municipal-dos-transportes-25-de-16-de-marco-de-2013",
     "data_evidencia": "2013-03",
-    "pagina": 26
+    "pagina": 26,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Um plano de logística é estudo, com custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-45",
@@ -26940,7 +27556,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no balanço final do Programa de Metas 2013-2016 e no Catálogo de Legislação Municipal (jan/2013 a dez/2016) não localizou criação de órgão de gerenciamento da logística de carga.",
     "fonte_url": "",
     "data_evidencia": "2016-12",
-    "pagina": 26
+    "pagina": 26,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Um órgão de gestão de cargas teria custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-46",
@@ -26957,7 +27587,21 @@
     "evidencia": "O Decreto 54.058/2013 criou o Conselho Municipal de Trânsito e Transporte (CMTT).",
     "fonte_url": "https://legislacao.prefeitura.sp.gov.br/leis/decreto-54058-de-01-de-julho-de-2013",
     "data_evidencia": "2013-07",
-    "pagina": 26
+    "pagina": 26,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar o conselho de transportes é regra de participação.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-47",
@@ -26974,7 +27618,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no balanço final do Programa de Metas 2013-2016 e no Catálogo de Legislação Municipal (jan/2013 a dez/2016) não localizou criação de centrais de controle operacional do transporte.",
     "fonte_url": "",
     "data_evidencia": "2016-12",
-    "pagina": 27
+    "pagina": 27,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Centrais de controle do transporte aumentariam a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-48",
@@ -26991,7 +27649,21 @@
     "evidencia": "Meta 94 concluída: Bilhete Único diário, semanal e mensal implantados.",
     "fonte_url": "https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/gestao/arquivos/Balanco%20final%20de%20gestao%20-%20Haddad.pdf",
     "data_evidencia": "2016-02",
-    "pagina": 27
+    "pagina": 27,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "Os bilhetes diário, semanal e mensal reduzem a tarifa média e são cobertos pela compensação às empresas de ônibus, sem valor separado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-49",
@@ -27008,7 +27680,21 @@
     "evidencia": "O novo modelo de concessão dos ônibus foi elaborado e licitado em 2015, mas a licitação foi suspensa pelo Tribunal de Contas e não foi concluída no mandato.",
     "fonte_url": "https://diariodotransporte.com.br/2016/12/29/opiniao-balanco-de-haddad-na-mobilidade-urbana/",
     "data_evidencia": "2016-12",
-    "pagina": 27
+    "pagina": 27,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Definir o novo modelo de concessão dos ônibus é regra contratual.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-50",
@@ -27025,7 +27711,21 @@
     "evidencia": "Foram construídos ou requalificados 42,3 km de corredores de ônibus (meta 93 previa 150 km).",
     "fonte_url": "https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/gestao/arquivos/Balanco%20final%20de%20gestao%20-%20Haddad.pdf",
     "data_evidencia": "2016-12",
-    "pagina": 27
+    "pagina": 27,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.107",
+      "valor_total_rs_bi": "0.125",
+      "ano_ref": "2016",
+      "valor_acumulado_rs_bi": "0.75",
+      "periodo_acumulado": "2013-2016",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "media",
+      "explicacao": "Implantação e requalificação de corredores de ônibus (projetos 3701, 3702 e 3748 até 2013; 3378 a partir de 2014): R$ 18 milhões em 2012, R$ 94 milhões em 2013, R$ 272 milhões em 2014, R$ 331 milhões em 2015 e R$ 125 milhões em 2016. Gasto único de obra.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-51",
@@ -27042,7 +27742,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no balanço final do Programa de Metas 2013-2016 e no Catálogo de Legislação Municipal (jan/2013 a dez/2016) não localizou criação de estações intermodais.",
     "fonte_url": "",
     "data_evidencia": "2016-12",
-    "pagina": 27
+    "pagina": 27,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Estações intermodais exigiriam obra; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-52",
@@ -27059,7 +27773,21 @@
     "evidencia": "Foi entregue o novo Terminal Campo Limpo, para 62 mil pessoas por dia.",
     "fonte_url": "https://prefeitura.sp.gov.br/web/comunicacao/w/noticias/122995",
     "data_evidencia": "2015-10",
-    "pagina": 27
+    "pagina": 27,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.001",
+      "valor_total_rs_bi": "0.037",
+      "ano_ref": "2016",
+      "valor_acumulado_rs_bi": "0.103",
+      "periodo_acumulado": "2013-2016",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "media",
+      "explicacao": "Implantação e requalificação de terminais de ônibus urbanos (projetos 3749 e 3750): R$ 36 milhões em 2012, R$ 57 milhões em 2013, R$ 78 milhões em 2014, R$ 75 milhões em 2015 e R$ 37 milhões em 2016. Gasto único de obra.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-53",
@@ -27076,7 +27804,21 @@
     "evidencia": "Meta 98 superada: 4.840 cruzamentos reformados, 744 novos controladores e nobreaks na rede semafórica.",
     "fonte_url": "https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/gestao/arquivos/Balanco%20final%20de%20gestao%20-%20Haddad.pdf",
     "data_evidencia": "2016-05",
-    "pagina": 27
+    "pagina": 27,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "A modernização dos semáforos foi paga em contratos da CET, sem ação própria no orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-54",
@@ -27093,7 +27835,21 @@
     "evidencia": "Meta 50 superada: 1,19 milhão de m² de calçadas tornadas acessíveis.",
     "fonte_url": "https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/gestao/arquivos/Balanco%20final%20de%20gestao%20-%20Haddad.pdf",
     "data_evidencia": "2016-12",
-    "pagina": 28
+    "pagina": 28,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.022",
+      "ano_ref": "2016",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Reforma de calçadas (projeto 1169): R$ 29 milhões em 2012 e entre R$ 1 milhão e R$ 22 milhões por ano no mandato, abaixo de 2012.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-55",
@@ -27110,7 +27866,21 @@
     "evidencia": "Meta 97 concluída: 477,7 km de vias com tratamento cicloviário permanente.",
     "fonte_url": "https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/gestao/arquivos/Balanco%20final%20de%20gestao%20-%20Haddad.pdf",
     "data_evidencia": "2016-12",
-    "pagina": 28
+    "pagina": 28,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.019",
+      "valor_total_rs_bi": "0.02",
+      "ano_ref": "2016",
+      "valor_acumulado_rs_bi": "0.108",
+      "periodo_acumulado": "2013-2016",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "media",
+      "explicacao": "Implantação de ciclovias, ciclofaixas e ciclorrotas (projetos 7137 e 3377): R$ 1 milhão em 2012 e 2013, R$ 41 milhões em 2014, R$ 50 milhões em 2015 e R$ 20 milhões em 2016. Inclui os bicicletários (promessa 56). Gasto único de obra.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-56",
@@ -27127,7 +27897,21 @@
     "evidencia": "A cidade passou a ter 6.247 vagas em bicicletários públicos integrados ao transporte.",
     "fonte_url": "https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/gestao/arquivos/Balanco%20final%20de%20gestao%20-%20Haddad.pdf",
     "data_evidencia": "2016-12",
-    "pagina": 28
+    "pagina": 28,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O custo dos bicicletários está somado na promessa 55.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-57",
@@ -27144,7 +27928,21 @@
     "evidencia": "O Bike Sampa passou a ser usado com o Bilhete Único a partir de jan/2014.",
     "fonte_url": "https://www.guiadasemana.com.br/turismo/noticia/bilhete-unico-e-integrado-a-projeto-bike-sampa",
     "data_evidencia": "2014-01",
-    "pagina": 28
+    "pagina": 28,
+    "impacto": {
+      "impacto_fiscal": "fora_do_orcamento",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O Bike Sampa é operado e patrocinado por empresa privada, sem gasto da Prefeitura.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-58",
@@ -27161,7 +27959,21 @@
     "evidencia": "A Lei 15.688/2013 tornou a inspeção veicular gratuita, mas o programa foi suspenso em 2014, com o fim do contrato, e não foi retomado no mandato.",
     "fonte_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-15688-de-11-de-abril-de-2013",
     "data_evidencia": "2014",
-    "pagina": 28
+    "pagina": 28,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "A inspeção veicular gratuita em 2013 transferiu à Prefeitura o custo da taxa; não há ação própria no orçamento, e o programa acabou em 2014.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-59",
@@ -27178,7 +27990,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no balanço final do Programa de Metas 2013-2016 e no Catálogo de Legislação Municipal (jan/2013 a dez/2016) não localizou estacionamentos públicos para centros comerciais de bairro.",
     "fonte_url": "",
     "data_evidencia": "2016-12",
-    "pagina": 28
+    "pagina": 28,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Estacionamentos públicos aumentariam a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "haddad_sp_2012-60",
@@ -27195,7 +28021,21 @@
     "evidencia": "Foram elaborados os Cadernos de Drenagem e criada instância municipal de drenagem (meta 106), e aprovado o Plano de Gestão Integrada de Resíduos Sólidos em 2014.",
     "fonte_url": "https://drive.prefeitura.sp.gov.br/cidade/secretarias/upload/gestao/arquivos/Balanco%20final%20de%20gestao%20-%20Haddad.pdf",
     "data_evidencia": "2016-12",
-    "pagina": 30
+    "pagina": 30,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Revisar os planos de drenagem, água e esgoto e resíduos é regra de planejamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "fuad_bh_2024-01",
