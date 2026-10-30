@@ -16917,7 +16917,21 @@
     "evidencia": "O Programa Zona Franca Social foi instituído em dez/2017, lançado em abr/2018 e regulamentado pelo Decreto 46.378/2019, mas dá preferência nas compras da prefeitura a fornecedores de áreas de baixo IDS; não foram localizados os benefícios tributários prometidos.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3716/1",
     "data_evidencia": "2018-04",
-    "pagina": 1
+    "pagina": 1,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O Zona Franca Social dá preferência nas compras da prefeitura a pequenos fornecedores das áreas pobres; não criou benefício tributário, sem efeito separado no orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-002",
@@ -16934,7 +16948,21 @@
     "evidencia": "A prefeitura levou o Cimento Social para a esfera municipal: fez obras emergenciais em casas do programa no Morro do Salgueiro (2018–2019), criou em 2019 a Coordenadoria Geral de Projetos para Domicílios Precários - Cimento Social e contratou em 2020 a supervisão das intervenções; não há balanço de casas atendidas.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/4250/3",
     "data_evidencia": "2019-08",
-    "pagina": 1
+    "pagina": 1,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O Cimento Social municipal (obras emergenciais e coordenadoria criada em 2019) não tem ação própria identificada no orçamento de 2017 e 2018.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-003",
@@ -16951,7 +16979,21 @@
     "evidencia": "A despesa municipal com saúde caiu de R$ 4,98 bi em 2016 para R$ 4,36 bi em 2019 (dados da Controladoria-Geral do Município, compilados pelo Aos Fatos).",
     "fonte_url": "https://www.aosfatos.org/noticias/promessas-crivella-prefeitura-rio-de-janeiro/",
     "data_evidencia": "2020-09",
-    "pagina": 2
+    "pagina": 2,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Aumentar em R$ 250 milhões por ano os recursos da Saúde e reestruturar a gestão das 14 UPAs e 8 hospitais de emergência aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-004",
@@ -16968,7 +17010,21 @@
     "evidencia": "O programa entrou no orçamento, mas nenhuma Clínica de Especialistas foi implantada até set/2020 (Aos Fatos); a busca no Diário Oficial não localizou inauguração depois disso.",
     "fonte_url": "https://www.aosfatos.org/noticias/promessas-crivella-prefeitura-rio-de-janeiro/",
     "data_evidencia": "2020-09",
-    "pagina": 2
+    "pagina": 2,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar o programa Clínica de Especialistas, com 20 unidades até 2020 aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-005",
@@ -16985,7 +17041,21 @@
     "evidencia": "Não foi localizada contratação de ginecologistas e pediatras para as Clínicas da Família; em out/2018 a prefeitura anunciou o corte de 239 equipes da atenção primária (184 de Saúde da Família e 55 de saúde bucal) e começou as demissões em jan/2019.",
     "fonte_url": "https://www.brasildefato.com.br/2018/11/06/rio-tera-corte-de-239-equipes-de-saude-e-menos-1400-profissionais-em-2019/",
     "data_evidencia": "2018-11",
-    "pagina": 2
+    "pagina": 2,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Contratar mais ginecologistas e pediatras para as Clínicas da Família aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-006",
@@ -17002,7 +17072,21 @@
     "evidencia": "As CERs do Rocha Faria e do Albert Schweitzer já funcionavam desde jul/2016 (gestão anterior) e a do Salgado Filho não saiu do papel.",
     "fonte_url": "https://www.aosfatos.org/noticias/promessas-crivella-prefeitura-rio-de-janeiro/",
     "data_evidencia": "2020-09",
-    "pagina": 2
+    "pagina": 2,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantar CERs junto aos hospitais Rocha Faria, Salgado Filho e Albert Schweitzer até 2017 aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-007",
@@ -17019,7 +17103,21 @@
     "evidencia": "Nenhuma das UPAs estaduais foi municipalizada; o prefeito desistiu em fev/2017 alegando falta de condições financeiras.",
     "fonte_url": "https://www.aosfatos.org/noticias/promessas-crivella-prefeitura-rio-de-janeiro/",
     "data_evidencia": "2020-09",
-    "pagina": 2
+    "pagina": 2,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Assumir a gestão das 16 UPAs estaduais no município até 2018 aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-008",
@@ -17036,7 +17134,21 @@
     "evidencia": "Os leitos dos hospitais municipais caíram de 4.064 em 2017 para 3.761 em 2019, e as filas de cirurgia não foram zeradas (as cirurgias cresceram 8% em 2017).",
     "fonte_url": "https://www.aosfatos.org/noticias/promessas-crivella-prefeitura-rio-de-janeiro/",
     "data_evidencia": "2020-09",
-    "pagina": 2
+    "pagina": 2,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Fazer mutirão para zerar filas de cirurgias com risco de vida e aumentar em 20% os leitos dos hospitais municipais até 2018 aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-009",
@@ -17053,7 +17165,21 @@
     "evidencia": "O novo plano de cargos e salários da saúde não foi aprovado pela Câmara até o fim do mandato (até set/2020 não tinha passado pela Câmara, segundo o Aos Fatos; a busca no Diário Oficial não localizou a lei depois disso).",
     "fonte_url": "https://www.aosfatos.org/noticias/promessas-crivella-prefeitura-rio-de-janeiro/",
     "data_evidencia": "2020-09",
-    "pagina": 3
+    "pagina": 3,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar plano de cargos e salários por mérito para os servidores da saúde até 2017 aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-010",
@@ -17070,7 +17196,21 @@
     "evidencia": "A Secretaria Municipal de Saúde publicou no Diário Oficial de 30/06/2017 o estudo e a auditoria das Organizações Sociais de Saúde.",
     "fonte_url": "https://www.aosfatos.org/noticias/crivella-completa-apenas-3-de-14-promessas-de-campanha-para-2017/",
     "data_evidencia": "2017-06",
-    "pagina": 3
+    "pagina": 3,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Auditar as Organizações Sociais é medida de controle, com custo pequeno.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-011",
@@ -17087,7 +17227,21 @@
     "evidencia": "O Cegonha Carioca voltou a crescer em 2017: 67.856 gestantes no pré-natal até novembro, contra 42.940 em todo o ano de 2016; houve problemas noticiados em 2018 e 2019, e a antecedência de 5 meses não foi confirmada.",
     "fonte_url": "https://www.aosfatos.org/noticias/crivella-completa-apenas-3-de-14-promessas-de-campanha-para-2017/",
     "data_evidencia": "2017-12",
-    "pagina": 3
+    "pagina": 3,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.056",
+      "ano_ref": "2018",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Cegonha Carioca (atividade 2011): R$ 67 milhões em 2016, R$ 58 milhões em 2017 e R$ 56 milhões em 2018; como ficou abaixo de 2016, só o custo de 2018.",
+      "fonte_oficial": "https://www.data.rio/datasets/PCRJ::execução-orçamentária-despesas",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-012",
@@ -17104,7 +17258,21 @@
     "evidencia": "A maternidade junto ao Hospital Nossa Senhora do Loreto não foi criada (não consta na lista de unidades da Secretaria de Saúde em set/2020).",
     "fonte_url": "https://www.aosfatos.org/noticias/promessas-crivella-prefeitura-rio-de-janeiro/",
     "data_evidencia": "2020-09",
-    "pagina": 3
+    "pagina": 3,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar maternidade junto ao Hospital Nossa Senhora do Loreto (Ilha do Governador) até 2018 aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-013",
@@ -17121,7 +17289,21 @@
     "evidencia": "A PPP Rio+Creche não foi licitada; foram criadas ao menos 16.764 vagas em creches e pré-escolas, pouco mais de um quarto das 60 mil prometidas.",
     "fonte_url": "https://www.aosfatos.org/noticias/promessas-crivella-prefeitura-rio-de-janeiro/",
     "data_evidencia": "2020-09",
-    "pagina": 3
+    "pagina": 3,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar 20 mil vagas em creches e 40 mil em pré-escolas até 2020, por PPP aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-014",
@@ -17138,7 +17320,21 @@
     "evidencia": "Em jul/2020, 35,5% dos alunos de toda a rede municipal estudavam em tempo integral, contra 19,4% em 2015 (Acordo de Resultados), mais da metade do caminho até os 50%; a prefeitura não informou o percentual dos anos iniciais e a busca no Diário Oficial não localizou o dado.",
     "fonte_url": "https://www.aosfatos.org/noticias/promessas-crivella-prefeitura-rio-de-janeiro/",
     "data_evidencia": "2020-09",
-    "pagina": 3
+    "pagina": 3,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.008",
+      "valor_total_rs_bi": "0.008",
+      "ano_ref": "2018",
+      "valor_acumulado_rs_bi": "0.008",
+      "periodo_acumulado": "2017-2018",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "baixa",
+      "explicacao": "Construção de escolas em tempo integral (projeto 1111): sem gasto em 2016 e 2017 e R$ 8 milhões em 2018. O turno único em escolas existentes é pago pelas ações gerais de pessoal, sem valor separado, por isso subestima o custo.",
+      "fonte_oficial": "https://www.data.rio/datasets/PCRJ::execução-orçamentária-despesas",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-015",
@@ -17155,7 +17351,21 @@
     "evidencia": "A Escola de Formação do Professor Carioca Paulo Freire foi reformulada em 2017, com novo programa de formação em parceria com outras instituições.",
     "fonte_url": "https://www.aosfatos.org/noticias/promessas-crivella-prefeitura-rio-de-janeiro/",
     "data_evidencia": "2020-09",
-    "pagina": 3
+    "pagina": 3,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "A reformulação da Escola de Formação do Professor Carioca usa a estrutura da Secretaria de Educação, sem ação própria separada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-016",
@@ -17172,7 +17382,21 @@
     "evidencia": "Para cumprir a meta seria preciso chegar a R$ 7,4 bi em 2020 (gasto de R$ 6,2 bi em 2016); até set/2020 a prefeitura tinha gasto R$ 4,1 bi.",
     "fonte_url": "https://www.aosfatos.org/noticias/promessas-crivella-prefeitura-rio-de-janeiro/",
     "data_evidencia": "2020-09",
-    "pagina": 4
+    "pagina": 4,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Aumentar em 20% o orçamento de custeio das escolas até 2020 aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-017",
@@ -17189,7 +17413,21 @@
     "evidencia": "A prefeitura continuou construindo escolas de ensino fundamental: em ago/2018 entregou a Escola Municipal Vereadora Marielle Franco, na Maré (1º ao 6º ano), dentro de um plano com 10 novas escolas.",
     "fonte_url": "https://agenciabrasil.ebc.com.br/educacao/noticia/2018-08/mare-ganha-escola-que-homenageia-vereadora-mariellle-franco",
     "data_evidencia": "2018-08",
-    "pagina": 4
+    "pagina": 4,
+    "impacto": {
+      "impacto_fiscal": "despesa_reduz",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Interromper a construção de escolas de ensino fundamental reduziria o investimento; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-018",
@@ -17206,7 +17444,21 @@
     "evidencia": "A convocação dos aprovados foi suspensa em jun/2017 por causa do limite de gasto com pessoal e só terminou em out/2018 (prazo prometido: 2017); não foi localizada a meta de 1 assistente social para cada 3 escolas.",
     "fonte_url": "https://www.aosfatos.org/noticias/promessas-crivella-prefeitura-rio-de-janeiro/",
     "data_evidencia": "2018-10",
-    "pagina": 4
+    "pagina": 4,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "Os agentes de apoio à educação convocados entram na folha geral da educação, sem valor separado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-019",
@@ -17223,7 +17475,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2017–2020) em out/2026 não localizou registro de parcerias com organizações do terceiro setor para atividades complementares nos anos finais do ensino fundamental; a prefeitura não informou nada sobre isso ao Aos Fatos em 2020.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 4
+    "pagina": 4,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Fazer parcerias com o terceiro setor para atividades complementares nos anos finais do ensino fundamental aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-020",
@@ -17240,7 +17506,21 @@
     "evidencia": "O Decreto 42.779, de 01/01/2017, deu 60 dias para a Secretaria de Cultura apresentar o cronograma do Vale Cultura para pais e alunos da rede, mas o programa ficou só com dotação simbólica (R$ 2.017) e, segundo a própria secretaria, 2017 foi dedicado a estudos; não foi localizado programa de incentivo à participação dos pais.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3314/14",
     "data_evidencia": "2018-04",
-    "pagina": 4
+    "pagina": 4,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar em 2017 programa de incentivo à participação dos pais na escola, ampliando o Vale Cultura aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-021",
@@ -17257,7 +17537,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2017–2020) em out/2026 não localizou registro de balanço da distribuição do efetivo da Guarda Municipal; o Plano Plurianual fixou a meta de 80% em policiamento comunitário até 2020, a partir de um índice de referência de 74%, mas a prefeitura não informou o resultado.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/4131/78",
     "data_evidencia": "2026-10",
-    "pagina": 4
+    "pagina": 4,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Pôr ao menos 80% da Guarda Municipal em policiamento comunitário e vigilância até 2018 é regra ou parceria, sem gasto próprio relevante; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-022",
@@ -17274,7 +17568,21 @@
     "evidencia": "Não houve parceria com a Força Nacional (que não tinha orçamento); a prefeitura treinou 186 guardas em armas não letais em 2017 e criou um portal de cursos a distância.",
     "fonte_url": "https://www.aosfatos.org/noticias/crivella-completa-apenas-3-de-14-promessas-de-campanha-para-2017/",
     "data_evidencia": "2017-12",
-    "pagina": 4
+    "pagina": 4,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O treinamento de 186 guardas em armas não letais tem custo pequeno.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-023",
@@ -17291,7 +17599,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2017–2020) em out/2026 não localizou registro de balanço da ampliação das câmeras; o Plano Plurianual previa passar de 800 para 1.960 câmeras de vigilância do COR, e a Guarda Municipal não respondeu ao Aos Fatos sobre o resultado.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/4131/81",
     "data_evidencia": "2026-10",
-    "pagina": 4
+    "pagina": 4,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar em ao menos 20% as câmeras de vigilância até 2020 aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-024",
@@ -17308,7 +17630,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2017–2020) em out/2026 não localizou registro de recuperação do programa original das UOPs (procedimentos padrão, patrulhamento permanente e equipe de choque); as unidades continuaram existindo, com troca de chefias publicada no Diário Oficial até 2020, mas sem ato ou balanço de reestruturação.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 5
+    "pagina": 5,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Recuperar as 10 Unidades de Ordem Pública (UOPs) existentes até 2018 aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-025",
@@ -17325,7 +17661,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2017–2020) em out/2026 não localizou registro de novas Unidades de Ordem Pública; o programa não foi ampliado até set/2020 (Aos Fatos).",
     "fonte_url": "https://www.aosfatos.org/noticias/promessas-crivella-prefeitura-rio-de-janeiro/",
     "data_evidencia": "2020-09",
-    "pagina": 5
+    "pagina": 5,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar 10 novas UOPs nas Zonas Norte e Oeste até 2020 aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-026",
@@ -17342,7 +17692,21 @@
     "evidencia": "Em dez/2017 a ronda escolar tinha 179 guardas para 689 das 1.537 escolas municipais; a prefeitura alegou que não podia aumentar o efetivo por causa do limite de gasto com pessoal.",
     "fonte_url": "https://www.aosfatos.org/noticias/crivella-completa-apenas-3-de-14-promessas-de-campanha-para-2017/",
     "data_evidencia": "2017-12",
-    "pagina": 5
+    "pagina": 5,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ter ao menos um guarda municipal em cada escola municipal até 2017 aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-027",
@@ -17359,7 +17723,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2017–2020) em out/2026 não localizou registro de política municipal de incentivos às polícias do estado por metas de segurança por AISP; a prefeitura manteve o convênio do PROEIS e criou o Rio + Seguro, que pagam policiais por turnos extras, sem vínculo com metas.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 5
+    "pagina": 5,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar até 2018 política municipal de incentivos às polícias do estado por metas de segurança por AISP é regra ou parceria, sem gasto próprio relevante; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-028",
@@ -17376,7 +17754,21 @@
     "evidencia": "A PPP da iluminação pública foi assinada só em abr/2020 (concessionária Smart Luz) e suspensa pela Justiça meses depois; os investimentos não foram concluídos até 2019, como prometido.",
     "fonte_url": "https://www.conjur.com.br/2021-abr-12/smart-luz-continua-responsavel-servico-iluminacao-rio/",
     "data_evidencia": "2020-04",
-    "pagina": 5
+    "pagina": 5,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "A PPP da iluminação pública só foi assinada em abr/2020 e foi suspensa pela Justiça, depois do período com dados (2017-2018).",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-029",
@@ -17393,7 +17785,21 @@
     "evidencia": "Houve inventário das praças e parques e início dos trabalhos de recuperação (segundo o G1, citado pelo Aos Fatos), mas a conclusão até 2017 não foi confirmada.",
     "fonte_url": "https://www.aosfatos.org/noticias/promessas-crivella-prefeitura-rio-de-janeiro/",
     "data_evidencia": "2020-09",
-    "pagina": 5
+    "pagina": 5,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.026",
+      "valor_total_rs_bi": "0.041",
+      "ano_ref": "2018",
+      "valor_acumulado_rs_bi": "0.02",
+      "periodo_acumulado": "2017-2018",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Urbanização e conservação de praças e áreas ajardinadas e manejo da arborização (3015, 4010 e 4042): R$ 15 milhões em 2016, R$ 9 milhões em 2017 e R$ 41 milhões em 2018.",
+      "fonte_oficial": "https://www.data.rio/datasets/PCRJ::execução-orçamentária-despesas",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-030",
@@ -17410,7 +17816,21 @@
     "evidencia": "A Secretaria de Assistência Social informou que não criou nova parceria com o Ministério Público e os Conselhos Tutelares no primeiro ano (a parceria com o MP já existia).",
     "fonte_url": "https://www.aosfatos.org/noticias/crivella-completa-apenas-3-de-14-promessas-de-campanha-para-2017/",
     "data_evidencia": "2017-12",
-    "pagina": 5
+    "pagina": 5,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Firmar no primeiro ano parceria com o Ministério Público e o Conselho Tutelar contra a exploração de crianças nas ruas é regra ou parceria, sem gasto próprio relevante; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-031",
@@ -17427,7 +17847,21 @@
     "evidencia": "O BRT TransBrasil não entrou em operação no mandato: as obras retomadas em abr/2017 seguiam com quatro anos de atraso em set/2020 (o corredor só foi inaugurado em 2024).",
     "fonte_url": "https://www.aosfatos.org/noticias/promessas-crivella-prefeitura-rio-de-janeiro/",
     "data_evidencia": "2020-09",
-    "pagina": 5
+    "pagina": 5,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Concluir o BRT TransBrasil e pô-lo em operação até 2017 aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-032",
@@ -17444,7 +17878,21 @@
     "evidencia": "A frota do BRT passou de 327 ônibus (2015) para 413 (ago/2020), mas em abr/2019 só 360 dos 420 exigidos rodavam e a prefeitura fez intervenção no sistema em jan/2019 por causa da frota reduzida; não há balanço das multas pelo ar-condicionado.",
     "fonte_url": "https://transportes.prefeitura.rio/wp-content/uploads/sites/31/2023/10/ATACMTRABRIL2019.pdf",
     "data_evidencia": "2020-08",
-    "pagina": 5
+    "pagina": 5,
+    "impacto": {
+      "impacto_fiscal": "fora_do_orcamento",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A frota do BRT é das concessionárias; exigir mais ônibus não passa pelo orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-033",
@@ -17461,7 +17909,21 @@
     "evidencia": "O Decreto 42.723, de 01/01/2017, suspendeu a racionalização das linhas de ônibus e mandou fazer um diagnóstico do sistema.",
     "fonte_url": "https://diariodotransporte.com.br/2017/01/01/marcelo-crivella-suspende-racionalizacao-de-linhas-de-onibus-no-rio-de-janeiro/",
     "data_evidencia": "2017-01",
-    "pagina": 6
+    "pagina": 6,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Suspender a racionalização das linhas é regra de operação do sistema.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-034",
@@ -17478,7 +17940,21 @@
     "evidencia": "A ampliação para 3 horas veio de lei da Câmara (Lei 6.549/2019), aprovada com a derrubada do veto do prefeito, e foi suspensa pela Justiça; o Bilhete Único Carioca não foi estendido ao Metrô.",
     "fonte_url": "https://diariodotransporte.com.br/2019/03/20/camara-municipal-do-rio-de-janeiro-aprova-ampliacao-de-integracao-com-bilhete-unico-para-tres-horas/",
     "data_evidencia": "2019-04",
-    "pagina": 6
+    "pagina": 6,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o Bilhete Único Carioca aumentaria o subsídio às empresas de transporte; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-035",
@@ -17495,7 +17971,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2017–2020) em out/2026 não localizou registro de nova licitação das vans da Zona Oeste; o serviço seguiu com as permissões da concorrência de 2012, e em out/2017 a prefeitura chegou a liberar a circulação das vans fora do trajeto e recuou no dia seguinte.",
     "fonte_url": "https://diariodotransporte.com.br/2017/10/31/prefeitura-do-rio-volta-atras-na-liberacao-de-vans/",
     "data_evidencia": "2026-10",
-    "pagina": 6
+    "pagina": 6,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Licitar o serviço de vans na Zona Oeste ao final de 2017 (um CPF, uma van) é regra ou parceria, sem gasto próprio relevante; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-036",
@@ -17512,7 +18002,21 @@
     "evidencia": "O Decreto 42.768/2017 abriu cooperação técnica de 45 dias com o CREA-RJ, que fez um laudo; a prefeitura desistiu do projeto de reforço e passou a cobrar os reparos do consórcio construtor, e a ciclovia seguiu interditada.",
     "fonte_url": "https://www.aosfatos.org/noticias/crivella-completa-apenas-3-de-14-promessas-de-campanha-para-2017/",
     "data_evidencia": "2017-12",
-    "pagina": 6
+    "pagina": 6,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O laudo do CREA-RJ foi cooperação técnica, e os reparos da ciclovia foram cobrados do consórcio construtor.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-037",
@@ -17529,7 +18033,21 @@
     "evidencia": "Houve aviso de PPP para estacionamentos subterrâneos em 2018, sem avanço; nenhum foi construído.",
     "fonte_url": "https://www.aosfatos.org/noticias/promessas-crivella-prefeitura-rio-de-janeiro/",
     "data_evidencia": "2020-09",
-    "pagina": 6
+    "pagina": 6,
+    "impacto": {
+      "impacto_fiscal": "fora_do_orcamento",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Estacionamentos por PPP teriam o investimento feito pela concessionária; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-038",
@@ -17546,7 +18064,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2017–2020) em out/2026 não localizou registro de mudança na cobrança do ISS da Uber ou programa de subsídio à frota de táxis financiado por ele.",
     "fonte_url": "https://www.aosfatos.org/noticias/promessas-crivella-prefeitura-rio-de-janeiro/",
     "data_evidencia": "2020-09",
-    "pagina": 6
+    "pagina": 6,
+    "impacto": {
+      "impacto_fiscal": "receita_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Cobrar o ISS da Uber no Rio aumentaria a receita; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-039",
@@ -17563,7 +18095,21 @@
     "evidencia": "O Decreto 42.769/2017 mandou rever os radares e o número caiu 17% em 2017 (de 619 para 512), mas parte do dinheiro das multas foi gasta fora da conservação de vias e da educação no trânsito.",
     "fonte_url": "https://www.aosfatos.org/noticias/crivella-completa-apenas-3-de-14-promessas-de-campanha-para-2017/",
     "data_evidencia": "2017-12",
-    "pagina": 6
+    "pagina": 6,
+    "impacto": {
+      "impacto_fiscal": "receita_reduz",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "Menos radares reduz a receita de multas; o valor não foi separado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-040",
@@ -17580,7 +18126,21 @@
     "evidencia": "A prefeitura passou a ter 15 secretarias (eram 29 órgãos ligados ao prefeito), embora o gasto com pessoal tenha subido de R$ 11,6 bi em 2016 para R$ 12,2 bi em 2019.",
     "fonte_url": "https://www.aosfatos.org/noticias/promessas-crivella-prefeitura-rio-de-janeiro/",
     "data_evidencia": "2020-09",
-    "pagina": 6
+    "pagina": 6,
+    "impacto": {
+      "impacto_fiscal": "despesa_reduz",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "A fusão de secretarias (2018) reduziu cargos, mas o gasto com pessoal subiu de R$ 11,6 bi em 2016 para R$ 12,2 bi em 2019; a economia da fusão não foi medida.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-041",
@@ -17597,7 +18157,21 @@
     "evidencia": "O programa Oficina para o Emprego foi criado em 2017 com 900 vagas e cancelado em 2018 por falta de orçamento.",
     "fonte_url": "https://www.aosfatos.org/noticias/promessas-crivella-prefeitura-rio-de-janeiro/",
     "data_evidencia": "2020-09",
-    "pagina": 7
+    "pagina": 7,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar o programa Oficina para o Emprego, com 20 centros e 40 mil vagas até 2019 aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-042",
@@ -17614,7 +18188,21 @@
     "evidencia": "Não houve lei garantindo 1% do orçamento para a cultura: a previsão foi de 0,82% em 2017, 0,58% em 2018, 0,51% em 2019 e 0,48% em 2020.",
     "fonte_url": "https://www.aosfatos.org/noticias/promessas-crivella-prefeitura-rio-de-janeiro/",
     "data_evidencia": "2020-09",
-    "pagina": 7
+    "pagina": 7,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Garantir por lei 1% do orçamento municipal para a cultura já no primeiro ano e reestruturar o Vale Cultura aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-043",
@@ -17631,7 +18219,21 @@
     "evidencia": "A PPP de esgoto da AP 4 foi anunciada em 2018, mas não foi licitada; o saneamento da região seguiu com a Cedae (e entrou na concessão estadual de 2021).",
     "fonte_url": "https://www.aosfatos.org/noticias/promessas-crivella-prefeitura-rio-de-janeiro/",
     "data_evidencia": "2020-09",
-    "pagina": 7
+    "pagina": 7,
+    "impacto": {
+      "impacto_fiscal": "fora_do_orcamento",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A concessão da água e do esgoto da AP 4 seria feita com a Cedae, fora do orçamento municipal; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-044",
@@ -17648,7 +18250,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2017–2020) em out/2026 não localizou registro de criação de parque entre Bangu e Campo Grande; o Plano Estratégico chegou a mudar o local para Realengo, e nenhum parque desse tipo foi criado no mandato.",
     "fonte_url": "https://www.aosfatos.org/noticias/promessas-crivella-prefeitura-rio-de-janeiro/",
     "data_evidencia": "2020-09",
-    "pagina": 7
+    "pagina": 7,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar até 2019 um parque entre Bangu e Campo Grande no padrão do Parque de Madureira aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-045",
@@ -17665,7 +18281,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2017–2020) em out/2026 não localizou registro de parceria entre Comlurb e Cedae para resolver saneamento, água e limpeza das 20 principais comunidades; a Comlurb não respondeu ao Aos Fatos em 2020.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 7
+    "pagina": 7,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Resolver com Comlurb e Cedae o saneamento, a água e a limpeza das 20 principais comunidades até 2019 é regra ou parceria, sem gasto próprio relevante; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-046",
@@ -17682,7 +18312,21 @@
     "evidencia": "Não houve nova legislação para conter o adensamento da AP 4: a Lei Complementar 192/2018 (\"mais-valia\") cobra contrapartida, mas para legalizar e liberar acréscimos de construção na cidade toda, sem destino definido para a AP 4; a contrapartida do PEU das Vargens já existia desde a LC 104/2009.",
     "fonte_url": "https://www.machadomeyer.com.br/en/recent-publications/publications/real-estate/new-rules-to-regulate-licensing-and-construction-of-real-estate-in-the-city-of-rio-de-janeiro",
     "data_evidencia": "2018-07",
-    "pagina": 7
+    "pagina": 7,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Aprovar nova legislação urbanística para a AP 4 (Vargens e Jacarepaguá) com contrapartidas maiores dos empreendedores é regra ou parceria, sem gasto próprio relevante; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-047",
@@ -17699,7 +18343,21 @@
     "evidencia": "O Acordo de Resultados não foi ampliado: o prêmio de 2016 só foi pago no fim de 2019 e o alcance do programa foi limitado em 2018.",
     "fonte_url": "https://www.aosfatos.org/noticias/promessas-crivella-prefeitura-rio-de-janeiro/",
     "data_evidencia": "2020-09",
-    "pagina": 7
+    "pagina": 7,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o Acordo de Resultados para premiar os 1.000 servidores com melhor desempenho e conter a descapitalização da previdência aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "crivella_rio_2016-048",
@@ -17716,7 +18374,21 @@
     "evidencia": "As novas vagas localizadas ficam muito abaixo de 4.000: um albergue com 400 vagas em 2017 e contrato de 330 vagas a partir de nov/2018; em 2021 a rede tinha cerca de 2.600 vagas no total.",
     "fonte_url": "https://www.aosfatos.org/noticias/promessas-crivella-prefeitura-rio-de-janeiro/",
     "data_evidencia": "2020-09",
-    "pagina": 7
+    "pagina": 7,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar 4.000 vagas de acolhimento para a população de rua até 2019 aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-001",
@@ -17733,7 +18405,21 @@
     "evidencia": "A rede municipal não chegou a 6,0 nos anos iniciais nem a 5,0 nos anos finais em 2015: em 2013 tinha 5,3 e 4,4, e a própria prefeitura chamou de maiores notas da série histórica o 6,0 (anos iniciais) e o 5,2 (anos finais) alcançados só em 2023.",
     "fonte_url": "https://educacao.prefeitura.rio/noticias/rio-alcanca-maior-ideb-da-historia-nos-anos-iniciais-e-esta-entre-as-capitais-que-mais-avancaram-no-pais/",
     "data_evidencia": "2016-09",
-    "pagina": 4
+    "pagina": 4,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "IDEB da rede municipal de pelo menos 6,0 nos anos iniciais e 5,0 nos anos finais em 2015 é meta de resultado ou regra, sem gasto próprio direto; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-002",
@@ -17750,7 +18436,21 @@
     "evidencia": "Metas de 2016 do Acordo de Resultados, com valores de referência (Diário Oficial de 20/04/2016): 90,7% das crianças estavam alfabetizadas em 2014 (meta: 95%); não foi localizado o resultado de 2016.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3083/11",
     "data_evidencia": "2014-12",
-    "pagina": 12
+    "pagina": 12,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ter ao menos 95% das crianças de 7 anos alfabetizadas em 2016 é meta de resultado ou regra, sem gasto próprio direto; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-003",
@@ -17767,7 +18467,21 @@
     "evidencia": "Metas de 2016 do Acordo de Resultados, com valores de referência (Diário Oficial de 20/04/2016): o analfabetismo funcional entre alunos do 4º ao 6º ano era de 2,4% em 2014, abaixo dos 5% prometidos (a meta interna passou a ser de até 2,5%).",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3083/11",
     "data_evidencia": "2014-12",
-    "pagina": 4
+    "pagina": 4,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Meta de resultado educacional; o custo está nas ações gerais da educação.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-004",
@@ -17784,7 +18498,21 @@
     "evidencia": "Em 2015 só 19,4% dos alunos estavam em tempo integral (Metas de 2016 do Acordo de Resultados, com valores de referência (Diário Oficial de 20/04/2016)); em set/2016 a Secretaria de Educação informou 535 escolas (36% da rede) em tempo integral, sem dizer o percentual de alunos.",
     "fonte_url": "https://ipp.prefeitura.rio/wp-content/uploads/sites/64/2023/02/Conselho-Ata-14-09-2016-Final.pdf",
     "data_evidencia": "2016-09",
-    "pagina": 12
+    "pagina": 12,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "A ação própria das Escolas do Amanhã caiu de R$ 45 milhões em 2012 para R$ 1 milhão em 2016; o turno único é pago pelas ações gerais de pessoal e manutenção da educação, sem valor separado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-005",
@@ -17801,7 +18529,21 @@
     "evidencia": "Metas de 2016 do Acordo de Resultados, com valores de referência (Diário Oficial de 20/04/2016): 95,7% dos alunos concluíam o 2º segmento até os 16 anos em 2014 (meta: 96%), a 0,3 ponto da meta; não foi localizado o resultado de 2016.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3083/11",
     "data_evidencia": "2014-12",
-    "pagina": 4
+    "pagina": 4,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Meta de resultado educacional; o custo está nas ações gerais da educação.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-006",
@@ -17818,7 +18560,21 @@
     "evidencia": "A rede tinha 40.585 vagas novas de educação infantil desde 2009 em 2015 (Metas de 2016 do Acordo de Resultados, com valores de referência (Diário Oficial de 20/04/2016); o plano informa cerca de 15 mil criadas até 2012), ou seja, cerca de 25 mil em 2013–2015; não foi localizado o total de 2016 nem o número de EDIs abertos.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3083/11",
     "data_evidencia": "2015-12",
-    "pagina": 4
+    "pagina": 4,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.294",
+      "valor_total_rs_bi": "0.7",
+      "ano_ref": "2016",
+      "valor_acumulado_rs_bi": "0.577",
+      "periodo_acumulado": "2013-2016",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Educação infantil: construção de EDIs (projetos 1024 e 1789), manutenção (2306/2133) e pessoal das unidades (2567): R$ 406 milhões em 2012, R$ 399 milhões em 2013, R$ 482 milhões em 2014, R$ 620 milhões em 2015 e R$ 700 milhões em 2016. Inclui reajustes salariais, não só as vagas novas.",
+      "fonte_oficial": "https://www.data.rio/datasets/PCRJ::execução-orçamentária-despesas",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-007",
@@ -17835,7 +18591,21 @@
     "evidencia": "Em dez/2016 todos os alunos do 1º ao 9º ano tinham aulas de inglês pelo Rio Criança Global (uma aula semanal do 1º ao 3º ano e dois tempos do 4º ao 9º); o 9º ano entrou a partir de 2014, como previsto.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3283/1",
     "data_evidencia": "2016-12",
-    "pagina": 4
+    "pagina": 4,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "As aulas de inglês do Rio Criança Global são dadas por professores da rede, pagos pelas ações gerais de pessoal.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-008",
@@ -17852,7 +18622,21 @@
     "evidencia": "A rede passou de cerca de 70 Clínicas da Família previstas para o fim de 2012 para 115 em dez/2016 (Relatório Anual de Gestão 2016), cerca de 45 novas contra 62 prometidas; só 14 das 54 reformas tinham sido feitas até 2015.",
     "fonte_url": "https://saude.prefeitura.rio/wp-content/uploads/sites/47/2023/03/RAG-2016.pdf",
     "data_evidencia": "2016-12",
-    "pagina": 4
+    "pagina": 4,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.069",
+      "valor_total_rs_bi": "0.101",
+      "ano_ref": "2016",
+      "valor_acumulado_rs_bi": "0.09",
+      "periodo_acumulado": "2013-2016",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "media",
+      "explicacao": "Construção, ampliação e reforma de unidades de Saúde da Família (projeto 1887): R$ 32 milhões em 2012, R$ 3 milhões em 2013, R$ 15 milhões em 2014, R$ 99 milhões em 2015 e R$ 101 milhões em 2016. Gasto único de obra; o custeio está na promessa 9.",
+      "fonte_oficial": "https://www.data.rio/datasets/PCRJ::execução-orçamentária-despesas",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-009",
@@ -17869,7 +18653,21 @@
     "evidencia": "Segundo o Ministério da Saúde, a cobertura da atenção primária chegou a 68,62% em dez/2016, último mês do mandato (os 70% só foram atingidos em jan/2017); o CEBES aponta 59,5% de cobertura das Clínicas da Família em dez/2016.",
     "fonte_url": "https://www.aosfatos.org/noticias/eduardo-paes-infla-dados-legado-prefeitura-rio/",
     "data_evidencia": "2016-12",
-    "pagina": 21
+    "pagina": 21,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.21",
+      "valor_total_rs_bi": "1.005",
+      "ano_ref": "2016",
+      "valor_acumulado_rs_bi": "0.443",
+      "periodo_acumulado": "2013-2016",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Custeio da rede de atenção primária (atividade 2854, contratos com as Organizações Sociais das Clínicas da Família): R$ 795 milhões em 2012, R$ 879 milhões em 2013, R$ 848 milhões em 2014, R$ 891 milhões em 2015 e R$ 1,0 bi em 2016.",
+      "fonte_oficial": "https://www.data.rio/datasets/PCRJ::execução-orçamentária-despesas",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-010",
@@ -17886,7 +18684,21 @@
     "evidencia": "Em dez/2016 o PADI tinha 16 equipes (meta: 46), segundo comunicado da Secretaria Municipal de Saúde no Diário Oficial.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3296/71",
     "data_evidencia": "2016-12",
-    "pagina": 4
+    "pagina": 4,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Chegar a 46 equipes e 70% de cobertura do PADI (atendimento domiciliar ao idoso) aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-011",
@@ -17903,7 +18715,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2013–2016) em out/2026 não localizou registro de balanço da contratação de 2 mil médicos (a meta constava do Acordo de Resultados de 2016, sem resultado publicado).",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3083/11",
     "data_evidencia": "2026-10",
-    "pagina": 4
+    "pagina": 4,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Contratar mais 2 mil médicos para reduzir a espera por consultas aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-012",
@@ -17920,7 +18746,21 @@
     "evidencia": "Resultados de 2015 do Acordo de Resultados (Diário Oficial de 11/04/2016): 93% das consultas eletivas foram feitas dentro do tempo adequado em 2015 (meta 2015: 89%; meta do plano: 90%).",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3075/10",
     "data_evidencia": "2015-12",
-    "pagina": 21
+    "pagina": 21,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Meta de resultado da saúde; o custo está nas ações gerais da rede.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-013",
@@ -17937,7 +18777,21 @@
     "evidencia": "Resultados de 2015 do Acordo de Resultados (Diário Oficial de 11/04/2016): o tempo de espera nas emergências (CER) caiu de 69 minutos em 2011 para 39 minutos em 2015, redução de 43% (meta: 25%).",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3075/10",
     "data_evidencia": "2015-12",
-    "pagina": 21
+    "pagina": 21,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Meta de resultado da saúde; o custo está nas ações gerais da rede.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-014",
@@ -17954,7 +18808,21 @@
     "evidencia": "Resultados de 2015 do Acordo de Resultados (Diário Oficial de 11/04/2016): a meta de não haver pacientes em leitos não cadastrados no CNES foi aprovada em 2015, com a exceção prevista de 3% acima da capacidade no Hospital Lourenço Jorge.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3075/10",
     "data_evidencia": "2015-12",
-    "pagina": 21
+    "pagina": 21,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Meta de gestão de leitos, sem gasto relevante.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-015",
@@ -17971,7 +18839,21 @@
     "evidencia": "A mortalidade infantil foi de 12,9 por mil nascidos vivos em 2016 (meta: menos de 10), segundo o Relatório Anual de Gestão 2016 da Secretaria Municipal de Saúde.",
     "fonte_url": "https://saude.prefeitura.rio/wp-content/uploads/sites/47/2023/03/RAG-2016.pdf",
     "data_evidencia": "2016-12",
-    "pagina": 21
+    "pagina": 21,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Mortalidade infantil abaixo de 10 por mil nascidos vivos até 2016 é meta de resultado ou regra, sem gasto próprio direto; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-016",
@@ -17988,7 +18870,21 @@
     "evidencia": "A mortalidade materna foi de 71,6 por 100 mil nascidos vivos em 2016 (meta: menos de 41), segundo o Relatório Anual de Gestão 2016 da Secretaria Municipal de Saúde.",
     "fonte_url": "https://saude.prefeitura.rio/wp-content/uploads/sites/47/2023/03/RAG-2016.pdf",
     "data_evidencia": "2016-12",
-    "pagina": 21
+    "pagina": 21,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Mortalidade materna abaixo de 41 por 100 mil nascidos vivos até 2016 é meta de resultado ou regra, sem gasto próprio direto; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-017",
@@ -18005,7 +18901,21 @@
     "evidencia": "O prontuário eletrônico já cobria 96% das equipes de Saúde da Família em 2012 e a rede tinha Central de Regulação em 2016, mas não foi localizada a telemedicina em toda a rede nem a regulação 24h de todas as unidades.",
     "fonte_url": "https://saude.prefeitura.rio/wp-content/uploads/sites/47/2023/03/RAG-2016.pdf",
     "data_evidencia": "2016-12",
-    "pagina": 25
+    "pagina": 25,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "0.036",
+      "periodo_acumulado": "2013-2016",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "baixa",
+      "explicacao": "Sistemas das unidades de saúde e central de regulação (atividade 2784): sem gasto próprio em 2012, R$ 28 milhões em 2013 e R$ 8 milhões em 2014.",
+      "fonte_oficial": "https://www.data.rio/datasets/PCRJ::execução-orçamentária-despesas",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-018",
@@ -18022,7 +18932,21 @@
     "evidencia": "Resultados de 2015 do Acordo de Resultados (Diário Oficial de 11/04/2016): a cobertura de esgoto com coleta e tratamento na AP 5 era de 22,13% em 2015 (meta do plano: 55% até 2016).",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3075/8",
     "data_evidencia": "2015-12",
-    "pagina": 4
+    "pagina": 4,
+    "impacto": {
+      "impacto_fiscal": "fora_do_orcamento",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O esgoto da AP5 é concessão (Foz Águas 5); chegar a 55% de cobertura dependeria da concessionária; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-019",
@@ -18039,7 +18963,21 @@
     "evidencia": "Resultados de 2015 do Acordo de Resultados (Diário Oficial de 11/04/2016): a referência era de 1.221 ha reflorestados em 2014 e a meta de 1.500 ha até 2016, mas em 2015 só foram assinados contratos para 79,51 ha; não há balanço de 2016 das novas áreas.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3075/10",
     "data_evidencia": "2015-12",
-    "pagina": 27
+    "pagina": 27,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O reflorestamento (Mutirão Reflorestamento) não tem ação própria identificada no orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-020",
@@ -18056,7 +18994,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2013–2016) em out/2026 não localizou registro de balanço do plantio de 500 mil árvores.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 27
+    "pagina": 27,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Plantar 500 mil árvores em parques, praças e unidades de conservação até 2016 aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-021",
@@ -18073,7 +19025,21 @@
     "evidencia": "A malha cicloviária tinha 438,9 km em jan/2016, segundo a Secretaria de Meio Ambiente (meta: 450 km); não foi localizado balanço final da malha nem dos 1.000 bicicletários.",
     "fonte_url": "https://www.jb.com.br/rio/noticias/2016/01/17/ciclovia-da-av-niemeyer-e-inaugurada-oficialmente.html",
     "data_evidencia": "2016-01",
-    "pagina": 4
+    "pagina": 4,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "0.051",
+      "periodo_acumulado": "2013-2016",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "media",
+      "explicacao": "Implantação de ciclovias e ciclofaixas (projetos 1711, 1797 e 3003): R$ 1 milhão em 2012, R$ 9 milhões em 2013, R$ 15 milhões em 2014, R$ 31 milhões em 2015 e nada em 2016. Gasto único de obra.",
+      "fonte_oficial": "https://www.data.rio/datasets/PCRJ::execução-orçamentária-despesas",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-022",
@@ -18090,7 +19056,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2013–2016) em out/2026 não localizou registro de coleta de 25% do lixo reciclável.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 27
+    "pagina": 27,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Coletar 25% do lixo reciclável da cidade até 2016 aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-023",
@@ -18107,7 +19087,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2013–2016) em out/2026 não localizou registro de redução de 16% das emissões de gases de efeito estufa; a prefeitura fez inventários de emissões (2011, 2013 e um terceiro em 2016), sem divulgar o cumprimento da meta.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3288/66",
     "data_evidencia": "2016-12",
-    "pagina": 27
+    "pagina": 27,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Reduzir em 16% as emissões de gases de efeito estufa até 2016, sobre 2005 é meta de resultado ou regra, sem gasto próprio direto; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-024",
@@ -18124,7 +19118,21 @@
     "evidencia": "Resultados de 2015 do Acordo de Resultados (Diário Oficial de 11/04/2016): os reservatórios da Praça Niterói e da Praça Varnhagen (bacia da Guanabara) foram executados, mas o desvio do Rio Joana teve cronograma só parcialmente cumprido e foi suspenso em out/2016 com cerca de 80% feitos; não foram localizadas as obras do rio Cação Vermelho.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3075/8",
     "data_evidencia": "2016-10",
-    "pagina": 29
+    "pagina": 29,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "As obras de macrodrenagem (reservatórios da Praça da Bandeira e outros) não têm ação própria identificada depois de 2012 (a ação 3716 teve R$ 92 milhões em 2012 e nada depois); devem estar em ações gerais de obras.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-025",
@@ -18141,7 +19149,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2013–2016) em out/2026 não localizou registro de plano de adaptação às mudanças climáticas ou plano municipal de gestão costeira concluídos no mandato.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 32
+    "pagina": 32,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Elaborar plano de adaptação às mudanças climáticas e plano municipal de gestão costeira é meta de resultado ou regra, sem gasto próprio direto; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-026",
@@ -18158,7 +19180,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2013–2016) em out/2026 não localizou registro de balanço da reforma de 170 mil m² de praças e parques no programa 15 Minutos Verdes.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 33
+    "pagina": 33,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Reformar mais de 170 mil m² de praças e parques (15 Minutos Verdes) aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-027",
@@ -18175,7 +19211,21 @@
     "evidencia": "Resultados de 2015 do Acordo de Resultados (Diário Oficial de 11/04/2016): o Morar Carioca chegou a 75.346 domicílios urbanizados em 2015, quase sem avanço sobre 2014 (74.552) e muito abaixo da meta de levar urbanização a mais 81 mil domicílios; o programa foi em grande parte abandonado.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3075/11",
     "data_evidencia": "2015-12",
-    "pagina": 35
+    "pagina": 35,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Urbanizar 100 comunidades, levando infraestrutura a mais 81 mil domicílios (Morar Carioca) até 2016 aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-028",
@@ -18192,7 +19242,21 @@
     "evidencia": "Resultados de 2015 do Acordo de Resultados (Diário Oficial de 11/04/2016): foram contratadas 77.365 moradias de interesse social desde 2009 até 2015 (meta interna: 86 mil em 2015 e 100 mil até 2016); não foi localizado quanto foi contratado só em 2013–2016.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3075/11",
     "data_evidencia": "2015-12",
-    "pagina": 35
+    "pagina": 35,
+    "impacto": {
+      "impacto_fiscal": "fora_do_orcamento",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "As moradias do Minha Casa, Minha Vida são pagas sobretudo pela União; a prefeitura entra com terrenos, infraestrutura e cadastro, sem valor separado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-029",
@@ -18209,7 +19273,21 @@
     "evidencia": "Resultados de 2015 do Acordo de Resultados (Diário Oficial de 11/04/2016): só 106 famílias foram retiradas de áreas de alto risco em 2015 (meta: 6.434), de um total de 29.536 famílias mapeadas em 2011.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3075/11",
     "data_evidencia": "2015-12",
-    "pagina": 35
+    "pagina": 35,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Não ter mais famílias em áreas de alto risco (encostas) até 2016 aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-030",
@@ -18226,7 +19304,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2013–2016) em out/2026 não localizou registro de medição da redução de 5% das áreas ocupadas por favelas.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 35
+    "pagina": 35,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Reduzir em ao menos 5% a área ocupada por favelas até 2016, sobre 2008 é meta de resultado ou regra, sem gasto próprio direto; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-031",
@@ -18243,7 +19335,21 @@
     "evidencia": "O programa seguiu ativo (a meta de 2016 era concluir 90 km do Bairro Maravilha Oeste), mas não foi localizado balanço dos 582 km recuperados e 173 km implantados.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3083/11",
     "data_evidencia": "2016-04",
-    "pagina": 35
+    "pagina": 35,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.311",
+      "valor_total_rs_bi": "0.435",
+      "ano_ref": "2016",
+      "valor_acumulado_rs_bi": "0.595",
+      "periodo_acumulado": "2013-2016",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "baixa",
+      "explicacao": "Urbanização e revitalização em espaços públicos (projetos 1922 e 1796), que pagam o Bairro Maravilha: R$ 124 milhões em 2012, R$ 18 milhões em 2013, R$ 209 milhões em 2014, R$ 429 milhões em 2015 e R$ 435 milhões em 2016. Inclui outras obras de urbanização. Gasto único de obra.",
+      "fonte_oficial": "https://www.data.rio/datasets/PCRJ::execução-orçamentária-despesas",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-032",
@@ -18260,7 +19366,21 @@
     "evidencia": "As principais obras ficaram prontas para os Jogos (Orla Conde em mai/2016, túneis e vias), mas a PPP estava com cerca de 88% de execução e o fundo que a pagava declarou falta de recursos em 2016; as obras restantes pararam em 2017.",
     "fonte_url": "https://apublica.org/2018/02/porto-maravilha-corre-o-risco-de-parar-novamente-em-2018/",
     "data_evidencia": "2016-12",
-    "pagina": 35
+    "pagina": 35,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.045",
+      "valor_total_rs_bi": "0.218",
+      "ano_ref": "2016",
+      "valor_acumulado_rs_bi": "0.142",
+      "periodo_acumulado": "2013-2016",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "baixa",
+      "explicacao": "Aporte de capital na CDURP, a companhia do Porto Maravilha (1924), e revitalização da área portuária (1915, 2603 e 3638): R$ 173 milhões em 2012, R$ 167 milhões em 2013, R$ 196 milhões em 2014, R$ 253 milhões em 2015 e R$ 218 milhões em 2016. A maior parte das obras foi paga fora do orçamento, com a venda de CEPACs ao FGTS.",
+      "fonte_oficial": "https://www.data.rio/datasets/PCRJ::execução-orçamentária-despesas",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-033",
@@ -18277,7 +19397,21 @@
     "evidencia": "A UPP Social, rebatizada de Rio+Social em ago/2014, atendia mais de 711 mil pessoas em 208 comunidades com UPP, sob coordenação do IPP.",
     "fonte_url": "https://unhabitat.org/sites/default/files/documents/2019-04/riosocial_programme_-_summary_report_bilingual.pdf",
     "data_evidencia": "2016-12",
-    "pagina": 5
+    "pagina": 5,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.004",
+      "valor_total_rs_bi": "0.004",
+      "ano_ref": "2016",
+      "valor_acumulado_rs_bi": "0.015",
+      "periodo_acumulado": "2013-2016",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Implantação da UPP Social e indicadores do Rio+Social (projetos 3720 e 3304): sem gasto em 2012, R$ 5 milhões em 2013, R$ 4 milhões em 2014, R$ 2 milhões em 2015 e R$ 4 milhões em 2016.",
+      "fonte_oficial": "https://www.data.rio/datasets/PCRJ::execução-orçamentária-despesas",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-034",
@@ -18294,7 +19428,21 @@
     "evidencia": "O Parque Olímpico da Barra foi implantado por PPP de 15 anos com a concessionária Rio Mais e sediou os Jogos de 2016.",
     "fonte_url": "https://www.jb.com.br/pais/2018/11/957024-bndes-aprova-processo-que-definira-concessao-do-parque-olimpico.html",
     "data_evidencia": "2016-08",
-    "pagina": 41
+    "pagina": 41,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.477",
+      "valor_total_rs_bi": "0.477",
+      "ano_ref": "2016",
+      "valor_acumulado_rs_bi": "1.576",
+      "periodo_acumulado": "2013-2016",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "media",
+      "explicacao": "Projetos e obras do Parque Olímpico (projeto 3724): sem gasto em 2012, R$ 48 milhões em 2013, R$ 342 milhões em 2014, R$ 709 milhões em 2015 e R$ 477 milhões em 2016. A PPP com a concessionária Rio Mais foi paga em parte com terrenos, fora do orçamento. Gasto único de obra.",
+      "fonte_oficial": "https://www.data.rio/datasets/PCRJ::execução-orçamentária-despesas",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-035",
@@ -18311,7 +19459,21 @@
     "evidencia": "Com o VLT, o trecho da Av. Rio Branco entre a Nilo Peçanha e a Santa Luzia virou área exclusiva de pedestres, ciclistas e VLT, mas o trecho entre a Presidente Vargas e a Nilo Peçanha voltou a receber carros em mai/2016; não houve o fechamento completo prometido.",
     "fonte_url": "https://www.rio.rj.gov.br/dlstatic/10112/6169601/4162746/140616_11h.pdf",
     "data_evidencia": "2016-06",
-    "pagina": 42
+    "pagina": 42,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O fechamento da Av. Rio Branco veio com o VLT; o custo está na promessa 44.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-036",
@@ -18328,7 +19490,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2013–2016) em out/2026 não localizou registro de operação urbana consorciada da Cidade Nova.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 43
+    "pagina": 43,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar operação urbana consorciada para revitalizar a Cidade Nova é meta de resultado ou regra, sem gasto próprio direto; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-037",
@@ -18345,7 +19521,21 @@
     "evidencia": "Resultados de 2015 do Acordo de Resultados (Diário Oficial de 11/04/2016): o tempo de viagem nos corredores BRT caiu 55,72% (meta: 50%) e nos BRS 26,5% (meta: 20%), embora um corredor BRS tenha ficado abaixo de 15% em parte dos dias.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3075/9",
     "data_evidencia": "2015-12",
-    "pagina": 5
+    "pagina": 5,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Meta de resultado dos BRTs e BRS; o custo dos corredores está na promessa 41.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-038",
@@ -18362,7 +19552,21 @@
     "evidencia": "Resultados de 2015 do Acordo de Resultados (Diário Oficial de 11/04/2016): a taxa de vítimas de trânsito caiu de 912,83 (2008) para 672,33 por 100 mil veículos em 2015, redução de 26,35% (meta: 15%).",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3075/9",
     "data_evidencia": "2015-12",
-    "pagina": 5
+    "pagina": 5,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Meta de resultado de segurança no trânsito, sem gasto separado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-039",
@@ -18379,7 +19583,21 @@
     "evidencia": "O Bilhete Único Carioca já integrava ônibus e trem e passou a integrar metrô e BRT em set/2016, mas a integração com VLT, barcas e ônibus convencionais com o metrô não estava disponível no fim do mandato.",
     "fonte_url": "https://diariodotransporte.com.br/2016/09/25/integracao-entre-metro-e-brt-no-rio-de-janeiro-comeca-nesta-segunda-feira-26/",
     "data_evidencia": "2016-09",
-    "pagina": 45
+    "pagina": 45,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "A integração do Bilhete Único Carioca é paga por subsídio às empresas de transporte, sem ação própria identificada no orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-040",
@@ -18396,7 +19614,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2013–2016) em out/2026 não localizou registro de medição da parcela de usuários de transporte público que usam trem, metrô ou BRT.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 45
+    "pagina": 45,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ter 60% dos usuários de transporte público usando trem, metrô ou BRT até 2016 é meta de resultado ou regra, sem gasto próprio direto; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-041",
@@ -18413,7 +19645,21 @@
     "evidencia": "A TransCarioca foi inaugurada em 2014 e a TransOlímpica em 2016, mas a TransBrasil não ficou pronta no mandato (só foi inaugurada em 2024).",
     "fonte_url": "https://moovit.com/pt/blog/rj-inauguracao-do-terminal-gentileza-e-do-brt-transbrasil/",
     "data_evidencia": "2016-12",
-    "pagina": 5
+    "pagina": 5,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.269",
+      "valor_total_rs_bi": "0.876",
+      "ano_ref": "2016",
+      "valor_acumulado_rs_bi": "2.233",
+      "periodo_acumulado": "2013-2016",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "media",
+      "explicacao": "BRTs: infraestrutura viária da TransCarioca (1719) e da TransOlímpica (1720) e implantação da TransBrasil (1753): R$ 607 milhões em 2012, R$ 1,15 bi em 2013, R$ 1,19 bi em 2014, R$ 1,44 bi em 2015 e R$ 876 milhões em 2016. Inclui recursos federais repassados pelo orçamento municipal. Gasto único de obra.",
+      "fonte_oficial": "https://www.data.rio/datasets/PCRJ::execução-orçamentária-despesas",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-042",
@@ -18430,7 +19676,21 @@
     "evidencia": "A meta de 100% da frota climatizada até 2016 não foi cumprida (43% da frota convencional tinha ar-condicionado em 2017); a Justiça multou o ex-prefeito e o ex-secretário de Transportes pelo descumprimento.",
     "fonte_url": "https://diariodotransporte.com.br/2017/12/10/ex-prefeito-eduardo-paes-e-multado-em-r-200-mil-por-descumprir-meta-de-ar-condicionado-nos-onibus-do-rio/",
     "data_evidencia": "2017-12",
-    "pagina": 45
+    "pagina": 45,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Modernizar 100% da frota de ônibus (ar-condicionado, motor traseiro, acessibilidade) até 2016 é meta de resultado ou regra, sem gasto próprio direto; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-043",
@@ -18447,7 +19707,21 @@
     "evidencia": "Resultados de 2015 do Acordo de Resultados (Diário Oficial de 11/04/2016): em 2015 a prefeitura só publicou a normatização e iniciou o curso e a avaliação dos taxistas; não foi localizado balanço de 100% dos táxis no padrão do Rio Boa Praça.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3075/10",
     "data_evidencia": "2015-12",
-    "pagina": 5
+    "pagina": 5,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ter 100% dos táxis no padrão do Rio Boa Praça até 2016 é meta de resultado ou regra, sem gasto próprio direto; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-044",
@@ -18464,7 +19738,21 @@
     "evidencia": "O VLT Carioca foi inaugurado em 05/06/2016, ligando a Rodoviária ao Aeroporto Santos Dumont e passando por Praça Mauá, Rio Branco e Praça XV.",
     "fonte_url": "https://www.alstom.com/pt/press-releases-news/2016/6/sistema-de-vlt-integrado-da-alstom-inicia-sua-operacao-no-rio-de-janeiro-antes-dos-jogos-esportivos",
     "data_evidencia": "2016-06",
-    "pagina": 5
+    "pagina": 5,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.237",
+      "valor_total_rs_bi": "0.237",
+      "ano_ref": "2016",
+      "valor_acumulado_rs_bi": "0.55",
+      "periodo_acumulado": "2013-2016",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "media",
+      "explicacao": "Implantação do VLT do Centro (projeto 1755): sem gasto em 2012, R$ 49 milhões em 2013, R$ 43 milhões em 2014, R$ 221 milhões em 2015 e R$ 237 milhões em 2016. Inclui recursos federais (PAC) repassados pelo orçamento municipal; a operação é paga pela PPP. Gasto único de obra.",
+      "fonte_oficial": "https://www.data.rio/datasets/PCRJ::execução-orçamentária-despesas",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-045",
@@ -18481,7 +19769,21 @@
     "evidencia": "A racionalização foi executada: em out/2015, 51 linhas de ônibus foram extintas, 25 criadas e 26 encurtadas (o processo foi suspenso pelo prefeito seguinte em jan/2017).",
     "fonte_url": "https://diariodotransporte.com.br/2017/01/01/marcelo-crivella-suspende-racionalizacao-de-linhas-de-onibus-no-rio-de-janeiro/",
     "data_evidencia": "2015-10",
-    "pagina": 46
+    "pagina": 46,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Racionalizar as linhas de ônibus é regra de operação do sistema.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-046",
@@ -18498,7 +19800,21 @@
     "evidencia": "O Plano de Mobilidade Urbana Sustentável foi elaborado: diagnóstico em jun/2016, apresentação ao Conselho Municipal de Política Urbana em set/2016 e relatório síntese em dez/2016.",
     "fonte_url": "https://www.rio.rj.gov.br/documents/5450795/7289937/P7+-+Revisao+Relatorio+Sintese+20161221+rev.pdf",
     "data_evidencia": "2016-12",
-    "pagina": 54
+    "pagina": 54,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Elaborar o Plano de Mobilidade é regra de planejamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-047",
@@ -18515,7 +19831,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2013–2016) em out/2026 não localizou registro de balanço da parcela dos recursos da prefeitura aplicada nas Zonas Norte e Oeste.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 5
+    "pagina": 5,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Destinar 2/3 (ou 70%) dos recursos da prefeitura às Zonas Norte e Oeste é meta de resultado ou regra, sem gasto próprio direto; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-048",
@@ -18532,7 +19862,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2013–2016) em out/2026 não localizou registro de balanço do total investido em 2013–2016 comparado aos R$ 34,3 bilhões prometidos.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 7
+    "pagina": 7,
+    "impacto": {
+      "impacto_fiscal": "regra_fiscal",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Investir R$ 34,3 bilhões é meta fiscal agregada, não um gasto próprio da promessa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-049",
@@ -18549,7 +19893,21 @@
     "evidencia": "Resultados de 2015 do Acordo de Resultados (Diário Oficial de 11/04/2016): o Programa de Fomento à Produção Cultural apoiou 806 projetos em 2015 (meta do plano: 350 por ano).",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3075/8",
     "data_evidencia": "2015-12",
-    "pagina": 57
+    "pagina": 57,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.015",
+      "valor_total_rs_bi": "0.015",
+      "ano_ref": "2016",
+      "valor_acumulado_rs_bi": "0.12",
+      "periodo_acumulado": "2013-2016",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Apoio e fomento à produção cultural (atividade 2739): sem gasto nessa ação em 2012, R$ 38 milhões em 2013, R$ 33 milhões em 2014, R$ 34 milhões em 2015 e R$ 15 milhões em 2016. Em 2012 o fomento pode ter sido pago por outra ação.",
+      "fonte_oficial": "https://www.data.rio/datasets/PCRJ::execução-orçamentária-despesas",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-050",
@@ -18566,7 +19924,21 @@
     "evidencia": "Resultados de 2015 do Acordo de Resultados (Diário Oficial de 11/04/2016): os equipamentos municipais de cultura tiveram 2,77 milhões de visitantes em 2015 (2,39 milhões em 2014); não foi localizado o público de 2011 para conferir se dobrou.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3075/8",
     "data_evidencia": "2015-12",
-    "pagina": 57
+    "pagina": 57,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Dobrar a frequência nos equipamentos culturais municipais até 2016, sobre 2011 é meta de resultado ou regra, sem gasto próprio direto; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-051",
@@ -18583,7 +19955,21 @@
     "evidencia": "A região do Porto ganhou o Museu de Arte do Rio (2013), o Museu do Amanhã (2015), a restauração do Centro Cultural José Bonifácio e o Circuito da Herança Africana, mas não foi localizado balanço das 15 iniciativas; em 2015 o IRPH recuperou só 3 das 7 obras previstas na zona portuária.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3075/7",
     "data_evidencia": "2015-12",
-    "pagina": 5
+    "pagina": 5,
+    "impacto": {
+      "impacto_fiscal": "fora_do_orcamento",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O Museu de Arte do Rio e o Museu do Amanhã foram feitos com a Fundação Roberto Marinho e o Porto Maravilha (CEPACs), em grande parte fora do orçamento municipal.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-052",
@@ -18600,7 +19986,21 @@
     "evidencia": "Resultados de 2015 do Acordo de Resultados (Diário Oficial de 11/04/2016): o IRPH chegou a 16 obras de recuperação no centro histórico em 2015 (meta 2015 aprovada; o plano prometia 17 imóveis na Praça Tiradentes e na Lapa).",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3075/7",
     "data_evidencia": "2015-12",
-    "pagina": 61
+    "pagina": 61,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "A recuperação de imóveis do centro histórico teve gasto pequeno na ação própria (projeto 1773: R$ 2 milhões em 2013 e em 2014).",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-053",
@@ -18617,7 +20017,21 @@
     "evidencia": "O Centro Cultural José Bonifácio foi restaurado e reaberto em nov/2013 como referência da cultura afro-brasileira e o Circuito da Herança Africana foi implantado, mas não foi localizada a Cidade do Teatro nos Galpões da Gamboa.",
     "fonte_url": "https://riotur.rio/?p=1148",
     "data_evidencia": "2013-11",
-    "pagina": 60
+    "pagina": 60,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "A restauração do Centro Cultural José Bonifácio não tem ação própria identificada no orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-054",
@@ -18634,7 +20048,21 @@
     "evidencia": "Resultados de 2015 do Acordo de Resultados (Diário Oficial de 11/04/2016): o Escritório de Projetos Culturais foi implementado e fez 50 capacitações de produtores e gestores culturais em 2015.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3075/8",
     "data_evidencia": "2015-12",
-    "pagina": 59
+    "pagina": 59,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O escritório de projetos culturais tem custo pequeno.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-055",
@@ -18651,7 +20079,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2013–2016) em out/2026 não localizou registro de medição da redução da população abaixo da linha de pobreza.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 6
+    "pagina": 6,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Reduzir à metade a população abaixo da linha de pobreza até 2015, sobre 2007 aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-056",
@@ -18668,7 +20110,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2013–2016) em out/2026 não localizou registro de medição da pobreza entre os beneficiários do Bolsa Família e do Cartão Família Carioca.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 63
+    "pagina": 63,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Eliminar a pobreza entre os beneficiários do Bolsa Família e do Cartão Família Carioca até 2016 aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-057",
@@ -18685,7 +20141,21 @@
     "evidencia": "Resultados de 2015 do Acordo de Resultados (Diário Oficial de 11/04/2016): a cobertura de saúde mental chegou a 58% em 2015 (40% em 2012, segundo o plano; meta: 60%), e a rede tinha 33 CAPS em dez/2016 (17 em 2012); não foi localizado o resultado final de 60% nem o total de residências terapêuticas.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3075/10",
     "data_evidencia": "2015-12",
-    "pagina": 63
+    "pagina": 63,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.007",
+      "valor_total_rs_bi": "0.021",
+      "ano_ref": "2016",
+      "valor_acumulado_rs_bi": "0.015",
+      "periodo_acumulado": "2013-2016",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Ações de atenção psicossocial e desinstitucionalização em saúde mental (atividades 2850 e 2748): R$ 14 milhões em 2012, R$ 17 milhões em 2013, R$ 13 milhões em 2014, R$ 20 milhões em 2015 e R$ 21 milhões em 2016. Os CAPS são pagos também pelo custeio geral da rede.",
+      "fonte_oficial": "https://www.data.rio/datasets/PCRJ::execução-orçamentária-despesas",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-058",
@@ -18702,7 +20172,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2013–2016) em out/2026 não localizou registro de medição do atendimento pelo Saúde da Família de 100% dos beneficiários do Cartão Família Carioca nas áreas cobertas.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 63
+    "pagina": 63,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Atender pelo Saúde da Família 100% dos beneficiários do Cartão Família Carioca nas áreas cobertas aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-059",
@@ -18719,7 +20203,21 @@
     "evidencia": "Resultados de 2015 do Acordo de Resultados (Diário Oficial de 11/04/2016): a meta de ampliar o Rio em Forma na rede municipal não foi validada em 2015; não foi localizada a cobertura de todas as Escolas do Amanhã.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3075/10",
     "data_evidencia": "2015-12",
-    "pagina": 63
+    "pagina": 63,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Levar o Rio em Forma a 100% das Escolas do Amanhã até 2016 aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-060",
@@ -18736,7 +20234,21 @@
     "evidencia": "Resultados de 2015 do Acordo de Resultados (Diário Oficial de 11/04/2016): eram 11 UOPs e 2.872 guardas nas ruas em 2015 (metas do plano: 14 UOPs e 3,3 mil guardas); não foi localizado o resultado de 2016.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3075/9",
     "data_evidencia": "2015-12",
-    "pagina": 67
+    "pagina": 67,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.239",
+      "valor_total_rs_bi": "0.481",
+      "ano_ref": "2016",
+      "valor_acumulado_rs_bi": "0.608",
+      "periodo_acumulado": "2013-2016",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Pessoal da Guarda Municipal (provisão de pessoal da administração indireta da Ordem Pública, 4522) e atividades operacionais da Guarda (4564): R$ 242 milhões em 2012, R$ 275 milhões em 2013, R$ 389 milhões em 2014, R$ 431 milhões em 2015 e R$ 481 milhões em 2016. Inclui reajustes salariais, não só os guardas novos.",
+      "fonte_oficial": "https://www.data.rio/datasets/PCRJ::execução-orçamentária-despesas",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-061",
@@ -18753,7 +20265,21 @@
     "evidencia": "Até 2015 a Seconserva tinha recapeado cerca de 1.100 km (Metas de 2016 do Acordo de Resultados, com valores de referência (Diário Oficial de 20/04/2016)), com meta de chegar a 1.460 km em 2016; não foi localizado o resultado final.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3083/11",
     "data_evidencia": "2016-04",
-    "pagina": 67
+    "pagina": 67,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.242",
+      "ano_ref": "2016",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Recapeamento e obras de pavimentação e drenagem em logradouros (Asfalto Liso 1722, 1022 e 1718): R$ 478 milhões em 2012 e entre R$ 87 milhões e R$ 242 milhões por ano no mandato, abaixo de 2012.",
+      "fonte_oficial": "https://www.data.rio/datasets/PCRJ::execução-orçamentária-despesas",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-062",
@@ -18770,7 +20296,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2013–2016) em out/2026 não localizou registro de balanço de 700 mil m² de calçadas e 5 mil rampas do Rio Acessível.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 67
+    "pagina": 67,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Revitalizar 700 mil m² de calçadas e 5 mil rampas (Rio Acessível) até 2016 aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-063",
@@ -18787,7 +20327,21 @@
     "evidencia": "Resultados de 2015 do Acordo de Resultados (Diário Oficial de 11/04/2016): o índice de lâmpadas apagadas foi de 0,88% em 2015 (meta: menos de 2%).",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3075/7",
     "data_evidencia": "2015-12",
-    "pagina": 67
+    "pagina": 67,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.106",
+      "valor_total_rs_bi": "0.259",
+      "ano_ref": "2016",
+      "valor_acumulado_rs_bi": "0.249",
+      "periodo_acumulado": "2013-2016",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Manutenção da iluminação pública (2330, 2153 e 4153): R$ 153 milhões em 2012, R$ 165 milhões em 2013, R$ 172 milhões em 2014, R$ 265 milhões em 2015 e R$ 259 milhões em 2016. Pode incluir a conta de energia, que subiu em 2015.",
+      "fonte_oficial": "https://www.data.rio/datasets/PCRJ::execução-orçamentária-despesas",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-064",
@@ -18804,7 +20358,21 @@
     "evidencia": "Resultados de 2015 do Acordo de Resultados (Diário Oficial de 11/04/2016): a RioLuz cadastrou 45.120 pontos de iluminação (cerca de 10% do parque) em 2015; não foi localizado o Plano Diretor de Iluminação Pública.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3075/7",
     "data_evidencia": "2015-12",
-    "pagina": 71
+    "pagina": 71,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Mapear a iluminação e elaborar o plano é estudo, com custo pequeno.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-065",
@@ -18821,7 +20389,21 @@
     "evidencia": "Segundo a própria prefeitura, a taxa de investimento chegou a 16,1% do orçamento (e o peso da dívida caiu de 9% para 4%) entre 2009 e 2016; não foi localizada verificação independente.",
     "fonte_url": "https://monitormercantil.com.br/paes-olimpiadas-nao-causaram-crise-estadual/",
     "data_evidencia": "2016-12",
-    "pagina": 6
+    "pagina": 6,
+    "impacto": {
+      "impacto_fiscal": "regra_fiscal",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Investir 15% do orçamento é meta fiscal agregada, não um gasto próprio da promessa.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-066",
@@ -18838,7 +20420,21 @@
     "evidencia": "Resultados de 2015 do Acordo de Resultados (Diário Oficial de 11/04/2016): a Central 1746 fez 4,3 milhões de atendimentos em 2015 (meta do plano: 3,5 milhões), mas a satisfação ficou em 70,2% (meta: 85%).",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3075/7",
     "data_evidencia": "2015-12",
-    "pagina": 74
+    "pagina": 74,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.005",
+      "ano_ref": "2016",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Central 1746 (atividade 2706): R$ 18 milhões em 2012, R$ 20 milhões em 2013, R$ 19 milhões em 2014, R$ 4 milhões em 2015 e R$ 5 milhões em 2016 (parte do custo passou a outras ações).",
+      "fonte_oficial": "https://www.data.rio/datasets/PCRJ::execução-orçamentária-despesas",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-067",
@@ -18855,7 +20451,21 @@
     "evidencia": "Resultados de 2015 do Acordo de Resultados (Diário Oficial de 11/04/2016): o projeto de compras estratégicas reduziu em R$ 32,7 milhões os gastos conduzidos em 2015; não foi localizada a redução de até 10% no preço unitário das principais compras.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3075/7",
     "data_evidencia": "2015-12",
-    "pagina": 74
+    "pagina": 74,
+    "impacto": {
+      "impacto_fiscal": "despesa_reduz",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.033",
+      "ano_ref": "2015",
+      "valor_acumulado_rs_bi": "0.033",
+      "periodo_acumulado": "2015",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "media",
+      "explicacao": "O projeto de compras estratégicas reduziu em R$ 32,7 milhões os gastos conduzidos em 2015, segundo os Resultados de 2015 do Acordo de Resultados (Diário Oficial de 11/04/2016); não há valor para os outros anos.",
+      "fonte_oficial": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3075/7",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-068",
@@ -18872,7 +20482,21 @@
     "evidencia": "Resultados de 2015 do Acordo de Resultados (Diário Oficial de 11/04/2016): a meta de receita tributária de 2015 (R$ 9,03 bi, aprovada) era só 6,5% acima de 2014 (R$ 8,48 bi), bem abaixo do crescimento de 15,5% ao ano prometido.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3075/10",
     "data_evidencia": "2015-12",
-    "pagina": 74
+    "pagina": 74,
+    "impacto": {
+      "impacto_fiscal": "receita_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Fazer a receita própria crescer 15% ao ano aumentaria a receita; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-069",
@@ -18889,7 +20513,21 @@
     "evidencia": "Resultados de 2015 do Acordo de Resultados (Diário Oficial de 11/04/2016): a IplanRio conectou 1.958 unidades administrativas em alta velocidade em 2015 (meta do plano: 2.000 pontos); não foi localizado o novo Datacenter.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3075/7",
     "data_evidencia": "2015-12",
-    "pagina": 76
+    "pagina": 76,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "A rede de alta velocidade e o datacenter da IplanRio não têm ação própria identificada no orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-070",
@@ -18906,7 +20544,21 @@
     "evidencia": "Resultados de 2015 do Acordo de Resultados (Diário Oficial de 11/04/2016): em 2015 só havia um projeto piloto de centro de atendimento, na Região Administrativa de Madureira, das 33 prometidas.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3075/7",
     "data_evidencia": "2015-12",
-    "pagina": 74
+    "pagina": 74,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Transformar as 33 administrações regionais em centros de atendimento ao cidadão até 2016 aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-071",
@@ -18923,7 +20575,21 @@
     "evidencia": "A prefeitura manteve o monitoramento de metas do Plano Estratégico 2013-2016 pelos Acordos de Resultados (Decreto 36.906/2013) e fez 51 reuniões de monitoramento em 2015, mas não foi localizado ato que institua o sistema com esse nome.",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3075/7",
     "data_evidencia": "2015-12",
-    "pagina": 74
+    "pagina": 74,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O sistema de monitoramento de metas é regra de gestão.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-072",
@@ -18940,7 +20606,21 @@
     "evidencia": "A Nota Carioca chegou ao 26º sorteio em dez/2016 (o 11º foi em mar/2013), com cerca de 4 sorteios por ano; não foi localizado registro de 5.000 premiados por ano.",
     "fonte_url": "https://www.normasbrasil.com.br/norma/resolucao-2915-2016-rio-de-janeiro_334331.html",
     "data_evidencia": "2016-12",
-    "pagina": 77
+    "pagina": 77,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar os sorteios da Nota Carioca para 5.000 premiados por ano aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-073",
@@ -18957,7 +20637,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2013–2016) em out/2026 não localizou registro de consolidação das leis tributárias municipais em um único ato normativo.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 78
+    "pagina": 78,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Consolidar as leis tributárias municipais em um único ato normativo é meta de resultado ou regra, sem gasto próprio direto; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-074",
@@ -18974,7 +20668,21 @@
     "evidencia": "Resultados de 2015 do Acordo de Resultados (Diário Oficial de 11/04/2016): em 2015, 70,7% dos alvarás e licenças eram emitidos por meio eletrônico e 98,7% dos alvarás de baixo risco saíam em até 3 dias (meta do plano: 100% eletrônicos até 2016).",
     "fonte_url": "https://doweb.rio.rj.gov.br/portal/edicoes/download/3075/8",
     "data_evidencia": "2015-12",
-    "pagina": 81
+    "pagina": 81,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Emitir alvarás por meio eletrônico é mudança de procedimento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-075",
@@ -18991,7 +20699,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2013–2016) em out/2026 não localizou registro de balanço dos investimentos de empresas de energia e P&D atraídos.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 81
+    "pagina": 81,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Atrair R$ 1 bilhão de investimentos de empresas de energia e P&D até 2016 é meta de resultado ou regra, sem gasto próprio direto; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-076",
@@ -19008,7 +20730,21 @@
     "evidencia": "A oferta hoteleira cresceu muito além de 7 mil quartos (de cerca de 31 mil em 2010 para 60 a 62 mil em 2016), mas não foi localizado registro de ocupação acima de 80%.",
     "fonte_url": "https://apublica.org/colecaoparticular/2017/12/hoteis-foram-ceus-olimpiada/",
     "data_evidencia": "2016-12",
-    "pagina": 81
+    "pagina": 81,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Os novos quartos de hotel foram investimento privado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-077",
@@ -19025,7 +20761,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2013–2016) em out/2026 não localizou registro de medição da fatia do emprego na economia criativa.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 81
+    "pagina": 81,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Elevar de 2,2% para 2,75% a fatia do emprego na economia criativa até 2016 é meta de resultado ou regra, sem gasto próprio direto; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-078",
@@ -19042,7 +20792,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2013–2016) em out/2026 não localizou registro de condomínio industrial na Zona Oeste ou parque tecnológico municipal para o setor de energia.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 83
+    "pagina": 83,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar condomínio industrial na Zona Oeste (mais de 500 mil m²) e novo parque tecnológico para o setor de energia aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-079",
@@ -19059,7 +20823,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2013–2016) em out/2026 não localizou registro de PPP para centro de convenções na Zona Portuária.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 84
+    "pagina": 84,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Fazer PPP para construir centro de convenções na Zona Portuária aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "paes_rio_2012-080",
@@ -19076,7 +20854,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais e no Diário Oficial do Município do Rio (2013–2016) em out/2026 não localizou registro de agência de capacitação e investimento para a indústria criativa.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 85
+    "pagina": 85,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar agência de capacitação e investimento para a indústria criativa aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-01",
