@@ -36606,7 +36606,21 @@
     "evidencia": "A reforma administrativa (Lei 23.304/2019) reduziu as secretarias de 21 para 12 e extinguiu cargos.",
     "fonte_url": "https://www.almg.gov.br/legislacao-mineira/texto/LEI/23304/2019/",
     "data_evidencia": "2019-05",
-    "pagina": 12
+    "pagina": 12,
+    "impacto": {
+      "impacto_fiscal": "despesa_reduz",
+      "valor_incremental_rs_bi": "0.225",
+      "valor_total_rs_bi": "",
+      "ano_ref": "2022",
+      "valor_acumulado_rs_bi": "0.9",
+      "periodo_acumulado": "2019-2022",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Reforma administrativa (Lei 23.304/2019): secretarias de 21 para 12 e corte de cerca de 1.700 cargos em comissão e funções. O governo estimou economia de R$ 235 milhões por ano (R$ 1 bi no mandato) ao apresentar o projeto; na sanção, em mai/2019, a estimativa caiu para cerca de R$ 900 milhões em quatro anos, usada aqui (R$ 225 milhões por ano). É estimativa, não economia medida.",
+      "fonte_oficial": "https://www.agenciaminas.mg.gov.br/noticia/governador-romeu-zema-apresenta-reforma-administrativa-que-deve-gerar-economia-de-r-1-bilhao-durante-mandato-105052",
+      "fonte_comparacao": "https://diariodocomercio.com.br/?p=199008"
+    }
   },
   {
     "id": "zema_mg_2018-02",
@@ -36623,7 +36637,21 @@
     "evidencia": "O programa Transforma Minas (mar/2019) passou a selecionar por mérito e competências os ocupantes de cargos de liderança; mais de 200 foram nomeados assim.",
     "fonte_url": "https://www.agenciaminas.mg.gov.br/noticia/governador-romeu-zema-recebe-102-aprovados-pelo-programa-transforma-minas",
     "data_evidencia": "2019",
-    "pagina": 13
+    "pagina": 13,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A seleção técnica dos cargos de liderança (Transforma Minas) muda a forma de escolha, sem gasto relevante.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2018-03",
@@ -36640,7 +36668,21 @@
     "evidencia": "Busca na imprensa, na Agência Minas e na legislação mineira (API da ALMG, jan/2019 a dez/2022) não localizou auditorias patrimoniais aleatórias; a sindicância patrimonial já existia desde 2015 (Decreto 46.881) e só foi alterada em 2022.",
     "fonte_url": "https://www.almg.gov.br/legislacao-mineira/texto/DEC/48421/2022/",
     "data_evidencia": "2022-12",
-    "pagina": 13
+    "pagina": 13,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Auditorias patrimoniais teriam custo pequeno, feitas pelos órgãos de controle; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2018-04",
@@ -36657,7 +36699,21 @@
     "evidencia": "Busca na imprensa, na Agência Minas e na legislação mineira (API da ALMG, jan/2019 a dez/2022) não localizou exigência de seguro do tipo performance bond nas contratações estaduais.",
     "fonte_url": "",
     "data_evidencia": "2022-12",
-    "pagina": 13
+    "pagina": 13,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Exigir seguro nas contratações é regra de licitação, sem gasto direto; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2018-05",
@@ -36674,7 +36730,21 @@
     "evidencia": "O acordo com a AMM (abr/2019) parcelou em 33 vezes os R$ 7 bilhões de ICMS, IPVA e Fundeb atrasados, quitados em jun/2022.",
     "fonte_url": "https://www.agenciaminas.mg.gov.br/noticia/governo-de-minas-quita-divida-de-r-7-bi-com-municipios-2022-06-02-22-30-00-0300",
     "data_evidencia": "2022-06",
-    "pagina": 13
+    "pagina": 13,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_primario",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O acordo com a AMM (abr/2019) pagou R$ 7 bi de ICMS, IPVA e Fundeb que pertenciam aos municípios e estavam atrasados desde governos anteriores (cerca de R$ 6 bi herdados), quitados em jun/2022. É pagamento de dívida já existente, sem despesa nova no resultado primário, mas pesou no caixa do Estado em 2020–2022.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2018-06",
@@ -36691,7 +36761,21 @@
     "evidencia": "Busca na imprensa, na Agência Minas e na legislação mineira (API da ALMG, jan/2019 a dez/2022) não localizou avaliação de órgãos e servidores por pesquisa com a população ligada à bonificação.",
     "fonte_url": "",
     "data_evidencia": "2022-12",
-    "pagina": 14
+    "pagina": 14,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Bonificar servidores pela avaliação da população aumentaria a despesa com pessoal; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2018-07",
@@ -36708,7 +36792,21 @@
     "evidencia": "O governo concedeu o Aeroporto da Pampulha, o Mineirinho, os lotes 1 e 2 de rodovias (2022) e o Rodoanel, entre outros projetos.",
     "fonte_url": "https://diariodocomercio.com.br/economia/governo-leiloa-3o-lote-de-rodovias-e-grupo-vence-mais-uma-vez/",
     "data_evidencia": "2022",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "fora_do_orcamento",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "As concessões do mandato (Aeroporto da Pampulha, Mineirinho, lotes 1 e 2 de rodovias, Rodoanel) transferem os investimentos às concessionárias, fora do orçamento; os leilões de rodovias foram pelo menor pedágio, e a contraprestação do Rodoanel só começa depois da obra.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2018-08",
@@ -36725,7 +36823,21 @@
     "evidencia": "A previdência complementar dos novos servidores já existia (Prevcom-MG, LC 132/2014); a reforma de 2020 abriu a migração dos servidores antigos, como prometido.",
     "fonte_url": "https://tce.mg.gov.br/noticia/Detalhe/1111624726",
     "data_evidencia": "2020",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.014",
+      "valor_total_rs_bi": "0.017",
+      "ano_ref": "2022",
+      "valor_acumulado_rs_bi": "0.013",
+      "periodo_acumulado": "2019-2022",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Aporte do Estado para a Prevcom-MG (ação 7021): R$ 3,0 milhões em 2018, R$ 2,5 milhões por ano em 2019–2021 e R$ 17,4 milhões em 2022, ano seguinte à abertura da migração dos servidores antigos. No curto prazo a migração custa ao Estado (deixa de receber contribuições ao regime próprio); a economia de longo prazo com aposentadorias menores não foi estimada. A economia da reforma da previdência de 2020 vem de idades e alíquotas e não foi atribuída a esta promessa.",
+      "fonte_oficial": "https://dados.mg.gov.br/dataset/despesa",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2018-09",
@@ -36742,7 +36854,21 @@
     "evidencia": "Zema manteve a sede do governo na Cidade Administrativa e não ocupou os palácios.",
     "fonte_url": "https://www.em.com.br/app/noticia/politica/2019/01/24/interna_politica,1024154/zema-articula-parceria-pra-decidir-futuro-do-palacio-das-mangabeiras.shtml",
     "data_evidencia": "2019-01",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Manter a sede na Cidade Administrativa não cria gasto novo.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2018-10",
@@ -36759,7 +36885,21 @@
     "evidencia": "O Palácio da Liberdade voltou a ser aberto à visitação pública em out/2019.",
     "fonte_url": "https://www.agenciaminas.mg.gov.br/noticia/governador-romeu-zema-acompanha-a-troca-da-guarda-do-palacio-da-liberdade-em-belo-horizonte",
     "data_evidencia": "2019-10",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Abrir o Palácio da Liberdade à visitação tem custo pequeno, dentro do Circuito Liberdade.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2018-11",
@@ -36776,7 +36916,21 @@
     "evidencia": "Busca na imprensa, na Agência Minas e na legislação mineira (API da ALMG, jan/2019 a dez/2022) não localizou redução do salário do governador por lei; Zema declarou doar o próprio salário.",
     "fonte_url": "",
     "data_evidencia": "2022-12",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Reduzir o salário do governador teria efeito desprezível no orçamento; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2018-12",
@@ -36793,7 +36947,21 @@
     "evidencia": "Zema não morou no Palácio das Mangabeiras, que deixou de ser residência oficial (Decreto 47.667/2019) e virou parque público em 2022.",
     "fonte_url": "https://www.agenciaminas.mg.gov.br/noticia/codemge-assume-gestao-do-palacio-das-mangabeiras-105891",
     "data_evidencia": "2019-06",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "despesa_reduz",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "Não usar o Palácio das Mangabeiras como moradia reduz pouco o custeio; economia não divulgada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2018-13",
@@ -36810,7 +36978,21 @@
     "evidencia": "Não foram criados tributos nem elevadas alíquotas no mandato; o adicional de ICMS sobre supérfluos, anterior a 2019, foi mantido até o fim de 2022.",
     "fonte_url": "https://www.itatiaia.com.br/politica/nao-queremos-aumentar-impostos-mas-manter-o-que-vigorou-ate-2022-diz-zema-sobre-projeto-do-icms/",
     "data_evidencia": "2022-12",
-    "pagina": 11
+    "pagina": 11,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Não criar tributos nem elevar alíquotas mantém a receita como estava; o adicional de ICMS sobre supérfluos, anterior a 2019, continuou até 2022.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2018-14",
@@ -36827,7 +37009,21 @@
     "evidencia": "O governo manteve o sigilo da lista de empresas com regimes especiais de ICMS; a divulgação só ocorreu em 2026, após pressão do TCE e da Justiça.",
     "fonte_url": "https://ofator.com.br/informacao/tce-avalia-cobrar-governo-zema-pela-divulgacao-da-lista-de-empresas-beneficiadas-por-incentivos-fiscais/",
     "data_evidencia": "2022-12",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Divulgar os incentivos fiscais é medida de transparência, sem gasto relevante; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2018-15",
@@ -36844,7 +37040,21 @@
     "evidencia": "Busca na imprensa, na Agência Minas e na legislação mineira (API da ALMG, jan/2019 a dez/2022) não localizou norma que permita selos e certificações privadas no lugar da regulação estatal.",
     "fonte_url": "",
     "data_evidencia": "2022-12",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Aceitar certificações privadas é mudança de regra; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2018-16",
@@ -36861,7 +37071,21 @@
     "evidencia": "O decreto de liberdade econômica do Minas Livre para Crescer (em vigor em jan/2021) dispensou de alvará 642 atividades de baixo risco e criou a aprovação tácita.",
     "fonte_url": "https://www.agenciaminas.mg.gov.br/noticia/decreto-de-liberdade-economica-entra-em-vigor-109708",
     "data_evidencia": "2021-01",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A dispensa de alvará e a aprovação tácita (Minas Livre para Crescer) mudam regras, sem gasto relevante.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2018-17",
@@ -36878,7 +37102,21 @@
     "evidencia": "A Jucemg passou a fazer registro automático de empresas simples (abr/2019), mas a exigência de autenticação de cópias foi só substituída por declaração assinada.",
     "fonte_url": "https://www.agenciaminas.mg.gov.br/news/pdf/115626.pdf",
     "data_evidencia": "2022",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O registro automático na Jucemg é mudança de procedimento, sem gasto relevante.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2018-18",
@@ -36895,7 +37133,21 @@
     "evidencia": "Busca na imprensa, na Agência Minas e na legislação mineira (API da ALMG, jan/2019 a dez/2022) não localizou abertura das estatais remanescentes ao capital privado com conselhos independentes.",
     "fonte_url": "",
     "data_evidencia": "2022-12",
-    "pagina": 23
+    "pagina": 23,
+    "impacto": {
+      "impacto_fiscal": "receita_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Vender participação nas estatais traria receita de capital; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2018-19",
@@ -36912,7 +37164,21 @@
     "evidencia": "Busca na imprensa, na Agência Minas e na legislação mineira (API da ALMG, jan/2019 a dez/2022) não localizou cadastro voluntário de bens duráveis.",
     "fonte_url": "",
     "data_evidencia": "2022-12",
-    "pagina": 30
+    "pagina": 30,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Um cadastro voluntário de bens teria custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2018-20",
@@ -36929,7 +37195,21 @@
     "evidencia": "Busca na imprensa, na Agência Minas e na legislação mineira (API da ALMG, jan/2019 a dez/2022) não localizou monitoramento de indicadores de esclarecimento dos inquéritos de homicídio.",
     "fonte_url": "",
     "data_evidencia": "2022-12",
-    "pagina": 31
+    "pagina": 31,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Monitorar indicadores de inquéritos tem custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2018-21",
@@ -36946,7 +37226,21 @@
     "evidencia": "Busca na imprensa, na Agência Minas e na legislação mineira (API da ALMG, jan/2019 a dez/2022) não localizou ampliação das penas alternativas com tornozeleiras ou revisão da população carcerária entre 2019 e 2022.",
     "fonte_url": "",
     "data_evidencia": "2022-12",
-    "pagina": 31
+    "pagina": 31,
+    "impacto": {
+      "impacto_fiscal": "despesa_reduz",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Trocar parte das prisões por tornozeleiras reduziria o custo do sistema prisional; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2018-22",
@@ -36963,7 +37257,21 @@
     "evidencia": "A PM comprou 1.040 câmeras corporais em 2022 e começou a usá-las em projeto-piloto no fim do ano.",
     "fonte_url": "https://tribunademinas.com.br/noticias/minas/06-05-2022/policia-militar-de-minas-quer-comecar-a-usar-cameras-no-uniforme-em-outubro-deste-ano.html?amp=1",
     "data_evidencia": "2022-12",
-    "pagina": 32
+    "pagina": 32,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.002",
+      "valor_total_rs_bi": "0.002",
+      "ano_ref": "2022",
+      "valor_acumulado_rs_bi": "0.002",
+      "periodo_acumulado": "2022",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "baixa",
+      "explicacao": "Compra de 1.040 câmeras corporais pela PM em 2022, junto com 65 docas e 1.040 pistolas de impulso elétrico: R$ 2,4 milhões no total, segundo a imprensa; não há ação orçamentária própria. Gasto único.",
+      "fonte_oficial": "",
+      "fonte_comparacao": "https://pradosonline.com.br/?p=51475"
+    }
   },
   {
     "id": "zema_mg_2018-23",
@@ -36980,7 +37288,21 @@
     "evidencia": "Busca na imprensa, na Agência Minas e na legislação mineira (API da ALMG, jan/2019 a dez/2022) não localizou expansão das APACs ou de novas PPPs prisionais.",
     "fonte_url": "",
     "data_evidencia": "2022-12",
-    "pagina": 32
+    "pagina": 32,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Expandir APACs e PPPs prisionais aumentaria a despesa com vagas; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2018-24",
@@ -36997,7 +37319,21 @@
     "evidencia": "Busca na imprensa, na Agência Minas e na legislação mineira (API da ALMG, jan/2019 a dez/2022) não localizou integração dos sistemas de informação das polícias no modelo do Infocrim.",
     "fonte_url": "",
     "data_evidencia": "2022-12",
-    "pagina": 33
+    "pagina": 33,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Integrar os sistemas das polícias exigiria investimento em tecnologia; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2018-25",
@@ -37014,7 +37350,21 @@
     "evidencia": "Busca na imprensa, na Agência Minas e na legislação mineira (API da ALMG, jan/2019 a dez/2022) não localizou criação de setor de inteligência para a violência no campo.",
     "fonte_url": "",
     "data_evidencia": "2022-12",
-    "pagina": 33
+    "pagina": 33,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Criar um setor de inteligência teria custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2018-26",
@@ -37031,7 +37381,21 @@
     "evidencia": "Busca na imprensa, na Agência Minas e na legislação mineira (API da ALMG, jan/2019 a dez/2022) não localizou cerco eletrônico com câmeras inteligentes nas divisas.",
     "fonte_url": "",
     "data_evidencia": "2022-12",
-    "pagina": 33
+    "pagina": 33,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Cerco eletrônico, drones e GPS exigiriam investimento; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2018-27",
@@ -37048,7 +37412,21 @@
     "evidencia": "Busca na imprensa, na Agência Minas e na legislação mineira (API da ALMG, jan/2019 a dez/2022) não localizou PPP para reformar ou construir escolas; a PPP de 95 escolas só foi leiloada em 2026.",
     "fonte_url": "https://agenciainfra.com/blog/?p=27585",
     "data_evidencia": "2022-12",
-    "pagina": 40
+    "pagina": 40,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "PPPs de escolas gerariam contraprestações anuais do Estado; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2018-28",
@@ -37065,7 +37443,21 @@
     "evidencia": "Busca na imprensa, na Agência Minas e na legislação mineira (API da ALMG, jan/2019 a dez/2022) não localizou nova regra de distribuição de recursos priorizando as escolas mais precárias.",
     "fonte_url": "",
     "data_evidencia": "2022-12",
-    "pagina": 40
+    "pagina": 40,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Redistribuir recursos entre escolas muda a divisão, não o total; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2018-29",
@@ -37082,7 +37474,21 @@
     "evidencia": "Busca na imprensa, na Agência Minas e na legislação mineira (API da ALMG, jan/2019 a dez/2022) não localizou premiação de escolas e profissionais pela evolução do desempenho.",
     "fonte_url": "",
     "data_evidencia": "2022-12",
-    "pagina": 41
+    "pagina": 41,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Premiar escolas e profissionais aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2018-30",
@@ -37099,7 +37505,21 @@
     "evidencia": "Busca na imprensa, na Agência Minas e na legislação mineira (API da ALMG, jan/2019 a dez/2022) não localizou cessão de escolas ociosas a escolas privadas em troca de bolsas.",
     "fonte_url": "",
     "data_evidencia": "2022-12",
-    "pagina": 41
+    "pagina": 41,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ceder prédios ociosos em troca de bolsas não passa pelo orçamento; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2018-31",
@@ -37116,7 +37536,21 @@
     "evidencia": "Busca na imprensa, na Agência Minas e na legislação mineira (API da ALMG, jan/2019 a dez/2022) não localizou criação de voucher educacional.",
     "fonte_url": "",
     "data_evidencia": "2022-12",
-    "pagina": 42
+    "pagina": 42,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Um voucher educacional aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2018-32",
@@ -37133,7 +37567,21 @@
     "evidencia": "Busca na imprensa, na Agência Minas e na legislação mineira (API da ALMG, jan/2019 a dez/2022) não localizou parcerias com Senar, Sebrae ou Senai para cursos nas escolas rurais.",
     "fonte_url": "",
     "data_evidencia": "2022-12",
-    "pagina": 42
+    "pagina": 42,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Parcerias com o Sistema S para cursos teriam custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2018-33",
@@ -37150,7 +37598,21 @@
     "evidencia": "O app Conexão Escola (2020) foi feito para alunos e professores; o boletim digital para as famílias só começou depois de 2023.",
     "fonte_url": "https://www.agenciaminas.mg.gov.br/news/pdf/108232.pdf",
     "data_evidencia": "2022-12",
-    "pagina": 43
+    "pagina": 43,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Um sistema online para os pais teria custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2018-34",
@@ -37167,7 +37629,21 @@
     "evidencia": "O parcelamento dos salários acabou em ago/2021 e os repasses atrasados aos municípios foram quitados até 2022.",
     "fonte_url": "https://tribunademinas.com.br/noticias/minas/16-07-2021/governador-romeu-zema-anuncia-o-fim-do-parcelamento-dos-salarios.html?amp=1",
     "data_evidencia": "2021-08",
-    "pagina": 49
+    "pagina": 49,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Pagar salários e fornecedores em dia muda o calendário de pagamentos, não o valor da despesa. Os repasses atrasados da saúde aos municípios (R$ 6,7 bi) foram parcelados em 96 vezes a partir de 2022, com R$ 716 milhões pagos em 2022; é pagamento de dívida já existente.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2018-35",
@@ -37184,7 +37660,21 @@
     "evidencia": "Nenhum hospital regional foi entregue no mandato; as obras foram retomadas em out/2022 e o primeiro (Teófilo Otoni) só saiu em dez/2025.",
     "fonte_url": "https://www.itatiaia.com.br/politica/promessa-de-zema-em-2022-nenhum-dos-seis-hospitais-regionais-foi-entregue-ate-agora/",
     "data_evidencia": "2022-12",
-    "pagina": 47
+    "pagina": 47,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Concluir os hospitais regionais exigiria obras e custeio (as obras só foram retomadas em out/2022: R$ 7,5 milhões em 2022); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2018-36",
@@ -37201,7 +37691,21 @@
     "evidencia": "O SAMU passou de cerca de 550 municípios atendidos em 2019 para quase 830 em 2023, com novas regionais implantadas a partir de 2022.",
     "fonte_url": "https://www.agenciaminas.mg.gov.br/noticia/governo-de-minas-amplia-cobertura-do-samu-e-garante-atendimento-em-100-do-estado",
     "data_evidencia": "2023",
-    "pagina": 47
+    "pagina": 47,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.304",
+      "valor_total_rs_bi": "0.726",
+      "ano_ref": "2022",
+      "valor_acumulado_rs_bi": "0.722",
+      "periodo_acumulado": "2019-2022",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Rede de urgência e emergência do Fundo Estadual de Saúde, que inclui o SAMU regional: ação 4491 até 2019 e ações 4459 (SAMU regional) e 4461 (rede de urgência) a partir de 2020. R$ 422 milhões em 2018, R$ 680 milhões em 2019, R$ 551 milhões em 2020, R$ 453 milhões em 2021 e R$ 726 milhões em 2022 (R$ 585 milhões só do SAMU). Inclui outros serviços da rede, como UPAs e leitos de retaguarda, por isso a confiança é baixa.",
+      "fonte_oficial": "https://dados.mg.gov.br/dataset/despesa",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2018-37",
@@ -37218,7 +37722,21 @@
     "evidencia": "Busca na imprensa, na Agência Minas e na legislação mineira (API da ALMG, jan/2019 a dez/2022) não localizou delegação da gestão de unidades estaduais de saúde a OS ou PPP.",
     "fonte_url": "",
     "data_evidencia": "2022-12",
-    "pagina": 50
+    "pagina": 50,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Passar a gestão de unidades a OS ou PPP troca custeio direto por contratos, sem efeito líquido estimado; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2018-38",
@@ -37235,7 +37753,21 @@
     "evidencia": "A política Valora Minas (Deliberação CIB-SUS/MG 3.213/2020) passou a remunerar os hospitais por eficiência e resultados.",
     "fonte_url": "https://portal-antigo.saude.mg.gov.br/cib/document/download/22969-resolucao-ses-mg-n-7-830-de-05-de-novembro-de-2021",
     "data_evidencia": "2020-09",
-    "pagina": 51
+    "pagina": 51,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.863",
+      "valor_total_rs_bi": "1.333",
+      "ano_ref": "2022",
+      "valor_acumulado_rs_bi": "1.4",
+      "periodo_acumulado": "2020-2022",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Política de Atenção Hospitalar (Valora Minas, desde 2020): módulos Valor em Saúde (4457), Hospitais Plataforma (4453) e Novos Prestadores (4454), que substituíram a ação 4623 (Pro-Hosp). R$ 470 milhões em 2018 (base), R$ 510 milhões em 2020, R$ 966 milhões em 2021 e R$ 1,33 bi em 2022. 2019 (R$ 723 milhões) ficou fora porque a nova política ainda não existia. A promessa era mudar a forma de pagamento; o aumento também reflete mais hospitais e mais recursos.",
+      "fonte_oficial": "https://dados.mg.gov.br/dataset/despesa",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "zema_mg_2018-39",
@@ -37252,7 +37784,21 @@
     "evidencia": "Busca na imprensa, na Agência Minas e na legislação mineira (API da ALMG, jan/2019 a dez/2022) não localizou implantação estadual de prontuário eletrônico ou centros de telemedicina.",
     "fonte_url": "",
     "data_evidencia": "2022-12",
-    "pagina": 51
+    "pagina": 51,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Prontuário eletrônico e centros de telemedicina exigiriam investimento; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "pimentel_mg_2014-01",
