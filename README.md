@@ -13,7 +13,7 @@ O Monitor de Promessas lê o plano de governo que cada presidente, governador e 
 
 ## O que tem na base
 
-28 mandatos e 1.521 promessas (atualizado em outubro de 2026):
+29 mandatos e 1.740 promessas (atualizado em outubro de 2026):
 
 | Cargo | Mandato | Situação | Promessas |
 |---|---|---|---:|
@@ -33,6 +33,7 @@ O Monitor de Promessas lê o plano de governo que cada presidente, governador e 
 | Governador (MG) | Romeu Zema (2018) | encerrado | 39 |
 | Governador (MG) | Fernando Pimentel (2014) | encerrado | 12 |
 | Governador (MG) | Antonio Anastasia (2010) | interrompido (renúncia) | 6 |
+| Governador (BA) | Jerônimo Rodrigues (2022) | em curso | 219 |
 | Prefeito (Rio) | Eduardo Paes (2024) | em curso | 48 |
 | Prefeito (Rio) | Eduardo Paes (2020) | encerrado | 9 |
 | Prefeito (Rio) | Marcelo Crivella (2016) | encerrado | 48 |
