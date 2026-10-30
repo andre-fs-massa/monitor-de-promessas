@@ -19093,7 +19093,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2025-2028 e no Catálogo de Legislação Municipal (jan/2025 a out/2026) não localizou início de planejamento estratégico de longo prazo para 2054.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 6
+    "pagina": 6,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Um planejamento de longo prazo tem custo pequeno (estudos); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-02",
@@ -19110,7 +19124,21 @@
     "evidencia": "Meta 63 do Programa de Metas: até jun/2026 foram inauguradas 3 novas UBSs e 5 receberam novas instalações, de 25 previstas até 2028.",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2026-06",
-    "pagina": 8
+    "pagina": 8,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.031",
+      "valor_total_rs_bi": "0.125",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "0.031",
+      "periodo_acumulado": "2025",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "baixa",
+      "explicacao": "Construção e implantação de equipamentos de atenção básica e especialidades (projeto 1525): R$ 93,5 milhões em 2024 e R$ 124,5 milhões em 2025. Inclui outros equipamentos além das UBSs; o custeio das novas unidades fica na manutenção geral da atenção básica.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-03",
@@ -19127,7 +19155,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2025-2028 e no Catálogo de Legislação Municipal (jan/2025 a out/2026) não localizou obra de ampliação do Hospital do Servidor Público Municipal.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 8
+    "pagina": 8,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o Hospital do Servidor exigiria obra; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-04",
@@ -19144,7 +19186,21 @@
     "evidencia": "Meta 67 do Programa de Metas: 28 novas equipes de Saúde da Família até jun/2026, de 100 previstas até 2028.",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2026-06",
-    "pagina": 8
+    "pagina": 8,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "As novas equipes de Saúde da Família são pagas pela manutenção geral da atenção básica (atividade 2520, que mistura especialidades e serviços auxiliares), sem valor separado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-05",
@@ -19161,7 +19217,21 @@
     "evidencia": "A Central de Saúde Digital começou a operar em ago/2026 (programa Saúde Digital SP, no app e-saúdeSP), com teleconsultas e oferta prevista de até 20 especialidades.",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2026-08",
-    "pagina": 8
+    "pagina": 8,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A Central de Saúde Digital começou a operar em ago/2026, fora do período com ano completo (2025).",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-06",
@@ -19178,7 +19248,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2025-2028 e no Catálogo de Legislação Municipal (jan/2025 a out/2026) não localizou expansão do programa de acreditação dos serviços de saúde; a acreditação em curso é a das ouvidorias do SUS (meta 122).",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 8
+    "pagina": 8,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Expandir a acreditação das unidades teria custo de consultoria e adequação; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-07",
@@ -19195,7 +19279,21 @@
     "evidencia": "A fila da creche continuou zerada em dez/2025 e em 2026 (6º ano seguido), segundo a meta 77 do Programa de Metas; a promessa vale até 2028.",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2026-06",
-    "pagina": 10
+    "pagina": 10,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "5.974",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Manter a fila zerada depende sobretudo da rede parceira de creches (atividade 2828): R$ 5,90 bi em 2024 e R$ 5,97 bi em 2025. É o custo de manter o atendimento, não um gasto novo.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-08",
@@ -19212,7 +19310,21 @@
     "evidencia": "O Programa São Paulo Integral passou de 444 escolas (fim de 2024) para 775 (2026), com 449,7 mil alunos em dez/2025, de 600 mil previstos até 2028 (meta 79).",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2026-06",
-    "pagina": 10
+    "pagina": 10,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.072",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Ações de Educação Integral (atividade 4303): R$ 129 milhões em 2024 e R$ 72 milhões em 2025. Subestima o custo, porque os professores das horas a mais são pagos pelas ações gerais de remuneração do ensino fundamental.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-09",
@@ -19229,7 +19341,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2025-2028 e no Catálogo de Legislação Municipal (jan/2025 a out/2026) não localizou implantação de polos de ensino de empreendedorismo e trabalho nos CEUs.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 10
+    "pagina": 10,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Polos de empreendedorismo nos CEUs aumentariam a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-10",
@@ -19246,7 +19372,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2025-2028 e no Catálogo de Legislação Municipal (jan/2025 a out/2026) não localizou expansão das Bebetecas aos CEUs; em 2024 elas existiam em 12 dos 58 CEUs.",
     "fonte_url": "https://abcdoabc.com.br/acervos-de-bibliotecas-dos-ceus-estao-disponiveis-para-estudantes-profissionais-e-comunidade/",
     "data_evidencia": "2026-10",
-    "pagina": 10
+    "pagina": 10,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Bebetecas nos CEUs aumentariam a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-11",
@@ -19263,7 +19403,21 @@
     "evidencia": "As Olimpíadas do Conhecimento estão no Programa de Metas (ação 82.10), com edital em análise e sem data de realização.",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2026-06",
-    "pagina": 10
+    "pagina": 10,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "As Olimpíadas do Conhecimento ainda estão em edital; a premiação aumentará a despesa, sem valor em 2025.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-12",
@@ -19280,7 +19434,21 @@
     "evidencia": "A Portaria SME 7.805/2026 criou comissão para selecionar a parceria do projeto Rolê Agroecológico para alunos do 6º ano das EMEFs.",
     "fonte_url": "https://legislacao.prefeitura.sp.gov.br/leis/portaria-secretaria-municipal-de-educacao-sme-7805-de-23-de-julho-de-2026",
     "data_evidencia": "2026-07",
-    "pagina": 10
+    "pagina": 10,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O projeto Rolê Agroecológico está em seleção de parceria (2026), sem gasto em 2025.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-13",
@@ -19297,7 +19465,21 @@
     "evidencia": "Meta 86: 4 novas Vilas Reencontro entregues até jun/2026, de 10 previstas; meta 88: 780 auxílios Reencontro concedidos, de 3 mil.",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2026-06",
-    "pagina": 12
+    "pagina": 12,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.009",
+      "valor_total_rs_bi": "0.071",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "0.009",
+      "periodo_acumulado": "2025",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Programa Reencontro (atividade 4884): R$ 62,3 milhões em 2024 e R$ 70,9 milhões em 2025. As Vilas Reencontro em obra podem estar em outras ações.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-14",
@@ -19314,7 +19496,21 @@
     "evidencia": "A rede tinha 27 Centros Dia para Idosos em mai/2026, e a SMADS abriu editais em 2026 para novas unidades (ex.: Cidade Ademar); não foi localizado o número de unidades abertas desde 2025.",
     "fonte_url": "https://prefeitura.sp.gov.br/w/prefeitura-amplia-rede-de-pol%C3%ADticas-para-idosos-recebe-reconhecimento-internacional-e-consolida-programa-de-longevidade-ativa",
     "data_evidencia": "2026-05",
-    "pagina": 12
+    "pagina": 12,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Os Centros Dia para Idosos são pagos pela manutenção geral dos equipamentos de assistência social, sem valor separado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-15",
@@ -19331,7 +19527,21 @@
     "evidencia": "Meta 87: novo serviço Família Acolhedora na Mooca (fev/2026), de 6 previstos; a Lei 18.406/2026 aumentou o auxílio às famílias acolhedoras.",
     "fonte_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18406-de-15-de-janeiro-de-2026",
     "data_evidencia": "2026-02",
-    "pagina": 12
+    "pagina": 12,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O serviço Família Acolhedora e o auxílio maior (Lei 18.406/2026) aumentam a despesa; não há ação própria no orçamento e o aumento do auxílio é de 2026.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-16",
@@ -19348,7 +19558,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2025-2028 e no Catálogo de Legislação Municipal (jan/2025 a out/2026) não localizou criação do programa Cuidando de Quem Cuida.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 12
+    "pagina": 12,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Um programa para cuidadores aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-17",
@@ -19365,7 +19589,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2025-2028 e no Catálogo de Legislação Municipal (jan/2025 a out/2026) não localizou criação de Casas do Adolescente.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 12
+    "pagina": 12,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Casas do Adolescente aumentariam a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-18",
@@ -19382,7 +19620,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2025-2028 e no Catálogo de Legislação Municipal (jan/2025 a out/2026) não localizou elaboração do Plano Municipal de Juventude.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 12
+    "pagina": 12,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Um plano de juventude tem custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-19",
@@ -19399,7 +19651,21 @@
     "evidencia": "Meta 102 atingida: o programa Meu Trampo chegou a 11.566 jovens atendidos até jun/2026, acima dos 10 mil previstos.",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2026-06",
-    "pagina": 12
+    "pagina": 12,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O Meu Trampo não tem ação própria no orçamento (as ações de juventude ficaram estáveis: R$ 21,0 milhões em 2024 e R$ 20,3 milhões em 2025).",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-20",
@@ -19416,7 +19682,21 @@
     "evidencia": "A unidade móvel de capacitação profissional do Meu Trampo está em planejamento, com entrega prevista para o 2º semestre de 2028 (ação 102.02).",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2026-06",
-    "pagina": 12
+    "pagina": 12,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A unidade móvel está prevista para 2028, sem gasto em 2025.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-21",
@@ -19433,7 +19713,21 @@
     "evidencia": "Meta 72: ordem de início do Centro TEA Leste (Itaquera) em jun/2026; os centros Oeste e Sul estão em definição de terreno.",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2026-06",
-    "pagina": 14
+    "pagina": 14,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.028",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Centros Municipais para Pessoas com TEA (projeto 5407): R$ 47,3 milhões em 2024 e R$ 27,8 milhões em 2025; o Centro TEA Leste só teve ordem de início em jun/2026.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-22",
@@ -19450,7 +19744,21 @@
     "evidencia": "Ação 72.01 do Programa de Metas: implantação das salas de descompressão começa no 2º semestre de 2026, com 50 salas previstas no ano.",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2026-06",
-    "pagina": 14
+    "pagina": 14,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "As salas de descompressão começam no 2º semestre de 2026, sem gasto em 2025.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-23",
@@ -19467,7 +19775,21 @@
     "evidencia": "O Decreto 64.711/2025 criou a Casa Mãe Paulistana, e a primeira unidade foi aberta em Itaquera em nov/2025; mais três estão previstas (meta 74).",
     "fonte_url": "https://legislacao.prefeitura.sp.gov.br/leis/decreto-64711-de-14-de-novembro-de-2025",
     "data_evidencia": "2025-11",
-    "pagina": 14
+    "pagina": 14,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.008",
+      "valor_total_rs_bi": "0.077",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "0.008",
+      "periodo_acumulado": "2025",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Proteção social especial à pessoa com deficiência (atividade 6152), que paga a Casa Mãe Paulistana aberta em nov/2025: R$ 69,3 milhões em 2024 e R$ 76,8 milhões em 2025. A ação inclui outros serviços.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-24",
@@ -19484,7 +19806,21 @@
     "evidencia": "Meta 56: concurso para 2 mil novas vagas de GCM em andamento em 2026, com nomeações previstas para 2027.",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2026-06",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O concurso de 2 mil guardas está em andamento e as nomeações estão previstas para 2027; ainda não há despesa com o novo efetivo.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-25",
@@ -19501,7 +19837,21 @@
     "evidencia": "Meta 59: guardas presentes em 20 escolas em projeto-piloto, de 200 previstas; a diária especial de segurança escolar ainda está em regulamentação.",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2026-06",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A ronda escolar está em projeto-piloto e a diária especial ainda está em regulamentação, sem valor separado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-26",
@@ -19518,7 +19868,21 @@
     "evidencia": "Meta 55 atingida: 40 mil câmeras integradas ao Smart Sampa em dez/2025 (20 mil da Prefeitura e 30 mil particulares).",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2025-12",
-    "pagina": 15
+    "pagina": 15,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.052",
+      "valor_total_rs_bi": "0.115",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "0.052",
+      "periodo_acumulado": "2025",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Redes de monitoramento remoto para segurança urbana, que pagam o Smart Sampa (atividade 2199): R$ 63,6 milhões em 2024 e R$ 115,2 milhões em 2025.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-27",
@@ -19535,7 +19899,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2025-2028 e no Catálogo de Legislação Municipal (jan/2025 a out/2026) não localizou atualização do mapeamento de áreas de risco; em dez/2025 foi criado o comitê de acompanhamento do Plano Municipal de Redução de Riscos.",
     "fonte_url": "https://legislacao.prefeitura.sp.gov.br/leis/decreto-64761-de-2-de-dezembro-de-2025",
     "data_evidencia": "2026-10",
-    "pagina": 16
+    "pagina": 16,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Atualizar o mapeamento de risco tem custo pequeno (estudos); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-28",
@@ -19552,7 +19930,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2025-2028 e no Catálogo de Legislação Municipal (jan/2025 a out/2026) não localizou ampliação dos Núcleos Comunitários de Proteção e Defesa Civil.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 16
+    "pagina": 16,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar os núcleos comunitários de Defesa Civil tem custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-29",
@@ -19569,7 +19961,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2025-2028 e no Catálogo de Legislação Municipal (jan/2025 a out/2026) não localizou construção de novos Centros Olímpicos; a meta 91 prevê novos polos do programa Rede Olímpica em centros esportivos já existentes.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 17
+    "pagina": 17,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Construir Centros Olímpicos aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-30",
@@ -19586,7 +19992,21 @@
     "evidencia": "Meta 92: 354 bolsas concedidas desde 2025, de 1.800 novas previstas até 2028; em 2026 foi incluída a categoria surdolímpica (Lei 18.453/2026).",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2026-06",
-    "pagina": 17
+    "pagina": 17,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.002",
+      "valor_total_rs_bi": "0.004",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "0.002",
+      "periodo_acumulado": "2025",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Bolsa Atleta (atividade 4550): R$ 2,9 milhões em 2024 e R$ 4,4 milhões em 2025.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-31",
@@ -19603,7 +20023,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2025-2028 e no Catálogo de Legislação Municipal (jan/2025 a out/2026) não localizou implantação de academias nos centros esportivos municipais.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 17
+    "pagina": 17,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Academias nos centros esportivos aumentariam a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-32",
@@ -19620,7 +20054,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2025-2028 e no Catálogo de Legislação Municipal (jan/2025 a out/2026) não localizou medida para implantar ou ampliar a Lei Municipal de Incentivo ao Esporte (Lei 15.928/2013).",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 17
+    "pagina": 17,
+    "impacto": {
+      "impacto_fiscal": "receita_reduz",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Uma lei de incentivo ao esporte reduziria a receita (renúncia de tributos); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-33",
@@ -19637,7 +20085,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2025-2028 e no Catálogo de Legislação Municipal (jan/2025 a out/2026) não localizou oferta de cursos técnicos de iluminação, som e produção de eventos nos equipamentos culturais.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 18
+    "pagina": 18,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Cursos técnicos nos equipamentos culturais aumentariam a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-34",
@@ -19654,7 +20116,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2025-2028 e no Catálogo de Legislação Municipal (jan/2025 a out/2026) não localizou criação de pontos de reciclagem criativa.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 18
+    "pagina": 18,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Pontos de reciclagem criativa aumentariam a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-35",
@@ -19671,7 +20147,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2025-2028 e no Catálogo de Legislação Municipal (jan/2025 a out/2026) não localizou criação do programa VAI 60+.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 18
+    "pagina": 18,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O VAI 60+ aumentaria a despesa com fomento; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-36",
@@ -19688,7 +20178,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2025-2028 e no Catálogo de Legislação Municipal (jan/2025 a out/2026) não localizou criação do Programa Longevidade na Cultura; o programa de longevidade criado (meta 108) é para microempreendedores com mais de 60 anos.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 18
+    "pagina": 18,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O Programa Longevidade na Cultura aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-37",
@@ -19705,7 +20209,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2025-2028 e no Catálogo de Legislação Municipal (jan/2025 a out/2026) não localizou implantação dos OASES.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 20
+    "pagina": 20,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Os OASES aumentariam a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-38",
@@ -19722,7 +20240,21 @@
     "evidencia": "Meta 109: 888 locais de agricultura atendidos pelo Sampa+Rural até jun/2026, de 1.000 previstos.",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2026-06",
-    "pagina": 20
+    "pagina": 20,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.006",
+      "valor_total_rs_bi": "0.01",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "0.006",
+      "periodo_acumulado": "2025",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Programa Sampa+Rural (atividade 2015): R$ 3,9 milhões em 2024 e R$ 9,7 milhões em 2025.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-39",
@@ -19739,7 +20271,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2025-2028 e no Catálogo de Legislação Municipal (jan/2025 a out/2026) não localizou plataforma georreferenciada de dados socioeconômicos e vocações econômicas.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 20
+    "pagina": 20,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Uma plataforma de dados tem custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-40",
@@ -19756,7 +20302,21 @@
     "evidencia": "Meta 120: o Centro de Inovação está em obras na Praça Victor Civita, com expansão prevista para três polos regionais; o plano prometia 10 centros.",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2026-06",
-    "pagina": 21
+    "pagina": 21,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O Centro de Inovação da Praça Victor Civita está em obras; não há ação própria que separe o custo (as ações de inovação caíram de R$ 4,2 milhões em 2024 para zero em 2025).",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-41",
@@ -19773,7 +20333,21 @@
     "evidencia": "A Portaria SGM 143/2026 criou grupo de trabalho intersecretarial para implantar o Distrito de Inovação Vila Olímpia/Faria Lima.",
     "fonte_url": "https://legislacao.prefeitura.sp.gov.br/leis/portaria-secretaria-do-governo-municipal-sgm-143-de-17-de-julho-de-2026",
     "data_evidencia": "2026-07",
-    "pagina": 21
+    "pagina": 21,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O Distrito de Inovação é um grupo de trabalho intersecretarial, sem gasto relevante.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-42",
@@ -19790,7 +20364,21 @@
     "evidencia": "Meta 121 atingida: as certificações ISO 37120, 37122 e 37123 foram renovadas em 2025 e seguem vigentes em 2026.",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2025-12",
-    "pagina": 21
+    "pagina": 21,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Renovar as certificações ISO tem custo pequeno.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-43",
@@ -19807,7 +20395,21 @@
     "evidencia": "Edital de chamamento público de mar/2026 credencia projetos em ambiente regulatório experimental (sandbox), com base no marco legal de inovação (ação 117.02).",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2026-03",
-    "pagina": 21
+    "pagina": 21,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O credenciamento de projetos em ambiente regulatório experimental é regra, sem gasto relevante.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-44",
@@ -19824,7 +20426,21 @@
     "evidencia": "O WiFi Livre SP ganhou 702 pontos no início de 2025 (7.842 ativos) e 3.200 pontos do WiFi Livre SP Comunidades até mai/2026.",
     "fonte_url": "https://prefeitura.sp.gov.br/w/prefeitura-chega-a-7-8-mil-pontos-de-internet-gratuita-em-pra%C3%A7as-unidades-de-sa%C3%BAde-abrigos-de-%C3%B4nibus-e-espa%C3%A7os-culturais",
     "data_evidencia": "2026-05",
-    "pagina": 21
+    "pagina": 21,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.006",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Conectividade e inclusão digital (Proconecta, atividade 4307), que paga o WiFi Livre SP: R$ 6,0 milhões em 2024 e R$ 6,2 milhões em 2025, praticamente estável.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-45",
@@ -19841,7 +20457,21 @@
     "evidencia": "Meta 117: minuta do Plano Municipal de Cidade Inteligente em fase final, com consultas públicas previstas entre o fim de 2026 e 2027.",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2026-06",
-    "pagina": 21
+    "pagina": 21,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Elaborar o Plano de Cidade Inteligente tem custo pequeno.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-46",
@@ -19858,7 +20488,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2025-2028 e no Catálogo de Legislação Municipal (jan/2025 a out/2026) não localizou criação da Semana Temática de Promoção da Cidade.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Uma semana temática de promoção teria custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-47",
@@ -19875,7 +20519,21 @@
     "evidencia": "Meta 112 atingida: o Vai de Roteiro dobrou o número de roteiros (40 em dez/2025; 56 diferentes oferecidos desde 2025).",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2025-12",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O Vai de Roteiro é feito pela SPTuris com custo pequeno, dentro do apoio geral ao turismo.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-48",
@@ -19892,7 +20550,21 @@
     "evidencia": "O SP CityPass (cartão de atrativos turísticos) está em planejamento (meta 110); não inclui transporte, como prometido.",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2026-06",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "O SP CityPass está em planejamento, sem gasto em 2025; com transporte incluído, como prometido, aumentaria a despesa.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-49",
@@ -19909,7 +20581,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2025-2028 e no Catálogo de Legislação Municipal (jan/2025 a out/2026) não localizou expansão do City Tour Social e Turístico nem versão regionalizada do Hop-On Hop-Off.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 22
+    "pagina": 22,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Expandir o City Tour aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-50",
@@ -19926,7 +20612,21 @@
     "evidencia": "Meta 10: o Programa Mananciais avançou em intervenções que beneficiaram mais de 5 mil famílias no M'Boi Mirim e na Capela do Socorro até jun/2026.",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2026-06",
-    "pagina": 24
+    "pagina": 24,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "1.053",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Programa Mananciais (projeto 3355): R$ 1,25 bi em 2024 e R$ 1,05 bi em 2025.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-51",
@@ -19943,7 +20643,21 @@
     "evidencia": "Sete novos parques entregues desde 2025 (ex.: Fazenda da Juta, Cabeceiras do Aricanduva, Primavera, Verde da Mooca) e 155 mil árvores plantadas até dez/2025 (metas 1 e 3).",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2026-06",
-    "pagina": 24
+    "pagina": 24,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.131",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Construção e requalificação de parques e arborização (projetos 1702 e 1703 e atividade 6655): R$ 367 milhões em 2024 (vários dos parques entregues em 2025 foram construídos em 2024) e R$ 131 milhões em 2025. A manutenção dos parques (atividade 2703) subiu de R$ 350 milhões para R$ 392 milhões e não está somada.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-52",
@@ -19960,7 +20674,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2025-2028 e no Catálogo de Legislação Municipal (jan/2025 a out/2026) não localizou programa de entrega de carga com veículos de emissão zero.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 24
+    "pagina": 24,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Um programa de entregas com veículos de emissão zero depende de regras e de parceiros; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-53",
@@ -19977,7 +20705,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2025-2028 e no Catálogo de Legislação Municipal (jan/2025 a out/2026) não localizou expansão do Programa Local de Adaptação e Resiliência Climática.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 25
+    "pagina": 25,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Expandir o Plarc aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-54",
@@ -19994,7 +20736,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2025-2028 e no Catálogo de Legislação Municipal (jan/2025 a out/2026) não localizou programa de qualificação de Centros de Bairro.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 26
+    "pagina": 26,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Qualificar os centros de bairro aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-55",
@@ -20011,7 +20767,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2025-2028 e no Catálogo de Legislação Municipal (jan/2025 a out/2026) não localizou criação de ecoportos no Rio Pinheiros.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 26
+    "pagina": 26,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ecoportos no Rio Pinheiros aumentariam a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-56",
@@ -20028,7 +20798,21 @@
     "evidencia": "O Decreto 64.471/2025 declarou de utilidade pública imóveis na Vila Leopoldina para a intervenção, e a Lei 18.382/2026 autorizou permuta de área com o Estado.",
     "fonte_url": "https://legislacao.prefeitura.sp.gov.br/leis/decreto-64471-de-11-de-agosto-de-2025",
     "data_evidencia": "2025-08",
-    "pagina": 26
+    "pagina": 26,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "As 853 moradias do PIU Vila Leopoldina estão em desapropriação e permuta de áreas, sem ação própria com gasto em 2025.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-57",
@@ -20045,7 +20829,21 @@
     "evidencia": "O Decreto 64.472/2025 regulamentou o PIU Arco Jurubatuba e, em jul/2025, a subprefeitura autorizou a SP Obras a instalar canteiro; a licitação integrada de projetos e obras é de 2023.",
     "fonte_url": "https://legislacao.prefeitura.sp.gov.br/leis/decreto-64472-de-11-de-agosto-de-2025",
     "data_evidencia": "2025-08",
-    "pagina": 26
+    "pagina": 26,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O prolongamento da Marginal Pinheiros (PIU Arco Jurubatuba) está em licitação, sem gasto separado em 2025.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-58",
@@ -20062,7 +20860,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2025-2028 e no Catálogo de Legislação Municipal (jan/2025 a out/2026) não localizou projeto ou obra da Ponte de Veleiros.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 26
+    "pagina": 26,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A Ponte de Veleiros exigiria obra; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-59",
@@ -20079,7 +20891,21 @@
     "evidencia": "A Prefeitura trocou o VLT por um veículo elétrico sem trilhos (Bonde São Paulo / VLE), anunciado em mar/2026, com obras previstas para 2027 (meta 54).",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2026-03",
-    "pagina": 26
+    "pagina": 26,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O VLT no centro exigiria obra (foi trocado por um veículo elétrico sem trilhos, com obras previstas para 2027); não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-60",
@@ -20096,7 +20922,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2025-2028 e no Catálogo de Legislação Municipal (jan/2025 a out/2026) não localizou projeto de destamponamento do Rio Tamanduateí; em 2025 foi regulamentado o PIU Arco Tamanduateí (Decreto 64.018/2025).",
     "fonte_url": "https://legislacao.prefeitura.sp.gov.br/leis/decreto-64018-de-30-de-janeiro-de-2025",
     "data_evidencia": "2026-10",
-    "pagina": 26
+    "pagina": 26,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Destamponar o Rio Tamanduateí exigiria obra; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-61",
@@ -20113,7 +20953,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2025-2028 e no Catálogo de Legislação Municipal (jan/2025 a out/2026) não localizou projeto da Foz do Ipiranga.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 26
+    "pagina": 26,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O projeto da Foz do Ipiranga exigiria obra; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-62",
@@ -20130,7 +20984,21 @@
     "evidencia": "Meta 45: 28,4 km de ciclovias novas desde 2025, de 233 km previstos até 2028 (malha de 778 km em dez/2025).",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2026-06",
-    "pagina": 27
+    "pagina": 27,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.02",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Construção de ciclovias, ciclofaixas e ciclorrotas (projeto 1097): R$ 127,1 milhões em 2024 e R$ 20,1 milhões em 2025.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-63",
@@ -20147,7 +21015,21 @@
     "evidencia": "A ciclopassarela sobre o Rio Pinheiros, entre as pontes Eusébio Matoso e Bernardo Goldfarb, foi inaugurada em 30/01/2025 (Ciclopassarela Jornalista Erika Sallum).",
     "fonte_url": "https://prefeitura.sp.gov.br/w/prefeitura-inaugura-ciclopassarela-jornalista-erika-sallum-para-conex%C3%A3o-a-p%C3%A9-e-de-bicicleta-entre-pinheiros-e-butant%C3%A3",
     "data_evidencia": "2025-01",
-    "pagina": 27
+    "pagina": 27,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "A ciclopassarela foi inaugurada em jan/2025; a obra foi paga antes do mandato.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-64",
@@ -20164,7 +21046,21 @@
     "evidencia": "Meta 24: o novo Terminal Itaquera passou de 50% de obra em 2026; os terminais Itaim Paulista, Perus, Pedreira e Cocaia estão em projeto (metas 25 a 28).",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2026-06",
-    "pagina": 27
+    "pagina": 27,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.051",
+      "valor_total_rs_bi": "0.123",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "0.051",
+      "periodo_acumulado": "2025",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "media",
+      "explicacao": "Implantação e construção de terminais de ônibus (projeto 1095): R$ 72,1 milhões em 2024 e R$ 123,2 milhões em 2025. Gasto único de obra.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-65",
@@ -20181,7 +21077,21 @@
     "evidencia": "Meta 46: 20,5 km de Faixa Azul em 2025, de 200 km a mais previstos; 80 km aguardam autorização da Senatran.",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2026-06",
-    "pagina": 27
+    "pagina": 27,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "A Faixa Azul é sinalização feita pela CET, sem ação própria no orçamento.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-66",
@@ -20198,7 +21108,21 @@
     "evidencia": "Nenhum corredor novo concluído até jun/2026: o Trecho I do BRT Radial Leste tinha 55% do lote 1 executado e o corredor Itaquera-Líder teve edital em jul/2026 (metas 16 e 18).",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2026-06",
-    "pagina": 27
+    "pagina": 27,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.004",
+      "valor_total_rs_bi": "0.164",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "0.004",
+      "periodo_acumulado": "2025",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "media",
+      "explicacao": "Corredores e BRTs (projeto 1099 de implantação de corredores e projetos do BRT Aricanduva 1094, 3762 e 3763): R$ 160 milhões em 2024 e R$ 164 milhões em 2025. Gasto único de obra; inclui as obras iniciadas da promessa 67.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-67",
@@ -20215,7 +21139,21 @@
     "evidencia": "As obras do BRT Aricanduva foram autorizadas em jul/2026 e as dos lotes 2 e 3 da Celso Garcia e do Itaquera-Líder estão em licitação (metas 15, 17 e 18).",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2026-08",
-    "pagina": 27
+    "pagina": 27,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O custo das obras iniciadas está somado na promessa 66 (concluir corredores).",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-68",
@@ -20232,7 +21170,21 @@
     "evidencia": "A concessão dos 12 terminais do Bloco Leste foi assinada em jun/2025 com o consórcio CS Mobileste, que assumiu a operação em 13/09/2025.",
     "fonte_url": "https://diariodotransporte.com.br/2025/09/12/operacoes-de-concessionaria-do-bloco-leste-de-12-terminais-como-o-d-pedro-ii-da-capital-paulista-comecam-neste-sabado-13-com-mobibrasil-terra-e-cs-infra-no-controle/",
     "data_evidencia": "2025-09",
-    "pagina": 27
+    "pagina": 27,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.045",
+      "valor_total_rs_bi": "0.209",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "0.045",
+      "periodo_acumulado": "2025",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Contraprestação das PPPs de terminais urbanos (atividade 4663), que inclui a concessão do Bloco Leste desde set/2025: R$ 164 milhões em 2024 e R$ 209 milhões em 2025. A concessão troca o custo de operar os terminais (atividade 2096: R$ 162 milhões em 2024 e R$ 124 milhões em 2025) pela contraprestação.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-69",
@@ -20249,7 +21201,21 @@
     "evidencia": "Metas 29 e 30: projetos dos atracadouros da Billings e estudos de viabilidade do Aquático Guarapiranga em andamento, sem obra contratada.",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2026-06",
-    "pagina": 27
+    "pagina": 27,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A expansão do Aquático SP para a Billings e a Guarapiranga está em projeto e estudos, sem obra contratada; o gasto do sistema hidroviário existente ficou estável (R$ 25 milhões em 2024 e R$ 26 milhões em 2025).",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-70",
@@ -20266,7 +21232,21 @@
     "evidencia": "Meta 6: a frota elétrica chegou a 1.759 ônibus, com mais da metade dos 2.200 ônibus a diesel previstos já substituídos.",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2026-06",
-    "pagina": 27
+    "pagina": 27,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "Os ônibus elétricos são comprados pelas empresas e pagos na remuneração do sistema (compensações tarifárias de R$ 7,1 bi em 2025), sem valor separado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-71",
@@ -20283,7 +21263,21 @@
     "evidencia": "Meta 8: 6.799 moradias entregues até dez/2025 e mais de 6 mil no 1º semestre de 2026, de 40 mil previstas até 2028.",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2026-06",
-    "pagina": 28
+    "pagina": 28,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "1.215",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Programa Pode Entrar (projeto 3340): R$ 2,46 bi em 2024 e R$ 1,22 bi em 2025.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-72",
@@ -20300,7 +21294,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2025-2028 e no Catálogo de Legislação Municipal (jan/2025 a out/2026) não localizou serviço para acompanhar obras e filas habitacionais pela internet ou cadastrar famílias por aplicativo.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 28
+    "pagina": 28,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Acompanhar obras e filas pela internet tem custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-73",
@@ -20317,7 +21325,21 @@
     "evidencia": "Em mai/2026 a Prefeitura lançou o maior programa de regularização fundiária da cidade, para 364 mil famílias em cinco anos (sem o nome Pode Regularizar); quase 60 mil títulos entregues desde 2025 (meta 9).",
     "fonte_url": "https://prefeitura.sp.gov.br/w/prefeitura-lan%C3%A7a-programa-de-regulariza%C3%A7%C3%A3o-que-beneficia-364-mil-fam%C3%ADlias-em-toda-a-cidade",
     "data_evidencia": "2026-05",
-    "pagina": 28
+    "pagina": 28,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.104",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Regularização fundiária (projeto 3356): R$ 336 milhões em 2024 e R$ 104 milhões em 2025; o novo programa só foi lançado em mai/2026.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-74",
@@ -20334,7 +21356,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2025-2028 e no Catálogo de Legislação Municipal (jan/2025 a out/2026) não localizou criação de acomodações temporárias em imóveis públicos para famílias atingidas por catástrofes.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 28
+    "pagina": 28,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Acomodações temporárias em imóveis públicos aumentariam a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-75",
@@ -20351,7 +21387,21 @@
     "evidencia": "Meta 11: 10 empreendimentos habitacionais revitalizados até jun/2026, de 20 previstos.",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2026-06",
-    "pagina": 28
+    "pagina": 28,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "0.005",
+      "valor_total_rs_bi": "0.024",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "0.005",
+      "periodo_acumulado": "2025",
+      "compensacao_rs_bi": "",
+      "recorrente": "nao",
+      "confianca": "media",
+      "explicacao": "Ampliação, reforma e requalificação de unidades habitacionais (projeto 3353): R$ 19,0 milhões em 2024 e R$ 23,8 milhões em 2025. Gasto único de obra.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-76",
@@ -20368,7 +21418,21 @@
     "evidencia": "Meta 13: 2 reservatórios concluídos em 2025 e outros 6 em obras, de 8 previstos até 2028.",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2026-06",
-    "pagina": 30
+    "pagina": 30,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.973",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "baixa",
+      "explicacao": "Intervenções no sistema de drenagem (projeto 5013), que paga os reservatórios: R$ 2,25 bi em 2024 e R$ 0,97 bi em 2025.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-77",
@@ -20385,7 +21449,21 @@
     "evidencia": "Meta 12: os 14 editais das obras prioritárias do Plano Municipal de Redução de Riscos foram publicados em 2025, e 6 obras estão em andamento.",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2026-06",
-    "pagina": 30
+    "pagina": 30,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "0.017",
+      "ano_ref": "2025",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "sim",
+      "confianca": "media",
+      "explicacao": "Obras nas áreas de risco geológico (projeto 1193): R$ 33,7 milhões em 2024 e R$ 16,9 milhões em 2025; as obras dos 14 editais estão começando.",
+      "fonte_oficial": "https://dados.prefeitura.sp.gov.br/dataset/execucao-orcamentaria",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-78",
@@ -20402,7 +21480,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2025-2028 e no Catálogo de Legislação Municipal (jan/2025 a out/2026) não localizou sistema de monitoramento das galerias de águas pluviais.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 30
+    "pagina": 30,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Monitorar as galerias pluviais aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-79",
@@ -20419,7 +21511,21 @@
     "evidencia": "Meta 50: 33,5 mil m² de vias de terra pavimentados até dez/2025, de 400 mil m² previstos.",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2025-12",
-    "pagina": 30
+    "pagina": 30,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "A pavimentação de vias de terra é paga pela mesma ação do recapeamento (projeto 1137: R$ 2,09 bi em 2024 e R$ 0,56 bi em 2025), sem valor separado.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-80",
@@ -20436,7 +21542,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2025-2028 e no Catálogo de Legislação Municipal (jan/2025 a out/2026) não localizou execução do projeto piloto de pisos permeáveis.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 30
+    "pagina": 30,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Um piloto de pisos permeáveis teria custo pequeno; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-81",
@@ -20453,7 +21573,21 @@
     "evidencia": "O Decreto 64.063/2025 criou a figura dos Bosques Urbanos e já há 16 bosques; não foi localizada regra que vincule os bosques à compensação de áreas construídas.",
     "fonte_url": "https://legislacao.prefeitura.sp.gov.br/leis/decreto-64063-de-12-de-fevereiro-de-2025",
     "data_evidencia": "2026-08",
-    "pagina": 30
+    "pagina": 30,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Os bosques urbanos são uma regra de uso do solo, com custo pequeno.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-82",
@@ -20470,7 +21604,21 @@
     "evidencia": "Todas as autarquias e fundações aderiram ao Programa de Integridade e Boas Práticas, e o programa para empresas municipais (PIGE) foi instituído em set/2026 (meta 123).",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2026-09",
-    "pagina": 32
+    "pagina": 32,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Ampliar o programa de integridade é regra de gestão, sem gasto relevante.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-83",
@@ -20487,7 +21635,21 @@
     "evidencia": "A Política de Gestão de Riscos da administração direta está em elaboração, com implantação prevista para 2027 (ação 123.01).",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2026-06",
-    "pagina": 32
+    "pagina": 32,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Implantar a gestão de riscos é regra de gestão, sem gasto relevante.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-84",
@@ -20504,7 +21666,21 @@
     "evidencia": "O contrato de concessão do Parque Campo de Marte, com centros esportivos, foi assinado em jan/2025; em 2026 a área ainda estava sendo desocupada para as obras.",
     "fonte_url": "https://www.portaltela.com/noticias/politica/2025/01/20/prefeitura-de-sao-paulo-assina-contrato-para-novo-parque-no-campo-de-marte/",
     "data_evidencia": "2026-07",
-    "pagina": 32
+    "pagina": 32,
+    "impacto": {
+      "impacto_fiscal": "fora_do_orcamento",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A concessão do Parque Campo de Marte passa o investimento e a operação à concessionária.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-85",
@@ -20521,7 +21697,21 @@
     "evidencia": "A licitação dos parques da Orla do Guarapiranga foi reaberta em 2025 sem contrato, e em fev/2026 o projeto voltou à sondagem de mercado, com seis parques.",
     "fonte_url": "https://prefeitura.sp.gov.br/web/desestatizacao_projetos/w/projeto-dos-parques-da-orla-da-guarapiranga-entra-em-fase-de-sondagem-de-mercado",
     "data_evidencia": "2026-02",
-    "pagina": 33
+    "pagina": 33,
+    "impacto": {
+      "impacto_fiscal": "fora_do_orcamento",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "A concessão dos parques da Orla do Guarapiranga passaria o custeio à concessionária; ainda não há contrato.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-86",
@@ -20538,7 +21728,21 @@
     "evidencia": "A PPP do Novo Parque Dom Pedro II teve licitação homologada em jan/2026 e contrato assinado em mar/2026 (ação 53.04).",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2026-03",
-    "pagina": 33
+    "pagina": 33,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "baixa",
+      "explicacao": "A PPP do Parque Dom Pedro II foi assinada em mar/2026; a contraprestação só começa depois de 2025.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-87",
@@ -20555,7 +21759,21 @@
     "evidencia": "Busca na imprensa, em sites oficiais, no Programa de Metas 2025-2028 e no Catálogo de Legislação Municipal (jan/2025 a out/2026) não localizou transformação do arquivo municipal em Centro de Documentação da Cidade.",
     "fonte_url": "",
     "data_evidencia": "2026-10",
-    "pagina": 33
+    "pagina": 33,
+    "impacto": {
+      "impacto_fiscal": "despesa_aumenta",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Transformar o arquivo em centro de documentação aumentaria a despesa; não implementada.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-88",
@@ -20572,7 +21790,21 @@
     "evidencia": "Meta 129: padronização das compras públicas em andamento (24 atas de registro de preço, termo de referência padrão e 10 minutas-padrão).",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2026-06",
-    "pagina": 33
+    "pagina": 33,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Padronizar as compras públicas é regra de gestão; pode reduzir custos, sem valor medido.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-89",
@@ -20589,7 +21821,21 @@
     "evidencia": "A Lei 18.270/2025 criou o Conselho Municipal de Promoção da Segurança Jurídica Tributária, com regimento aprovado em jan/2026 e membros nomeados em abr/2026.",
     "fonte_url": "https://legislacao.prefeitura.sp.gov.br/leis/lei-18270-de-12-de-junho-de-2025",
     "data_evidencia": "2026-04",
-    "pagina": 33
+    "pagina": 33,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "O conselho de segurança jurídica tributária é regra, sem gasto relevante.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-90",
@@ -20606,7 +21852,21 @@
     "evidencia": "A Portaria SF 362/2025 regulamentou as consultas públicas prévias em matéria tributária, e oito foram feitas pela plataforma Participe+ (meta 96).",
     "fonte_url": "https://programademetas.prefeitura.sp.gov.br",
     "data_evidencia": "2025-12",
-    "pagina": 33
+    "pagina": 33,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Consulta pública antes de normas tributárias é regra, sem gasto relevante.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-91",
@@ -20623,7 +21883,21 @@
     "evidencia": "Em ago/2025 o Comitê Gestor dos serviços de água e esgoto da concessão da Sabesp aprovou novo regimento interno e um núcleo de apoio técnico.",
     "fonte_url": "https://prefeitura.sp.gov.br/documents/d/planejamento/1-deliberacao-02_regimento-interno-comite-gestor-2025",
     "data_evidencia": "2025-08",
-    "pagina": 33
+    "pagina": 33,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Reestruturar o comitê gestor da concessão da Sabesp é regra, sem gasto relevante.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "nunes_sp_2024-92",
@@ -20640,7 +21914,21 @@
     "evidencia": "O novo Plano Municipal de Saneamento Ambiental Integrado (2026-2045) passou por consulta pública em fev–mar/2026.",
     "fonte_url": "https://gestaourbana.prefeitura.sp.gov.br/noticias/prefeitura-abre-nova-consulta-publica-para-receber-propostas-sobre-saneamento-em-sao-paulo/",
     "data_evidencia": "2026-03",
-    "pagina": 33
+    "pagina": 33,
+    "impacto": {
+      "impacto_fiscal": "sem_impacto_direto",
+      "valor_incremental_rs_bi": "",
+      "valor_total_rs_bi": "",
+      "ano_ref": "",
+      "valor_acumulado_rs_bi": "",
+      "periodo_acumulado": "",
+      "compensacao_rs_bi": "",
+      "recorrente": "",
+      "confianca": "media",
+      "explicacao": "Atualizar o Plano de Saneamento tem custo pequeno; as obras são da concessionária.",
+      "fonte_oficial": "",
+      "fonte_comparacao": ""
+    }
   },
   {
     "id": "covas_sp_2020-01",
