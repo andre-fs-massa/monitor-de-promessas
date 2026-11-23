@@ -13,3 +13,4 @@ __pycache__/
 Thumbs.db
 data/interim/busca_oficial/ssa_relatorio_2025/*.pdf
 data/interim/busca_oficial/ssa_relatorio_2021_2024/*.pdf
+data/interim/busca_oficial/ssa_relatorios_2017_2020/*.pdf
