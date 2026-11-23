@@ -11,3 +11,4 @@ __pycache__/
 *.pyc
 .DS_Store
 Thumbs.db
+data/interim/busca_oficial/ssa_relatorio_2025/*.pdf
