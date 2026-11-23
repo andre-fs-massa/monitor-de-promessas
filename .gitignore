@@ -12,3 +12,4 @@ __pycache__/
 .DS_Store
 Thumbs.db
 data/interim/busca_oficial/ssa_relatorio_2025/*.pdf
+data/interim/busca_oficial/ssa_relatorio_2021_2024/*.pdf
