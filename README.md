@@ -13,7 +13,7 @@ O Monitor de Promessas lê o plano de governo que cada presidente, governador e 
 
 ## O que tem na base
 
-50 mandatos e 3.650 promessas (atualizado em novembro de 2026):
+51 mandatos e 3.660 promessas (atualizado em novembro de 2026):
 
 | Cargo | Mandato | Situação | Promessas |
 |---|---|---|---:|
@@ -67,6 +67,7 @@ O Monitor de Promessas lê o plano de governo que cada presidente, governador e 
 | Prefeito (Curitiba) | Gustavo Fruet (2012) | encerrado | 25 |
 | Prefeito (Porto Alegre) | Sebastião Melo (2024) | em curso | 104 |
 | Prefeito (Porto Alegre) | Sebastião Melo (2020) | encerrado | 21 |
+| Prefeito (Porto Alegre) | Nelson Marchezan Júnior (2016) | encerrado | 10 |
 
 Os planos de governo só passaram a ser registrados no TSE a partir das eleições de 2010, por isso a base começa nelas.
 
