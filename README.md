@@ -13,7 +13,7 @@ O Monitor de Promessas lê o plano de governo que cada presidente, governador e 
 
 ## O que tem na base
 
-42 mandatos e 3.315 promessas (atualizado em novembro de 2026):
+44 mandatos e 3.369 promessas (atualizado em novembro de 2026):
 
 | Cargo | Mandato | Situação | Promessas |
 |---|---|---|---:|
@@ -59,6 +59,8 @@ O Monitor de Promessas lê o plano de governo que cada presidente, governador e 
 | Prefeito (Salvador) | ACM Neto (2012) | encerrado | 45 |
 | Prefeito (Curitiba) | Eduardo Pimentel (2024) | em curso | 174 |
 | Prefeito (Curitiba) | Rafael Greca (2020) | encerrado | 118 |
+| Prefeito (Curitiba) | Rafael Greca (2016) | encerrado | 29 |
+| Prefeito (Curitiba) | Gustavo Fruet (2012) | encerrado | 25 |
 
 Os planos de governo só passaram a ser registrados no TSE a partir das eleições de 2010, por isso a base começa nelas.
 
