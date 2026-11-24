@@ -13,7 +13,7 @@ O Monitor de Promessas lê o plano de governo que cada presidente, governador e 
 
 ## O que tem na base
 
-32 mandatos e 2.121 promessas (atualizado em outubro de 2026):
+37 mandatos e 2.854 promessas (atualizado em novembro de 2026):
 
 | Cargo | Mandato | Situação | Promessas |
 |---|---|---|---:|
@@ -37,6 +37,7 @@ O Monitor de Promessas lê o plano de governo que cada presidente, governador e 
 | Governador (BA) | Rui Costa (2018) | encerrado | 198 |
 | Governador (BA) | Rui Costa (2014) | encerrado | 163 |
 | Governador (BA) | Jaques Wagner (2010) | encerrado | 20 |
+| Governador (PR) | Ratinho Júnior (2022) | em curso | 200 |
 | Prefeito (Rio) | Eduardo Paes (2024) | em curso | 48 |
 | Prefeito (Rio) | Eduardo Paes (2020) | encerrado | 9 |
 | Prefeito (Rio) | Marcelo Crivella (2016) | encerrado | 48 |
@@ -49,6 +50,10 @@ O Monitor de Promessas lê o plano de governo que cada presidente, governador e 
 | Prefeito (Belo Horizonte) | Alexandre Kalil (2020) | interrompido (renúncia) | 94 |
 | Prefeito (Belo Horizonte) | Alexandre Kalil (2016) | encerrado | 16 |
 | Prefeito (Belo Horizonte) | Marcio Lacerda (2012) | encerrado | 17 |
+| Prefeito (Salvador) | Bruno Reis (2024) | em curso | 237 |
+| Prefeito (Salvador) | Bruno Reis (2020) | encerrado | 172 |
+| Prefeito (Salvador) | ACM Neto (2016) | encerrado | 79 |
+| Prefeito (Salvador) | ACM Neto (2012) | encerrado | 45 |
 
 Os planos de governo só passaram a ser registrados no TSE a partir das eleições de 2010, por isso a base começa nelas.
 
