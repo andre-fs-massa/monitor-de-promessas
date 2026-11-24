@@ -13,7 +13,7 @@ O Monitor de Promessas lê o plano de governo que cada presidente, governador e 
 
 ## O que tem na base
 
-38 mandatos e 2.997 promessas (atualizado em novembro de 2026):
+40 mandatos e 3.023 promessas (atualizado em novembro de 2026):
 
 | Cargo | Mandato | Situação | Promessas |
 |---|---|---|---:|
@@ -39,6 +39,8 @@ O Monitor de Promessas lê o plano de governo que cada presidente, governador e 
 | Governador (BA) | Jaques Wagner (2010) | encerrado | 20 |
 | Governador (PR) | Ratinho Júnior (2022) | em curso | 200 |
 | Governador (PR) | Ratinho Júnior (2018) | encerrado | 143 |
+| Governador (PR) | Beto Richa (2014) | interrompido (renúncia) | 9 |
+| Governador (PR) | Beto Richa (2010) | encerrado | 17 |
 | Prefeito (Rio) | Eduardo Paes (2024) | em curso | 48 |
 | Prefeito (Rio) | Eduardo Paes (2020) | encerrado | 9 |
 | Prefeito (Rio) | Marcelo Crivella (2016) | encerrado | 48 |
