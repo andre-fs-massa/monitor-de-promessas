@@ -13,7 +13,7 @@ O Monitor de Promessas lê o plano de governo que cada presidente, governador e 
 
 ## O que tem na base
 
-47 mandatos e 3.491 promessas (atualizado em novembro de 2026):
+48 mandatos e 3.525 promessas (atualizado em novembro de 2026):
 
 | Cargo | Mandato | Situação | Promessas |
 |---|---|---|---:|
@@ -44,6 +44,7 @@ O Monitor de Promessas lê o plano de governo que cada presidente, governador e 
 | Governador (RS) | Eduardo Leite (2022) | em curso | 80 |
 | Governador (RS) | Eduardo Leite (2018) | interrompido (renúncia) | 21 |
 | Governador (RS) | José Ivo Sartori (2014) | encerrado | 21 |
+| Governador (RS) | Tarso Genro (2010) | encerrado | 34 |
 | Prefeito (Rio) | Eduardo Paes (2024) | em curso | 48 |
 | Prefeito (Rio) | Eduardo Paes (2020) | encerrado | 9 |
 | Prefeito (Rio) | Marcelo Crivella (2016) | encerrado | 48 |
